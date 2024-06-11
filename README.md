@@ -4,6 +4,7 @@
 
 Convert the *whisper* ".srt" output into a TextGrid file --> Can import to Elan and Praat
 Take 2 files as an input (read on keyboard) : 
+    
     - whisper ".srt" file
     - ".TextGrid" file
 
