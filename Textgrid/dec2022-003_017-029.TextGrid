@@ -1,0 +1,302 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 423.4                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 423.4                                  
+        intervals: size = 72                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 3.0
+            text = "Yes, zero, one, seven."
+        intervals [2]:
+            xmin = 3.0
+            xmax = 5.0
+            text = "Can you roll?"
+        intervals [3]:
+            xmin = 5.0
+            xmax = 7.0
+            text = "A roll, eight."
+        intervals [4]:
+            xmin = 7.0
+            xmax = 8.0
+            text = "And yours please?"
+        intervals [5]:
+            xmin = 8.0
+            xmax = 11.0
+            text = "Zero, two, nine, and a whole bit."
+        intervals [6]:
+            xmin = 11.0
+            xmax = 14.0
+            text = "Okay, when you're ready, you guys can begin."
+        intervals [7]:
+            xmin = 14.0
+            xmax = 16.0
+            text = "You have eight minutes to ten minutes."
+        intervals [8]:
+            xmin = 16.0
+            xmax = 18.0
+            text = "And this means you have one minute left."
+        intervals [9]:
+            xmin = 18.0
+            xmax = 19.0
+            text = "Okay."
+        intervals [10]:
+            xmin = 19.0
+            xmax = 21.0
+            text = "You can begin now."
+        intervals [11]:
+            xmin = 21.0
+            xmax = 23.0
+            text = "You start."
+        intervals [12]:
+            xmin = 23.0
+            xmax = 24.0
+            text = "Two."
+        intervals [13]:
+            xmin = 24.0
+            xmax = 26.0
+            text = "How's your heart?"
+        intervals [14]:
+            xmin = 26.0
+            xmax = 27.0
+            text = "Okay."
+        intervals [15]:
+            xmin = 27.0
+            xmax = 34.0
+            text = "I'm going to defend the fact that the school should remodelate the use of the technology"
+        intervals [16]:
+            xmin = 34.0
+            xmax = 42.0
+            text = "in the classroom, because there's a lot of negative points about it."
+        intervals [17]:
+            xmin = 42.0
+            xmax = 51.0
+            text = "Like, it's not a good thing to be in-screen all day for a child, because it can develop"
+        intervals [18]:
+            xmin = 51.0
+            xmax = 60.0
+            text = "and anxiety and the child can become and go more usually."
+        intervals [19]:
+            xmin = 60.0
+            xmax = 66.0
+            text = "And they're not very concentrated when they're on a screen."
+        intervals [20]:
+            xmin = 66.0
+            xmax = 71.4
+            text = "No one can really watch what they're doing in front of the screen, so it can develop"
+        intervals [21]:
+            xmin = 71.4
+            xmax = 78.4
+            text = "a possible arsement, so it's why it should be in-moderate."
+        intervals [22]:
+            xmin = 78.4
+            xmax = 87.4
+            text = "I personally think that have technology in classes, it's a new perspective of teaching,"
+        intervals [23]:
+            xmin = 87.4
+            xmax = 96.4
+            text = "and it enables students to be curious and search information online on topics they like."
+        intervals [24]:
+            xmin = 96.4
+            xmax = 104.4
+            text = "And also, ecologically speaking, it's good for environment, because we don't have to use paper."
+        intervals [25]:
+            xmin = 104.4
+            xmax = 111.4
+            text = "So I think it's quite good."
+        intervals [26]:
+            xmin = 111.4
+            xmax = 122.4
+            text = "Well, what about the motivation of the use, because of the cyber arsement that can be made of?"
+        intervals [27]:
+            xmin = 122.4
+            xmax = 125.4
+            text = "I'm listening to your point."
+        intervals [28]:
+            xmin = 125.4
+            xmax = 135.4
+            text = "I think it has this topic of technology in classes as pros and cons,"
+        intervals [29]:
+            xmin = 135.4
+            xmax = 140.4
+            text = "and your telling and cons that is arsement."
+        intervals [30]:
+            xmin = 140.4
+            xmax = 152.4
+            text = "But I think that things could be put to avoid arsement."
+        intervals [31]:
+            xmin = 152.4
+            xmax = 157.4
+            text = "I don't have solutions."
+        intervals [32]:
+            xmin = 157.4
+            xmax = 167.4
+            text = "But don't you think that people must not be very concentrated when they're not in front of the screen?"
+        intervals [33]:
+            xmin = 167.4
+            xmax = 172.4
+            text = "You know what I mean? When the teacher is speaking in a traditional way,"
+        intervals [34]:
+            xmin = 172.4
+            xmax = 180.4
+            text = "that you will think, okay, let's not be concentrated now and be concentrated on the screen because it's fun."
+        intervals [35]:
+            xmin = 180.4
+            xmax = 193.4
+            text = "I have mixed feelings about that, because I think that technology can allow children or students and teachers"
+        intervals [36]:
+            xmin = 193.4
+            xmax = 200.4
+            text = "to have a dialogue, another dialogue from the classics school."
+        intervals [37]:
+            xmin = 200.4
+            xmax = 211.4
+            text = "I think also that now with the development of data, it's more practical."
+        intervals [38]:
+            xmin = 211.4
+            xmax = 221.4
+            text = "To search online things than in books."
+        intervals [39]:
+            xmin = 221.4
+            xmax = 231.4
+            text = "And how about the..."
+        intervals [40]:
+            xmin = 231.4
+            xmax = 233.4
+            text = "Oh, I don't know."
+        intervals [41]:
+            xmin = 233.4
+            xmax = 246.4
+            text = "What about the anxiety, the anger, and all the negative points that the studies show of the screen?"
+        intervals [42]:
+            xmin = 246.4
+            xmax = 256.4
+            text = "Don't you think that a low children at home is usually on the screen, come to class?"
+        intervals [43]:
+            xmin = 256.4
+            xmax = 260.4
+            text = "Also, a screen is a good thing for the development of the side."
+        intervals [44]:
+            xmin = 260.4
+            xmax = 267.4
+            text = "I don't know, but it's a road to do a certain..."
+        intervals [45]:
+            xmin = 267.4
+            xmax = 270.4
+            text = "How do you say?"
+        intervals [46]:
+            xmin = 271.4
+            xmax = 275.4
+            text = "You can follow the line."
+        intervals [47]:
+            xmin = 275.4
+            xmax = 287.4
+            text = "I think it's great to have technology in school and at home because for children,"
+        intervals [48]:
+            xmin = 287.4
+            xmax = 297.4
+            text = "it's more practical and for teachers."
+        intervals [49]:
+            xmin = 297.4
+            xmax = 303.4
+            text = "It's a new perspective to teach and it's interesting for them."
+        intervals [50]:
+            xmin = 303.4
+            xmax = 312.4
+            text = "But what about the people who are not very..."
+        intervals [51]:
+            xmin = 312.4
+            xmax = 322.4
+            text = "Well, we don't really use the teacher, we don't really use the screen or everything."
+        intervals [52]:
+            xmin = 322.4
+            xmax = 329.4
+            text = "And when you ask them to teach with the things that they didn't know how to use it."
+        intervals [53]:
+            xmin = 329.4
+            xmax = 330.4
+            text = "Yes."
+        intervals [54]:
+            xmin = 330.4
+            xmax = 348.4
+            text = "The fact is that teachers in their childhood, in the last decade, weren't happy to use technology because it didn't exist."
+        intervals [55]:
+            xmin = 348.4
+            xmax = 359.4
+            text = "But the thing is that they can now be coached and they can learn to..."
+        intervals [56]:
+            xmin = 359.4
+            xmax = 360.4
+            text = "Learn to..."
+        intervals [57]:
+            xmin = 360.4
+            xmax = 365.4
+            text = "No, I don't know how to proceed."
+        intervals [58]:
+            xmin = 371.4
+            xmax = 376.4
+            text = "So we can find a compromise, a compromise, yes."
+        intervals [59]:
+            xmin = 377.4
+            xmax = 387.4
+            text = "I listen to what you are saying and I think that the screen is a good thing but it should be moderated."
+        intervals [60]:
+            xmin = 387.4
+            xmax = 399.4
+            text = "It's not a no for me to be used at school but it should be moderated because of everything that is the consequence of the using of the screen."
+        intervals [61]:
+            xmin = 399.4
+            xmax = 400.4
+            text = "Yes."
+        intervals [62]:
+            xmin = 400.4
+            xmax = 401.4
+            text = "I totally agree with you."
+        intervals [63]:
+            xmin = 401.4
+            xmax = 408.4
+            text = "And I think one or two hours per day or per week, it's a good thing."
+        intervals [64]:
+            xmin = 408.4
+            xmax = 409.4
+            text = "Yeah."
+        intervals [65]:
+            xmin = 409.4
+            xmax = 410.4
+            text = "And not no more."
+        intervals [66]:
+            xmin = 410.4
+            xmax = 411.4
+            text = "Yes."
+        intervals [67]:
+            xmin = 411.4
+            xmax = 413.4
+            text = "It should be a..."
+        intervals [68]:
+            xmin = 413.4
+            xmax = 417.4
+            text = "The traditional way should be used."
+        intervals [69]:
+            xmin = 417.4
+            xmax = 418.4
+            text = "Yes."
+        intervals [70]:
+            xmin = 418.4
+            xmax = 420.4
+            text = "And not only on the screen."
+        intervals [71]:
+            xmin = 420.4
+            xmax = 421.4
+            text = "Yeah."
+        intervals [72]:
+            xmin = 421.4
+            xmax = 423.4
+            text = "Both are perfect."

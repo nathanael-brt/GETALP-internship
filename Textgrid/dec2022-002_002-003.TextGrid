@@ -1,0 +1,502 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 550.0                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 550.0                                  
+        intervals: size = 122                         
+        intervals [1]:
+            xmin = 0.0
+            xmax = 4.0
+            text = "So I'm candidat002 and I'm the role A."
+        intervals [2]:
+            xmin = 4.0
+            xmax = 8.0
+            text = "And I'm the candidat003 and the role B."
+        intervals [3]:
+            xmin = 14.0
+            xmax = 18.0
+            text = "Well, hello, when you say, I don't know your name, I'm sorry."
+        intervals [4]:
+            xmin = 18.0
+            xmax = 20.0
+            text = "I'm John. I'm you."
+        intervals [5]:
+            xmin = 20.0
+            xmax = 22.0
+            text = "I'm Carol."
+        intervals [6]:
+            xmin = 22.0
+            xmax = 24.0
+            text = "Okay, nice to meet you."
+        intervals [7]:
+            xmin = 24.0
+            xmax = 29.0
+            text = "We are talking today about the tactile duty on the classroom."
+        intervals [8]:
+            xmin = 29.0
+            xmax = 31.0
+            text = "Yeah."
+        intervals [9]:
+            xmin = 31.0
+            xmax = 33.0
+            text = "What do you think about?"
+        intervals [10]:
+            xmin = 33.0
+            xmax = 36.0
+            text = "Well, I'm pro-technology, I could say."
+        intervals [11]:
+            xmin = 36.0
+            xmax = 39.0
+            text = "I believe we should implement technology more in the classroom,"
+        intervals [12]:
+            xmin = 39.0
+            xmax = 47.0
+            text = "but of course implement your regulations to make sure that the students learn from technology,"
+        intervals [13]:
+            xmin = 47.0
+            xmax = 51.0
+            text = "but not with it, and to make sure that their school experience is the best."
+        intervals [14]:
+            xmin = 51.0
+            xmax = 58.0
+            text = "Okay, I have absolutely any problem with the fact that students can learn with technologies."
+        intervals [15]:
+            xmin = 58.0
+            xmax = 64.0
+            text = "But there's I think some aspects which are dangerous, such as bullying."
+        intervals [16]:
+            xmin = 64.0
+            xmax = 76.0
+            text = "And for that, I think that we need to put in place a kind of system of control of the informatic tools."
+        intervals [17]:
+            xmin = 76.0
+            xmax = 81.0
+            text = "And it has to be encoderated by the teachers,"
+        intervals [18]:
+            xmin = 81.0
+            xmax = 85.0
+            text = "when students are using it. What do you think about?"
+        intervals [19]:
+            xmin = 85.0
+            xmax = 91.0
+            text = "Well, the bullying is one of the risks that is really evident with social media,"
+        intervals [20]:
+            xmin = 91.0
+            xmax = 94.0
+            text = "and the fact that students are using it more and more,"
+        intervals [21]:
+            xmin = 94.0
+            xmax = 97.0
+            text = "and that their parents are having problems regulating it,"
+        intervals [22]:
+            xmin = 97.0
+            xmax = 100.0
+            text = "because they don't really understand their principle."
+        intervals [23]:
+            xmin = 100.0
+            xmax = 108.0
+            text = "So that is why we could also try and implement strict rules regarding their devices."
+        intervals [24]:
+            xmin = 108.0
+            xmax = 114.0
+            text = "Like an example was given of the fact that some teachers at the beginning of their classes"
+        intervals [25]:
+            xmin = 114.0
+            xmax = 117.0
+            text = "used to ask questions and students,"
+        intervals [26]:
+            xmin = 117.0
+            xmax = 121.0
+            text = "and it would be easier for students to answer the forums online,"
+        intervals [27]:
+            xmin = 121.0
+            xmax = 126.0
+            text = "and to make sure that those forums are only parts of the school website, for example,"
+        intervals [28]:
+            xmin = 126.0
+            xmax = 129.0
+            text = "and that are used by everyone,"
+        intervals [29]:
+            xmin = 129.0
+            xmax = 133.0
+            text = "and of course strict regulation regarding maybe course words,"
+        intervals [30]:
+            xmin = 133.0
+            xmax = 137.0
+            text = "and make sure that they are filters, etc."
+        intervals [31]:
+            xmin = 137.0
+            xmax = 144.0
+            text = "Yeah, and I think that they should also verify the history of the,"
+        intervals [32]:
+            xmin = 144.0
+            xmax = 148.0
+            text = "for example, the computers or all the devices,"
+        intervals [33]:
+            xmin = 148.0
+            xmax = 151.0
+            text = "which were used by the students."
+        intervals [34]:
+            xmin = 151.0
+            xmax = 153.0
+            text = "It has to be moderated."
+        intervals [35]:
+            xmin = 153.0
+            xmax = 161.0
+            text = "They don't have, I think, that they don't have to stay all day behind a screen,"
+        intervals [36]:
+            xmin = 162.0
+            xmax = 167.0
+            text = "and it has to be only used in an educated way, for example,"
+        intervals [37]:
+            xmin = 167.0
+            xmax = 170.0
+            text = "for homework, for researchers, something like that,"
+        intervals [38]:
+            xmin = 170.0
+            xmax = 176.0
+            text = "and absolutely in any case, for personal uses."
+        intervals [39]:
+            xmin = 179.0
+            xmax = 184.0
+            text = "It's a very interesting idea, but it's dangerous if it's not well done."
+        intervals [40]:
+            xmin = 184.0
+            xmax = 187.0
+            text = "Yeah, I remember teacher, sixth grade teacher,"
+        intervals [41]:
+            xmin = 187.0
+            xmax = 192.0
+            text = "if I remember, of the Fisher Middle School localizing you from the UK"
+        intervals [42]:
+            xmin = 192.0
+            xmax = 194.0
+            text = "that said in her classes,"
+        intervals [43]:
+            xmin = 194.0
+            xmax = 200.0
+            text = "she used around one hour of her time for the students to go online,"
+        intervals [44]:
+            xmin = 200.0
+            xmax = 202.0
+            text = "to use the screens, etc."
+        intervals [45]:
+            xmin = 202.0
+            xmax = 206.0
+            text = "And I was a little bit surprised and unfounded,"
+        intervals [46]:
+            xmin = 206.0
+            xmax = 211.0
+            text = "unfounded to find that, because I think it's a little bit too much."
+        intervals [47]:
+            xmin = 211.0
+            xmax = 216.0
+            text = "So we should implement rules regarding the hours,"
+        intervals [48]:
+            xmin = 216.0
+            xmax = 219.0
+            text = "make sure they don't spend too much time,"
+        intervals [49]:
+            xmin = 219.0
+            xmax = 223.0
+            text = "and that the screens they are on doesn't replace the students."
+        intervals [50]:
+            xmin = 223.0
+            xmax = 228.0
+            text = "Yeah, but we can also make a kind of open space,"
+        intervals [51]:
+            xmin = 228.0
+            xmax = 232.0
+            text = "or co-working space in this school,"
+        intervals [52]:
+            xmin = 232.0
+            xmax = 238.0
+            text = "and where there will be some technological devices,"
+        intervals [53]:
+            xmin = 238.0
+            xmax = 244.0
+            text = "which can be used every time of the day,"
+        intervals [54]:
+            xmin = 245.0
+            xmax = 250.0
+            text = "and could pay me to the students to work as they want,"
+        intervals [55]:
+            xmin = 250.0
+            xmax = 256.0
+            text = "with some teachers around who could look at what they are doing,"
+        intervals [56]:
+            xmin = 256.0
+            xmax = 260.0
+            text = "if it's in a link or not with the school,"
+        intervals [57]:
+            xmin = 260.0
+            xmax = 267.0
+            text = "and maybe put in place a system of card that they had to insert"
+        intervals [58]:
+            xmin = 267.0
+            xmax = 274.0
+            text = "in a kind of box,"
+        intervals [59]:
+            xmin = 274.0
+            xmax = 278.0
+            text = "which will vary five if they have already used in the day,"
+        intervals [60]:
+            xmin = 278.0
+            xmax = 285.0
+            text = "a computer, and making some, as you say, filters,"
+        intervals [61]:
+            xmin = 285.0
+            xmax = 289.0
+            text = "and reducing the time of use per day,"
+        intervals [62]:
+            xmin = 289.0
+            xmax = 293.0
+            text = "for example, to maximum one hour."
+        intervals [63]:
+            xmin = 293.0
+            xmax = 297.0
+            text = "Yeah, that's a really interesting idea, John."
+        intervals [64]:
+            xmin = 297.0
+            xmax = 300.0
+            text = "It's still a good idea, because it's still a combination"
+        intervals [65]:
+            xmin = 300.0
+            xmax = 303.0
+            text = "of normal, traditional ways of learning,"
+        intervals [66]:
+            xmin = 303.0
+            xmax = 304.0
+            text = "and also screens."
+        intervals [67]:
+            xmin = 304.0
+            xmax = 308.0
+            text = "Like some said, a teacher said that she used Kagan structures,"
+        intervals [68]:
+            xmin = 308.0
+            xmax = 312.0
+            text = "which is a form of cooperative learning moment,"
+        intervals [69]:
+            xmin = 312.0
+            xmax = 315.0
+            text = "and also because they had little book clubs,"
+        intervals [70]:
+            xmin = 315.0
+            xmax = 320.0
+            text = "so they would use computers and tablets to learn a little bit more,"
+        intervals [71]:
+            xmin = 320.0
+            xmax = 323.0
+            text = "but they also had things outside of screens"
+        intervals [72]:
+            xmin = 323.0
+            xmax = 327.0
+            text = "by interacting with others and learning at the same time."
+        intervals [73]:
+            xmin = 327.0
+            xmax = 332.0
+            text = "Yeah, and also there's not only computers or screens,"
+        intervals [74]:
+            xmin = 332.0
+            xmax = 338.0
+            text = "there's also the book club in which Kagan continued to learn"
+        intervals [75]:
+            xmin = 338.0
+            xmax = 344.0
+            text = "and to check all the information that they need for their works,"
+        intervals [76]:
+            xmin = 344.0
+            xmax = 356.0
+            text = "and also I was thinking about a sensibilization of the students,"
+        intervals [77]:
+            xmin = 356.0
+            xmax = 365.0
+            text = "but also the teachers of the schools about the impact psychologically,"
+        intervals [78]:
+            xmin = 365.0
+            xmax = 371.0
+            text = "and also physically, for example, the eye and the health."
+        intervals [79]:
+            xmin = 371.0
+            xmax = 378.0
+            text = "And I think that this system of co-working space"
+        intervals [80]:
+            xmin = 378.0
+            xmax = 387.0
+            text = "with some informatic devices will permit to avoid the social"
+        intervals [81]:
+            xmin = 387.0
+            xmax = 395.0
+            text = "and economical fracture that there is between them,"
+        intervals [82]:
+            xmin = 395.0
+            xmax = 400.0
+            text = "as it was said, in an article between the white colors"
+        intervals [83]:
+            xmin = 400.0
+            xmax = 410.0
+            text = "and the black colors due to their origins and their lifestyle,"
+        intervals [84]:
+            xmin = 410.0
+            xmax = 417.0
+            text = "because many people who are of black skin color"
+        intervals [85]:
+            xmin = 417.0
+            xmax = 421.0
+            text = "don't have informatic devices for work."
+        intervals [86]:
+            xmin = 421.0
+            xmax = 425.0
+            text = "Well, yeah, currently technology is a bit of a working problem in progress."
+        intervals [87]:
+            xmin = 425.0
+            xmax = 430.0
+            text = "Like we said, the technology has a real tool on mental health,"
+        intervals [88]:
+            xmin = 430.0
+            xmax = 434.0
+            text = "with anxiety, low self esteem, sometimes depression,"
+        intervals [89]:
+            xmin = 434.0
+            xmax = 437.0
+            text = "and yeah, some are more advantage,"
+        intervals [90]:
+            xmin = 437.0
+            xmax = 440.0
+            text = "because their parents, for example, have high incomes,"
+        intervals [91]:
+            xmin = 440.0
+            xmax = 443.0
+            text = "compared to others that don't really have access to computers"
+        intervals [92]:
+            xmin = 443.0
+            xmax = 446.0
+            text = "because their parents get afford to."
+        intervals [93]:
+            xmin = 446.0
+            xmax = 451.0
+            text = "So, like I said before, try and regulate and also help"
+        intervals [94]:
+            xmin = 451.0
+            xmax = 457.0
+            text = "by funding schools so that each student can be able to access computers in school."
+        intervals [95]:
+            xmin = 457.0
+            xmax = 460.0
+            text = "And I think we should do that also,"
+        intervals [96]:
+            xmin = 460.0
+            xmax = 463.0
+            text = "because we have a lot of learning to do,"
+        intervals [97]:
+            xmin = 463.0
+            xmax = 468.0
+            text = "but also learning techniques are present with technology."
+        intervals [98]:
+            xmin = 468.0
+            xmax = 473.0
+            text = "Like this topic of constructivism,"
+        intervals [99]:
+            xmin = 473.0
+            xmax = 475.0
+            text = "an inquiry-based learning, for example,"
+        intervals [100]:
+            xmin = 475.0
+            xmax = 479.0
+            text = "where students are taught to search for topics in themselves,"
+        intervals [101]:
+            xmin = 480.0
+            xmax = 483.0
+            text = "and teachers are there to guide them."
+        intervals [102]:
+            xmin = 483.0
+            xmax = 486.0
+            text = "And you can help with independence,"
+        intervals [103]:
+            xmin = 486.0
+            xmax = 489.0
+            text = "constructing a train of thoughts,"
+        intervals [104]:
+            xmin = 489.0
+            xmax = 493.0
+            text = "answering questions and understanding instructions."
+        intervals [105]:
+            xmin = 493.0
+            xmax = 498.0
+            text = "Yeah, so I absolutely agree with all that you said."
+        intervals [106]:
+            xmin = 498.0
+            xmax = 502.0
+            text = "I think that the thing that we have to put in place"
+        intervals [107]:
+            xmin = 502.0
+            xmax = 507.0
+            text = "is to moderate and control the behavior of the students"
+        intervals [108]:
+            xmin = 507.0
+            xmax = 512.0
+            text = "and moderate in function of the age of the students."
+        intervals [109]:
+            xmin = 512.0
+            xmax = 515.0
+            text = "For example, the first great student"
+        intervals [110]:
+            xmin = 515.0
+            xmax = 521.0
+            text = "have to use in the maximum half hour per day the computers"
+        intervals [111]:
+            xmin = 521.0
+            xmax = 524.0
+            text = "and the last year students, for example,"
+        intervals [112]:
+            xmin = 524.0
+            xmax = 527.0
+            text = "maximum two hours to prepare their exams."
+        intervals [113]:
+            xmin = 527.0
+            xmax = 529.0
+            text = "I don't know what you think about."
+        intervals [114]:
+            xmin = 529.0
+            xmax = 532.0
+            text = "Well, I think we can both agree that the main,"
+        intervals [115]:
+            xmin = 532.0
+            xmax = 535.0
+            text = "the foundation, the main priority,"
+        intervals [116]:
+            xmin = 535.0
+            xmax = 538.0
+            text = "is to ensure that technology is available to everyone,"
+        intervals [117]:
+            xmin = 538.0
+            xmax = 541.0
+            text = "but also that there are strict rules to make sure"
+        intervals [118]:
+            xmin = 541.0
+            xmax = 544.0
+            text = "that it doesn't end badly for the students themselves."
+        intervals [119]:
+            xmin = 544.0
+            xmax = 546.0
+            text = "Yeah, so you agree with that?"
+        intervals [120]:
+            xmin = 546.0
+            xmax = 547.0
+            text = "Yeah."
+        intervals [121]:
+            xmin = 547.0
+            xmax = 549.0
+            text = "Perfect, thank you."
+        intervals [122]:
+            xmin = 549.0
+            xmax = 550.0
+            text = "Thank you."

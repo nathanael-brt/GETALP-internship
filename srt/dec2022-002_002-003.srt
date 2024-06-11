@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:04,000
+So I'm candidat002 and I'm the role A.
+
+2
+00:00:04,000 --> 00:00:08,000
+And I'm the candidat003 and the role B.
+
+3
+00:00:14,000 --> 00:00:18,000
+Well, hello, when you say, I don't know your name, I'm sorry.
+
+4
+00:00:18,000 --> 00:00:20,000
+I'm John. I'm you.
+
+5
+00:00:20,000 --> 00:00:22,000
+I'm Carol.
+
+6
+00:00:22,000 --> 00:00:24,000
+Okay, nice to meet you.
+
+7
+00:00:24,000 --> 00:00:29,000
+We are talking today about the tactile duty on the classroom.
+
+8
+00:00:29,000 --> 00:00:31,000
+Yeah.
+
+9
+00:00:31,000 --> 00:00:33,000
+What do you think about?
+
+10
+00:00:33,000 --> 00:00:36,000
+Well, I'm pro-technology, I could say.
+
+11
+00:00:36,000 --> 00:00:39,000
+I believe we should implement technology more in the classroom,
+
+12
+00:00:39,000 --> 00:00:47,000
+but of course implement your regulations to make sure that the students learn from technology,
+
+13
+00:00:47,000 --> 00:00:51,000
+but not with it, and to make sure that their school experience is the best.
+
+14
+00:00:51,000 --> 00:00:58,000
+Okay, I have absolutely any problem with the fact that students can learn with technologies.
+
+15
+00:00:58,000 --> 00:01:04,000
+But there's I think some aspects which are dangerous, such as bullying.
+
+16
+00:01:04,000 --> 00:01:16,000
+And for that, I think that we need to put in place a kind of system of control of the informatic tools.
+
+17
+00:01:16,000 --> 00:01:21,000
+And it has to be encoderated by the teachers,
+
+18
+00:01:21,000 --> 00:01:25,000
+when students are using it. What do you think about?
+
+19
+00:01:25,000 --> 00:01:31,000
+Well, the bullying is one of the risks that is really evident with social media,
+
+20
+00:01:31,000 --> 00:01:34,000
+and the fact that students are using it more and more,
+
+21
+00:01:34,000 --> 00:01:37,000
+and that their parents are having problems regulating it,
+
+22
+00:01:37,000 --> 00:01:40,000
+because they don't really understand their principle.
+
+23
+00:01:40,000 --> 00:01:48,000
+So that is why we could also try and implement strict rules regarding their devices.
+
+24
+00:01:48,000 --> 00:01:54,000
+Like an example was given of the fact that some teachers at the beginning of their classes
+
+25
+00:01:54,000 --> 00:01:57,000
+used to ask questions and students,
+
+26
+00:01:57,000 --> 00:02:01,000
+and it would be easier for students to answer the forums online,
+
+27
+00:02:01,000 --> 00:02:06,000
+and to make sure that those forums are only parts of the school website, for example,
+
+28
+00:02:06,000 --> 00:02:09,000
+and that are used by everyone,
+
+29
+00:02:09,000 --> 00:02:13,000
+and of course strict regulation regarding maybe course words,
+
+30
+00:02:13,000 --> 00:02:17,000
+and make sure that they are filters, etc.
+
+31
+00:02:17,000 --> 00:02:24,000
+Yeah, and I think that they should also verify the history of the,
+
+32
+00:02:24,000 --> 00:02:28,000
+for example, the computers or all the devices,
+
+33
+00:02:28,000 --> 00:02:31,000
+which were used by the students.
+
+34
+00:02:31,000 --> 00:02:33,000
+It has to be moderated.
+
+35
+00:02:33,000 --> 00:02:41,000
+They don't have, I think, that they don't have to stay all day behind a screen,
+
+36
+00:02:42,000 --> 00:02:47,000
+and it has to be only used in an educated way, for example,
+
+37
+00:02:47,000 --> 00:02:50,000
+for homework, for researchers, something like that,
+
+38
+00:02:50,000 --> 00:02:56,000
+and absolutely in any case, for personal uses.
+
+39
+00:02:59,000 --> 00:03:04,000
+It's a very interesting idea, but it's dangerous if it's not well done.
+
+40
+00:03:04,000 --> 00:03:07,000
+Yeah, I remember teacher, sixth grade teacher,
+
+41
+00:03:07,000 --> 00:03:12,000
+if I remember, of the Fisher Middle School localizing you from the UK
+
+42
+00:03:12,000 --> 00:03:14,000
+that said in her classes,
+
+43
+00:03:14,000 --> 00:03:20,000
+she used around one hour of her time for the students to go online,
+
+44
+00:03:20,000 --> 00:03:22,000
+to use the screens, etc.
+
+45
+00:03:22,000 --> 00:03:26,000
+And I was a little bit surprised and unfounded,
+
+46
+00:03:26,000 --> 00:03:31,000
+unfounded to find that, because I think it's a little bit too much.
+
+47
+00:03:31,000 --> 00:03:36,000
+So we should implement rules regarding the hours,
+
+48
+00:03:36,000 --> 00:03:39,000
+make sure they don't spend too much time,
+
+49
+00:03:39,000 --> 00:03:43,000
+and that the screens they are on doesn't replace the students.
+
+50
+00:03:43,000 --> 00:03:48,000
+Yeah, but we can also make a kind of open space,
+
+51
+00:03:48,000 --> 00:03:52,000
+or co-working space in this school,
+
+52
+00:03:52,000 --> 00:03:58,000
+and where there will be some technological devices,
+
+53
+00:03:58,000 --> 00:04:04,000
+which can be used every time of the day,
+
+54
+00:04:05,000 --> 00:04:10,000
+and could pay me to the students to work as they want,
+
+55
+00:04:10,000 --> 00:04:16,000
+with some teachers around who could look at what they are doing,
+
+56
+00:04:16,000 --> 00:04:20,000
+if it's in a link or not with the school,
+
+57
+00:04:20,000 --> 00:04:27,000
+and maybe put in place a system of card that they had to insert
+
+58
+00:04:27,000 --> 00:04:34,000
+in a kind of box,
+
+59
+00:04:34,000 --> 00:04:38,000
+which will vary five if they have already used in the day,
+
+60
+00:04:38,000 --> 00:04:45,000
+a computer, and making some, as you say, filters,
+
+61
+00:04:45,000 --> 00:04:49,000
+and reducing the time of use per day,
+
+62
+00:04:49,000 --> 00:04:53,000
+for example, to maximum one hour.
+
+63
+00:04:53,000 --> 00:04:57,000
+Yeah, that's a really interesting idea, John.
+
+64
+00:04:57,000 --> 00:05:00,000
+It's still a good idea, because it's still a combination
+
+65
+00:05:00,000 --> 00:05:03,000
+of normal, traditional ways of learning,
+
+66
+00:05:03,000 --> 00:05:04,000
+and also screens.
+
+67
+00:05:04,000 --> 00:05:08,000
+Like some said, a teacher said that she used Kagan structures,
+
+68
+00:05:08,000 --> 00:05:12,000
+which is a form of cooperative learning moment,
+
+69
+00:05:12,000 --> 00:05:15,000
+and also because they had little book clubs,
+
+70
+00:05:15,000 --> 00:05:20,000
+so they would use computers and tablets to learn a little bit more,
+
+71
+00:05:20,000 --> 00:05:23,000
+but they also had things outside of screens
+
+72
+00:05:23,000 --> 00:05:27,000
+by interacting with others and learning at the same time.
+
+73
+00:05:27,000 --> 00:05:32,000
+Yeah, and also there's not only computers or screens,
+
+74
+00:05:32,000 --> 00:05:38,000
+there's also the book club in which Kagan continued to learn
+
+75
+00:05:38,000 --> 00:05:44,000
+and to check all the information that they need for their works,
+
+76
+00:05:44,000 --> 00:05:56,000
+and also I was thinking about a sensibilization of the students,
+
+77
+00:05:56,000 --> 00:06:05,000
+but also the teachers of the schools about the impact psychologically,
+
+78
+00:06:05,000 --> 00:06:11,000
+and also physically, for example, the eye and the health.
+
+79
+00:06:11,000 --> 00:06:18,000
+And I think that this system of co-working space
+
+80
+00:06:18,000 --> 00:06:27,000
+with some informatic devices will permit to avoid the social
+
+81
+00:06:27,000 --> 00:06:35,000
+and economical fracture that there is between them,
+
+82
+00:06:35,000 --> 00:06:40,000
+as it was said, in an article between the white colors
+
+83
+00:06:40,000 --> 00:06:50,000
+and the black colors due to their origins and their lifestyle,
+
+84
+00:06:50,000 --> 00:06:57,000
+because many people who are of black skin color
+
+85
+00:06:57,000 --> 00:07:01,000
+don't have informatic devices for work.
+
+86
+00:07:01,000 --> 00:07:05,000
+Well, yeah, currently technology is a bit of a working problem in progress.
+
+87
+00:07:05,000 --> 00:07:10,000
+Like we said, the technology has a real tool on mental health,
+
+88
+00:07:10,000 --> 00:07:14,000
+with anxiety, low self esteem, sometimes depression,
+
+89
+00:07:14,000 --> 00:07:17,000
+and yeah, some are more advantage,
+
+90
+00:07:17,000 --> 00:07:20,000
+because their parents, for example, have high incomes,
+
+91
+00:07:20,000 --> 00:07:23,000
+compared to others that don't really have access to computers
+
+92
+00:07:23,000 --> 00:07:26,000
+because their parents get afford to.
+
+93
+00:07:26,000 --> 00:07:31,000
+So, like I said before, try and regulate and also help
+
+94
+00:07:31,000 --> 00:07:37,000
+by funding schools so that each student can be able to access computers in school.
+
+95
+00:07:37,000 --> 00:07:40,000
+And I think we should do that also,
+
+96
+00:07:40,000 --> 00:07:43,000
+because we have a lot of learning to do,
+
+97
+00:07:43,000 --> 00:07:48,000
+but also learning techniques are present with technology.
+
+98
+00:07:48,000 --> 00:07:53,000
+Like this topic of constructivism,
+
+99
+00:07:53,000 --> 00:07:55,000
+an inquiry-based learning, for example,
+
+100
+00:07:55,000 --> 00:07:59,000
+where students are taught to search for topics in themselves,
+
+101
+00:08:00,000 --> 00:08:03,000
+and teachers are there to guide them.
+
+102
+00:08:03,000 --> 00:08:06,000
+And you can help with independence,
+
+103
+00:08:06,000 --> 00:08:09,000
+constructing a train of thoughts,
+
+104
+00:08:09,000 --> 00:08:13,000
+answering questions and understanding instructions.
+
+105
+00:08:13,000 --> 00:08:18,000
+Yeah, so I absolutely agree with all that you said.
+
+106
+00:08:18,000 --> 00:08:22,000
+I think that the thing that we have to put in place
+
+107
+00:08:22,000 --> 00:08:27,000
+is to moderate and control the behavior of the students
+
+108
+00:08:27,000 --> 00:08:32,000
+and moderate in function of the age of the students.
+
+109
+00:08:32,000 --> 00:08:35,000
+For example, the first great student
+
+110
+00:08:35,000 --> 00:08:41,000
+have to use in the maximum half hour per day the computers
+
+111
+00:08:41,000 --> 00:08:44,000
+and the last year students, for example,
+
+112
+00:08:44,000 --> 00:08:47,000
+maximum two hours to prepare their exams.
+
+113
+00:08:47,000 --> 00:08:49,000
+I don't know what you think about.
+
+114
+00:08:49,000 --> 00:08:52,000
+Well, I think we can both agree that the main,
+
+115
+00:08:52,000 --> 00:08:55,000
+the foundation, the main priority,
+
+116
+00:08:55,000 --> 00:08:58,000
+is to ensure that technology is available to everyone,
+
+117
+00:08:58,000 --> 00:09:01,000
+but also that there are strict rules to make sure
+
+118
+00:09:01,000 --> 00:09:04,000
+that it doesn't end badly for the students themselves.
+
+119
+00:09:04,000 --> 00:09:06,000
+Yeah, so you agree with that?
+
+120
+00:09:06,000 --> 00:09:07,000
+Yeah.
+
+121
+00:09:07,000 --> 00:09:09,000
+Perfect, thank you.
+
+122
+00:09:09,000 --> 00:09:10,000
+Thank you.
+

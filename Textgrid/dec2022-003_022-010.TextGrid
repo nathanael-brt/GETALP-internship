@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 309.0                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 309.0                                  
+        intervals: size = 39                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 8.0
+            text = "Yes, my number is 022 and meets 010."
+        intervals [2]:
+            xmin = 8.0
+            xmax = 9.0
+            text = "010."
+        intervals [3]:
+            xmin = 9.0
+            xmax = 12.0
+            text = "OK."
+        intervals [4]:
+            xmin = 12.0
+            xmax = 19.0
+            text = "In my opinion, technology in class is very home and it's not good."
+        intervals [5]:
+            xmin = 19.0
+            xmax = 26.0
+            text = "We use pen and papers for long decades, blackboard, books."
+        intervals [6]:
+            xmin = 26.0
+            xmax = 30.0
+            text = "I'm not interested in technology."
+        intervals [7]:
+            xmin = 30.0
+            xmax = 33.0
+            text = "It's a success, Roland."
+        intervals [8]:
+            xmin = 33.0
+            xmax = 41.0
+            text = "In my opinion, I think technology is a good idea and it's also an actual subject."
+        intervals [9]:
+            xmin = 41.0
+            xmax = 48.0
+            text = "So it can help her teacher to organize her lesson."
+        intervals [10]:
+            xmin = 48.0
+            xmax = 60.0
+            text = "And also for students, it can make the lesson more interesting and more interactive."
+        intervals [11]:
+            xmin = 60.0
+            xmax = 63.0
+            text = "So I think it's a good idea."
+        intervals [12]:
+            xmin = 63.0
+            xmax = 70.0
+            text = "Yes, but you see all the exams are passed in paper with pen."
+        intervals [13]:
+            xmin = 70.0
+            xmax = 74.0
+            text = "We don't have tablets or computer in the exams."
+        intervals [14]:
+            xmin = 74.0
+            xmax = 87.0
+            text = "Yes, but maybe we can do a part of technology and also a part of paper and pen."
+        intervals [15]:
+            xmin = 87.0
+            xmax = 101.0
+            text = "So maybe the school can do during the year some exam for training the students to continue to write."
+        intervals [16]:
+            xmin = 101.0
+            xmax = 111.0
+            text = "I see, but for the students you talk before you know some studies spoke about"
+        intervals [17]:
+            xmin = 111.0
+            xmax = 115.0
+            text = "it raised anxiety and reduced self-esteem."
+        intervals [18]:
+            xmin = 115.0
+            xmax = 121.0
+            text = "We could have issues of additivity of students."
+        intervals [19]:
+            xmin = 121.0
+            xmax = 128.0
+            text = "Many students use the computer or the technology six to eight hours a day."
+        intervals [20]:
+            xmin = 128.0
+            xmax = 134.0
+            text = "It's an often we don't have to use it in classroom."
+        intervals [21]:
+            xmin = 134.0
+            xmax = 144.0
+            text = "Maybe the school can organize a sensibilization of students to show that"
+        intervals [22]:
+            xmin = 144.0
+            xmax = 154.0
+            text = "to show the limits of technology, maybe like they can show that the students can also learn"
+        intervals [23]:
+            xmin = 154.0
+            xmax = 171.0
+            text = "read books and doesn't usually use the technology and also shows the limit of time screen."
+        intervals [24]:
+            xmin = 171.0
+            xmax = 182.0
+            text = "For example, the nights when the students go to sleep if they have to"
+        intervals [25]:
+            xmin = 182.0
+            xmax = 189.0
+            text = "do not use the technology or screen."
+        intervals [26]:
+            xmin = 189.0
+            xmax = 192.0
+            text = "Yes, yes, thank you."
+        intervals [27]:
+            xmin = 192.0
+            xmax = 202.0
+            text = "I see a purpose, but the final point I want to talk about is technology is very expensive."
+        intervals [28]:
+            xmin = 202.0
+            xmax = 210.0
+            text = "A lot of schools do not have many income and technology is very expensive."
+        intervals [29]:
+            xmin = 210.0
+            xmax = 215.0
+            text = "How do you do with that?"
+        intervals [30]:
+            xmin = 216.0
+            xmax = 233.0
+            text = "I think the students that can pay for their computer can buy their own computer."
+        intervals [31]:
+            xmin = 234.0
+            xmax = 249.0
+            text = "I think the schools have to prepare their budget before and I don't have a real solution for the money."
+        intervals [32]:
+            xmin = 249.0
+            xmax = 267.0
+            text = "I think maybe for the school we can not invest in the computer, have to keep the traditional paper and pen."
+        intervals [33]:
+            xmin = 267.0
+            xmax = 274.0
+            text = "I saw your purpose and why it's interesting."
+        intervals [34]:
+            xmin = 274.0
+            xmax = 280.0
+            text = "I wanted to use interactive whiteboard in classroom."
+        intervals [35]:
+            xmin = 280.0
+            xmax = 285.0
+            text = "It is very interesting, whiteboard or not."
+        intervals [36]:
+            xmin = 285.0
+            xmax = 289.0
+            text = "Yes, yes, I think it's a good idea."
+        intervals [37]:
+            xmin = 289.0
+            xmax = 297.0
+            text = "Because the students can participate with this?"
+        intervals [38]:
+            xmin = 297.0
+            xmax = 301.0
+            text = "Yes, it's okay."
+        intervals [39]:
+            xmin = 301.0
+            xmax = 309.0
+            text = "We can sort the supervisor to buy some interactive whiteboard."

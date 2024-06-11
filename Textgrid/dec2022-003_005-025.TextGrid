@@ -1,0 +1,898 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 535.36                               
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 535.36                                 
+        intervals: size = 221                         
+        intervals [1]:
+            xmin = 0.0
+            xmax = 2.0
+            text = "You can do that number?"
+        intervals [2]:
+            xmin = 2.0
+            xmax = 4.0
+            text = "0.5"
+        intervals [3]:
+            xmin = 4.0
+            xmax = 6.0
+            text = "0.05"
+        intervals [4]:
+            xmin = 6.0
+            xmax = 8.0
+            text = "0.05"
+        intervals [5]:
+            xmin = 8.0
+            xmax = 10.0
+            text = "and I'm role A"
+        intervals [6]:
+            xmin = 10.0
+            xmax = 12.0
+            text = "and I'm a candidate 0.25"
+        intervals [7]:
+            xmin = 12.0
+            xmax = 14.0
+            text = "and I'm a role B"
+        intervals [8]:
+            xmin = 14.0
+            xmax = 16.0
+            text = "Okay, you can begin"
+        intervals [9]:
+            xmin = 18.0
+            xmax = 24.0
+            text = "So I personally think that new technologies"
+        intervals [10]:
+            xmin = 24.0
+            xmax = 26.0
+            text = "aren't any good in class"
+        intervals [11]:
+            xmin = 26.0
+            xmax = 28.0
+            text = "and it should be"
+        intervals [12]:
+            xmin = 28.0
+            xmax = 32.0
+            text = "something that is out of the school"
+        intervals [13]:
+            xmin = 32.0
+            xmax = 34.0
+            text = "and not in the school"
+        intervals [14]:
+            xmin = 34.0
+            xmax = 38.0
+            text = "Okay, I understand your point of view"
+        intervals [15]:
+            xmin = 38.0
+            xmax = 44.0
+            text = "but today the technology is quite important"
+        intervals [16]:
+            xmin = 44.0
+            xmax = 46.0
+            text = "because we need"
+        intervals [17]:
+            xmin = 46.0
+            xmax = 50.0
+            text = "computer to access to websites"
+        intervals [18]:
+            xmin = 50.0
+            xmax = 52.0
+            text = "or things like this"
+        intervals [19]:
+            xmin = 52.0
+            xmax = 54.0
+            text = "and teacher has"
+        intervals [20]:
+            xmin = 54.0
+            xmax = 60.0
+            text = "to show things to the class"
+        intervals [21]:
+            xmin = 60.0
+            xmax = 62.0
+            text = "or things like this"
+        intervals [22]:
+            xmin = 62.0
+            xmax = 64.0
+            text = "Yes, of course"
+        intervals [23]:
+            xmin = 64.0
+            xmax = 66.0
+            text = "I hear this"
+        intervals [24]:
+            xmin = 66.0
+            xmax = 68.0
+            text = "but I think that"
+        intervals [25]:
+            xmin = 68.0
+            xmax = 70.0
+            text = "there are some studies"
+        intervals [26]:
+            xmin = 70.0
+            xmax = 72.0
+            text = "that show that"
+        intervals [27]:
+            xmin = 72.0
+            xmax = 74.0
+            text = "there are two"
+        intervals [28]:
+            xmin = 74.0
+            xmax = 76.0
+            text = "kind of"
+        intervals [29]:
+            xmin = 76.0
+            xmax = 78.0
+            text = "of a situation"
+        intervals [30]:
+            xmin = 78.0
+            xmax = 80.0
+            text = "I think there is a"
+        intervals [31]:
+            xmin = 80.0
+            xmax = 82.0
+            text = "when there"
+        intervals [32]:
+            xmin = 82.0
+            xmax = 84.0
+            text = "are"
+        intervals [33]:
+            xmin = 84.0
+            xmax = 86.0
+            text = "everyday new technologies"
+        intervals [34]:
+            xmin = 86.0
+            xmax = 88.0
+            text = "and it can"
+        intervals [35]:
+            xmin = 88.0
+            xmax = 90.0
+            text = "represent a distraction"
+        intervals [36]:
+            xmin = 90.0
+            xmax = 92.0
+            text = "and of course"
+        intervals [37]:
+            xmin = 92.0
+            xmax = 94.0
+            text = "on the other side"
+        intervals [38]:
+            xmin = 94.0
+            xmax = 96.0
+            text = "there can be"
+        intervals [39]:
+            xmin = 96.0
+            xmax = 98.0
+            text = "once a week a class"
+        intervals [40]:
+            xmin = 98.0
+            xmax = 100.0
+            text = "with computers"
+        intervals [41]:
+            xmin = 100.0
+            xmax = 102.0
+            text = "to learn new technologies"
+        intervals [42]:
+            xmin = 102.0
+            xmax = 104.0
+            text = "to the"
+        intervals [43]:
+            xmin = 104.0
+            xmax = 106.0
+            text = "I agree"
+        intervals [44]:
+            xmin = 106.0
+            xmax = 108.0
+            text = "but I think that"
+        intervals [45]:
+            xmin = 108.0
+            xmax = 110.0
+            text = "the technologies"
+        intervals [46]:
+            xmin = 110.0
+            xmax = 112.0
+            text = "should be the"
+        intervals [47]:
+            xmin = 112.0
+            xmax = 114.0
+            text = "development of new"
+        intervals [48]:
+            xmin = 114.0
+            xmax = 116.0
+            text = "way with new technologies"
+        intervals [49]:
+            xmin = 116.0
+            xmax = 118.0
+            text = "to learn"
+        intervals [50]:
+            xmin = 118.0
+            xmax = 120.0
+            text = "and to teach"
+        intervals [51]:
+            xmin = 120.0
+            xmax = 122.0
+            text = "for the kids"
+        intervals [52]:
+            xmin = 122.0
+            xmax = 124.0
+            text = "it's a"
+        intervals [53]:
+            xmin = 124.0
+            xmax = 126.0
+            text = "better way to"
+        intervals [54]:
+            xmin = 126.0
+            xmax = 128.0
+            text = "learn because"
+        intervals [55]:
+            xmin = 128.0
+            xmax = 130.0
+            text = "they are more"
+        intervals [56]:
+            xmin = 130.0
+            xmax = 132.0
+            text = "happy to be there"
+        intervals [57]:
+            xmin = 132.0
+            xmax = 134.0
+            text = "they enjoy"
+        intervals [58]:
+            xmin = 134.0
+            xmax = 136.0
+            text = "the class"
+        intervals [59]:
+            xmin = 136.0
+            xmax = 138.0
+            text = "and teachers"
+        intervals [60]:
+            xmin = 138.0
+            xmax = 140.0
+            text = "it's"
+        intervals [61]:
+            xmin = 140.0
+            xmax = 142.0
+            text = "more simple"
+        intervals [62]:
+            xmin = 142.0
+            xmax = 144.0
+            text = "because"
+        intervals [63]:
+            xmin = 144.0
+            xmax = 146.0
+            text = "they can"
+        intervals [64]:
+            xmin = 146.0
+            xmax = 148.0
+            text = "use a lot of things"
+        intervals [65]:
+            xmin = 148.0
+            xmax = 150.0
+            text = "and diversify"
+        intervals [66]:
+            xmin = 150.0
+            xmax = 152.0
+            text = "the"
+        intervals [67]:
+            xmin = 152.0
+            xmax = 154.0
+            text = "how they work"
+        intervals [68]:
+            xmin = 154.0
+            xmax = 156.0
+            text = "Yes, but"
+        intervals [69]:
+            xmin = 156.0
+            xmax = 158.0
+            text = "we know"
+        intervals [70]:
+            xmin = 158.0
+            xmax = 160.0
+            text = "quite a time now"
+        intervals [71]:
+            xmin = 160.0
+            xmax = 162.0
+            text = "that the"
+        intervals [72]:
+            xmin = 162.0
+            xmax = 164.0
+            text = "device"
+        intervals [73]:
+            xmin = 164.0
+            xmax = 166.0
+            text = "is a great"
+        intervals [74]:
+            xmin = 166.0
+            xmax = 168.0
+            text = "huge"
+        intervals [75]:
+            xmin = 168.0
+            xmax = 170.0
+            text = "amount of time"
+        intervals [76]:
+            xmin = 170.0
+            xmax = 172.0
+            text = "like 6-8 hours"
+        intervals [77]:
+            xmin = 172.0
+            xmax = 174.0
+            text = "a day"
+        intervals [78]:
+            xmin = 174.0
+            xmax = 176.0
+            text = "so we do not need"
+        intervals [79]:
+            xmin = 176.0
+            xmax = 178.0
+            text = "to increase"
+        intervals [80]:
+            xmin = 178.0
+            xmax = 180.0
+            text = "this time"
+        intervals [81]:
+            xmin = 180.0
+            xmax = 182.0
+            text = "I agree with you"
+        intervals [82]:
+            xmin = 182.0
+            xmax = 184.0
+            text = "technology is"
+        intervals [83]:
+            xmin = 184.0
+            xmax = 186.0
+            text = "also"
+        intervals [84]:
+            xmin = 186.0
+            xmax = 188.0
+            text = "keyboard"
+        intervals [85]:
+            xmin = 188.0
+            xmax = 190.0
+            text = "or"
+        intervals [86]:
+            xmin = 190.0
+            xmax = 192.0
+            text = "the things"
+        intervals [87]:
+            xmin = 192.0
+            xmax = 194.0
+            text = "that can project an image"
+        intervals [88]:
+            xmin = 194.0
+            xmax = 196.0
+            text = "on the keyboard"
+        intervals [89]:
+            xmin = 196.0
+            xmax = 198.0
+            text = "and it's not just the computer"
+        intervals [90]:
+            xmin = 198.0
+            xmax = 200.0
+            text = "so if we invest"
+        intervals [91]:
+            xmin = 200.0
+            xmax = 202.0
+            text = "in the"
+        intervals [92]:
+            xmin = 202.0
+            xmax = 204.0
+            text = "research of new technology"
+        intervals [93]:
+            xmin = 204.0
+            xmax = 206.0
+            text = "we may"
+        intervals [94]:
+            xmin = 206.0
+            xmax = 208.0
+            text = "discover the new way"
+        intervals [95]:
+            xmin = 208.0
+            xmax = 210.0
+            text = "who"
+        intervals [96]:
+            xmin = 210.0
+            xmax = 212.0
+            text = "do not need to be on the"
+        intervals [97]:
+            xmin = 212.0
+            xmax = 214.0
+            text = "computer or"
+        intervals [98]:
+            xmin = 214.0
+            xmax = 216.0
+            text = "iPad or something like this"
+        intervals [99]:
+            xmin = 216.0
+            xmax = 218.0
+            text = "but who can"
+        intervals [100]:
+            xmin = 218.0
+            xmax = 220.0
+            text = "help the teacher"
+        intervals [101]:
+            xmin = 220.0
+            xmax = 222.0
+            text = "This is a good"
+        intervals [102]:
+            xmin = 222.0
+            xmax = 224.0
+            text = "point"
+        intervals [103]:
+            xmin = 224.0
+            xmax = 226.0
+            text = "if you want a new technology"
+        intervals [104]:
+            xmin = 226.0
+            xmax = 228.0
+            text = "in class this should be"
+        intervals [105]:
+            xmin = 228.0
+            xmax = 230.0
+            text = "with great equipment"
+        intervals [106]:
+            xmin = 230.0
+            xmax = 232.0
+            text = "not necessarily"
+        intervals [107]:
+            xmin = 232.0
+            xmax = 234.0
+            text = "a computer"
+        intervals [108]:
+            xmin = 234.0
+            xmax = 236.0
+            text = "but"
+        intervals [109]:
+            xmin = 236.0
+            xmax = 238.0
+            text = "there will be"
+        intervals [110]:
+            xmin = 238.0
+            xmax = 240.0
+            text = "some investment"
+        intervals [111]:
+            xmin = 240.0
+            xmax = 242.0
+            text = "that we need to do"
+        intervals [112]:
+            xmin = 242.0
+            xmax = 244.0
+            text = "and of course"
+        intervals [113]:
+            xmin = 244.0
+            xmax = 246.0
+            text = "there will be"
+        intervals [114]:
+            xmin = 246.0
+            xmax = 248.0
+            text = "an instruction of the teacher"
+        intervals [115]:
+            xmin = 248.0
+            xmax = 250.0
+            text = "because"
+        intervals [116]:
+            xmin = 250.0
+            xmax = 252.0
+            text = "not a teacher"
+        intervals [117]:
+            xmin = 252.0
+            xmax = 254.0
+            text = "knows how to use"
+        intervals [118]:
+            xmin = 254.0
+            xmax = 256.0
+            text = "keyboard or"
+        intervals [119]:
+            xmin = 256.0
+            xmax = 258.0
+            text = "computer"
+        intervals [120]:
+            xmin = 258.0
+            xmax = 260.0
+            text = "for their"
+        intervals [121]:
+            xmin = 260.0
+            xmax = 262.0
+            text = "course, for"
+        intervals [122]:
+            xmin = 262.0
+            xmax = 264.0
+            text = "mathematic, for example"
+        intervals [123]:
+            xmin = 264.0
+            xmax = 266.0
+            text = "there is"
+        intervals [124]:
+            xmin = 266.0
+            xmax = 268.0
+            text = "inequality between"
+        intervals [125]:
+            xmin = 268.0
+            xmax = 270.0
+            text = "school that has"
+        intervals [126]:
+            xmin = 270.0
+            xmax = 272.0
+            text = "the money for this"
+        intervals [127]:
+            xmin = 272.0
+            xmax = 274.0
+            text = "and school that"
+        intervals [128]:
+            xmin = 274.0
+            xmax = 276.0
+            text = "doesn't have. I know that and"
+        intervals [129]:
+            xmin = 276.0
+            xmax = 278.0
+            text = "the government"
+        intervals [130]:
+            xmin = 278.0
+            xmax = 280.0
+            text = "who has to help"
+        intervals [131]:
+            xmin = 280.0
+            xmax = 282.0
+            text = "this school"
+        intervals [132]:
+            xmin = 282.0
+            xmax = 284.0
+            text = "and this teacher"
+        intervals [133]:
+            xmin = 284.0
+            xmax = 286.0
+            text = "and also the parents"
+        intervals [134]:
+            xmin = 286.0
+            xmax = 288.0
+            text = "because maybe"
+        intervals [135]:
+            xmin = 288.0
+            xmax = 290.0
+            text = "the child is"
+        intervals [136]:
+            xmin = 290.0
+            xmax = 292.0
+            text = "in a"
+        intervals [137]:
+            xmin = 292.0
+            xmax = 294.0
+            text = "great school"
+        intervals [138]:
+            xmin = 294.0
+            xmax = 296.0
+            text = "but he may"
+        intervals [139]:
+            xmin = 296.0
+            xmax = 298.0
+            text = "have no money"
+        intervals [140]:
+            xmin = 298.0
+            xmax = 300.0
+            text = "but it's a government"
+        intervals [141]:
+            xmin = 300.0
+            xmax = 302.0
+            text = "who has to help"
+        intervals [142]:
+            xmin = 302.0
+            xmax = 304.0
+            text = "the school"
+        intervals [143]:
+            xmin = 304.0
+            xmax = 306.0
+            text = "offer them the"
+        intervals [144]:
+            xmin = 306.0
+            xmax = 308.0
+            text = "opportunity to"
+        intervals [145]:
+            xmin = 308.0
+            xmax = 310.0
+            text = "buy new stuff"
+        intervals [146]:
+            xmin = 310.0
+            xmax = 312.0
+            text = "I agree with you"
+        intervals [147]:
+            xmin = 312.0
+            xmax = 314.0
+            text = "so if the government"
+        intervals [148]:
+            xmin = 314.0
+            xmax = 316.0
+            text = "say that"
+        intervals [149]:
+            xmin = 316.0
+            xmax = 318.0
+            text = "you will invest in this"
+        intervals [150]:
+            xmin = 318.0
+            xmax = 320.0
+            text = "and of course"
+        intervals [151]:
+            xmin = 320.0
+            xmax = 322.0
+            text = "give money"
+        intervals [152]:
+            xmin = 322.0
+            xmax = 324.0
+            text = "to school that"
+        intervals [153]:
+            xmin = 324.0
+            xmax = 326.0
+            text = "doesn't have that much money"
+        intervals [154]:
+            xmin = 326.0
+            xmax = 328.0
+            text = "I can"
+        intervals [155]:
+            xmin = 328.0
+            xmax = 330.0
+            text = "eventually think"
+        intervals [156]:
+            xmin = 330.0
+            xmax = 332.0
+            text = "that some technology"
+        intervals [157]:
+            xmin = 332.0
+            xmax = 334.0
+            text = "has a certain level"
+        intervals [158]:
+            xmin = 334.0
+            xmax = 336.0
+            text = "with a"
+        intervals [159]:
+            xmin = 336.0
+            xmax = 338.0
+            text = "minimum amount of time"
+        intervals [160]:
+            xmin = 338.0
+            xmax = 340.0
+            text = "can be good"
+        intervals [161]:
+            xmin = 340.0
+            xmax = 342.0
+            text = "because"
+        intervals [162]:
+            xmin = 342.0
+            xmax = 344.0
+            text = "of course"
+        intervals [163]:
+            xmin = 344.0
+            xmax = 346.0
+            text = "this is not"
+        intervals [164]:
+            xmin = 346.0
+            xmax = 348.0
+            text = "all about"
+        intervals [165]:
+            xmin = 348.0
+            xmax = 350.0
+            text = "okay"
+        intervals [166]:
+            xmin = 350.0
+            xmax = 352.0
+            text = "but maybe we should"
+        intervals [167]:
+            xmin = 352.0
+            xmax = 354.0
+            text = "just talk about this"
+        intervals [168]:
+            xmin = 354.0
+            xmax = 356.0
+            text = "with the"
+        intervals [169]:
+            xmin = 356.0
+            xmax = 358.0
+            text = "governments"
+        intervals [170]:
+            xmin = 358.0
+            xmax = 360.0
+            text = "for communication"
+        intervals [171]:
+            xmin = 360.0
+            xmax = 362.0
+            text = "we try to"
+        intervals [172]:
+            xmin = 362.0
+            xmax = 364.0
+            text = "see what we can do"
+        intervals [173]:
+            xmin = 364.0
+            xmax = 366.0
+            text = "but I think that"
+        intervals [174]:
+            xmin = 366.0
+            xmax = 368.0
+            text = "even if we don't"
+        intervals [175]:
+            xmin = 368.0
+            xmax = 370.0
+            text = "know what the government"
+        intervals [176]:
+            xmin = 370.0
+            xmax = 372.0
+            text = "was going to say"
+        intervals [177]:
+            xmin = 372.0
+            xmax = 374.0
+            text = "we know that we have to"
+        intervals [178]:
+            xmin = 374.0
+            xmax = 376.0
+            text = "invest on your technology"
+        intervals [179]:
+            xmin = 376.0
+            xmax = 378.0
+            text = "because it's"
+        intervals [180]:
+            xmin = 378.0
+            xmax = 380.0
+            text = "too"
+        intervals [181]:
+            xmin = 380.0
+            xmax = 382.0
+            text = "important."
+        intervals [182]:
+            xmin = 382.0
+            xmax = 384.0
+            text = "Yes, but"
+        intervals [183]:
+            xmin = 384.0
+            xmax = 386.0
+            text = "we have to invest"
+        intervals [184]:
+            xmin = 386.0
+            xmax = 388.0
+            text = "and to invest"
+        intervals [185]:
+            xmin = 388.0
+            xmax = 390.0
+            text = "in the future"
+        intervals [186]:
+            xmin = 390.0
+            xmax = 392.0
+            text = "that some people"
+        intervals [187]:
+            xmin = 392.0
+            xmax = 394.0
+            text = "like government"
+        intervals [188]:
+            xmin = 394.0
+            xmax = 396.0
+            text = "or"
+        intervals [189]:
+            xmin = 396.0
+            xmax = 398.0
+            text = "other kind of people"
+        intervals [190]:
+            xmin = 398.0
+            xmax = 400.0
+            text = "will help"
+        intervals [191]:
+            xmin = 400.0
+            xmax = 402.0
+            text = "and will do everything"
+        intervals [192]:
+            xmin = 402.0
+            xmax = 404.0
+            text = "they can"
+        intervals [193]:
+            xmin = 404.0
+            xmax = 406.0
+            text = "so there isn't any"
+        intervals [194]:
+            xmin = 406.0
+            xmax = 408.0
+            text = "inequality between"
+        intervals [195]:
+            xmin = 408.0
+            xmax = 410.0
+            text = "school and between students"
+        intervals [196]:
+            xmin = 410.0
+            xmax = 412.0
+            text = "because this is the future"
+        intervals [197]:
+            xmin = 412.0
+            xmax = 414.0
+            text = "sorry"
+        intervals [198]:
+            xmin = 414.0
+            xmax = 416.0
+            text = "this is the future"
+        intervals [199]:
+            xmin = 416.0
+            xmax = 418.0
+            text = "this was the"
+        intervals [200]:
+            xmin = 418.0
+            xmax = 420.0
+            text = "increase in equality"
+        intervals [201]:
+            xmin = 420.0
+            xmax = 422.0
+            text = "the government"
+        intervals [202]:
+            xmin = 422.0
+            xmax = 424.0
+            text = "will"
+        intervals [203]:
+            xmin = 424.0
+            xmax = 426.0
+            text = "choose to"
+        intervals [204]:
+            xmin = 426.0
+            xmax = 428.0
+            text = "invest."
+        intervals [205]:
+            xmin = 428.0
+            xmax = 430.0
+            text = "it's an evidence"
+        intervals [206]:
+            xmin = 430.0
+            xmax = 432.0
+            text = "because there is too many"
+        intervals [207]:
+            xmin = 432.0
+            xmax = 434.0
+            text = "so many"
+        intervals [208]:
+            xmin = 434.0
+            xmax = 438.0
+            text = "how to say"
+        intervals [209]:
+            xmin = 438.0
+            xmax = 440.0
+            text = "that he"
+        intervals [210]:
+            xmin = 440.0
+            xmax = 444.0
+            text = "knows he has to do it"
+        intervals [211]:
+            xmin = 444.0
+            xmax = 455.36
+            text = "school need this for work, and work in a good way, because we saw that the child and the teacher are more"
+        intervals [212]:
+            xmin = 455.36
+            xmax = 466.36
+            text = "appears in the school when there is more technology."
+        intervals [213]:
+            xmin = 466.36
+            xmax = 479.36
+            text = "Yes, of course, so maybe if this is on good regulation, technology can be slowly,"
+        intervals [214]:
+            xmin = 479.36
+            xmax = 489.36
+            text = "actually integrate in a classroom, but with regulation, not every day, like once a week, for example,"
+        intervals [215]:
+            xmin = 489.36
+            xmax = 494.36
+            text = "to start, or like one hour a day or something like this."
+        intervals [216]:
+            xmin = 494.36
+            xmax = 504.36
+            text = "Yes, I agree with you, because we all know that the screen is bad for everyone, not just children."
+        intervals [217]:
+            xmin = 504.36
+            xmax = 512.36
+            text = "And we, it's useful, but we have to regulate, as you say."
+        intervals [218]:
+            xmin = 512.36
+            xmax = 522.36
+            text = "So the teacher do this part, they have to adapt with the things that we offer today."
+        intervals [219]:
+            xmin = 522.36
+            xmax = 531.36
+            text = "And so we just had to agree with the fact that we invest, and that's it."
+        intervals [220]:
+            xmin = 531.36
+            xmax = 533.36
+            text = "So I agree with you."
+        intervals [221]:
+            xmin = 533.36
+            xmax = 535.36
+            text = "Okay."
