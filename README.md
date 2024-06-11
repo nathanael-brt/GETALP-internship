@@ -13,10 +13,10 @@ Take 2 files as an input (read on keyboard) :<br>
 Compute the *Word Error Count* between the reference from *whisper* and the corrected version.
 Give one *WER* by speaker. 
 
-take 3 files as an input (read on keyboard) :
-    -reference file from whisper 
-    -file containing the corrected text 
-    -result file
+take 3 files as an input (read on keyboard) :  
+    -reference file from whisper   
+    -file containing the corrected text  
+    -result file  
 
 **/!\\** the speakers need to be separated manually, both for the reference from whisper and the corrected version :  
     This has to be done on ELAN and exported with the option "texte délimité par des tabulations" and all parameters unchecked.  
