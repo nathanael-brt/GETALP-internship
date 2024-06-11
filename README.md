@@ -1,6 +1,6 @@
 # GETALP-internship
 
-- whisper2txtgrid -
+- **whisper2txtgrid** 
 
 Convert the whisper ".srt" output into a TextGrid file --> Can import to Elan and Praat
 Take 2 files as an input (read on keyboard) : 
@@ -8,7 +8,7 @@ Take 2 files as an input (read on keyboard) :
     -output ".TextGrid" file
 
 --------------------------------------------------------------------------------------------
-- WER -
+- **WER** 
 
 Compute the Word Error Count between the reference from whisper and the corrected version.
 Give one WER by speaker. 
