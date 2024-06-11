@@ -18,7 +18,7 @@ take 3 files as an input (read on keyboard) :
     -file containing the corrected text 
     -result file
 
-**/!\*** the speakers need to be separated manually, both for the reference from whisper and the corrected version :  
+**/!\\** the speakers need to be separated manually, both for the reference from whisper and the corrected version :  
     This has to be done on ELAN and exported with the option "texte délimité par des tabulations" and all parameters unchecked.  
     This gives a file of the format : 
     
