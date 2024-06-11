@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-06-07T12:42:49+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/natha/OneDrive/Documents/UGA/GETALP/Audios/dec2022-003_022-010.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../Audios/dec2022-003_022-010.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5a1cec46-f74e-4f4f-8fd5-611af4a39de1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">42</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="19000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="26000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="26000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="30000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="30000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="41000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="41000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="48000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="48000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="60000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="60000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="63000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="63000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="70000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="70000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="74000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="74000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="101000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="101000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="111000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="111000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="115000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="115000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="121000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="121000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="134000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="134000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="144000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="144000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="154000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="154000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="171000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="171000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="182000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="182000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="187650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="187650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="189000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="189000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="192000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="192000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="202000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="202000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="210000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="210000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="215000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="216000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="233000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="234000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="249000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="249000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="274000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="274000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="280000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="280000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="285000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="285000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="289000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="289000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="297000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="297000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="301000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="301000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="309000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="022">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Yes, my number is 022</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>In my opinion, technology in class is very harm and it's not good.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>We use pen and papers for long decades, blackboard, books.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>I'm not interested in technology.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>It's successful</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Yeah I see, but you see all the exams are passed in paper with pen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>We don't have tablets or computer in the exams.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>I see, but for the students you talk before you know some studies spoke about</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>it raise anxiety and reduce self-esteem.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>We could have issues of addictivity of students.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Many students use computer or technology six to eight hours a day.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>It's enough and we don't have to use it in classroom.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>to avoid screen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>I see your purpose, but the final point I want to talk about it's  technology is very expensive.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Lot of schools are... do not have many income and technology is very expensive.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>How do you do with that?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Ok, I saw your purpose and why it's interesting.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>I'm ready to act... to use interactive whiteboards in classroom.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>It is very... it's interesting whiteboard or not?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Okay, so yeah, it's okay.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>We can saw the supervisor to buy some interactive whiteboard.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="010">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>and me it's 010.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>In my opinion, I think technology it's a good idea and it's also an actual subject.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>So it can be... it can help teacher to organize her lesson.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>And also for students, it can be... make the lesson more interesting and more interactive.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>So I think it's a good idea.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Yes, but maybe we can do a part of technology and also a part of paper and pen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>So maybe the school can do during the year some exam for training the students to continuing to write.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Maybe the school can organize a sensibilization of students to show that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>to show the limits of technology, maybe like they can show that the students can also learn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>read books and doesn't usually use technology and also shows the limit of time screen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>For example, the night when the students go to sleep if... they have to</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>doesn't use technology </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>Yes, yes, thank you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>I think the students that can pay for her... for their computer can buy her... their own computer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>And I think the schools have to prepare her budget before and I don't have a real solution for the money.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>I think maybe for the school who can not invested on computer, have to keep the traditional paper and pen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Yes, yes, I think it's a good idea.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>Because it can... the students can participate with this?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Ens">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>022.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>010.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>OK.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

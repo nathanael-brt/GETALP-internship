@@ -1,0 +1,366 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 617.465
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "014"
+        xmin = 0.0
+        xmax = 617.465
+        intervals: size = 39
+        intervals [1]
+            xmin = 0.0
+            xmax = 2.41
+            text = "I'm number 14"
+        intervals [2]
+            xmin = 2.41
+            xmax = 39.0
+            text = ""
+        intervals [3]
+            xmin = 39.0
+            xmax = 42.0
+            text = "I agree with what you're saying."
+        intervals [4]
+            xmin = 42.0
+            xmax = 50.0
+            text = "But the problem is that you can't control what every student on the class did with his laptop."
+        intervals [5]
+            xmin = 50.0
+            xmax = 51.0
+            text = ""
+        intervals [6]
+            xmin = 51.0
+            xmax = 59.0
+            text = "So, it could create a distraction for some of them and if some are not really good to pay attention to what the teacher says,"
+        intervals [7]
+            xmin = 59.0
+            xmax = 63.0
+            text = "it could also provide a lot of distraction to them."
+        intervals [8]
+            xmin = 63.0
+            xmax = 67.0
+            text = "And they will not be really helped with that system."
+        intervals [9]
+            xmin = 67.0
+            xmax = 79.0
+            text = "It can provide more harm to them than it could be good because they may not be as attentive as if it was just a teacher who is speaking."
+        intervals [10]
+            xmin = 79.0
+            xmax = 131.0
+            text = ""
+        intervals [11]
+            xmin = 131.0
+            xmax = 141.0
+            text = "I see what you mean but you tell that you need to train the professors to use these new technologies and"
+        intervals [12]
+            xmin = 141.0
+            xmax = 161.0
+            text = "As a lot of teachers who are now in the scholar system may not be born with the technologies , so they need to learn more about how to control it, how to use it, etc."
+        intervals [13]
+            xmin = 161.0
+            xmax = 179.0
+            text = "And it could cost very much because you need to install a lot of computers to help every pupil because if you want to put this system to help every student, everyone should be at the same level."
+        intervals [14]
+            xmin = 179.0
+            xmax = 186.0
+            text = "So, everyone should have his home computer provided by the school if it's possible."
+        intervals [15]
+            xmin = 186.0
+            xmax = 191.0
+            text = "And then it would be a so much expensive measure."
+        intervals [16]
+            xmin = 191.0
+            xmax = 200.0
+            text = "And then you need to hire a person to form the teachers how to use it."
+        intervals [17]
+            xmin = 200.0
+            xmax = 208.0
+            text = "And I think it could be so expensive for schools who are not... who don't have a lot of money from the system."
+        intervals [18]
+            xmin = 208.0
+            xmax = 253.0
+            text = ""
+        intervals [19]
+            xmin = 253.0
+            xmax = 261.0
+            text = "Yes, but in which measure do you think this investment would be great?"
+        intervals [20]
+            xmin = 261.0
+            xmax = 275.0
+            text = "Because in my opinion, yes, the society evolves and we need to teach our students how to do the... how to use the things which are on their possessions now."
+        intervals [21]
+            xmin = 275.0
+            xmax = 291.0
+            text = "But it might be also important to preserve their health because we know that computers could have... and the using of internet, could have a lot of wrong consequences on the health."
+        intervals [22]
+            xmin = 291.0
+            xmax = 308.0
+            text = "Not, like on the psychic aspect, it could cause anxiety, depression and a low self-estimate because there could be a harassment too on internet."
+        intervals [23]
+            xmin = 308.0
+            xmax = 321.0
+            text = "Not so at school, but it could create this and inequalities and some pupils could make fun of others as they are not at the same level and I think it could be a problem."
+        intervals [24]
+            xmin = 321.0
+            xmax = 403.0
+            text = ""
+        intervals [25]
+            xmin = 403.0
+            xmax = 414.0
+            text = "Yeah, I think it's important to prevent it and it may be great to limit the using of these tools."
+        intervals [26]
+            xmin = 414.0
+            xmax = 429.0
+            text = "Because I completely understand and completely agree with you on the fact that it's important to teach the students how to... to teach them some things that could be really helpful for them in their future."
+        intervals [27]
+            xmin = 429.0
+            xmax = 446.0
+            text = "But to preserve them I think it could be great to limit the using of computers or of internet because we know that at home they use video games, television, smartphones, tablets, etc."
+        intervals [28]
+            xmin = 446.0
+            xmax = 458.0
+            text = "And I think the school is the moment where they can disconnect from this and it could be interesting for them to have the knowledges and the skills with the technology."
+        intervals [29]
+            xmin = 458.0
+            xmax = 467.0
+            text = "But I think it could be a reasonable thing, a reasonable lesson during their whole week as school."
+        intervals [30]
+            xmin = 467.0
+            xmax = 503.0
+            text = ""
+        intervals [31]
+            xmin = 503.0
+            xmax = 508.0
+            text = "succeeding at the end. Is exactly that. The system doesn't change completely."
+        intervals [32]
+            xmin = 508.0
+            xmax = 515.0
+            text = "So we need to still form them and train them to what they are gonna have as an exam."
+        intervals [33]
+            xmin = 515.0
+            xmax = 535.0
+            text = "And we cannot, I think, in my opinion impose them to use computers every day and in every single class because it could not be great at the end because they will not even know how to write if they are typing on their keyboards every time."
+        intervals [34]
+            xmin = 535.0
+            xmax = 543.0
+            text = "And so yeah, it could be important to limit this and to maintain a more traditional way of learning."
+        intervals [35]
+            xmin = 543.0
+            xmax = 568.0
+            text = ""
+        intervals [36]
+            xmin = 568.0
+            xmax = 575.0
+            text = "It's exactly what I would like to see in our schools nowadays because they need this knowledges."
+        intervals [37]
+            xmin = 575.0
+            xmax = 594.0
+            text = "And we can bring them to them but it's needed that it's in a controlled way because it could be so harmful for them and for the teachers because if the teachers doesn't know how to do it,"
+        intervals [38]
+            xmin = 594.0
+            xmax = 603.0
+            text = "it will not help them if they just put a time with the computer and don't really know how to organize their own lessons."
+        intervals [39]
+            xmin = 603.0
+            xmax = 617.465
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "006"
+        xmin = 0.0
+        xmax = 617.465
+        intervals: size = 41
+        intervals [1]
+            xmin = 0.0
+            xmax = 4.41
+            text = ""
+        intervals [2]
+            xmin = 4.41
+            xmax = 5.78
+            text = "and 006"
+        intervals [3]
+            xmin = 5.78
+            xmax = 10.0
+            text = ""
+        intervals [4]
+            xmin = 10.0
+            xmax = 13.0
+            text = "Yeah."
+        intervals [5]
+            xmin = 13.0
+            xmax = 15.0
+            text = "So, I begin."
+        intervals [6]
+            xmin = 15.0
+            xmax = 25.0
+            text = "So, I think that using technology in classrooms provides better help to students."
+        intervals [7]
+            xmin = 25.0
+            xmax = 29.0
+            text = "And it can be customized to the students' needs."
+        intervals [8]
+            xmin = 29.0
+            xmax = 39.0
+            text = "So, it can be very helpful for them and help them to learn stuff according to their own needs."
+        intervals [9]
+            xmin = 39.0
+            xmax = 50.0
+            text = ""
+        intervals [10]
+            xmin = 50.0
+            xmax = 51.0
+            text = "Yeah."
+        intervals [11]
+            xmin = 51.0
+            xmax = 79.0
+            text = ""
+        intervals [12]
+            xmin = 79.0
+            xmax = 80.0
+            text = "Yeah."
+        intervals [13]
+            xmin = 80.0
+            xmax = 82.0
+            text = "I totally understand what you're saying."
+        intervals [14]
+            xmin = 82.0
+            xmax = 98.0
+            text = "And so, that's why we are helping the teachers with teacher coaches to help them better handle all the students in class to help them control everything that is done in the better way."
+        intervals [15]
+            xmin = 98.0
+            xmax = 110.0
+            text = "And also, a few software applications that can help the teacher control what all the students are doing in time."
+        intervals [16]
+            xmin = 110.0
+            xmax = 119.0
+            text = "So, I honestly think that towards students that are often not very paying attention to class,"
+        intervals [17]
+            xmin = 119.0
+            xmax = 131.0
+            text = "actually technology can help them to engage in the lesson way more because it can provide them other ways to communicate with the students around them."
+        intervals [18]
+            xmin = 131.0
+            xmax = 208.0
+            text = ""
+        intervals [19]
+            xmin = 208.0
+            xmax = 223.0
+            text = "Of course, and of course it's a really long-term investment because it's a lot of money and it's a lot of people that are gonna be involved if we need to make like... to hire more teachers and stuff."
+        intervals [20]
+            xmin = 223.0
+            xmax = 237.0
+            text = "But it can be very helpful and on the long-term it can help so much students to find better jobs for themselves especially when we are in a constantly evolving society."
+        intervals [21]
+            xmin = 237.0
+            xmax = 247.0
+            text = "And we are actually helping our students to train for jobs that are gonna be different from what we have now."
+        intervals [22]
+            xmin = 247.0
+            xmax = 253.0
+            text = "And so I think it's so important that we have to make this investment."
+        intervals [23]
+            xmin = 253.0
+            xmax = 321.0
+            text = ""
+        intervals [24]
+            xmin = 321.0
+            xmax = 335.0
+            text = "Okay, I totally understand and that's a real issue that it needs to be worked on because when we take such big measures to change a system that's been working the same way for a long time,"
+        intervals [25]
+            xmin = 335.0
+            xmax = 340.0
+            text = "we need to be aware of all the consequences that it can bring."
+        intervals [26]
+            xmin = 340.0
+            xmax = 351.0
+            text = "And of course cyber bullying and anxiety caused from being way too much on screens is an issue and we are aware of it."
+        intervals [27]
+            xmin = 351.0
+            xmax = 364.0
+            text = "So we actually make programs to help the parents and the students to control themselves and to have a better handling of what happens on the screens."
+        intervals [28]
+            xmin = 364.0
+            xmax = 372.0
+            text = "And of course it's an issue that we have to consider in order to put this in place."
+        intervals [29]
+            xmin = 372.0
+            xmax = 373.0
+            text = ""
+        intervals [30]
+            xmin = 373.0
+            xmax = 386.0
+            text = "But I think that it really can help students to understand what society needs of them right now and what their future jobs needs to be."
+        intervals [31]
+            xmin = 386.0
+            xmax = 393.0
+            text = "I just think that it has a lot of good impacts."
+        intervals [32]
+            xmin = 393.0
+            xmax = 403.0
+            text = "But of course we need to understand that the consequences can be harmful and so we need to control this in order to prevent it."
+        intervals [33]
+            xmin = 403.0
+            xmax = 468.0
+            text = ""
+        intervals [34]
+            xmin = 468.0
+            xmax = 478.0
+            text = "Okay, so what you mean I think is that we should like have a time where they are using technology and sometimes when they aren't."
+        intervals [35]
+            xmin = 478.0
+            xmax = 493.0
+            text = "So they can have also the standard... standard way of learning and also because all the exams that they have to pass the official exams are still in the same format as before with a paper and a pen."
+        intervals [36]
+            xmin = 493.0
+            xmax = 503.0
+            text = "So they need also these standard skills to understand and to have a good way of learning"
+        intervals [37]
+            xmin = 503.0
+            xmax = 543.0
+            text = ""
+        intervals [38]
+            xmin = 543.0
+            xmax = 568.0
+            text = "Okay, so we should maybe split the time where some time they have pen papers and books and they can learn from that and sometimes when they use technology and they learn to use it in the, so they learn to use it in a sane way in a not harmful way and in a controlled way from the teachers and the parents."
+        intervals [39]
+            xmin = 568.0
+            xmax = 603.0
+            text = ""
+        intervals [40]
+            xmin = 603.0
+            xmax = 617.0
+            text = "So even we need to have teachers as like people who help the students not that are replaced by computers."
+        intervals [41]
+            xmin = 617.0
+            xmax = 617.465
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "Ens"
+        xmin = 0.0
+        xmax = 617.465
+        intervals: size = 5
+        intervals [1]
+            xmin = 0.0
+            xmax = 2.41
+            text = ""
+        intervals [2]
+            xmin = 2.41
+            xmax = 4.41
+            text = "014"
+        intervals [3]
+            xmin = 4.41
+            xmax = 5.78
+            text = ""
+        intervals [4]
+            xmin = 5.78
+            xmax = 10.0
+            text = "006. So 006 role A, 014 role B"
+        intervals [5]
+            xmin = 10.0
+            xmax = 617.465
+            text = ""

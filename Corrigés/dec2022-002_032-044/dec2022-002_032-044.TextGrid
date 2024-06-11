@@ -1,0 +1,300 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 576.133
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "032"
+        xmin = 0.0
+        xmax = 576.133
+        intervals: size = 34
+        intervals [1]
+            xmin = 0.0
+            xmax = 4.0
+            text = "Number 32, I have the role A."
+        intervals [2]
+            xmin = 4.0
+            xmax = 10.0
+            text = ""
+        intervals [3]
+            xmin = 10.0
+            xmax = 13.0
+            text = "You want to start, maybe?"
+        intervals [4]
+            xmin = 13.0
+            xmax = 77.0
+            text = ""
+        intervals [5]
+            xmin = 77.0
+            xmax = 80.0
+            text = "Okay, I understand your point of view."
+        intervals [6]
+            xmin = 80.0
+            xmax = 91.0
+            text = "I think the problems can be solved with the experts that we can hire"
+        intervals [7]
+            xmin = 91.0
+            xmax = 101.0
+            text = "to come help the teachers in class to avoid time loss."
+        intervals [8]
+            xmin = 101.0
+            xmax = 112.0
+            text = "And we have to make formations for teachers too to avoid the time loss with technical problems."
+        intervals [9]
+            xmin = 112.0
+            xmax = 125.0
+            text = "And I think we must do all of that because we have to use technology in xxx"
+        intervals [10]
+            xmin = 125.0
+            xmax = 137.0
+            text = "because it can reduce inequalities between the students that are more affluent"
+        intervals [11]
+            xmin = 137.0
+            xmax = 146.0
+            text = "and the ones who live in less affluent situations."
+        intervals [12]
+            xmin = 146.0
+            xmax = 149.0
+            text = "So we have to do all that."
+        intervals [13]
+            xmin = 149.0
+            xmax = 259.0
+            text = ""
+        intervals [14]
+            xmin = 259.0
+            xmax = 265.0
+            text = "Yes, indeed, the problem of money is very big problem."
+        intervals [15]
+            xmin = 265.0
+            xmax = 278.0
+            text = "To counter that, we have to make plans to replace the material and also make updates."
+        intervals [16]
+            xmin = 278.0
+            xmax = 289.0
+            text = "oftenly that can be considerate in the budget of the foundation."
+        intervals [17]
+            xmin = 289.0
+            xmax = 297.0
+            text = "So I think that's a problem but it can be... we can do with that."
+        intervals [18]
+            xmin = 297.0
+            xmax = 318.0
+            text = "Also, yes, you said that the students that have less money can't have the internet at home and that can be a issue with their homeworks."
+        intervals [19]
+            xmin = 318.0
+            xmax = 327.0
+            text = "And yes, as you said, we can provide them computers or 4G keys."
+        intervals [20]
+            xmin = 327.0
+            xmax = 331.0
+            text = "Because that's very important, that's"
+        intervals [21]
+            xmin = 331.0
+            xmax = 337.0
+            text = "You talked about 20th century skills xxx before."
+        intervals [22]
+            xmin = 337.0
+            xmax = 345.0
+            text = "That's important that all the students can have those 20th century skills."
+        intervals [23]
+            xmin = 345.0
+            xmax = 358.0
+            text = "And all the... that's important that all of the students can have access to computers and the internet."
+        intervals [24]
+            xmin = 358.0
+            xmax = 445.0
+            text = ""
+        intervals [25]
+            xmin = 445.0
+            xmax = 450.0
+            text = "Yes, you're totally right."
+        intervals [26]
+            xmin = 450.0
+            xmax = 468.0
+            text = "For this problem, yes, as you said, we have to keep the pencil and paper based learning because as you said, state programs are traditional."
+        intervals [27]
+            xmin = 468.0
+            xmax = 476.0
+            text = "And the tests must be with pencil and paper."
+        intervals [28]
+            xmin = 476.0
+            xmax = 490.0
+            text = "So, plus we have to keep this way or learning because the time that spend young people on screens are already high."
+        intervals [29]
+            xmin = 490.0
+            xmax = 508.0
+            text = "So it must be not too high because it can cause anxiety and the social skills can be compromised."
+        intervals [30]
+            xmin = 508.0
+            xmax = 517.0
+            text = "So yes, we have indeed the role to limit this time on the screen."
+        intervals [31]
+            xmin = 517.0
+            xmax = 532.0
+            text = "I agree with you, but I think we can use technological learning."
+        intervals [32]
+            xmin = 532.0
+            xmax = 566.0
+            text = ""
+        intervals [33]
+            xmin = 566.0
+            xmax = 576.0
+            text = "Okay, so I'm glad that our students can profite of the technological learning in the future."
+        intervals [34]
+            xmin = 576.0
+            xmax = 576.133
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "044"
+        xmin = 0.0
+        xmax = 576.133
+        intervals: size = 36
+        intervals [1]
+            xmin = 0.0
+            xmax = 4.0
+            text = ""
+        intervals [2]
+            xmin = 4.0
+            xmax = 7.0
+            text = "Number 44, role B."
+        intervals [3]
+            xmin = 7.0
+            xmax = 13.0
+            text = ""
+        intervals [4]
+            xmin = 13.0
+            xmax = 16.0
+            text = "Maybe, why not?"
+        intervals [5]
+            xmin = 16.0
+            xmax = 25.0
+            text = "Yes, so our foundation wants to invest in technology for classroom."
+        intervals [6]
+            xmin = 25.0
+            xmax = 32.0
+            text = "I think it's an idea because we are in the 21st century."
+        intervals [7]
+            xmin = 32.0
+            xmax = 36.0
+            text = "But we have some problems with that."
+        intervals [8]
+            xmin = 36.0
+            xmax = 47.0
+            text = "And I want to show you why I'm maybe to moderate the technology using"
+        intervals [9]
+            xmin = 47.0
+            xmax = 58.0
+            text = "because I think, firstly to the potential problem with connection."
+        intervals [10]
+            xmin = 58.0
+            xmax = 68.0
+            text = "And with this problem, we can have some losing time for teachers."
+        intervals [11]
+            xmin = 68.0
+            xmax = 77.0
+            text = "And I'm afraid that it could not the best solution for the student."
+        intervals [12]
+            xmin = 77.0
+            xmax = 149.0
+            text = ""
+        intervals [13]
+            xmin = 149.0
+            xmax = 155.0
+            text = "Yes, but I see two major problems, what."
+        intervals [14]
+            xmin = 155.0
+            xmax = 163.0
+            text = " But I understand your... But I think we will have a problem of cost because it's very expensive"
+        intervals [15]
+            xmin = 163.0
+            xmax = 175.0
+            text = "to have people to hire, to be here for this informatic problem."
+        intervals [16]
+            xmin = 175.0
+            xmax = 189.0
+            text = "And you say you want to learn to teacher maybe to solve this problem themselves"
+        intervals [17]
+            xmin = 189.0
+            xmax = 196.0
+            text = "but it's also very expensive to learn to them."
+        intervals [18]
+            xmin = 196.0
+            xmax = 213.0
+            text = "And I think you spoke about inequality but some low incomes students will have technology in classroom."
+        intervals [19]
+            xmin = 213.0
+            xmax = 216.0
+            text = "It's a good idea."
+        intervals [20]
+            xmin = 216.0
+            xmax = 224.0
+            text = "I have no problem but you don't think that when they come back at home,"
+        intervals [21]
+            xmin = 224.0
+            xmax = 237.0
+            text = "if they don't have a connection or good technology, maybe they will be in a situation of inequality because of that."
+        intervals [22]
+            xmin = 237.0
+            xmax = 240.0
+            text = "It's a question."
+        intervals [23]
+            xmin = 240.0
+            xmax = 250.0
+            text = "Or you can... we can invest for help them, with 4G key or other way, I don't know."
+        intervals [24]
+            xmin = 250.0
+            xmax = 254.0
+            text = "But it's very expensive."
+        intervals [25]
+            xmin = 254.0
+            xmax = 259.0
+            text = "And this problem of money xxx"
+        intervals [26]
+            xmin = 259.0
+            xmax = 358.0
+            text = ""
+        intervals [27]
+            xmin = 358.0
+            xmax = 376.0
+            text = "Okay, so if you think to program and invest on the long time and we can maybe reduce the cost like that, I'm totally agree with this project."
+        intervals [28]
+            xmin = 376.0
+            xmax = 389.0
+            text = "But I have also another issue that I think is in adequation of this system for different points."
+        intervals [29]
+            xmin = 389.0
+            xmax = 418.0
+            text = "I think to the example for university and others that are writing, writing test and maybe as student who are dyslexic, maybe it could be more difficult for them with technology than writing."
+        intervals [30]
+            xmin = 418.0
+            xmax = 440.0
+            text = "But, so I suggest you to moderate and keep paper and pen and paper, methodology, even we can introduce technology, it's not a problem."
+        intervals [31]
+            xmin = 440.0
+            xmax = 445.0
+            text = "Just keep a part of old school."
+        intervals [32]
+            xmin = 445.0
+            xmax = 532.0
+            text = ""
+        intervals [33]
+            xmin = 532.0
+            xmax = 547.0
+            text = "So I think we can go to this big investment for this school, but it's clear for you and me and I very happy for that."
+        intervals [34]
+            xmin = 547.0
+            xmax = 555.0
+            text = "that we have to be careful to maintain old school methodology, but it's very important."
+        intervals [35]
+            xmin = 555.0
+            xmax = 566.0
+            text = "I'm agree to continue to invest for our century and for these students."
+        intervals [36]
+            xmin = 566.0
+            xmax = 576.133
+            text = ""

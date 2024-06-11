@@ -1,0 +1,432 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 509.352
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "012"
+        xmin = 0.0
+        xmax = 509.352
+        intervals: size = 47
+        intervals [1]
+            xmin = 0.0
+            xmax = 3.21
+            text = "012 B"
+        intervals [2]
+            xmin = 3.21
+            xmax = 5.45
+            text = ""
+        intervals [3]
+            xmin = 5.45
+            xmax = 19.56
+            text = "I'd like to say that the use of technology in the classroom is not always good, it can"
+        intervals [4]
+            xmin = 19.56
+            xmax = 24.4
+            text = "bring a lot of harm to students and also to the school as well."
+        intervals [5]
+            xmin = 24.4
+            xmax = 30.56
+            text = "First of all, I'd like to say it's expensive to implement, you need to buy the goods like computers"
+        intervals [6]
+            xmin = 30.56
+            xmax = 38.24
+            text = "and boards, and also the equipment that you need to maintain the computers."
+        intervals [7]
+            xmin = 38.24
+            xmax = 63.52
+            text = ""
+        intervals [8]
+            xmin = 63.52
+            xmax = 69.84
+            text = "Indeed, it could be the role of the state to provide, but you have also to take in account"
+        intervals [9]
+            xmin = 69.84
+            xmax = 74.4
+            text = "the fact that teachers need to be trained, which also costs money and time, time away from"
+        intervals [10]
+            xmin = 74.4
+            xmax = 81.4
+            text = "the students who could benefit of a more traditional way of education, so where would"
+        intervals [11]
+            xmin = 81.4
+            xmax = 82.84
+            text = "that money come from?"
+        intervals [12]
+            xmin = 82.84
+            xmax = 102.32
+            text = ""
+        intervals [13]
+            xmin = 102.32
+            xmax = 108.6
+            text = "So don't you think that progressively the teacher won't be needed and it could lead to unemployment?"
+        intervals [14]
+            xmin = 108.6
+            xmax = 114.72
+            text = "If their children are able to study without teachers and just using technology, maybe"
+        intervals [15]
+            xmin = 114.72
+            xmax = 120.76
+            text = "one day it will go too far and we will lose the profession that is teaching?"
+        intervals [16]
+            xmin = 120.76
+            xmax = 171.68
+            text = ""
+        intervals [17]
+            xmin = 171.68
+            xmax = 177.6
+            text = "In fact, this is a good argument, but I think that we should also take account, in account"
+        intervals [18]
+            xmin = 177.6
+            xmax = 186.24
+            text = "that technology at school could have a negative impact on the student life as far for the"
+        intervals [19]
+            xmin = 186.24
+            xmax = 193.56
+            text = "screen time, because technology is present everywhere, so at home also, and if there is"
+        intervals [20]
+            xmin = 193.56
+            xmax = 202.6
+            text = "no break between use at home and at school, it can lead to addiction and problems like anxiety."
+        intervals [21]
+            xmin = 202.6
+            xmax = 258.4
+            text = ""
+        intervals [22]
+            xmin = 258.4
+            xmax = 265.24
+            text = "So what I hear you say is that the traditional way of teaching is still needed, therefore"
+        intervals [23]
+            xmin = 265.24
+            xmax = 270.32
+            text = "it also shows that technology has maybe not it's part in a classroom, if you still need"
+        intervals [24]
+            xmin = 270.32
+            xmax = 274.24
+            text = "the balance between traditional teaching and technology."
+        intervals [25]
+            xmin = 274.24
+            xmax = 281.08
+            text = "So yeah I think technology can be useful, but you also have to take account that not everyone"
+        intervals [26]
+            xmin = 281.08
+            xmax = 286.8
+            text = "has access to it, and if maybe we start using it, then we have to homework to do with"
+        intervals [27]
+            xmin = 286.8
+            xmax = 292.4
+            text = "it, and researches, and some students don't have access to that because of low income."
+        intervals [28]
+            xmin = 292.4
+            xmax = 294.24
+            text = "and it could disadvantage them."
+        intervals [29]
+            xmin = 294.24
+            xmax = 345.12
+            text = ""
+        intervals [30]
+            xmin = 345.12
+            xmax = 351.72
+            text = "I see, but I hear also is that it's a really expensive project, like I said, to buy the computers, to"
+        intervals [31]
+            xmin = 351.72
+            xmax = 356.92
+            text = "keep them... to keep the maintenance up, everything."
+        intervals [32]
+            xmin = 356.92
+            xmax = 364.28
+            text = "I don't think every school, every... that the state has the money for that in every school, and"
+        intervals [33]
+            xmin = 364.28
+            xmax = 365.28
+            text = "moreover"
+        intervals [34]
+            xmin = 365.28
+            xmax = 369.52
+            text = "When maintenance is needed, you can't use the technology, so it can also slow down"
+        intervals [35]
+            xmin = 369.52
+            xmax = 372.8
+            text = "the learning process while it's in maintenance."
+        intervals [36]
+            xmin = 372.8
+            xmax = 374.44
+            text = ""
+        intervals [37]
+            xmin = 374.44
+            xmax = 382.16
+            text = "While computers or technologic devices are in maintenance, they can't be used, so it slows"
+        intervals [38]
+            xmin = 382.16
+            xmax = 384.16
+            text = "down the learning process."
+        intervals [39]
+            xmin = 384.16
+            xmax = 431.84
+            text = ""
+        intervals [40]
+            xmin = 431.84
+            xmax = 440.76
+            text = "What about exams, because when you learn to take on a computer or to work on a computer"
+        intervals [41]
+            xmin = 440.76
+            xmax = 449.12
+            text = "and then you find yourself in front of a sheet and a traditional way of writing exams,"
+        intervals [42]
+            xmin = 449.12
+            xmax = 453.48
+            text = "you... students may be lost, because they are not that used to it."
+        intervals [43]
+            xmin = 453.48
+            xmax = 480.28
+            text = ""
+        intervals [44]
+            xmin = 480.28
+            xmax = 489.24
+            text = "Okay so, I hear you, and I feel like we can go to a compromise where we think that technology can"
+        intervals [45]
+            xmin = 489.24
+            xmax = 495.52
+            text = "be used, but with limits and work that in the schools with the teacher who need a lot"
+        intervals [46]
+            xmin = 495.52
+            xmax = 496.52
+            text = "of training."
+        intervals [47]
+            xmin = 496.52
+            xmax = 509.352
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "021"
+        xmin = 0.0
+        xmax = 509.352
+        intervals: size = 56
+        intervals [1]
+            xmin = 0.0
+            xmax = 3.21
+            text = ""
+        intervals [2]
+            xmin = 3.21
+            xmax = 5.45
+            text = "021 A"
+        intervals [3]
+            xmin = 5.45
+            xmax = 38.24
+            text = ""
+        intervals [4]
+            xmin = 38.24
+            xmax = 50.12
+            text = "Yeah, but I think that is the role of the states, the states need to... How can I say it ? Need pay for all of it because"
+        intervals [5]
+            xmin = 50.12
+            xmax = 62.16
+            text = "it's his job to permit to all students to have the equipments required for good learning and"
+        intervals [6]
+            xmin = 62.16
+            xmax = 63.52
+            text = "good teaching."
+        intervals [7]
+            xmin = 63.52
+            xmax = 82.84
+            text = ""
+        intervals [8]
+            xmin = 82.84
+            xmax = 91.0
+            text = "Yes, but to my mind, the new teachers will bring the new 21st century childrens, so they"
+        intervals [9]
+            xmin = 91.0
+            xmax = 99.68
+            text = "will grow up with the new technology, so we will need to teach them less than actually"
+        intervals [10]
+            xmin = 99.68
+            xmax = 102.32
+            text = "with the old teacher."
+        intervals [11]
+            xmin = 102.32
+            xmax = 120.76
+            text = ""
+        intervals [12]
+            xmin = 120.76
+            xmax = 126.0
+            text = "No, because I'm not saying that robots can replace teachers."
+        intervals [13]
+            xmin = 126.0
+            xmax = 135.32
+            text = "I just think that the technology, sorry, is a tools for teachers to help the student"
+        intervals [14]
+            xmin = 135.32
+            xmax = 141.92
+            text = "or the child to make more research."
+        intervals [15]
+            xmin = 141.92
+            xmax = 154.64
+            text = "It's a tools that they can use, for example, to go far away from their, from what they"
+        intervals [16]
+            xmin = 154.64
+            xmax = 155.64
+            text = "knows."
+        intervals [17]
+            xmin = 155.64
+            xmax = 161.76
+            text = "The teacher can not know everything, so when, for example, they work on the project"
+        intervals [18]
+            xmin = 161.76
+            xmax = 169.56
+            text = "or something, they can use the technology to help them to work, to reach new methods"
+        intervals [19]
+            xmin = 169.56
+            xmax = 171.68
+            text = "of working, of teaching."
+        intervals [20]
+            xmin = 171.68
+            xmax = 202.6
+            text = ""
+        intervals [21]
+            xmin = 202.6
+            xmax = 210.16
+            text = "Yes, I agree, but that is our work, that is the teacher work and parents work."
+        intervals [22]
+            xmin = 210.16
+            xmax = 217.44
+            text = "We need to control the time that the child spend on the screen, for example,"
+        intervals [23]
+            xmin = 217.44
+            xmax = 225.56
+            text = "We can work only two hours a day on screen, sorry, screens at school, and the parents"
+        intervals [24]
+            xmin = 225.56
+            xmax = 231.36
+            text = "can control the times when the child will come back at home."
+        intervals [25]
+            xmin = 231.36
+            xmax = 238.08
+            text = "So the child will not spend too much time on the screen, and we can do like exercise,"
+        intervals [26]
+            xmin = 238.08
+            xmax = 244.92
+            text = "like who seems like feedback, to talk about what did you see on screen, what did you"
+        intervals [27]
+            xmin = 244.92
+            xmax = 253.28
+            text = "think to make, to share together with the children, to have their feelings about the screen,"
+        intervals [28]
+            xmin = 253.28
+            xmax = 258.4
+            text = "and to check if they are good with it."
+        intervals [29]
+            xmin = 258.4
+            xmax = 294.24
+            text = ""
+        intervals [30]
+            xmin = 294.24
+            xmax = 304.16
+            text = "That's why I think that the state must pay for it, because I think the... for example, the"
+        intervals [31]
+            xmin = 304.16
+            xmax = 309.92
+            text = "states can buy computers or some advices for the school."
+        intervals [32]
+            xmin = 309.92
+            xmax = 315.04
+            text = "The school will rent it to the students, so they will have all the same computers, all the"
+        intervals [33]
+            xmin = 315.04
+            xmax = 322.92
+            text = "same advices, so their will be not, like I say, disparities, I can say it like this,"
+        intervals [34]
+            xmin = 322.92
+            xmax = 325.0
+            text = "disparities between them."
+        intervals [35]
+            xmin = 325.0
+            xmax = 337.28
+            text = "It will be easier, easier sorry, for the teacher because they will have all the same computers or advices."
+        intervals [36]
+            xmin = 337.28
+            xmax = 344.92
+            text = "and their will not be disparities because they will work, they will be equal."
+        intervals [37]
+            xmin = 344.92
+            xmax = 372.8
+            text = ""
+        intervals [38]
+            xmin = 372.8
+            xmax = 373.8
+            text = "Could you repeat sorry?"
+        intervals [39]
+            xmin = 373.8
+            xmax = 384.16
+            text = ""
+        intervals [40]
+            xmin = 384.16
+            xmax = 389.56
+            text = "No, because to my mind, the learning process is not based on technology, it's just a"
+        intervals [41]
+            xmin = 389.56
+            xmax = 398.2
+            text = "tools that they can use to help them, not... it's not the major party of the works, so it will not"
+        intervals [42]
+            xmin = 398.2
+            xmax = 406.8
+            text = "be like something missing when they are in maintenance, you understand."
+        intervals [43]
+            xmin = 406.8
+            xmax = 414.12
+            text = "The teacher will work with their... like you said, traditional methods, but they can use the technology"
+        intervals [44]
+            xmin = 414.12
+            xmax = 421.84
+            text = "to help them to bring new methods, to adapt their methods to students which are maybe"
+        intervals [45]
+            xmin = 421.84
+            xmax = 430.04
+            text = "different, maybe who wants to discover something, different, because they have a different"
+        intervals [46]
+            xmin = 430.04
+            xmax = 431.84
+            text = "level, for example."
+        intervals [47]
+            xmin = 431.84
+            xmax = 453.48
+            text = ""
+        intervals [48]
+            xmin = 453.48
+            xmax = 457.6
+            text = "To my mind, it depends of the skills."
+        intervals [49]
+            xmin = 457.6
+            xmax = 463.6
+            text = "For example, if you... if in class they used to work mathematics without a computer, they should"
+        intervals [50]
+            xmin = 463.6
+            xmax = 472.16
+            text = "do the exam without the computer, but if they works something like a French with the"
+        intervals [51]
+            xmin = 472.16
+            xmax = 476.28
+            text = "computers, they will pass the exam with the computers, too."
+        intervals [52]
+            xmin = 476.28
+            xmax = 480.28
+            text = "Like this, they will have the habits."
+        intervals [53]
+            xmin = 480.28
+            xmax = 496.52
+            text = ""
+        intervals [54]
+            xmin = 496.52
+            xmax = 503.16
+            text = "Yeah exactly, like I said, the technology will not be the base of the teaching, it will be just"
+        intervals [55]
+            xmin = 503.16
+            xmax = 508.04
+            text = "a plus, a tools that can be used by the teacher to help the children."
+        intervals [56]
+            xmin = 508.04
+            xmax = 509.352
+            text = ""

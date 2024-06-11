@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-06-06T10:23:30+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/natha/OneDrive/Documents/UGA/GETALP/Audios/dec2022-003_014-006.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../Audios/dec2022-003_014-006.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3d3454f5-d1bf-4721-ab01-c754b1fe8b29</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">95</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="25000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="25000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="29000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="29000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="39000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="39000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="42000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="42000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="50000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="50000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="51000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="51000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="59000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="59000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="63000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="63000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="67000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="67000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="79000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="79000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="80000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="80000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="82000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="82000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="98000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="98000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="110000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="110000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="119000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="119000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="131000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="131000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="141000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="141000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="161000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="161000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="179000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="179000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="186000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="186000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="191000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="191000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="200000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="200000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="208000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="208000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="223000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="223000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="237000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="237000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="247000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="247000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="253000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="253000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="261000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="261000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="275000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="275000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="291000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="291000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="308000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="308000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="321000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="321000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="335000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="335000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="340000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="340000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="351000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="351000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="364000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="364000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="372000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="373000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="386000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="386000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="393000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="393000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="403000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="403000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="414000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="414000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="429000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="429000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="446000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="446000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="458000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="458000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="467000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="468000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="478000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="478000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="493000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="493000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="503000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="503000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="508000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="508000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="515000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="515000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="535000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="535000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="543000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="543000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="568000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="568000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="575000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="575000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="594000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="594000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="603000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="603000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="617000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="014">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>I'm number 14</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>I agree with what you're saying.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>But the problem is that you can't control what every student on the class did with his laptop.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>So, it could create a distraction for some of them and if some are not really good to pay attention to what the teacher says,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>it could also provide a lot of distraction to them.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>And they will not be really helped with that system.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>It can provide more harm to them than it could be good because they may not be as attentive as if it was just a teacher who is speaking.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>I see what you mean but you tell that you need to train the professors to use these new technologies and</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>As a lot of teachers who are now in the scholar system may not be born with the technologies , so they need to learn more about how to control it, how to use it, etc.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>And it could cost very much because you need to install a lot of computers to help every pupil because if you want to put this system to help every student, everyone should be at the same level.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>So, everyone should have his home computer provided by the school if it's possible.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>And then it would be a so much expensive measure.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>And then you need to hire a person to form the teachers how to use it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>And I think it could be so expensive for schools who are not... who don't have a lot of money from the system.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Yes, but in which measure do you think this investment would be great?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Because in my opinion, yes, the society evolves and we need to teach our students how to do the... how to use the things which are on their possessions now.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>But it might be also important to preserve their health because we know that computers could have... and the using of internet, could have a lot of wrong consequences on the health.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Not, like on the psychic aspect, it could cause anxiety, depression and a low self-estimate because there could be a harassment too on internet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Not so at school, but it could create this and inequalities and some pupils could make fun of others as they are not at the same level and I think it could be a problem.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>Yeah, I think it's important to prevent it and it may be great to limit the using of these tools.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Because I completely understand and completely agree with you on the fact that it's important to teach the students how to... to teach them some things that could be really helpful for them in their future.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>But to preserve them I think it could be great to limit the using of computers or of internet because we know that at home they use video games, television, smartphones, tablets, etc.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>And I think the school is the moment where they can disconnect from this and it could be interesting for them to have the knowledges and the skills with the technology.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>But I think it could be a reasonable thing, a reasonable lesson during their whole week as school.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>succeeding at the end. Is exactly that. The system doesn't change completely.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>So we need to still form them and train them to what they are gonna have as an exam.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>And we cannot, I think, in my opinion impose them to use computers every day and in every single class because it could not be great at the end because they will not even know how to write if they are typing on their keyboards every time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>And so yeah, it could be important to limit this and to maintain a more traditional way of learning.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>It's exactly what I would like to see in our schools nowadays because they need this knowledges.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>And we can bring them to them but it's needed that it's in a controlled way because it could be so harmful for them and for the teachers because if the teachers doesn't know how to do it,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>it will not help them if they just put a time with the computer and don't really know how to organize their own lessons.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="006">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>and 006</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>So, I begin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>So, I think that using technology in classrooms provides better help to students.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>And it can be customized to the students' needs.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>So, it can be very helpful for them and help them to learn stuff according to their own needs.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>I totally understand what you're saying.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>And so, that's why we are helping the teachers with teacher coaches to help them better handle all the students in class to help them control everything that is done in the better way.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>And also, a few software applications that can help the teacher control what all the students are doing in time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>So, I honestly think that towards students that are often not very paying attention to class,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>actually technology can help them to engage in the lesson way more because it can provide them other ways to communicate with the students around them.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Of course, and of course it's a really long-term investment because it's a lot of money and it's a lot of people that are gonna be involved if we need to make like... to hire more teachers and stuff.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>But it can be very helpful and on the long-term it can help so much students to find better jobs for themselves especially when we are in a constantly evolving society.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>And we are actually helping our students to train for jobs that are gonna be different from what we have now.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>And so I think it's so important that we have to make this investment.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Okay, I totally understand and that's a real issue that it needs to be worked on because when we take such big measures to change a system that's been working the same way for a long time,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>we need to be aware of all the consequences that it can bring.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>And of course cyber bullying and anxiety caused from being way too much on screens is an issue and we are aware of it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>So we actually make programs to help the parents and the students to control themselves and to have a better handling of what happens on the screens.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>And of course it's an issue that we have to consider in order to put this in place.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>But I think that it really can help students to understand what society needs of them right now and what their future jobs needs to be.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>I just think that it has a lot of good impacts.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>But of course we need to understand that the consequences can be harmful and so we need to control this in order to prevent it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Okay, so what you mean I think is that we should like have a time where they are using technology and sometimes when they aren't.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>So they can have also the standard... standard way of learning and also because all the exams that they have to pass the official exams are still in the same format as before with a paper and a pen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>So they need also these standard skills to understand and to have a good way of learning</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>Okay, so we should maybe split the time where some time they have pen papers and books and they can learn from that and sometimes when they use technology and they learn to use it in the, so they learn to use it in a sane way in a not harmful way and in a controlled way from the teachers and the parents.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>So even we need to have teachers as like people who help the students not that are replaced by computers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Ens">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>014</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>006. So 006 role A, 014 role B</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
