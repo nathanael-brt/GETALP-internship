@@ -22,7 +22,7 @@ take 3 files as an input (read on keyboard) :
     This has to be done on ELAN and exported with the option "texte délimité par des tabulations" and all parameters unchecked. 
     This gives a file of the format : 
     
-        speaker1_name	   text text text text text
+        speaker1_name      text text text text text
         speaker1_name      text text text text text
         speaker1_name      text text text text text
         speaker2_name      text text text text text
