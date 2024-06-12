@@ -1,5 +1,7 @@
 # GETALP-internship
 
+Globally this internship has been based on [OpenAI's Whisper](https://github.com/openai/whisper).  
+
 - **whisper2txtgrid** 
 
 Convert the *whisper* ".srt" output into a TextGrid file --> Can import to Elan and Praat
