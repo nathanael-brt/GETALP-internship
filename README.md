@@ -1,6 +1,6 @@
 # GETALP-internship
 
-Based on [plspp](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp)  
+Based on this tool : [plspp](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp).  
 This internship has been mostly using [OpenAI's Whisper](https://github.com/openai/whisper).  
 
 - **whisper2txtgrid** 
