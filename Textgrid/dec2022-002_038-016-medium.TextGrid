@@ -1,0 +1,302 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 547.0                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 547.0                                  
+        intervals: size = 72                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 4.0
+            text = "So, 38, situation 1 and role B."
+        intervals [2]:
+            xmin = 4.0
+            xmax = 6.0
+            text = "Yes, the role, sorry."
+        intervals [3]:
+            xmin = 6.0
+            xmax = 11.0
+            text = "Number 016, situation 1 and role A."
+        intervals [4]:
+            xmin = 14.0
+            xmax = 23.0
+            text = "So, what do you think about the priorities that we can call B in the matter of technology in the classroom?"
+        intervals [5]:
+            xmin = 23.0
+            xmax = 25.0
+            text = "Do you think it's a good thing?"
+        intervals [6]:
+            xmin = 26.0
+            xmax = 33.0
+            text = "Because I think, in my opinion, if you include more technology in the classroom,"
+        intervals [7]:
+            xmin = 33.0
+            xmax = 39.0
+            text = "we are going to increase the knowledge and the skill of the students."
+        intervals [8]:
+            xmin = 39.0
+            xmax = 43.0
+            text = "It's a way to discover a new method. What do you think about that?"
+        intervals [9]:
+            xmin = 43.0
+            xmax = 50.0
+            text = "No, I disagree with you because I think it's more armed than good."
+        intervals [10]:
+            xmin = 50.0
+            xmax = 55.0
+            text = "And schools should moderate using technology."
+        intervals [11]:
+            xmin = 55.0
+            xmax = 69.0
+            text = "Indeed, social inequalities can be evocated because some students don't have the tools necessary"
+        intervals [12]:
+            xmin = 69.0
+            xmax = 75.0
+            text = "and don't have access to computers or the internet, for example."
+        intervals [13]:
+            xmin = 76.0
+            xmax = 84.0
+            text = "So, I think it's not a good way to admit new technology in the classroom."
+        intervals [14]:
+            xmin = 84.0
+            xmax = 92.0
+            text = "Okay, and as you say, some students don't have access to the technology."
+        intervals [15]:
+            xmin = 92.0
+            xmax = 103.0
+            text = "And do you think that if we put in class some computers and work just a little time at every class,"
+        intervals [16]:
+            xmin = 103.0
+            xmax = 107.0
+            text = "they can discover a new thing because they don't have it at their home?"
+        intervals [17]:
+            xmin = 107.0
+            xmax = 113.0
+            text = "Yes, it's possible, but it's so expensive for the schools."
+        intervals [18]:
+            xmin = 113.0
+            xmax = 126.0
+            text = "And the teacher must be formed and it's a major problem to develop new technologies."
+        intervals [19]:
+            xmin = 127.0
+            xmax = 134.0
+            text = "It's so expensive for the schools and it increases inequalities."
+        intervals [20]:
+            xmin = 134.0
+            xmax = 142.0
+            text = "Yes, I agree with you. It's very expensive and teachers need very good training."
+        intervals [21]:
+            xmin = 142.0
+            xmax = 149.0
+            text = "But I think it's a way to increase the curiosity of children and students."
+        intervals [22]:
+            xmin = 149.0
+            xmax = 158.0
+            text = "And it may be a way for them to study in a way more exciting and more interesting for them."
+        intervals [23]:
+            xmin = 158.0
+            xmax = 162.0
+            text = "So, I think we need to find solutions."
+        intervals [24]:
+            xmin = 162.0
+            xmax = 169.0
+            text = "There is not too much, but not at all."
+        intervals [25]:
+            xmin = 169.0
+            xmax = 171.0
+            text = "What do you think?"
+        intervals [26]:
+            xmin = 171.0
+            xmax = 175.0
+            text = "Yes, I agree with you on this point."
+        intervals [27]:
+            xmin = 175.0
+            xmax = 185.0
+            text = "But the risk is to disconnect the students with the reality."
+        intervals [28]:
+            xmin = 185.0
+            xmax = 196.0
+            text = "And I think it's more better to read a book, for example, than to learn with a computer."
+        intervals [29]:
+            xmin = 196.0
+            xmax = 209.0
+            text = "And for example, in some countries, students don't have the possibility to buy good equipment"
+        intervals [30]:
+            xmin = 209.0
+            xmax = 215.0
+            text = "and access of new technology increases social inequalities."
+        intervals [31]:
+            xmin = 215.0
+            xmax = 228.0
+            text = "Yes, but in the real life, when you have a job, a work, you need to know how to use a computer"
+        intervals [32]:
+            xmin = 228.0
+            xmax = 236.0
+            text = "because a lot of jobs are using computers for grading mail, do some studies."
+        intervals [33]:
+            xmin = 236.0
+            xmax = 240.0
+            text = "So, I think it's not good if there is too much."
+        intervals [34]:
+            xmin = 240.0
+            xmax = 251.0
+            text = "But they need a little bit every month or every day for increase their knowledge and skills for their future jobs."
+        intervals [35]:
+            xmin = 251.0
+            xmax = 256.0
+            text = "So, which solution can we found together?"
+        intervals [36]:
+            xmin = 256.0
+            xmax = 261.0
+            text = "Yes, a little bit is a possibility."
+        intervals [37]:
+            xmin = 261.0
+            xmax = 274.0
+            text = "And students pass exams, pass assessments, and the assessments were written."
+        intervals [38]:
+            xmin = 274.0
+            xmax = 282.0
+            text = "So, I think it's possible to make..."
+        intervals [39]:
+            xmin = 282.0
+            xmax = 286.0
+            text = "Some exercises, maybe, and some research."
+        intervals [40]:
+            xmin = 286.0
+            xmax = 288.0
+            text = "Yes, but a little bit."
+        intervals [41]:
+            xmin = 288.0
+            xmax = 296.0
+            text = "Yes, and maybe it can be a good idea if they do some research in the Internet"
+        intervals [42]:
+            xmin = 296.0
+            xmax = 303.0
+            text = "for discovering a computer and how it's working, and maybe some exercises."
+        intervals [43]:
+            xmin = 303.0
+            xmax = 307.0
+            text = "But as you say, tests are on a paper with a pen."
+        intervals [44]:
+            xmin = 307.0
+            xmax = 312.0
+            text = "So, just a little bit for their curiosity and discovery."
+        intervals [45]:
+            xmin = 312.0
+            xmax = 318.0
+            text = "Yes, it's a good way to increase our knowledge."
+        intervals [46]:
+            xmin = 318.0
+            xmax = 341.0
+            text = "Yes, and do you think it's a better solution if a teacher decided to do three hours of their courses on the computer"
+        intervals [47]:
+            xmin = 341.0
+            xmax = 350.0
+            text = "of maybe just an hour per day or three hours per month because they need?"
+        intervals [48]:
+            xmin = 350.0
+            xmax = 356.0
+            text = "So, I understand that they don't need very much, but not less."
+        intervals [49]:
+            xmin = 356.0
+            xmax = 362.0
+            text = "Yes, one hour per day."
+        intervals [50]:
+            xmin = 362.0
+            xmax = 365.0
+            text = "It's a good solution, I think."
+        intervals [51]:
+            xmin = 365.0
+            xmax = 386.0
+            text = "And it's a good way to increase our capacity, our skills in different topics."
+        intervals [52]:
+            xmin = 386.0
+            xmax = 399.0
+            text = "Yes, I think change the way of the learning, not just on the board with exercise paper and books"
+        intervals [53]:
+            xmin = 399.0
+            xmax = 405.0
+            text = "that can attract students."
+        intervals [54]:
+            xmin = 405.0
+            xmax = 411.0
+            text = "They can be more exciting to learning and more interesting on the courses."
+        intervals [55]:
+            xmin = 411.0
+            xmax = 420.0
+            text = "Yes, it's very beneficial. Benefits are good in this point."
+        intervals [56]:
+            xmin = 420.0
+            xmax = 424.0
+            text = "And as you already said, it's very expensive."
+        intervals [57]:
+            xmin = 424.0
+            xmax = 425.0
+            text = "Yes."
+        intervals [58]:
+            xmin = 425.0
+            xmax = 438.0
+            text = "So, maybe not a computer for every student, but some computers in the class,"
+        intervals [59]:
+            xmin = 438.0
+            xmax = 450.0
+            text = "and they can turn during three hours and some don't exercise on their papers and other on their computers."
+        intervals [60]:
+            xmin = 450.0
+            xmax = 461.0
+            text = "Yes, and each student can be access to a computer."
+        intervals [61]:
+            xmin = 461.0
+            xmax = 464.0
+            text = "Yes."
+        intervals [62]:
+            xmin = 464.0
+            xmax = 471.0
+            text = "Can we also learn with a pen and a paper?"
+        intervals [63]:
+            xmin = 471.0
+            xmax = 485.0
+            text = "Maybe we don't give homework at home on a computer for a variety of inequalities, as you said,"
+        intervals [64]:
+            xmin = 485.0
+            xmax = 488.0
+            text = "but do some exercises in the school."
+        intervals [65]:
+            xmin = 488.0
+            xmax = 496.0
+            text = "In class, yes, in school."
+        intervals [66]:
+            xmin = 496.0
+            xmax = 510.0
+            text = "So, I think, like I already said, that school should moderate the using of technology."
+        intervals [67]:
+            xmin = 510.0
+            xmax = 518.0
+            text = "And I think your proposition is very good for the students and the teacher."
+        intervals [68]:
+            xmin = 518.0
+            xmax = 529.0
+            text = "If I can conclude, maybe we can say that we are going to do many technologies in class,"
+        intervals [69]:
+            xmin = 529.0
+            xmax = 538.0
+            text = "three hours per day, but with rotations that are going to avoid the inequalities between students,"
+        intervals [70]:
+            xmin = 538.0
+            xmax = 543.0
+            text = "and they can increase their knowledge and skills."
+        intervals [71]:
+            xmin = 543.0
+            xmax = 545.0
+            text = "Am I missing something?"
+        intervals [72]:
+            xmin = 545.0
+            xmax = 547.0
+            text = "No, it's perfect. Thank you."
