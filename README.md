@@ -35,3 +35,14 @@ take 3 files as an input (read on keyboard) :
 The WER is computed without taking into account ponctuation and capital letters.  
 It uses this formula: WER = (Substitutions + insertions + deletions) / total_number_of_words.  
 The Algorithm uses the **Levenshtein distance method**.
+
+
+--------------------------------------------------------------------------------------------
+- **WhisperCarbone**
+
+Compute the carbon emissions produced by whisper.  
+Uses [codecarbon](https://github.com/mlco2/codecarbon).  
+
+**/!\\** The input file must be changed manually inside the python file. 
+
+Return a .csv with plenty of informations.  
