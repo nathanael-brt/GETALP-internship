@@ -9,7 +9,7 @@ model = whisper.load_model(input("Model:\n"))
 tracker = EmissionsTracker()
 tracker.start()
 #lancement de whisper (changer le nom du fichier si besoin)
-result = model.transcribe("Audios/dec2022-002_038-016.wav")
+result = model.transcribe("../Audios/dec2022-002_038-016.wav")
 #fin du tracking
 tracker.stop()
 
