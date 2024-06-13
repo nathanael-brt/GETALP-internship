@@ -29,15 +29,15 @@ It takes 3 files as an input (read on keyboard) :
     This gives a file of the format : 
 
 ```
-        speaker1_name      text text text text text
-        speaker1_name      text text text text text
-        speaker1_name      text text text text text
-        speaker2_name      text text text text text
-        speaker2_name      text text text text text
-        .
-        .
-        .
-        speakern_name      text text text text text
+speaker1_name      text text text text text
+speaker1_name      text text text text text
+speaker1_name      text text text text text
+speaker2_name      text text text text text
+speaker2_name      text text text text text
+.
+.
+.
+speakern_name      text text text text text
 ```
 **The reference and the correction both need to be in this format, with the speakers in the same order**  
 
