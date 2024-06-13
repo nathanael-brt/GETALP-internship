@@ -16,7 +16,7 @@ It Take 2 files as an input (read on keyboard) :<br>
 --------------------------------------------------------------------------------------------
 - **WER** 
 
-Computes the *Word Error Count* between the reference from *whisper* and the manually corrected version.
+Computes the **Word Error Count** between the reference from *whisper* and the manually corrected version.
 Gives one *WER* by speaker. 
 
 It takes 3 files as an input (read on keyboard) :
@@ -55,7 +55,5 @@ Computes the carbon emissions produced by whisper in function on a chosen whispe
 Uses the [codecarbon](https://github.com/mlco2/codecarbon) and whisper packages for python.  
 
 Takes a whisper model and an audio file as inputs.   
-
-**/!\\** The input file must be changed manually inside the python file. 
 
 Returns a ```.csv``` with plenty of informations on not only the carbon emissions but also the power consumption, the cpu, gpu, etc...  
