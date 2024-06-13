@@ -19,5 +19,5 @@ cd ../../
 touch Textgrid/$file_name.TextGrid  #create the .TextGrid file
 chmod a+w Textgrid/$file_name.TextGrid
 #execute the python program
-python whisper2textgrid.py
+python whisper2txtgrid.py
 echo "--GOODBYE--"

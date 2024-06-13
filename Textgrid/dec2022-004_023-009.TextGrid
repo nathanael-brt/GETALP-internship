@@ -1,0 +1,242 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 526.0                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 526.0                                  
+        intervals: size = 57                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 23.0
+            text = "So we are here to different our position on the foundation which is that could be in"
+        intervals [2]:
+            xmin = 23.0
+            xmax = 30.0
+            text = "a better technology in the classroom. For me, I think that technology in school could"
+        intervals [3]:
+            xmin = 30.0
+            xmax = 36.0
+            text = "harm more than be good for students. For me schools should be moderated their"
+        intervals [4]:
+            xmin = 36.0
+            xmax = 39.0
+            text = "utilization of new technology."
+        intervals [5]:
+            xmin = 39.0
+            xmax = 56.0
+            text = "Okay, so in my opinion the technology in school is not harm but is like an experience"
+        intervals [6]:
+            xmin = 56.0
+            xmax = 73.0
+            text = "and a thing to improve the learning of these students and the express of these students."
+        intervals [7]:
+            xmin = 73.0
+            xmax = 82.0
+            text = "Okay, I understand you point of view but for me I think that it could improve their"
+        intervals [8]:
+            xmin = 82.0
+            xmax = 89.0
+            text = "capacities but it also could distract them where they are in class and they just look"
+        intervals [9]:
+            xmin = 89.0
+            xmax = 99.0
+            text = "at the screen and for me and for therapists also students and young people are already"
+        intervals [10]:
+            xmin = 99.0
+            xmax = 108.0
+            text = "too much in front of a screen. We can heard before that they are six or eight hours per day"
+        intervals [11]:
+            xmin = 108.0
+            xmax = 118.0
+            text = "in front of a screen and if new technologies are allowed in school we couldn't"
+        intervals [12]:
+            xmin = 118.0
+            xmax = 121.0
+            text = "reduce this screen time."
+        intervals [13]:
+            xmin = 121.0
+            xmax = 144.0
+            text = "Okay, I could consider eight that can distract students but I think the students"
+        intervals [14]:
+            xmin = 144.0
+            xmax = 156.0
+            text = "are wondering the learn and they can be more, I don't know, but..."
+        intervals [15]:
+            xmin = 156.0
+            xmax = 165.0
+            text = "Do you think that technologies can interest students more than if they are just with a pen?"
+        intervals [16]:
+            xmin = 165.0
+            xmax = 178.0
+            text = "Yes, it's like they are in her house and it's more familiar for him to take"
+        intervals [17]:
+            xmin = 178.0
+            xmax = 182.0
+            text = "technologies and to simply learn."
+        intervals [18]:
+            xmin = 182.0
+            xmax = 193.0
+            text = "Yeah, I couldn't agree more with you in this point and I think we can have a compromise"
+        intervals [19]:
+            xmin = 193.0
+            xmax = 204.0
+            text = "with this. For me I think that a little time of screen in school couldn't have"
+        intervals [20]:
+            xmin = 204.0
+            xmax = 211.0
+            text = "bad effect on the students because they have to live with their time but I think"
+        intervals [21]:
+            xmin = 211.0
+            xmax = 217.0
+            text = "school should moderate their use."
+        intervals [22]:
+            xmin = 217.0
+            xmax = 226.0
+            text = "Yes, they need to restrict the time of the students in the screen because I think"
+        intervals [23]:
+            xmin = 226.0
+            xmax = 243.0
+            text = "the students can be more able to deal with if they have a good situation"
+        intervals [24]:
+            xmin = 243.0
+            xmax = 252.0
+            text = "and to use it."
+        intervals [25]:
+            xmin = 252.0
+            xmax = 255.0
+            text = "Okay, yeah, I agree with you."
+        intervals [26]:
+            xmin = 255.0
+            xmax = 264.0
+            text = "And for you, what is the perfect time in the day for students?"
+        intervals [27]:
+            xmin = 264.0
+            xmax = 273.0
+            text = "I think that's half an hour for day, it's a good time for students because"
+        intervals [28]:
+            xmin = 273.0
+            xmax = 286.0
+            text = "extend this time the students were not concentrated in the school."
+        intervals [29]:
+            xmin = 286.0
+            xmax = 289.0
+            text = "Yeah, I agree with you with that."
+        intervals [30]:
+            xmin = 289.0
+            xmax = 299.0
+            text = "And I also think that if there are more than one or two hours per day in front of a screen like"
+        intervals [31]:
+            xmin = 299.0
+            xmax = 305.0
+            text = "the therapist, I agree with this."
+        intervals [32]:
+            xmin = 305.0
+            xmax = 316.0
+            text = "Students could have a addiction to technologies and their screen and their phone."
+        intervals [33]:
+            xmin = 316.0
+            xmax = 326.0
+            text = "Yes, my meanwhile the school, some students have an addiction with the screen."
+        intervals [34]:
+            xmin = 326.0
+            xmax = 336.0
+            text = "And the school didn't under the phone."
+        intervals [35]:
+            xmin = 336.0
+            xmax = 346.0
+            text = "And the school have a goal and this goal is to learn."
+        intervals [36]:
+            xmin = 346.0
+            xmax = 358.0
+            text = "And I think that's the learning can be passed with the screen with technology."
+        intervals [37]:
+            xmin = 358.0
+            xmax = 364.0
+            text = "But it's not the only goal of school."
+        intervals [38]:
+            xmin = 364.0
+            xmax = 369.0
+            text = "It's not the school of technology, it's school."
+        intervals [39]:
+            xmin = 369.0
+            xmax = 374.0
+            text = "So it's school to learn not to disrespect."
+        intervals [40]:
+            xmin = 374.0
+            xmax = 378.0
+            text = "Yeah, I agree with you on this."
+        intervals [41]:
+            xmin = 378.0
+            xmax = 392.0
+            text = "And to talk about another point, what do you think technology could do between students"
+        intervals [42]:
+            xmin = 392.0
+            xmax = 398.0
+            text = "who don't have a lot of money and don't have access to technologies."
+        intervals [43]:
+            xmin = 398.0
+            xmax = 406.0
+            text = "And the students who already had a phone, a computer and others."
+        intervals [44]:
+            xmin = 406.0
+            xmax = 416.0
+            text = "I think it's great disparities between a school who have technology who have technology."
+        intervals [45]:
+            xmin = 416.0
+            xmax = 434.0
+            text = "And these disparities need to be put, not protected, but limited, I think."
+        intervals [46]:
+            xmin = 434.0
+            xmax = 455.0
+            text = "Because if we create disparities, we need to involve the fact that we can have people with or not technology."
+        intervals [47]:
+            xmin = 455.0
+            xmax = 470.0
+            text = "And it's simply to school to create an environment for Android technology and school."
+        intervals [48]:
+            xmin = 470.0
+            xmax = 481.0
+            text = "And not just for show us the disparity between this person or this person who have technology and who haven't."
+        intervals [49]:
+            xmin = 481.0
+            xmax = 485.0
+            text = "Yeah, yeah, I understand what you just said."
+        intervals [50]:
+            xmin = 485.0
+            xmax = 495.0
+            text = "So to sum up, we agreed that one hour of technology and screen per day in school, it's okay."
+        intervals [51]:
+            xmin = 495.0
+            xmax = 497.0
+            text = "It's not too much."
+        intervals [52]:
+            xmin = 497.0
+            xmax = 501.0
+            text = "It's a good condition for students, I think."
+        intervals [53]:
+            xmin = 501.0
+            xmax = 507.0
+            text = "And to conclude, yes, technology is create disparities."
+        intervals [54]:
+            xmin = 507.0
+            xmax = 513.0
+            text = "But it also creates good moments for students."
+        intervals [55]:
+            xmin = 513.0
+            xmax = 521.0
+            text = "And they can just enjoy to stand up for in school."
+        intervals [56]:
+            xmin = 521.0
+            xmax = 524.0
+            text = "And that's my point."
+        intervals [57]:
+            xmin = 524.0
+            xmax = 526.0
+            text = "Okay, I agree with you on this."
