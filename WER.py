@@ -1,6 +1,6 @@
 #compute the word error rate 
 import os
-import re
+import re 
 
 #ouverture des fichiers
 Whis = open(input("Whisper split file:\n"), "r")
@@ -19,7 +19,7 @@ Prec_actor = ""
 
 #on parcourt le fichier whis
 for lign in Whis:
-    # Remove punctuation and convert to lower case
+    # Supprime la ponctuation et passe le texte en miniscule
     lign = re.sub(r'[^\w\s]', '', lign).lower()
 
     List_lign = lign.split()     #transforme la ligne en liste de mots
