@@ -1,0 +1,292 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 502.294
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "034"
+        xmin = 0.0
+        xmax = 502.294
+        intervals: size = 33
+        intervals [1]
+            xmin = 0.0
+            xmax = 2.8
+            text = "number 034 role B"
+        intervals [2]
+            xmin = 2.8
+            xmax = 6.2
+            text = ""
+        intervals [3]
+            xmin = 6.2
+            xmax = 19.12
+            text = "I think technology is the future, but she have many many problems because the students"
+        intervals [4]
+            xmin = 19.12
+            xmax = 29.2
+            text = "are already exposed to this technology out of the school, so that's why I think we should"
+        intervals [5]
+            xmin = 29.2
+            xmax = 49.36
+            text = "moderate that use and maybe we can put a"
+        intervals [6]
+            xmin = 49.36
+            xmax = 65.12
+            text = "plage of of of hours still for example one hour for the day and after we continue the"
+        intervals [7]
+            xmin = 65.12
+            xmax = 79.28
+            text = "traditional way exercise like papers and books and..."
+        intervals [8]
+            xmin = 79.28
+            xmax = 169.818
+            text = ""
+        intervals [9]
+            xmin = 169.818
+            xmax = 174.96
+            text = "yes but what do you think about the psychology of our"
+        intervals [10]
+            xmin = 174.96
+            xmax = 185.2
+            text = "students if we expose too much our students to technology we know that it's a possibility for them"
+        intervals [11]
+            xmin = 185.2
+            xmax = 195.92
+            text = "to develop anxiety and I think that can degrade their their relationships so I think we have"
+        intervals [12]
+            xmin = 195.92
+            xmax = 208.24
+            text = "to take this in consideration and maybe don't put them really faster to the technology right now, ok"
+        intervals [13]
+            xmin = 208.24
+            xmax = 240.0
+            text = ""
+        intervals [14]
+            xmin = 240.0
+            xmax = 250.08
+            text = "what do you think about a class of sensibilization we could make a place of sensibilization for parents and for students to show us"
+        intervals [15]
+            xmin = 250.08
+            xmax = 263.92
+            text = "the danger of the technology and maybe debate of the benefits and the ..."
+        intervals [16]
+            xmin = 263.92
+            xmax = 294.56
+            text = ""
+        intervals [17]
+            xmin = 294.56
+            xmax = 303.92
+            text = "and there is another thing we are not really agree for the technology using in school"
+        intervals [18]
+            xmin = 303.92
+            xmax = 304.56
+            text = ""
+        intervals [19]
+            xmin = 304.56
+            xmax = 308.8
+            text = "I hope the technology will not"
+        intervals [20]
+            xmin = 308.8
+            xmax = 313.28
+            text = ""
+        intervals [21]
+            xmin = 313.28
+            xmax = 320.24
+            text = "use for the homework because there is disparity social and I think that some student are not"
+        intervals [22]
+            xmin = 320.24
+            xmax = 332.16
+            text = "the capacity or the materials way to have a computer at their home or so I think it's important to let the technology in into school"
+        intervals [23]
+            xmin = 332.16
+            xmax = 407.12
+            text = ""
+        intervals [24]
+            xmin = 407.12
+            xmax = 415.52
+            text = "you said two hours per day I am agree with that solution because I think two hours is not"
+        intervals [25]
+            xmin = 415.52
+            xmax = 416.32
+            text = ""
+        intervals [26]
+            xmin = 416.32
+            xmax = 423.6
+            text = "too much one hour is... is not enough okay but two hours you have the time to make many things and I think it's enough"
+        intervals [27]
+            xmin = 423.6
+            xmax = 438.16
+            text = ""
+        intervals [28]
+            xmin = 438.16
+            xmax = 449.28
+            text = "okay I think we can use for mathematics French"
+        intervals [29]
+            xmin = 449.28
+            xmax = 462.72
+            text = "lesson just for grammar, you know, exercise. When it's about redaction I prefer paper of course but for just"
+        intervals [30]
+            xmin = 462.72
+            xmax = 462.8
+            text = ""
+        intervals [31]
+            xmin = 462.8
+            xmax = 474.4
+            text = "simple exercises computer technology is great way and mathematics of course physical one is"
+        intervals [32]
+            xmin = 474.4
+            xmax = 485.68
+            text = "possible SVT you can okay well you can use the technology for see video and it is more you know attractive for student"
+        intervals [33]
+            xmin = 485.68
+            xmax = 502.294
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "042"
+        xmin = 0.0
+        xmax = 502.294
+        intervals: size = 35
+        intervals [1]
+            xmin = 0.0
+            xmax = 3.0
+            text = ""
+        intervals [2]
+            xmin = 3.0
+            xmax = 6.1
+            text = "number 042 role A"
+        intervals [3]
+            xmin = 6.1
+            xmax = 80.24
+            text = ""
+        intervals [4]
+            xmin = 80.24
+            xmax = 92.8
+            text = "I agree with you to keep using books papers and traditional way of learning but in my opinion technology"
+        intervals [5]
+            xmin = 92.8
+            xmax = 105.04
+            text = "provides extensive opportunities for students it's a way for them to develop new skills and their"
+        intervals [6]
+            xmin = 105.04
+            xmax = 125.12
+            text = "creativity by using devices like tablets, computers etc and it's a new way of learning for them"
+        intervals [7]
+            xmin = 125.12
+            xmax = 143.44
+            text = "it can develop their interest for what we we are studying and like you said they already use"
+        intervals [8]
+            xmin = 143.44
+            xmax = 144.4
+            text = ""
+        intervals [9]
+            xmin = 144.4
+            xmax = 165.2
+            text = "electronical devices so developing learning by technology is really in our area and that's why I think"
+        intervals [10]
+            xmin = 165.2
+            xmax = 165.318
+            text = ""
+        intervals [11]
+            xmin = 165.318
+            xmax = 169.795
+            text = "we should develop that point in the school"
+        intervals [12]
+            xmin = 169.795
+            xmax = 208.8
+            text = ""
+        intervals [13]
+            xmin = 208.8
+            xmax = 224.16
+            text = "yes I agree we should limit the use of technology in school like two hours per day maybe"
+        intervals [14]
+            xmin = 224.16
+            xmax = 224.48
+            text = ""
+        intervals [15]
+            xmin = 224.48
+            xmax = 240.0
+            text = "that could be interesting to to experiment that way of learning "
+        intervals [16]
+            xmin = 240.0
+            xmax = 265.76
+            text = ""
+        intervals [17]
+            xmin = 265.76
+            xmax = 278.56
+            text = " yes I totally agree with you, I think it could be necessary to learn to parents and students the dangers of internet the"
+        intervals [18]
+            xmin = 278.56
+            xmax = 279.52
+            text = ""
+        intervals [19]
+            xmin = 279.52
+            xmax = 290.48
+            text = "extreme use of electronical devices on health for example on the eyes, on concentration etc"
+        intervals [20]
+            xmin = 290.48
+            xmax = 332.24
+            text = ""
+        intervals [21]
+            xmin = 332.24
+            xmax = 344.4
+            text = "yes or another solution is to ask parents if they have"
+        intervals [22]
+            xmin = 344.4
+            xmax = 353.68
+            text = "electronical devices at home and for the students who don't have electronic devices to do homework"
+        intervals [23]
+            xmin = 353.68
+            xmax = 354.24
+            text = ""
+        intervals [24]
+            xmin = 354.24
+            xmax = 369.84
+            text = "maybe school can provide us them a computer to to do their homeworks for example if they have to"
+        intervals [25]
+            xmin = 369.84
+            xmax = 380.64
+            text = "do expose that could be a solution for them to to work at home with technology "
+        intervals [26]
+            xmin = 380.64
+            xmax = 386.4
+            text = ""
+        intervals [27]
+            xmin = 386.4
+            xmax = 386.88
+            text = "time"
+        intervals [28]
+            xmin = 386.88
+            xmax = 387.2
+            text = ""
+        intervals [29]
+            xmin = 387.2
+            xmax = 405.92
+            text = "what time do you think we should impose to use technology at school"
+        intervals [30]
+            xmin = 405.92
+            xmax = 425.6
+            text = ""
+        intervals [31]
+            xmin = 425.6
+            xmax = 438.16
+            text = "okay and in what... in what class do you think we should use it for example plastic art mathematics English "
+        intervals [32]
+            xmin = 438.16
+            xmax = 486.0
+            text = ""
+        intervals [33]
+            xmin = 486.0
+            xmax = 500.24
+            text = "okay I agree I think we should put in place two hours per day for"
+        intervals [34]
+            xmin = 500.24
+            xmax = 501.52
+            text = "these classes"
+        intervals [35]
+            xmin = 501.52
+            xmax = 502.294
+            text = ""

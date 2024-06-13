@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-06-13T16:34:08+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/getalp/berthnat/GETALP/Audios/dec2022-004_034-042.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../Audios/dec2022-004_034-042.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:54ca8612-5e59-4a29-a2a7-0200337e768c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">43</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="19120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="19120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="49360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="49360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="65120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="65120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="79280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="80240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="92800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="92800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="105040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="105040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="125120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="125120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="143440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="144400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="165200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="165318"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="169795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="169818"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="174960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="174960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="185200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="185200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="195920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="195920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="208240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="208800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="224160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="224480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="240000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="240000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="250080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="250080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="263920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="265760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="278560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="279520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="290480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="294560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="303920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="304560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="308800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="313280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="320240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="320240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="332160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="332240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="344400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="344400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="353680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="354240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="369840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="369840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="380640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="386400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="386880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="387200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="405920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="407120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="415520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="416320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="423600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="425600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="438160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="438160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="449280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="449280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="462720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="462800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="474400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="474400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="485680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="486000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="500240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="500240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="501520"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="034">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>number 034 role B</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>I think technology is the future, but she have many many problems because the students</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>are already exposed to this technology out of the school, so that's why I think we should</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>moderate that use and maybe we can put a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>plage of of of hours still for example one hour for the day and after we continue the</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>traditional way exercise like papers and books and...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>yes but what do you think about the psychology of our</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>students if we expose too much our students to technology we know that it's a possibility for them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>to develop anxiety and I think that can degrade their their relationships so I think we have</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>to take this in consideration and maybe don't put them really faster to the technology right now, ok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>what do you think about a class of sensibilization we could make a place of sensibilization for parents and for students to show us</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>the danger of the technology and maybe debate of the benefits and the ...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>and there is another thing we are not really agree for the technology using in school</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>I hope the technology will not</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>use for the homework because there is disparity social and I think that some student are not</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>the capacity or the materials way to have a computer at their home or so I think it's important to let the technology in into school</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>you said two hours per day I am agree with that solution because I think two hours is not</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>too much one hour is... is not enough okay but two hours you have the time to make many things and I think it's enough</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>okay I think we can use for mathematics French</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>lesson just for grammar, you know, exercise. When it's about redaction I prefer paper of course but for just</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>simple exercises computer technology is great way and mathematics of course physical one is</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>possible SVT you can okay well you can use the technology for see video and it is more you know attractive for student</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="042">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>number 042 role A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>I agree with you to keep using books papers and traditional way of learning but in my opinion technology</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>provides extensive opportunities for students it's a way for them to develop new skills and their</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>creativity by using devices like tablets, computers etc and it's a new way of learning for them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>it can develop their interest for what we we are studying and like you said they already use</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>electronical devices so developing learning by technology is really in our area and that's why I think</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>we should develop that point in the school</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>yes I agree we should limit the use of technology in school like two hours per day maybe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>that could be interesting to to experiment that way of learning </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> yes I totally agree with you, I think it could be necessary to learn to parents and students the dangers of internet the</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>extreme use of electronical devices on health for example on the eyes, on concentration etc</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>yes or another solution is to ask parents if they have</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>electronical devices at home and for the students who don't have electronic devices to do homework</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>maybe school can provide us them a computer to to do their homeworks for example if they have to</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>do expose that could be a solution for them to to work at home with technology </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>time</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>what time do you think we should impose to use technology at school</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>okay and in what... in what class do you think we should use it for example plastic art mathematics English </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>okay I agree I think we should put in place two hours per day for</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>these classes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
