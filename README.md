@@ -44,7 +44,7 @@ The Algorithm uses the **Levenshtein distance method**.
 - **WhisperCarbone**
 
 Compute the carbon emissions produced by whisper depending on a chosen whisper model.  
-Uses [codecarbon](https://github.com/mlco2/codecarbon).  
+Uses [codecarbon](https://github.com/mlco2/codecarbon) and the whisper library of python.  
 
 Takes a whisper model and an audio file as inputs.  
 **/!\\** The input file must be changed manually inside the python file. 
