@@ -39,7 +39,7 @@ take 3 files as an input (read on keyboard) :
         speakern_name      text text text text text
 
 The WER is computed without taking into account ponctuation and capital letters.  
-It uses this formula: 
+It uses this formula:  
 $$
 \text{ER} = \frac{\text{Substitutions} + \text{Insertions} + \text{Deletions}}{\text{total\_number\_of\_words}}
 $$  
