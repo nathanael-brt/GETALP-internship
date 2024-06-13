@@ -7,7 +7,8 @@ The important data is kept and organized [here](https://docs.google.com/spreadsh
 --------------------------------------------------------------------------------------------
 - **whisper2txtgrid** 
 
-Convert the *whisper* ".srt" output into a TextGrid file --> Can import to Elan and Praat
+When using whisper on an audio file, we get several files as an output.  
+This program convert the ".srt" output into a TextGrid file --> Can import to Elan and Praat
 Take 2 files as an input (read on keyboard) :<br>
 * whisper ".srt" file<br>
 * ".TextGrid" file
@@ -38,7 +39,7 @@ take 3 files as an input (read on keyboard) :
         speakern_name      text text text text text
 
 The WER is computed without taking into account ponctuation and capital letters.  
-It uses this formula: WER = (Substitutions + insertions + deletions) / total_number_of_words.  
+It uses this formula: &\text{WER}=\frac{\text{Substitutions}+\text{Insertions}+\text{Deletions}}{\text{total\_number\_of\_words}}.  
 The Algorithm uses the **Levenshtein distance method**.
 
 
