@@ -8,7 +8,7 @@ The important data is kept and organized [here](https://docs.google.com/spreadsh
 - **whisper2txtgrid** 
 
 When using whisper on an audio file, we get several files as an output.  
-This program convert the ".srt" output into a TextGrid file --> Can import to Elan and Praat
+This program convert the ```.srt``` output into a TextGrid file --> Can import to Elan and Praat
 Take 2 files as an input (read on keyboard) :<br>
 * whisper ".srt" file<br>
 * ".TextGrid" file
