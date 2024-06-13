@@ -6,10 +6,12 @@ from codecarbon import EmissionsTracker
 model = whisper.load_model(input("Model:\n"))
 
 #tracking de la consommation
+file = input("Audio file:")
+
 tracker = EmissionsTracker()
 tracker.start()
 #lancement de whisper (changer le nom du fichier si besoin)
-result = model.transcribe(input("Audio file:"), language='en')
+result = model.transcribe(file, language='en')
 #fin du tracking
 tracker.stop()
 
