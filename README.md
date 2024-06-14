@@ -8,9 +8,15 @@ The important data is kept and organized [here](https://docs.google.com/spreadsh
 The goal here is to transcript audio files using Whisper, to correct this transcription from eventual errors and to compute the Word Error Rate for each speaker. 
 
 ## Usage
---------------------------------------------------------------------------------------------
 
 * launch the ```Audio2txtgrid.sh``` script. More information [here](#audio2txtgrid)
+* Import the ```.TextGrid``` file and the audio on [Elan](https://archive.mpi.nl/tla/elan)
+* Split the speakers in different tiers
+* Export using the option *"texte délimité par des tabulations"* into the directory *"Whisper-split"*. This will be the non-corrected version of the transcription.
+* Correct the transcription
+* 
+  
+
 
 # User Manual
 
