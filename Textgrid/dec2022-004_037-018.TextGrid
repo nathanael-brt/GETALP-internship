@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 430.0                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 430.0                                  
+        intervals: size = 31                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 5.0
+            text = "0.37A."
+        intervals [2]:
+            xmin = 5.0
+            xmax = 8.0
+            text = "0.18B."
+        intervals [3]:
+            xmin = 8.0
+            xmax = 17.0
+            text = "Hello, so we need to make some suggestions to the world."
+        intervals [4]:
+            xmin = 17.0
+            xmax = 26.0
+            text = "Hello, we need to make some suggestions to our speaker about new technology in teaching."
+        intervals [5]:
+            xmin = 26.0
+            xmax = 29.0
+            text = "What do you think about that?"
+        intervals [6]:
+            xmin = 29.0
+            xmax = 40.0
+            text = "I personally think that incorporating technologies in our class could cause more harm than good."
+        intervals [7]:
+            xmin = 40.0
+            xmax = 52.0
+            text = "First, because it's very expensive and maybe our school is not able to afford that kind of technologies."
+        intervals [8]:
+            xmin = 52.0
+            xmax = 64.0
+            text = "I think personally, if we make a good plan, so we make a big investment first."
+        intervals [9]:
+            xmin = 64.0
+            xmax = 74.0
+            text = "But we make a good plan, so we need to make a big investment later."
+        intervals [10]:
+            xmin = 74.0
+            xmax = 89.0
+            text = "And it can reduce the cost because we don't have to work out to technology experts if a troubleshooting appears."
+        intervals [11]:
+            xmin = 89.0
+            xmax = 96.0
+            text = "But yes, they are some cost in maintenance, etc."
+        intervals [12]:
+            xmin = 96.0
+            xmax = 108.0
+            text = "Yes, but there are some, I agree with you, but there are some costs that need, that are too expensive to be made."
+        intervals [13]:
+            xmin = 108.0
+            xmax = 122.0
+            text = "For example, there are some rural areas that aren't equipped with a very good internet connection and building a good internet connection would cost a lot."
+        intervals [14]:
+            xmin = 122.0
+            xmax = 138.0
+            text = "Yes, but if we make a good internet connection, for example, we can increase the skill of our students because we can make an evolution of our teaching."
+        intervals [15]:
+            xmin = 138.0
+            xmax = 150.0
+            text = "Like a teacher can give a subject to a student and a student with a good internet connection can make research about the subject."
+        intervals [16]:
+            xmin = 150.0
+            xmax = 166.0
+            text = "And that's really great for the teaching and for the students and can add some interest to the students because some students cannot be interested by teaching paper and pencil."
+        intervals [17]:
+            xmin = 166.0
+            xmax = 178.0
+            text = "Yes, but there are a lot of disparities between people who can't afford a computer and people who cannot afford a computer."
+        intervals [18]:
+            xmin = 178.0
+            xmax = 200.0
+            text = "And people who have, we don't have the money for it, are not used to use computers so they will be not at the same level as people who already know how to use a computer so they will have to be trained even more."
+        intervals [19]:
+            xmin = 200.0
+            xmax = 226.0
+            text = "Yes, there are some costs to train the teacher or the students, but if we train the teacher, if we make a big advancement of new technology, if the students add interest of our teaching, and yes, there are some disparities,"
+        intervals [20]:
+            xmin = 226.0
+            xmax = 236.0
+            text = "but we can help the students with a computer we lead to us or etc."
+        intervals [21]:
+            xmin = 236.0
+            xmax = 265.0
+            text = "So we can increase our skills and now we are in the 21st century and the computer is the skills we need to be know because we use old-day computers like for typing, for presenting and presentation etc."
+        intervals [22]:
+            xmin = 265.0
+            xmax = 294.0
+            text = "I agree, but there's still a risk that students will just use the computers as a teaching method and not really interact with their teachers or interact with other students or being on the computer all day long can lead to a lack of social skills or anxiety."
+        intervals [23]:
+            xmin = 294.0
+            xmax = 303.0
+            text = "Or anxiety or being very dependent on the computer and not on classic teaching methods."
+        intervals [24]:
+            xmin = 303.0
+            xmax = 318.0
+            text = "Yes, yes, but we can also create book clubs or writing clubs. The students can read a book or try to write etc."
+        intervals [25]:
+            xmin = 318.0
+            xmax = 333.0
+            text = "That's good for the assessment, but we need also to remake the assessment with a computer."
+        intervals [26]:
+            xmin = 333.0
+            xmax = 351.0
+            text = "For example, we can make an assessment with a computer. If we give some computer to students at their assessments and could be great for us."
+        intervals [27]:
+            xmin = 364.0
+            xmax = 373.0
+            text = "So we can make a transition between the paper and pencil and the technology."
+        intervals [28]:
+            xmin = 373.0
+            xmax = 383.0
+            text = "We can make some transition step by step with incorporating technology little by little on our teaching."
+        intervals [29]:
+            xmin = 383.0
+            xmax = 385.0
+            text = "It could be great."
+        intervals [30]:
+            xmin = 385.0
+            xmax = 406.0
+            text = "Yeah, probably only use computers only a few hours a day or during certain lessons or we could also just use computers at school and not at home to prevent students."
+        intervals [31]:
+            xmin = 406.0
+            xmax = 430.0
+            text = "So can you only use computer on technology lessons, for example, or for a mathematical lesson, for example, that could be a good transition for incorporating technology in your teaching and also make our school modern with some technologies."
