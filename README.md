@@ -7,9 +7,15 @@ The important data is kept and organized [here](https://docs.google.com/spreadsh
 
 The goal here is to transcript audio files using Whisper, to correct this transcription from eventual errors and to compute the Word Error Rate for each speaker. 
 
+## Usage
+
+* launch the ```Audio2txtgrid.sh``` script. More information [here](###Audio2txtgrid)
+
+# User Manual
+
 ## Python programs
 --------------------------------------------------------------------------------------------
-- **whisper2txtgrid** 
+### whisper2txtgrid
 
 When using Whisper on an audio file, we get several files as an output.  
 This program converts the ```.srt``` output into a ```.TextGrid``` file : In this format we can import our transcription into **Elan** or **Praat**.  
@@ -18,7 +24,7 @@ It Take 2 files as an input (read on keyboard) :<br>
 * A ```.TextGrid``` file (Where the output will be written).  
 
 --------------------------------------------------------------------------------------------
-- **WER** 
+### WER
 
 Computes the **Word Error Count** between the reference from *whisper* and the manually corrected version.
 Gives one *WER* by speaker. 
@@ -53,7 +59,7 @@ The Algorithm uses the **Levenshtein distance method**.
 
 
 --------------------------------------------------------------------------------------------
-- **WhisperCarbone**
+### WhisperCarbone
 
 Computes the carbon emissions produced by whisper in function on a chosen whisper model.  
 Uses the [codecarbon](https://github.com/mlco2/codecarbon) and whisper packages for python.  
@@ -61,3 +67,10 @@ Uses the [codecarbon](https://github.com/mlco2/codecarbon) and whisper packages 
 Takes a whisper model and an audio file as inputs.   
 
 Returns a ```.csv``` with plenty of informations on not only the carbon emissions but also the power consumption, the cpu, gpu, etc...  
+
+## Scripts
+--------------------------------------------------------------------------------------------
+### Audio2txtgrid
+
+
+
