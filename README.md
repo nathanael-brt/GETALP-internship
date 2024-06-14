@@ -3,7 +3,11 @@
 Based on this tool : [plspp](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper).  
 The important data is kept and organized [here](https://docs.google.com/spreadsheets/d/1V8g1R39eb_w_HWZOjSdOJWTzMdefQilUtBhCA2uvhWg/edit?usp=sharing).
 
-# Python programs
+# Transcription from Whisper and computation of the WER
+
+The goal here is to transcript audio files using Whisper, to correct this transcription from eventual errors and to compute the Word Error Rate for each speaker. 
+
+## Python programs
 --------------------------------------------------------------------------------------------
 - **whisper2txtgrid** 
 
