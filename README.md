@@ -79,9 +79,9 @@ Returns a ```.csv``` with plenty of informations on not only the carbon emission
 
 ### Audio2txtgrid
 
-This script simultaneously launch Whisper on a given audio file, create the necessary files/directories and translate the newly generated ```.srt``` file into a ```.TextGrid``` file (by executing the [whisper2txtgrid python program](#whisper2txtgrid)).
-It takes 2 inputs:  
-*The audio file that to be transcripted.
+This script simultaneously launch Whisper on a given audio file, create the necessary files/directories and translate the newly generated ```.srt``` file into a ```.TextGrid``` file (by executing the [whisper2txtgrid python program](#whisper2txtgrid)).  
+It takes 2 inputs:   
+*The audio file that to be transcripted.  
 *The model of whisper to use.  
 
 When executing the ```whisper2txtgrid.py``` program, 2 files are needed as inputs, these files have been created earlier in the script:   
