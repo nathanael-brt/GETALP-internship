@@ -9,7 +9,7 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 
 ## Usage
 
-* launch the ```Audio2txtgrid.sh``` script. More information [here](###Audio2txtgrid)
+* launch the ```Audio2txtgrid.sh``` script. More information [here](###audio2txtgrid)
 
 # User Manual
 
