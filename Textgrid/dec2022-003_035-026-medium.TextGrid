@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 612.0                                
+xmax = 613.0                                
 tiers? <exists>
 size = 1
 item []:
@@ -10,293 +10,329 @@ item []:
         class = "IntervalTier"
         name = "all"
         xmin = 0
-        xmax = 612.0                                  
-        intervals: size = 72                          
+        xmax = 613.0                                  
+        intervals: size = 81                          
         intervals [1]:
             xmin = 0.0
             xmax = 3.0
-            text = "Oh, three five, Putin is a raison."
+            text = "035, Pauline Sarrazin."
         intervals [2]:
             xmin = 3.0
             xmax = 6.0
-            text = "No, oh, three five and roll A."
+            text = "No, 035 and your?"
         intervals [3]:
             xmin = 6.0
-            xmax = 8.0
-            text = "Roll A."
+            xmax = 7.0
+            text = "And role A."
         intervals [4]:
+            xmin = 7.0
+            xmax = 8.0
+            text = "Role A."
+        intervals [5]:
             xmin = 8.0
             xmax = 11.0
-            text = "Oh, 26 roll B."
-        intervals [5]:
+            text = "026, role B."
+        intervals [6]:
             xmin = 11.0
             xmax = 13.0
-            text = "Okay, thank you very much, lady."
-        intervals [6]:
+            text = "Okay, thank you very much, ladies."
+        intervals [7]:
             xmin = 13.0
             xmax = 15.0
             text = "You can begin."
-        intervals [7]:
+        intervals [8]:
             xmin = 15.0
             xmax = 17.0
-            text = "You'd like to start?"
-        intervals [8]:
+            text = "You would like to start?"
+        intervals [9]:
             xmin = 17.0
             xmax = 19.0
             text = "I don't care."
-        intervals [9]:
+        intervals [10]:
             xmin = 19.0
             xmax = 21.0
             text = "Yeah, go ahead."
-        intervals [10]:
+        intervals [11]:
             xmin = 21.0
             xmax = 27.0
-            text = "Okay, so we have to talk about new technologies in classroom."
-        intervals [11]:
+            text = "Okay, so we have to talk about new technologies in the classroom."
+        intervals [12]:
             xmin = 27.0
             xmax = 33.0
-            text = "Personally, I think new technologies are too expensive for school."
-        intervals [12]:
+            text = "Personally, I think new technologies are too expensive for school,"
+        intervals [13]:
             xmin = 33.0
             xmax = 39.0
-            text = "Between the cost of tools like computer, the cost of, for example, help support."
-        intervals [13]:
+            text = "between the cost of tools like computer, the cost of, for example, help support."
+        intervals [14]:
             xmin = 39.0
             xmax = 41.0
-            text = "What do you think of them?"
-        intervals [14]:
+            text = "What do you think about that?"
+        intervals [15]:
             xmin = 41.0
             xmax = 48.0
-            text = "Yeah, I agree. It's a bit expensive, but I think we can manage to have state subsidies and runs"
-        intervals [15]:
+            text = "Yeah, I agree, it's a bit expensive, but I think we can manage to have state subsidies and grants"
+        intervals [16]:
             xmin = 48.0
             xmax = 56.0
             text = "so that we can buy some devices that can be useful for students."
-        intervals [16]:
-            xmin = 56.0
-            xmax = 60.0
-            text = "For example, interactive whiteboards."
         intervals [17]:
-            xmin = 60.0
-            xmax = 65.0
-            text = "They can help some students with difficulties to stay focused."
+            xmin = 56.0
+            xmax = 63.0
+            text = "For example, interactive voice boards that can help some students with difficulties to stay focused,"
         intervals [18]:
-            xmin = 65.0
-            xmax = 70.0
-            text = "Especially when students with hard difficulties are encouraged to drop out of school."
+            xmin = 63.0
+            xmax = 69.0
+            text = "especially among students with high difficulties or in virtue to drop out of school."
         intervals [19]:
-            xmin = 70.0
-            xmax = 78.0
-            text = "Maybe a more technological way to make them learn is easier."
+            xmin = 69.0
+            xmax = 77.0
+            text = "Maybe a more technological way to make them learn is more easier,"
         intervals [20]:
-            xmin = 78.0
-            xmax = 83.0
-            text = "Make it easier for them to learn or to stay focused at school."
+            xmin = 77.0
+            xmax = 82.0
+            text = "make it easier for them to learn or to stay focused at school."
         intervals [21]:
-            xmin = 83.0
-            xmax = 94.0
-            text = "I don't know because some students need to be focused and they are more focused on paper, for example."
+            xmin = 82.0
+            xmax = 91.0
+            text = "I don't know, because some students need to be focused and they are more focused on paper, for example."
         intervals [22]:
-            xmin = 94.0
-            xmax = 97.0
+            xmin = 91.0
+            xmax = 94.0
             text = "Yeah, I agree."
         intervals [23]:
-            xmin = 97.0
-            xmax = 108.0
-            text = "Technology is also everywhere now and students should be aware of the danger."
+            xmin = 94.0
+            xmax = 107.0
+            text = "Yeah, but technology is also everywhere now, and so students should be aware of the danger,"
         intervals [24]:
-            xmin = 108.0
-            xmax = 116.0
-            text = "So maybe learn how to use it as school from a young age may prevent them from the danger"
+            xmin = 107.0
+            xmax = 118.0
+            text = "so maybe learn how to use it at school from a young age may prevent them from the danger and risk to use technologies,"
         intervals [25]:
-            xmin = 116.0
+            xmin = 118.0
             xmax = 134.0
-            text = "and risk to use technologies such as bullying online or being, or people with bad intentions."
+            text = "such as bullying online or people with bad intentions."
         intervals [26]:
             xmin = 134.0
             xmax = 143.0
-            text = "I think there are more disparities between students because some students have a computer at home"
+            text = "Okay, but I think there are more disparities between students because some students have, for example, a computer at home"
         intervals [27]:
             xmin = 143.0
-            xmax = 147.0
-            text = "and others do not have."
+            xmax = 151.0
+            text = "and other students do not have, so yeah, technology is everywhere, but not really..."
         intervals [28]:
-            xmin = 147.0
-            xmax = 152.0
-            text = "Technology is everywhere, but not really."
-        intervals [29]:
-            xmin = 152.0
+            xmin = 151.0
             xmax = 158.0
-            text = "Maybe just for students who doesn't have the privilege to have a computer at home."
-        intervals [30]:
+            text = "Yeah, but maybe just for students who don't have the privilege to have a computer at home,"
+        intervals [29]:
             xmin = 158.0
-            xmax = 169.0
-            text = "It could be a good opportunity for them to learn to use a computer at school because if they don't have it at home,"
-        intervals [31]:
-            xmin = 169.0
+            xmax = 168.0
+            text = "it could be a good opportunity for them to learn to use a computer at school because if they don't have it at home,"
+        intervals [30]:
+            xmin = 168.0
             xmax = 181.0
             text = "one day they will be in a firm where they will have to use a computer or software and hardware and they will not be able to do it."
-        intervals [32]:
+        intervals [31]:
             xmin = 181.0
-            xmax = 193.0
-            text = "So maybe especially for those children who are like technology at home, maybe technology at school could have them improve their skills"
+            xmax = 192.0
+            text = "So maybe, especially for those children who lack technology at home, maybe technology at school could help them improve their skills"
+        intervals [32]:
+            xmin = 192.0
+            xmax = 203.0
+            text = "and not be slashed with it when they enter the labor world."
         intervals [33]:
-            xmin = 193.0
-            xmax = 204.0
-            text = "and not be slashed with it when they enter their labor world."
-        intervals [34]:
             xmin = 204.0
-            xmax = 216.0
-            text = "I think the intention is good, but for example, I remember when I was a kid, we had computer in school and we played games during the class."
-        intervals [35]:
-            xmin = 216.0
+            xmax = 215.0
+            text = "Okay, I think the intention is good, but for example, I remember when I was a kid, we had computers at school and we played games during the class."
+        intervals [34]:
+            xmin = 215.0
             xmax = 220.0
-            text = "It triggered the question of the use of technology."
-        intervals [36]:
+            text = "Yeah, it triggered the question of the use of technology."
+        intervals [35]:
             xmin = 220.0
-            xmax = 236.0
-            text = "Maybe if we buy a few computers at the beginning and train the teachers on how to use them properly and with good intentions for education"
+            xmax = 231.0
+            text = "Maybe if we buy a few computers at the beginning and train the teachers on how to use them properly"
+        intervals [36]:
+            xmin = 231.0
+            xmax = 244.0
+            text = "and with good intentions for education and only to help the students maybe in math or computer problems,"
         intervals [37]:
-            xmin = 236.0
-            xmax = 253.0
-            text = "and only to help the students, maybe in math or computer problems, maybe it could be useful, but they have to be limited under the use."
+            xmin = 244.0
+            xmax = 259.0
+            text = "maybe it could be useful, but they have to be limited on the use, i.e. maybe put boundaries on internet connections or a website that they can access."
         intervals [38]:
-            xmin = 253.0
-            xmax = 260.0
-            text = "IE may be put boundaries on internet connections or websites that it can access."
+            xmin = 259.0
+            xmax = 276.0
+            text = "I don't know exactly how, but I know that we can prevent them from using Facebook, Instagram, etc. or even games on their computers by putting in place a software on it."
         intervals [39]:
-            xmin = 260.0
-            xmax = 277.0
-            text = "I don't know exactly how, but I know that we can prevent them from using Facebook, Instagram, etc. or even games on the computers by putting in place a software on it."
+            xmin = 276.0
+            xmax = 284.0
+            text = "But maybe it's not to the school to learn that, but the parents, for example, Facebook, Instagram, etc."
         intervals [40]:
-            xmin = 277.0
-            xmax = 285.0
-            text = "Maybe it's not to the school to learn that, but the parents, for example, Facebook, Instagram, etc."
+            xmin = 284.0
+            xmax = 300.0
+            text = "Yeah, but especially at school, if we choose to put in place computers, we can make this choice to put boundaries on the use so that it could be used in a good way and not in a way unuseful."
         intervals [41]:
-            xmin = 285.0
-            xmax = 306.0
-            text = "Especially in school, if we choose to put in place computers, we can make the choice to put boundaries under use so that it could be used in a good way and not in a way unusual."
+            xmin = 300.0
+            xmax = 304.0
+            text = "Okay, I see."
         intervals [42]:
-            xmin = 306.0
-            xmax = 313.0
-            text = "Do you have something to add? I think it may be for some students."
+            xmin = 304.0
+            xmax = 308.0
+            text = "Do you have something to add?"
         intervals [43]:
-            xmin = 313.0
-            xmax = 321.0
-            text = "I don't know if it's not complicated to be, for example, to learn on computer and after for the test to be on paper."
+            xmin = 308.0
+            xmax = 323.0
+            text = "I think maybe for some students, I don't know if it's not complicated for them to learn on computer and after for the test to be on paper and you see the imbalance between the two."
         intervals [44]:
-            xmin = 321.0
+            xmin = 323.0
             xmax = 330.0
-            text = "Getting balanced between the two, maybe computer can be used for specific subjects, but not all."
+            text = "Maybe computer can be used for specific subjects, but not all."
         intervals [45]:
             xmin = 330.0
-            xmax = 348.0
-            text = "And on the subjects, for which they will have a test on paper, only train them on paper and if they will have tests on computer, train them with online tests so that they can train and not be lost."
+            xmax = 338.0
+            text = "And on the subjects for which they will have a test on paper, only train them on paper."
         intervals [46]:
-            xmin = 348.0
-            xmax = 351.0
-            text = "I see exam."
+            xmin = 338.0
+            xmax = 350.0
+            text = "And if they will have tests on computer, train them with online tests so that they can train and not be lost at the exam."
         intervals [47]:
-            xmin = 351.0
-            xmax = 363.0
-            text = "And I see therapists think that the use of computers, although they see that students are more..."
+            xmin = 350.0
+            xmax = 365.0
+            text = "And I see therapists think that the use of computers, although they see that students are more, there is more anxiety, for example."
         intervals [48]:
-            xmin = 363.0
-            xmax = 366.0
-            text = "There is more anxiety, for example."
-        intervals [49]:
-            xmin = 366.0
+            xmin = 365.0
             xmax = 371.0
-            text = "Yeah, I absolutely agree with that part of the matter."
-        intervals [50]:
+            text = "Yeah, I agree with that part of the matter."
+        intervals [49]:
             xmin = 371.0
+            xmax = 378.0
+            text = "I think every opportunity in technology has advantages and disadvantages."
+        intervals [50]:
+            xmin = 378.0
             xmax = 389.0
-            text = "I think every opportunity in technology has advantages and disadvantages and we may balance the two so that we can make the best choice for the students and the teachers so that they can manage to teach properly."
+            text = "And we may balance the two so that we can make the best choice for the students and the teachers so that they can manage to teach properly."
         intervals [51]:
             xmin = 389.0
-            xmax = 398.0
-            text = "Maybe just use the computers for example a few minutes per day and after four hours, but not all the day."
+            xmax = 393.0
+            text = "Maybe just use the computers, for example, a few minutes per day."
         intervals [52]:
-            xmin = 398.0
-            xmax = 413.0
-            text = "Yeah, I agree. Maybe at the beginning we can implement it only for a few subjects in the week and maybe see how it works on students and how they feel about it."
+            xmin = 393.0
+            xmax = 394.0
+            text = "Yeah."
         intervals [53]:
-            xmin = 413.0
-            xmax = 433.0
-            text = "If they have maybe suggestions, we can ask them and the teachers also, if they have specific requirements or needs and we can evolve with this subject."
+            xmin = 394.0
+            xmax = 398.0
+            text = "And after four hours, but not all the day."
         intervals [54]:
-            xmin = 433.0
+            xmin = 398.0
+            xmax = 399.0
+            text = "Yeah, yeah, I agree."
+        intervals [55]:
+            xmin = 399.0
+            xmax = 413.0
+            text = "Maybe at the beginning we can implement it only for a few subjects in the week and maybe see how it works on students and how they feel about it."
+        intervals [56]:
+            xmin = 413.0
+            xmax = 424.0
+            text = "If they have maybe suggestions, we can we can ask them and the teachers also if they have specific requirements or needs."
+        intervals [57]:
+            xmin = 424.0
+            xmax = 432.0
+            text = "And we can evolve with this subject."
+        intervals [58]:
+            xmin = 432.0
             xmax = 439.0
             text = "I don't know if you agree or disagree."
-        intervals [55]:
+        intervals [59]:
             xmin = 439.0
+            xmax = 444.0
+            text = "I think maybe for the cost schools could have computers with the nation, for example."
+        intervals [60]:
+            xmin = 444.0
             xmax = 445.0
-            text = "I think maybe for the course schools could have computers with the nation, for example."
-        intervals [56]:
+            text = "Yeah, with the state."
+        intervals [61]:
             xmin = 445.0
-            xmax = 459.0
-            text = "Yeah, with the state, we will have to find if the state schools grant subsidies to buy them and especially for upkeep and maintenance expenses."
-        intervals [57]:
-            xmin = 459.0
+            xmax = 453.0
+            text = "Yeah, we will have to to find if the states could grant us subsidies to buy them."
+        intervals [62]:
+            xmin = 453.0
             xmax = 465.0
-            text = "We will have to look out for an assistance, maybe."
-        intervals [58]:
+            text = "And especially for upkeep and maintenance expenses, we will have to look out for an assistant, maybe."
+        intervals [63]:
             xmin = 465.0
             xmax = 478.0
             text = "But you should have to be careful for the use of the computers."
-        intervals [59]:
+        intervals [64]:
             xmin = 478.0
+            xmax = 479.0
+            text = "Yeah."
+        intervals [65]:
+            xmin = 479.0
             xmax = 485.0
-            text = "Yeah, but if he is an assistant of technology, maybe he can hit his job."
-        intervals [60]:
+            text = "Oh, yeah, yeah. But if he is an assistant of technology, maybe he can hit his job."
+        intervals [66]:
             xmin = 485.0
             xmax = 496.0
-            text = "I mean, hire someone whose job is to take care of computers, you know, as a technical assistant."
-        intervals [61]:
+            text = "I mean, hire someone whose job is to take care of computers, you know, as a technological assistance, technical assistance."
+        intervals [67]:
             xmin = 496.0
             xmax = 523.0
-            text = "Maybe if we hire someone who knows how to keep and maintenance devices, it could cost us less money to replace them or to buy other ones if they just don't work anymore."
-        intervals [62]:
+            text = "Maybe if we hire someone who knows how to to upkeep and maintenance devices, it could cost us less money to replace them or to buy other ones if they just don't work anymore."
+        intervals [68]:
             xmin = 523.0
             xmax = 525.0
             text = "Do you have any arguments?"
-        intervals [63]:
+        intervals [69]:
             xmin = 525.0
-            xmax = 546.0
-            text = "Yeah, just for that, as technology is everywhere, I think it's good to prepare the students for later when they will have to use it in firms or even for example in France."
-        intervals [64]:
-            xmin = 546.0
+            xmax = 530.0
+            text = "Yeah."
+        intervals [70]:
+            xmin = 531.0
             xmax = 553.0
-            text = "Because all of taxes and such things must be completed online."
-        intervals [65]:
+            text = "Just for that, as technology is everywhere, I think it's good to prepare the students for later when they will have to use it in firms or even for example, in France, all of taxes and such things must be completed online."
+        intervals [71]:
             xmin = 553.0
             xmax = 562.0
-            text = "And so, for example, all persons have a lot of difficulties to complete these firms."
-        intervals [66]:
+            text = "And so, for example, all persons have a lot of difficulties to complete these forms."
+        intervals [72]:
             xmin = 562.0
             xmax = 578.0
-            text = "So, maybe if the young people learn how to do it younger, maybe they can manage not only to use it by themselves, but to learn other people how to do it or help them."
-        intervals [67]:
+            text = "So maybe if the young people learned how to do it younger, maybe they can manage to not only to to use it by themselves, but to learn other people how to do it or help them."
+        intervals [73]:
             xmin = 578.0
+            xmax = 585.0
+            text = "I don't know, but even if we learn how to use, for example, a computer, otherwise said, I different."
+        intervals [74]:
+            xmin = 585.0
             xmax = 590.0
-            text = "I don't know, but even if we learn how to use for example a computer, otherwise it is different, so it's not really the problem."
-        intervals [68]:
+            text = "So it's not really the problem."
+        intervals [75]:
             xmin = 590.0
             xmax = 599.0
             text = "But as we say earlier, maybe we can start implementing a few computers and with boundaries and see how it evolves."
-        intervals [69]:
+        intervals [76]:
             xmin = 599.0
             xmax = 606.0
-            text = "And if we continue to find technological education or not, if you agree."
-        intervals [70]:
+            text = "And if we continue to found technological education or not, if you agree."
+        intervals [77]:
             xmin = 606.0
             xmax = 609.0
-            text = "And I think it's important to make provision."
-        intervals [71]:
+            text = "And I think it's important to make prevention."
+        intervals [78]:
             xmin = 609.0
             xmax = 610.0
-            text = "Yeah, yeah."
-        intervals [72]:
+            text = "Yeah."
+        intervals [79]:
             xmin = 610.0
-            xmax = 612.0
+            xmax = 611.0
             text = "Prevention is key."
+        intervals [80]:
+            xmin = 611.0
+            xmax = 612.0
+            text = "Yeah."
+        intervals [81]:
+            xmin = 612.0
+            xmax = 613.0
+            text = "Yeah, OK."
