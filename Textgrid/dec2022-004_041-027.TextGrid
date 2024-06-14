@@ -1,0 +1,174 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 426.0                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 426.0                                  
+        intervals: size = 40                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 8.0
+            text = "0.41 and roll A. 0.27, roll B."
+        intervals [2]:
+            xmin = 8.0
+            xmax = 18.0
+            text = "So in my opinion, it's necessary to develop the technology in high school and in every"
+        intervals [3]:
+            xmin = 18.0
+            xmax = 29.0
+            text = "high school because is that allowed to improve the knowledge of the students and it's"
+        intervals [4]:
+            xmin = 29.0
+            xmax = 43.0
+            text = "a good point for their future job and in studies in a university or something like that."
+        intervals [5]:
+            xmin = 43.0
+            xmax = 52.0
+            text = "OK, but I understand what you say, but I think that it's not possible in all schools because"
+        intervals [6]:
+            xmin = 52.0
+            xmax = 69.0
+            text = "there are some schools who don't have the money to add new technologies in their schools."
+        intervals [7]:
+            xmin = 69.0
+            xmax = 79.0
+            text = "Yeah, but I think it's important to to block this gap between the different high school because"
+        intervals [8]:
+            xmin = 79.0
+            xmax = 93.0
+            text = "I'm agree with you. Everybody can have access to the technology student from poor high school or very good"
+        intervals [9]:
+            xmin = 93.0
+            xmax = 100.0
+            text = "high school. There is no difference for me. Everybody has the right to access all the technology"
+        intervals [10]:
+            xmin = 100.0
+            xmax = 104.0
+            text = "and it's necessary for me."
+        intervals [11]:
+            xmin = 104.0
+            xmax = 114.0
+            text = "It can be necessary, but if students didn't have a computer, their own computer,"
+        intervals [12]:
+            xmin = 114.0
+            xmax = 119.0
+            text = "how can they do their homework, for example?"
+        intervals [13]:
+            xmin = 119.0
+            xmax = 138.0
+            text = "Yes, but for that, I think the state can make a decision to put the budget and allowed"
+        intervals [14]:
+            xmin = 138.0
+            xmax = 152.0
+            text = "the high school to have good technologies like computer, good system, informatics system, etc."
+        intervals [15]:
+            xmin = 152.0
+            xmax = 164.0
+            text = "OK, it's a good idea, but this is not the only problem. There is also about teachers"
+        intervals [16]:
+            xmin = 164.0
+            xmax = 173.0
+            text = "because some of them are not able to use new technologies."
+        intervals [17]:
+            xmin = 173.0
+            xmax = 182.0
+            text = "Maybe they are old or they didn't understand very well."
+        intervals [18]:
+            xmin = 182.0
+            xmax = 199.0
+            text = "Maybe we can help this whole teacher with give them information and some teachers specialized"
+        intervals [19]:
+            xmin = 199.0
+            xmax = 209.0
+            text = "in informatics and new technology can help them to be formed from that new form of scholarship."
+        intervals [20]:
+            xmin = 209.0
+            xmax = 219.0
+            text = "Yes, but new technology is not easy and they need really a lot of time to really understand"
+        intervals [21]:
+            xmin = 219.0
+            xmax = 229.0
+            text = "how it works and it's not really, we don't have a lot of time to teach them how to use it."
+        intervals [22]:
+            xmin = 229.0
+            xmax = 237.0
+            text = "Yes, maybe it's difficult to spend a lot of time to be formed with new technology,"
+        intervals [23]:
+            xmin = 237.0
+            xmax = 245.0
+            text = "but it's dramatically dramatic because I think it's good for students"
+        intervals [24]:
+            xmin = 245.0
+            xmax = 253.0
+            text = "because they can help them to develop their abilities to resolve problems"
+        intervals [25]:
+            xmin = 253.0
+            xmax = 267.0
+            text = "and to improve their knowledge about this type of technology."
+        intervals [26]:
+            xmin = 268.0
+            xmax = 282.0
+            text = "Yes, but studies shows too that students who use new technology in school develop anxiety."
+        intervals [27]:
+            xmin = 282.0
+            xmax = 285.0
+            text = "So it's not a..."
+        intervals [28]:
+            xmin = 285.0
+            xmax = 291.0
+            text = "It's need to be framed maybe because there is good points and by points."
+        intervals [29]:
+            xmin = 291.0
+            xmax = 302.0
+            text = "So we can not just drop this form of new system."
+        intervals [30]:
+            xmin = 302.0
+            xmax = 314.0
+            text = "Just like that, we need to improve to inform everybody, students, teachers, everybody."
+        intervals [31]:
+            xmin = 314.0
+            xmax = 325.0
+            text = "To my opinion, we need to reduce the time the students spend on computers, television,"
+        intervals [32]:
+            xmin = 325.0
+            xmax = 337.0
+            text = "just to reduce this time because they spend too much time on this at home"
+        intervals [33]:
+            xmin = 337.0
+            xmax = 348.0
+            text = "and if they are on computer at school too, there will be too much time for them."
+        intervals [34]:
+            xmin = 348.0
+            xmax = 359.0
+            text = "I think it's a problem. They need to return at paper and pen to write to read too."
+        intervals [35]:
+            xmin = 360.0
+            xmax = 368.0
+            text = "For the development of this new system, we can begin with one, for example, one hour per day"
+        intervals [36]:
+            xmin = 368.0
+            xmax = 378.0
+            text = "with computers and new technology, but keep going with the old method with paper and pen"
+        intervals [37]:
+            xmin = 378.0
+            xmax = 396.0
+            text = "because technology also has a limit because in my opinion, it's more easy to learn a lesson with paper or without a screen."
+        intervals [38]:
+            xmin = 397.0
+            xmax = 409.0
+            text = "I think we can close the deal just to add a little of new technology on class,"
+        intervals [39]:
+            xmin = 409.0
+            xmax = 423.0
+            text = "maybe one or two hour per day, but we can keep also traditional way to teach."
+        intervals [40]:
+            xmin = 423.0
+            xmax = 426.0
+            text = "Yeah, I'm gonna read."
