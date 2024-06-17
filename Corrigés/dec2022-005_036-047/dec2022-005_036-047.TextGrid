@@ -1,0 +1,772 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 542.789
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "036"
+        xmin = 0.0
+        xmax = 542.789
+        intervals: size = 105
+        intervals [1]
+            xmin = 0.0
+            xmax = 2.0
+            text = "036 Role A"
+        intervals [2]
+            xmin = 2.0
+            xmax = 6.88
+            text = ""
+        intervals [3]
+            xmin = 6.88
+            xmax = 8.08
+            text = "Good morning"
+        intervals [4]
+            xmin = 8.08
+            xmax = 10.08
+            text = "so"
+        intervals [5]
+            xmin = 10.08
+            xmax = 10.96
+            text = ""
+        intervals [6]
+            xmin = 10.96
+            xmax = 14.8
+            text = "We were asked to make suggestion to the supervisor"
+        intervals [7]
+            xmin = 14.8
+            xmax = 16.16
+            text = ""
+        intervals [8]
+            xmin = 16.16
+            xmax = 18.16
+            text = "about the foundation priorities"
+        intervals [9]
+            xmin = 18.16
+            xmax = 19.2
+            text = ""
+        intervals [10]
+            xmin = 19.2
+            xmax = 22.87
+            text = "I'm actually really in favor to develop technologies"
+        intervals [11]
+            xmin = 22.87
+            xmax = 25.2
+            text = ""
+        intervals [12]
+            xmin = 25.2
+            xmax = 28.48
+            text = "really ? Well for me is like it's a tools"
+        intervals [13]
+            xmin = 28.48
+            xmax = 29.04
+            text = ""
+        intervals [14]
+            xmin = 29.04
+            xmax = 32.64
+            text = "It's used in everyday life as a professional"
+        intervals [15]
+            xmin = 32.64
+            xmax = 36.4
+            text = "or professionals use technologies every day"
+        intervals [16]
+            xmin = 36.4
+            xmax = 37.04
+            text = ""
+        intervals [17]
+            xmin = 37.04
+            xmax = 40.88
+            text = "So we need to teach the students how to use it"
+        intervals [18]
+            xmin = 40.88
+            xmax = 43.92
+            text = "in order for them to succeed in their professional life"
+        intervals [19]
+            xmin = 43.92
+            xmax = 49.76
+            text = ""
+        intervals [20]
+            xmin = 49.76
+            xmax = 50.56
+            text = "Yeah"
+        intervals [21]
+            xmin = 50.56
+            xmax = 74.4
+            text = ""
+        intervals [22]
+            xmin = 74.4
+            xmax = 75.6
+            text = "Yeah, Yeah, I agree with you"
+        intervals [23]
+            xmin = 75.6
+            xmax = 77.84
+            text = "That's why the school need to provide them"
+        intervals [24]
+            xmin = 77.84
+            xmax = 80.8
+            text = "with computer and technology material"
+        intervals [25]
+            xmin = 80.8
+            xmax = 82.0
+            text = "It's the school to provide them"
+        intervals [26]
+            xmin = 82.0
+            xmax = 84.16
+            text = "such as the school provides the books"
+        intervals [27]
+            xmin = 84.16
+            xmax = 84.96
+            text = "For example"
+        intervals [28]
+            xmin = 84.96
+            xmax = 94.16
+            text = ""
+        intervals [29]
+            xmin = 94.16
+            xmax = 96.64
+            text = "Well, I disagree because it's an investments"
+        intervals [30]
+            xmin = 96.64
+            xmax = 101.2
+            text = "Like book needs to be changed every two or three years"
+        intervals [31]
+            xmin = 101.2
+            xmax = 105.28
+            text = "and you have to buy like a way... like a wide range of books"
+        intervals [32]
+            xmin = 105.28
+            xmax = 108.64
+            text = "for every materials and for all the students"
+        intervals [33]
+            xmin = 108.64
+            xmax = 110.24
+            text = "whereas when you have the computer"
+        intervals [34]
+            xmin = 110.24
+            xmax = 114.16
+            text = "you only buy one computer and you have all the material on one computer"
+        intervals [35]
+            xmin = 114.16
+            xmax = 118.16
+            text = "and it's used not for one students but for a lot of them"
+        intervals [36]
+            xmin = 118.16
+            xmax = 135.76
+            text = ""
+        intervals [37]
+            xmin = 135.76
+            xmax = 138.56
+            text = "Well, it's more expensive but when students"
+        intervals [38]
+            xmin = 138.56
+            xmax = 141.52
+            text = "degrades books they need to repay for it"
+        intervals [39]
+            xmin = 141.52
+            xmax = 146.56
+            text = "so if they degrades the computer they will need to repay it"
+        intervals [40]
+            xmin = 146.56
+            xmax = 174.24
+            text = ""
+        intervals [41]
+            xmin = 174.24
+            xmax = 178.64
+            text = "Well, maybe if the computer stays that school is safer for the material"
+        intervals [42]
+            xmin = 178.64
+            xmax = 180.32
+            text = "like if they don't bring it at home"
+        intervals [43]
+            xmin = 180.32
+            xmax = 182.88
+            text = "they only use it inside the school"
+        intervals [44]
+            xmin = 182.88
+            xmax = 186.08
+            text = "maybe their are less risk to break it"
+        intervals [45]
+            xmin = 186.08
+            xmax = 194.64
+            text = ""
+        intervals [46]
+            xmin = 194.64
+            xmax = 199.04
+            text = "Yeah, so for me, like, using technology is really important"
+        intervals [47]
+            xmin = 199.04
+            xmax = 202.08
+            text = "and to develop like creativity and self learning"
+        intervals [48]
+            xmin = 202.08
+            xmax = 206.08
+            text = "because it's more an intuitive way to learn"
+        intervals [49]
+            xmin = 206.08
+            xmax = 210.16
+            text = "than just writing books and memorize information"
+        intervals [50]
+            xmin = 210.16
+            xmax = 216.72
+            text = "and so it's more like the learning to make projects to do research"
+        intervals [51]
+            xmin = 216.72
+            xmax = 220.24
+            text = "and stuff like that so we give them more trust"
+        intervals [52]
+            xmin = 220.24
+            xmax = 224.0
+            text = "and there are more ability for them to learn"
+        intervals [53]
+            xmin = 224.0
+            xmax = 248.32
+            text = ""
+        intervals [54]
+            xmin = 248.32
+            xmax = 250.56
+            text = "I disagree with you about that"
+        intervals [55]
+            xmin = 250.56
+            xmax = 252.8
+            text = "it might be true about writing"
+        intervals [56]
+            xmin = 252.8
+            xmax = 255.44
+            text = "whereas typing on the computer"
+        intervals [57]
+            xmin = 255.44
+            xmax = 258.96
+            text = "but actually when you search the information yourself"
+        intervals [58]
+            xmin = 258.96
+            xmax = 261.44
+            text = "you'll like more interested in the task"
+        intervals [59]
+            xmin = 261.44
+            xmax = 265.04
+            text = "so you will retain the information better"
+        intervals [60]
+            xmin = 265.04
+            xmax = 290.64
+            text = ""
+        intervals [61]
+            xmin = 290.64
+            xmax = 294.88
+            text = "Yeah but, school is not only about learning information"
+        intervals [62]
+            xmin = 294.88
+            xmax = 297.12
+            text = "in order to put it in the exam"
+        intervals [63]
+            xmin = 297.12
+            xmax = 301.92
+            text = "it's also about learning how to search, how to make a projects"
+        intervals [64]
+            xmin = 301.92
+            xmax = 302.0
+            text = ""
+        intervals [65]
+            xmin = 302.0
+            xmax = 306.4
+            text = "how to create something and how to research the information"
+        intervals [66]
+            xmin = 306.4
+            xmax = 311.84
+            text = "in order to learn more or to develop some competence"
+        intervals [67]
+            xmin = 311.84
+            xmax = 318.48
+            text = "So for that I think the technology is the right tools and not books"
+        intervals [68]
+            xmin = 318.48
+            xmax = 346.4
+            text = ""
+        intervals [69]
+            xmin = 346.4
+            xmax = 350.8
+            text = "Yeah, of course we need to put finances into our budget"
+        intervals [70]
+            xmin = 350.8
+            xmax = 352.72
+            text = "to finance all this project"
+        intervals [71]
+            xmin = 352.72
+            xmax = 353.68
+            text = ""
+        intervals [72]
+            xmin = 353.68
+            xmax = 357.92
+            text = "And of course education comes first before technologies"
+        intervals [73]
+            xmin = 357.92
+            xmax = 358.0
+            text = ""
+        intervals [74]
+            xmin = 358.0
+            xmax = 363.04
+            text = "So in Africa, education even if it starts with book"
+        intervals [75]
+            xmin = 363.04
+            xmax = 369.28
+            text = "and then can involve with technology is more important"
+        intervals [76]
+            xmin = 369.28
+            xmax = 372.48
+            text = "but if we want them to really succeed"
+        intervals [77]
+            xmin = 372.48
+            xmax = 374.8
+            text = "they need to learn how to use all the tools"
+        intervals [78]
+            xmin = 374.8
+            xmax = 377.6
+            text = "they're going to use in their professional life"
+        intervals [79]
+            xmin = 377.6
+            xmax = 384.48
+            text = "That's why for me we need to increase our technology teaching"
+        intervals [80]
+            xmin = 384.48
+            xmax = 384.56
+            text = ""
+        intervals [81]
+            xmin = 384.56
+            xmax = 388.0
+            text = "but for that the teachers need to be formed as well"
+        intervals [82]
+            xmin = 388.0
+            xmax = 392.0
+            text = "they cannot just put the child in front of the computer"
+        intervals [83]
+            xmin = 392.0
+            xmax = 395.84
+            text = "and let them do their thing, they need to guide them"
+        intervals [84]
+            xmin = 395.84
+            xmax = 401.12
+            text = "and that way we are not in the system where the teacher is on a shelf"
+        intervals [85]
+            xmin = 401.12
+            xmax = 403.6
+            text = "and like the students are behind him"
+        intervals [86]
+            xmin = 403.6
+            xmax = 407.6
+            text = "but it's more cooperative when the teacher only guide them"
+        intervals [87]
+            xmin = 407.6
+            xmax = 411.92
+            text = "and the students all self learning or self-creating"
+        intervals [88]
+            xmin = 411.92
+            xmax = 467.44
+            text = ""
+        intervals [89]
+            xmin = 467.44
+            xmax = 469.76
+            text = "yeah, not what I said"
+        intervals [90]
+            xmin = 469.76
+            xmax = 476.56
+            text = "actually we just need to increase the work and the teaching we do with technologies"
+        intervals [91]
+            xmin = 476.56
+            xmax = 480.32
+            text = "and the age of the teacher doesn't matter"
+        intervals [92]
+            xmin = 480.32
+            xmax = 483.76
+            text = "actually teachers needs to be formed"
+        intervals [93]
+            xmin = 483.76
+            xmax = 488.4
+            text = "because well science is always evolving for example"
+        intervals [94]
+            xmin = 488.4
+            xmax = 491.28
+            text = "we're not saying that the earth is flat nowadays"
+        intervals [95]
+            xmin = 491.28
+            xmax = 496.08
+            text = "so teachers always have to learn in order to teach"
+        intervals [96]
+            xmin = 496.08
+            xmax = 505.04
+            text = "and if the teachers learn about technology the age of the teacher really doesn't matter"
+        intervals [97]
+            xmin = 505.04
+            xmax = 511.12
+            text = "so for me it's really important and education is always about teaching and learning"
+        intervals [98]
+            xmin = 511.12
+            xmax = 514.0
+            text = "whereas your a students or a teacher"
+        intervals [99]
+            xmin = 514.0
+            xmax = 519.28
+            text = ""
+        intervals [100]
+            xmin = 519.28
+            xmax = 522.56
+            text = "yeah maybe just increase like technology class"
+        intervals [101]
+            xmin = 522.56
+            xmax = 530.96
+            text = ""
+        intervals [102]
+            xmin = 530.96
+            xmax = 536.08
+            text = "it's an investment, so the future it will go back"
+        intervals [103]
+            xmin = 536.08
+            xmax = 540.0
+            text = ""
+        intervals [104]
+            xmin = 540.0
+            xmax = 542.0
+            text = "okay we can go with the transition"
+        intervals [105]
+            xmin = 542.0
+            xmax = 542.789
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "047"
+        xmin = 0.0
+        xmax = 542.789
+        intervals: size = 83
+        intervals [1]
+            xmin = 0.0
+            xmax = 2.0
+            text = ""
+        intervals [2]
+            xmin = 2.0
+            xmax = 4.0
+            text = "047 Role B"
+        intervals [3]
+            xmin = 4.0
+            xmax = 5.68
+            text = ""
+        intervals [4]
+            xmin = 5.68
+            xmax = 6.88
+            text = "Hello, colleague"
+        intervals [5]
+            xmin = 6.88
+            xmax = 22.88
+            text = ""
+        intervals [6]
+            xmin = 22.88
+            xmax = 24.48
+            text = "I'm not "
+        intervals [7]
+            xmin = 24.48
+            xmax = 43.92
+            text = ""
+        intervals [8]
+            xmin = 43.92
+            xmax = 45.52
+            text = "Yeah, I agree with you but"
+        intervals [9]
+            xmin = 45.52
+            xmax = 46.8
+            text = ""
+        intervals [10]
+            xmin = 46.8
+            xmax = 49.76
+            text = "You know some students are poor"
+        intervals [11]
+            xmin = 49.76
+            xmax = 50.56
+            text = ""
+        intervals [12]
+            xmin = 50.56
+            xmax = 53.84
+            text = "And some professional are rich because they have a job"
+        intervals [13]
+            xmin = 53.84
+            xmax = 55.36
+            text = "and they have a life, they have a family"
+        intervals [14]
+            xmin = 55.36
+            xmax = 56.08
+            text = ""
+        intervals [15]
+            xmin = 56.08
+            xmax = 59.6
+            text = "And sometimes students"
+        intervals [16]
+            xmin = 59.6
+            xmax = 61.12
+            text = ""
+        intervals [17]
+            xmin = 61.12
+            xmax = 64.56
+            text = "even where they are immigrants"
+        intervals [18]
+            xmin = 64.56
+            xmax = 65.6
+            text = "for example"
+        intervals [19]
+            xmin = 65.6
+            xmax = 69.44
+            text = "they don't have any money to buy a computer"
+        intervals [20]
+            xmin = 69.44
+            xmax = 74.4
+            text = "and it's difficult for those people to use computer at school"
+        intervals [21]
+            xmin = 74.4
+            xmax = 84.96
+            text = ""
+        intervals [22]
+            xmin = 84.96
+            xmax = 88.72
+            text = "Yes, but books are less expensive than computers"
+        intervals [23]
+            xmin = 88.72
+            xmax = 94.16
+            text = "School can't buy all computers for all students"
+        intervals [24]
+            xmin = 94.16
+            xmax = 118.16
+            text = ""
+        intervals [25]
+            xmin = 118.16
+            xmax = 123.2
+            text = "And if there is some degradation on the computer what you do"
+        intervals [26]
+            xmin = 123.2
+            xmax = 129.84
+            text = "if some students break it or don't take care of computer"
+        intervals [27]
+            xmin = 129.84
+            xmax = 133.68
+            text = "what you do? You change it and it's more expensive"
+        intervals [28]
+            xmin = 133.68
+            xmax = 135.76
+            text = "that change your book"
+        intervals [29]
+            xmin = 135.76
+            xmax = 146.56
+            text = ""
+        intervals [30]
+            xmin = 146.56
+            xmax = 152.72
+            text = "Yes, but repay a computer is too expensive for students"
+        intervals [31]
+            xmin = 152.72
+            xmax = 156.16
+            text = "look at some manifestation in the street"
+        intervals [32]
+            xmin = 156.16
+            xmax = 160.48
+            text = "where students are poor"
+        intervals [33]
+            xmin = 160.48
+            xmax = 164.0
+            text = "ask for money, ask for money for buy food"
+        intervals [34]
+            xmin = 164.0
+            xmax = 172.48
+            text = "for buy an habitation and it's not possible for student to buy a computer"
+        intervals [35]
+            xmin = 172.48
+            xmax = 174.24
+            text = "as they want"
+        intervals [36]
+            xmin = 174.24
+            xmax = 186.08
+            text = ""
+        intervals [37]
+            xmin = 186.08
+            xmax = 191.76
+            text = "So you want to make a mix like at school computer"
+        intervals [38]
+            xmin = 191.76
+            xmax = 194.64
+            text = "and at home books"
+        intervals [39]
+            xmin = 194.64
+            xmax = 224.0
+            text = ""
+        intervals [40]
+            xmin = 224.0
+            xmax = 232.16
+            text = "Yes, but some studies show that we learn better with a book"
+        intervals [41]
+            xmin = 232.16
+            xmax = 237.28
+            text = "while we're reading that while we're typing or we're searching on the internet"
+        intervals [42]
+            xmin = 237.28
+            xmax = 244.32
+            text = "So it's more difficult for students to learn by a computer"
+        intervals [43]
+            xmin = 244.32
+            xmax = 248.0
+            text = "than if they read a book"
+        intervals [44]
+            xmin = 248.0
+            xmax = 265.04
+            text = ""
+        intervals [45]
+            xmin = 265.04
+            xmax = 269.52
+            text = "Yes, but you can also search the information in the book"
+        intervals [46]
+            xmin = 269.52
+            xmax = 272.64
+            text = "and you can write it in... by your hand"
+        intervals [47]
+            xmin = 272.64
+            xmax = 275.84
+            text = "and it will be better for your memory"
+        intervals [48]
+            xmin = 275.84
+            xmax = 275.92
+            text = ""
+        intervals [49]
+            xmin = 275.92
+            xmax = 278.56
+            text = "by my personal experience"
+        intervals [50]
+            xmin = 278.56
+            xmax = 283.68
+            text = "I know that to learn something I had to read it, I had to learn it"
+        intervals [51]
+            xmin = 283.68
+            xmax = 290.64
+            text = "and if I only type it on the computer I can't go to exam and succeed"
+        intervals [52]
+            xmin = 290.64
+            xmax = 318.48
+            text = ""
+        intervals [53]
+            xmin = 318.48
+            xmax = 327.04
+            text = "I agree but look, in... for example in... we are not in Africa but in Africa"
+        intervals [54]
+            xmin = 327.04
+            xmax = 329.84
+            text = "they can't have a book already"
+        intervals [55]
+            xmin = 329.84
+            xmax = 337.12
+            text = "and if we want to reorganize the school system"
+        intervals [56]
+            xmin = 337.12
+            xmax = 342.16
+            text = "that mean that some people that can't buy a book"
+        intervals [57]
+            xmin = 342.16
+            xmax = 346.4
+            text = "have to buy a computer, it's impossible"
+        intervals [58]
+            xmin = 346.4
+            xmax = 352.72
+            text = ""
+        intervals [59]
+            xmin = 352.72
+            xmax = 353.68
+            text = "And you think..."
+        intervals [60]
+            xmin = 353.68
+            xmax = 412.0
+            text = ""
+        intervals [61]
+            xmin = 412.0
+            xmax = 415.44
+            text = "Yes, but you have to buy computers"
+        intervals [62]
+            xmin = 415.44
+            xmax = 420.08
+            text = "you have to teach teacher how to use computer"
+        intervals [63]
+            xmin = 420.08
+            xmax = 427.92
+            text = "you have to say at some teacher that are old"
+        intervals [64]
+            xmin = 427.92
+            xmax = 438.8
+            text = "that are learning some... all of those teacher are not able to use computer"
+        intervals [65]
+            xmin = 438.8
+            xmax = 442.24
+            text = "because they learn school with books"
+        intervals [66]
+            xmin = 442.24
+            xmax = 445.12
+            text = "they are learn school with writing at the hand"
+        intervals [67]
+            xmin = 445.12
+            xmax = 449.28
+            text = "so that's mean that we need to change everything"
+        intervals [68]
+            xmin = 449.28
+            xmax = 455.76
+            text = "and I think it's a little bit complicated in one second"
+        intervals [69]
+            xmin = 455.76
+            xmax = 458.56
+            text = "so we... I agree with you with all what you said"
+        intervals [70]
+            xmin = 458.56
+            xmax = 461.84
+            text = "but we have to make a transition"
+        intervals [71]
+            xmin = 461.84
+            xmax = 467.44
+            text = "not to stop all of book and to pass all of computers"
+        intervals [72]
+            xmin = 467.44
+            xmax = 514.0
+            text = ""
+        intervals [73]
+            xmin = 514.0
+            xmax = 519.28
+            text = "I agree with you so we can make some agreement"
+        intervals [74]
+            xmin = 519.28
+            xmax = 522.8
+            text = ""
+        intervals [75]
+            xmin = 522.8
+            xmax = 524.8
+            text = "a little bit not too more"
+        intervals [76]
+            xmin = 524.8
+            xmax = 528.16
+            text = "because it's dangerous for for economic of family"
+        intervals [77]
+            xmin = 528.16
+            xmax = 530.96
+            text = "for economic of school it's a"
+        intervals [78]
+            xmin = 530.96
+            xmax = 536.08
+            text = ""
+        intervals [79]
+            xmin = 536.08
+            xmax = 537.84
+            text = "i agree with you "
+        intervals [80]
+            xmin = 537.84
+            xmax = 540.0
+            text = "a transition not too fast"
+        intervals [81]
+            xmin = 540.0
+            xmax = 542.0
+            text = ""
+        intervals [82]
+            xmin = 542.0
+            xmax = 542.72
+            text = "okay perfect"
+        intervals [83]
+            xmin = 542.72
+            xmax = 542.789
+            text = ""
