@@ -9,7 +9,7 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 
 ## Usage
 
-* Launch the ```Audio2txtgrid.sh``` script. More information [here](#audio2txtgrid).
+* Launch the ```Audio2txtgrid.sh``` script. Use the **base** model. More information [here](#audio2txtgrid).
 * Import the ```.TextGrid``` file and the audio on [Elan](https://archive.mpi.nl/tla/elan).
 * Split the speakers in different tiers.
 * Export using the option *"texte délimité par des tabulations"* into the directory *"Whisper-split"*. This will be the non-corrected version of the transcription.
