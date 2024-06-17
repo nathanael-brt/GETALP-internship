@@ -1,0 +1,304 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 525.235
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "129"
+        xmin = 0.0
+        xmax = 525.235
+        intervals: size = 38
+        intervals [1]
+            xmin = 0.0
+            xmax = 5.903
+            text = "Number 129, role A"
+        intervals [2]
+            xmin = 5.903
+            xmax = 9.222
+            text = ""
+        intervals [3]
+            xmin = 9.222
+            xmax = 14.0
+            text = "So hello, today we are gonna discuss about"
+        intervals [4]
+            xmin = 14.0
+            xmax = 23.0
+            text = "the... we are gonna suggest to our supervisor if we have to put technologies on"
+        intervals [5]
+            xmin = 23.0
+            xmax = 35.0
+            text = "the classroom of... if we don't have to implement this in the classroom. So first, I think that"
+        intervals [6]
+            xmin = 35.0
+            xmax = 43.0
+            text = "this is a good thing to implement this type of technology like computers in this class... in the classroom"
+        intervals [7]
+            xmin = 43.0
+            xmax = 52.0
+            text = "in the course and the school in general because I think the first students like it and there"
+        intervals [8]
+            xmin = 52.0
+            xmax = 62.0
+            text = "is already studies that have showed that there is a higher level of engagement. For example,"
+        intervals [9]
+            xmin = 62.0
+            xmax = 71.0
+            text = "for students who don't like to talk because they are a little scared, etc..."
+        intervals [10]
+            xmin = 71.0
+            xmax = 108.0
+            text = ""
+        intervals [11]
+            xmin = 108.0
+            xmax = 117.0
+            text = "I get your point here, but I think that even if there is no computer on the classroom,"
+        intervals [12]
+            xmin = 117.0
+            xmax = 123.0
+            text = "there is already a possible student who can play on the phone or something else."
+        intervals [13]
+            xmin = 123.0
+            xmax = 134.0
+            text = "that already can distract other student behind them, but I get your point here and I agree with you."
+        intervals [14]
+            xmin = 134.0
+            xmax = 178.0
+            text = ""
+        intervals [15]
+            xmin = 178.0
+            xmax = 186.0
+            text = "Okay, I understand, but I think that this is not the at risk student who buy these computer."
+        intervals [16]
+            xmin = 186.0
+            xmax = 195.0
+            text = "I think that school where they are in must buy this computer for them."
+        intervals [17]
+            xmin = 195.0
+            xmax = 208.0
+            text = "Like this is already happening in some area where the state gives free computers to student and student don't have to pay them."
+        intervals [18]
+            xmin = 208.0
+            xmax = 240.0
+            text = ""
+        intervals [19]
+            xmin = 240.0
+            xmax = 252.0
+            text = "Maybe you want to say that this is a little lost of time and I think that this is a lot of... a lost of time in the present."
+        intervals [20]
+            xmin = 252.0
+            xmax = 264.0
+            text = "But after, I think that thanks to these technology and computers, students will learn lessons and skills more fast, faster."
+        intervals [21]
+            xmin = 264.0
+            xmax = 270.0
+            text = "So I think that the time will be gained after."
+        intervals [22]
+            xmin = 270.0
+            xmax = 317.0
+            text = ""
+        intervals [23]
+            xmin = 317.0
+            xmax = 320.0
+            text = "Okay, I go along with you."
+        intervals [24]
+            xmin = 320.0
+            xmax = 333.0
+            text = "I think that all student and people today are a bit addicted to this type of technology like computers or phone."
+        intervals [25]
+            xmin = 333.0
+            xmax = 350.0
+            text = "But I think that this is the student or the people at home who have to reduce the time they are using this technology because it is very useful in the school I think."
+        intervals [26]
+            xmin = 350.0
+            xmax = 380.0
+            text = ""
+        intervals [27]
+            xmin = 380.0
+            xmax = 391.0
+            text = "Okay, okay. Yes, I think that we have to just not use them, use the computers and this technology every day at school."
+        intervals [28]
+            xmin = 391.0
+            xmax = 399.0
+            text = "But I think this is a good idea to add computers in classroom and more."
+        intervals [29]
+            xmin = 399.0
+            xmax = 412.0
+            text = "It can help for future jobs because now all jobs will be like engineer for artificial intelligence."
+        intervals [30]
+            xmin = 412.0
+            xmax = 422.0
+            text = "And so we have to have a student who learn this type of skills to have a good jobs in the future."
+        intervals [31]
+            xmin = 422.0
+            xmax = 456.0
+            text = ""
+        intervals [32]
+            xmin = 456.0
+            xmax = 459.0
+            text = "Yes, I agree."
+        intervals [33]
+            xmin = 459.0
+            xmax = 472.0
+            text = "We don't have to put children at like five or four years old, directly in this type of technology."
+        intervals [34]
+            xmin = 472.0
+            xmax = 479.0
+            text = "We have to before know the life."
+        intervals [35]
+            xmin = 479.0
+            xmax = 493.0
+            text = "But yes, we have to regulate them like maybe twice a week or maybe just a few class or course, so yes."
+        intervals [36]
+            xmin = 493.0
+            xmax = 511.0
+            text = ""
+        intervals [37]
+            xmin = 511.0
+            xmax = 523.0
+            text = "Okay, so I think that we are finish and I agree with you with the twice a week and I think this is a good idea."
+        intervals [38]
+            xmin = 523.0
+            xmax = 525.235
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "077"
+        xmin = 0.0
+        xmax = 525.235
+        intervals: size = 33
+        intervals [1]
+            xmin = 0.0
+            xmax = 5.903
+            text = ""
+        intervals [2]
+            xmin = 5.903
+            xmax = 9.222
+            text = "Number 77, role B"
+        intervals [3]
+            xmin = 9.222
+            xmax = 72.0
+            text = ""
+        intervals [4]
+            xmin = 72.0
+            xmax = 82.0
+            text = "Hello, I share your view. But for me, I think that new technologies have problems."
+        intervals [5]
+            xmin = 82.0
+            xmax = 96.0
+            text = "These technologies can distract the students when they are in class. For example, if a student"
+        intervals [6]
+            xmin = 96.0
+            xmax = 105.0
+            text = "play on his computer, the other student next to him can be distracted by him."
+        intervals [7]
+            xmin = 105.0
+            xmax = 134.0
+            text = ""
+        intervals [8]
+            xmin = 134.0
+            xmax = 143.0
+            text = "Yeah, it's true, but another problem of new technology is the cost of this technologies."
+        intervals [9]
+            xmin = 143.0
+            xmax = 144.0
+            text = ""
+        intervals [10]
+            xmin = 144.0
+            xmax = 157.0
+            text = "It's very expensive to buy a computer and at risk student can't buy a computer expensive"
+        intervals [11]
+            xmin = 157.0
+            xmax = 167.0
+            text = "and they can have problem to access to network connection when they are at home."
+        intervals [12]
+            xmin = 167.0
+            xmax = 170.0
+            text = "And it can create a..."
+        intervals [13]
+            xmin = 170.0
+            xmax = 175.0
+            text = ""
+        intervals [14]
+            xmin = 175.0
+            xmax = 178.0
+            text = "It creates a disadvantage for these students."
+        intervals [15]
+            xmin = 178.0
+            xmax = 208.0
+            text = ""
+        intervals [16]
+            xmin = 208.0
+            xmax = 221.0
+            text = "It's a good idea, but for me, moreover, a buy of a computer for at risk student,"
+        intervals [17]
+            xmin = 221.0
+            xmax = 239.0
+            text = "the teacher need to have a formation to know how to integrate this technology in class without disturb the student."
+        intervals [18]
+            xmin = 239.0
+            xmax = 270.0
+            text = ""
+        intervals [19]
+            xmin = 270.0
+            xmax = 281.0
+            text = "Yeah, I go along with you there, but for me it's a good thing because a student can learn faster."
+        intervals [20]
+            xmin = 281.0
+            xmax = 294.0
+            text = "But the major problem is that the students have a sixth or eighth screen... look screen by day."
+        intervals [21]
+            xmin = 294.0
+            xmax = 305.0
+            text = "But if they use screen at school, it can increase this time spend on looking screen."
+        intervals [22]
+            xmin = 305.0
+            xmax = 317.0
+            text = "And it can provoct anxietity for the student."
+        intervals [23]
+            xmin = 317.0
+            xmax = 350.0
+            text = ""
+        intervals [24]
+            xmin = 350.0
+            xmax = 352.0
+            text = "Yeah, it's true."
+        intervals [25]
+            xmin = 352.0
+            xmax = 365.0
+            text = "And for me, we need to integrate this technology at school, but we need to limit the time spent on the screen."
+        intervals [26]
+            xmin = 365.0
+            xmax = 375.0
+            text = "and It can... gonna be a tool integrate at traditional method to learn."
+        intervals [27]
+            xmin = 375.0
+            xmax = 380.0
+            text = "It's in addition to this traditional method."
+        intervals [28]
+            xmin = 380.0
+            xmax = 422.0
+            text = ""
+        intervals [29]
+            xmin = 422.0
+            xmax = 448.0
+            text = "Obviously, it's a good thing for a job in the future but if... if we want to use this technology at school, we need to regulate them and begin to use this technology."
+        intervals [30]
+            xmin = 448.0
+            xmax = 456.0
+            text = "not before a certain age, like six years or ten years?"
+        intervals [31]
+            xmin = 456.0
+            xmax = 493.0
+            text = ""
+        intervals [32]
+            xmin = 493.0
+            xmax = 511.0
+            text = "Yes, twice a week is a good idea because it keep the advantage of this technologies to learn faster and it reduce the anxiety of the screen."
+        intervals [33]
+            xmin = 511.0
+            xmax = 525.235
+            text = ""
