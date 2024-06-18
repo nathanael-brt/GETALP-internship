@@ -1,0 +1,434 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 557.696
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "093"
+        xmin = 0.0
+        xmax = 557.696
+        intervals: size = 46
+        intervals [1]
+            xmin = 0.0
+            xmax = 3.363
+            text = "93"
+        intervals [2]
+            xmin = 3.363
+            xmax = 5.381
+            text = ""
+        intervals [3]
+            xmin = 5.381
+            xmax = 6.611
+            text = "A"
+        intervals [4]
+            xmin = 6.611
+            xmax = 29.04
+            text = ""
+        intervals [5]
+            xmin = 29.04
+            xmax = 30.85
+            text = "So  do you want to start?"
+        intervals [6]
+            xmin = 30.85
+            xmax = 57.77
+            text = ""
+        intervals [7]
+            xmin = 57.77
+            xmax = 70.04
+            text = "Ok, So for me I think that technology is a good thing for the education because the kids or the children can"
+        intervals [8]
+            xmin = 70.04
+            xmax = 82.04
+            text = "just learn something by make it a little bit more fun with games or something like this."
+        intervals [9]
+            xmin = 82.04
+            xmax = 98.319
+            text = ""
+        intervals [10]
+            xmin = 98.319
+            xmax = 118.04
+            text = "I think that the school can make the..."
+        intervals [11]
+            xmin = 118.04
+            xmax = 136.04
+            text = "Yeah I see what you want to say, but I think that the parents need also to take a xxx and place some border to him at home."
+        intervals [12]
+            xmin = 136.04
+            xmax = 142.04
+            text = "And so we can make the school more funnier for the childrens."
+        intervals [13]
+            xmin = 142.04
+            xmax = 166.04
+            text = ""
+        intervals [14]
+            xmin = 166.04
+            xmax = 188.04
+            text = "I think that the education needs to be with games or on board that the children can interact with so..."
+        intervals [15]
+            xmin = 188.04
+            xmax = 200.04
+            text = "The students can have access to internet or something like this to help him in this project, something like this."
+        intervals [16]
+            xmin = 200.04
+            xmax = 212.04
+            text = ""
+        intervals [17]
+            xmin = 212.04
+            xmax = 228.04
+            text = "Yes,  we can... the school can give to the students a computer or a tablet to do his homework at his home."
+        intervals [18]
+            xmin = 228.04
+            xmax = 240.04
+            text = "So this mean that every students, include low-income students, can have access to this digital tool."
+        intervals [19]
+            xmin = 240.04
+            xmax = 252.04
+            text = ""
+        intervals [20]
+            xmin = 252.04
+            xmax = 264.04
+            text = "The teacher can make formation. There is formation with a technology coach that can make the teacher more comfortable with the technology."
+        intervals [21]
+            xmin = 264.04
+            xmax = 272.04
+            text = "So now I want to ask you why there is a problem with the technology at the education... in the education ?"
+        intervals [22]
+            xmin = 272.04
+            xmax = 288.04
+            text = ""
+        intervals [23]
+            xmin = 288.04
+            xmax = 306.04
+            text = "I think that's... for this problem we can have some money and just put the education technology in the years, like in 10 years."
+        intervals [24]
+            xmin = 306.04
+            xmax = 320.04
+            text = "So we can have just when the school per month, for example, where we just put the digital tools in the school."
+        intervals [25]
+            xmin = 320.04
+            xmax = 370.04
+            text = ""
+        intervals [26]
+            xmin = 370.04
+            xmax = 390.04
+            text = "Yes, I think that we can make the education with technology, but yes, we need to ""instaur"" some limits, like for example, one or two hours of time screen per day."
+        intervals [27]
+            xmin = 390.04
+            xmax = 402.04
+            text = "And so we also need to make some test in paper and pencil... based on paper and pencil for... "
+        intervals [28]
+            xmin = 402.04
+            xmax = 403.371
+            text = ""
+        intervals [29]
+            xmin = 403.371
+            xmax = 410.04
+            text = "yes, I think that's a good compromise for the..."
+        intervals [30]
+            xmin = 410.04
+            xmax = 411.761
+            text = ""
+        intervals [31]
+            xmin = 411.761
+            xmax = 413.956
+            text = "Ok, Thank you."
+        intervals [32]
+            xmin = 413.956
+            xmax = 435.15
+            text = ""
+        intervals [33]
+            xmin = 435.15
+            xmax = 437.513
+            text = "yes why not"
+        intervals [34]
+            xmin = 437.513
+            xmax = 460.04
+            text = ""
+        intervals [35]
+            xmin = 460.04
+            xmax = 472.04
+            text = "I think that we can make on computer like QCM, or... or just something like this"
+        intervals [36]
+            xmin = 472.04
+            xmax = 484.04
+            text = "but I think that big test to be on paper and pencil to make the difference between technology and real test."
+        intervals [37]
+            xmin = 484.04
+            xmax = 504.04
+            text = ""
+        intervals [38]
+            xmin = 504.04
+            xmax = 516.04
+            text = "I think that's better on digital, if there is some restriction on the computer for example, so the students can't cheat at the test."
+        intervals [39]
+            xmin = 516.04
+            xmax = 528.04
+            text = "and It's more comfortable to students to make digital tests about computer science."
+        intervals [40]
+            xmin = 528.04
+            xmax = 538.717
+            text = ""
+        intervals [41]
+            xmin = 538.717
+            xmax = 539.239
+            text = "Yes"
+        intervals [42]
+            xmin = 539.239
+            xmax = 540.04
+            text = ""
+        intervals [43]
+            xmin = 540.04
+            xmax = 542.04
+            text = ""
+        intervals [44]
+            xmin = 542.04
+            xmax = 545.106
+            text = ""
+        intervals [45]
+            xmin = 545.106
+            xmax = 550.04
+            text = "No, nothing else to add "
+        intervals [46]
+            xmin = 550.04
+            xmax = 557.696
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "115"
+        xmin = 0.0
+        xmax = 557.696
+        intervals: size = 45
+        intervals [1]
+            xmin = 0.0
+            xmax = 9.345
+            text = ""
+        intervals [2]
+            xmin = 9.345
+            xmax = 12.969
+            text = "and my number is 115 with role B"
+        intervals [3]
+            xmin = 12.969
+            xmax = 31.0
+            text = ""
+        intervals [4]
+            xmin = 31.0
+            xmax = 47.04
+            text = "Yes, I find the technology is a good idea, but teens already have addiction to technology and screens devices."
+        intervals [5]
+            xmin = 47.04
+            xmax = 57.787
+            text = "So I don't find it a really good idea to import technology in school and make it all the day"
+        intervals [6]
+            xmin = 57.787
+            xmax = 82.04
+            text = ""
+        intervals [7]
+            xmin = 82.04
+            xmax = 98.309
+            text = "Okay but do... you don't know they play games at home and play more games can be a little bit contradictory with addiction"
+        intervals [8]
+            xmin = 98.309
+            xmax = 142.04
+            text = ""
+        intervals [9]
+            xmin = 142.04
+            xmax = 154.04
+            text = "Yeah I agree with you."
+        intervals [10]
+            xmin = 154.04
+            xmax = 166.04
+            text = "What do you think about the form of the education with technology?"
+        intervals [11]
+            xmin = 166.04
+            xmax = 200.04
+            text = ""
+        intervals [12]
+            xmin = 200.04
+            xmax = 212.04
+            text = "Yes, but all students do not have a device to do homework at home. So do you have solution for that?"
+        intervals [13]
+            xmin = 212.04
+            xmax = 240.04
+            text = ""
+        intervals [14]
+            xmin = 240.04
+            xmax = 252.04
+            text = "Okay, great. What about teacher? They don't have training for this new technology?"
+        intervals [15]
+            xmin = 252.04
+            xmax = 272.04
+            text = ""
+        intervals [16]
+            xmin = 272.04
+            xmax = 288.04
+            text = "I find it's a good idea, a good concept, but there is some issue with that, like the cost of the... all the device and the cost of training teacher to that new technology."
+        intervals [17]
+            xmin = 288.04
+            xmax = 320.04
+            text = ""
+        intervals [18]
+            xmin = 320.04
+            xmax = 342.04
+            text = "Okay, I think we can find compromise to that import of technology in classroom."
+        intervals [19]
+            xmin = 342.04
+            xmax = 356.04
+            text = "I think we can use technology in classroom, but not all the day for all the week for all the month."
+        intervals [20]
+            xmin = 356.04
+            xmax = 370.04
+            text = "We need to keep a distance with technology in classroom to stay in the traditional way with pen and paper."
+        intervals [21]
+            xmin = 370.04
+            xmax = 402.035
+            text = ""
+        intervals [22]
+            xmin = 402.035
+            xmax = 403.366
+            text = "I agree with you"
+        intervals [23]
+            xmin = 403.366
+            xmax = 410.04
+            text = ""
+        intervals [24]
+            xmin = 410.04
+            xmax = 411.752
+            text = "It's okay for me"
+        intervals [25]
+            xmin = 411.752
+            xmax = 413.947
+            text = ""
+        intervals [26]
+            xmin = 413.947
+            xmax = 418.04
+            text = "Thank you too."
+        intervals [27]
+            xmin = 418.04
+            xmax = 433.779
+            text = ""
+        intervals [28]
+            xmin = 433.779
+            xmax = 435.159
+            text = "yes"
+        intervals [29]
+            xmin = 435.159
+            xmax = 437.504
+            text = ""
+        intervals [30]
+            xmin = 437.504
+            xmax = 450.051
+            text = "say something else"
+        intervals [31]
+            xmin = 450.051
+            xmax = 460.04
+            text = "do you think some exam can be made on a computer."
+        intervals [32]
+            xmin = 460.04
+            xmax = 484.04
+            text = ""
+        intervals [33]
+            xmin = 484.04
+            xmax = 498.04
+            text = "Yes, but for the exam on the... about the technology."
+        intervals [34]
+            xmin = 498.04
+            xmax = 504.04
+            text = "do you prefer exam on paper or on digital devices ?"
+        intervals [35]
+            xmin = 504.04
+            xmax = 528.04
+            text = ""
+        intervals [36]
+            xmin = 528.04
+            xmax = 536.04
+            text = "Yes but the... I think the hardware test must be in paper."
+        intervals [37]
+            xmin = 536.04
+            xmax = 538.708
+            text = "The xxx theorical test."
+        intervals [38]
+            xmin = 538.708
+            xmax = 539.23
+            text = ""
+        intervals [39]
+            xmin = 539.23
+            xmax = 540.04
+            text = "yes, ok"
+        intervals [40]
+            xmin = 540.04
+            xmax = 542.04
+            text = ""
+        intervals [41]
+            xmin = 542.04
+            xmax = 545.106
+            text = "do you have something else to speak"
+        intervals [42]
+            xmin = 545.106
+            xmax = 550.04
+            text = ""
+        intervals [43]
+            xmin = 550.04
+            xmax = 554.04
+            text = "Ok, I think we have find a compromise"
+        intervals [44]
+            xmin = 554.04
+            xmax = 556.04
+            text = "For this point"
+        intervals [45]
+            xmin = 556.04
+            xmax = 557.696
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "Ens"
+        xmin = 0.0
+        xmax = 557.696
+        intervals: size = 11
+        intervals [1]
+            xmin = 0.0
+            xmax = 3.354
+            text = ""
+        intervals [2]
+            xmin = 3.354
+            xmax = 5.372
+            text = "93, okay and your role is..."
+        intervals [3]
+            xmin = 5.372
+            xmax = 6.602
+            text = ""
+        intervals [4]
+            xmin = 6.602
+            xmax = 9.327
+            text = "A, okay thank you"
+        intervals [5]
+            xmin = 9.327
+            xmax = 12.96
+            text = ""
+        intervals [6]
+            xmin = 12.96
+            xmax = 29.04
+            text = "So you can start the timer when you're ready to 10 minutes with a ring at the end, okay."
+        intervals [7]
+            xmin = 29.04
+            xmax = 418.05
+            text = ""
+        intervals [8]
+            xmin = 418.05
+            xmax = 428.05
+            text = "Can you tell us the time please?"
+        intervals [9]
+            xmin = 428.05
+            xmax = 428.06
+            text = ""
+        intervals [10]
+            xmin = 428.06
+            xmax = 433.77
+            text = "Would you like to say something else? Could you still have three and a half minutes?"
+        intervals [11]
+            xmin = 433.77
+            xmax = 557.696
+            text = ""
