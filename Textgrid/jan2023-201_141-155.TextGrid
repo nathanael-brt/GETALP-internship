@@ -1,0 +1,398 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 565.0                                
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 565.0                                  
+        intervals: size = 96                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 20.0
+            text = "Okay. One for one will be one by five will be eight."
+        intervals [2]:
+            xmin = 20.0
+            xmax = 24.0
+            text = "Okay. So this is about the article."
+        intervals [3]:
+            xmin = 24.0
+            xmax = 38.0
+            text = "I suggest to provide more about the animal testing and other progress."
+        intervals [4]:
+            xmin = 38.0
+            xmax = 52.0
+            text = "Yeah. I don't really, I don't think that we can write the article all about the progress"
+        intervals [5]:
+            xmin = 52.0
+            xmax = 64.0
+            text = "about the animal testing because, like, they are not just progress about it."
+        intervals [6]:
+            xmin = 64.0
+            xmax = 71.0
+            text = "Yeah. Yeah. I understand what you said. I'm sure there was a lot of other things"
+        intervals [7]:
+            xmin = 71.0
+            xmax = 78.0
+            text = "we can talk about, but I think the main subject of the animal testing"
+        intervals [8]:
+            xmin = 78.0
+            xmax = 86.0
+            text = "is of the benefits we have thanks to. We can see of the medicine progress"
+        intervals [9]:
+            xmin = 86.0
+            xmax = 92.0
+            text = "and of the new treatment medication."
+        intervals [10]:
+            xmin = 92.0
+            xmax = 98.0
+            text = "And I think there is a lot of things to say about it and it could be a good idea."
+        intervals [11]:
+            xmin = 98.0
+            xmax = 104.0
+            text = "Yeah. But the thing that you're talking about are not very relevant"
+        intervals [12]:
+            xmin = 104.0
+            xmax = 116.0
+            text = "and not always relevant because we have seen a lot of progress in animal testing."
+        intervals [13]:
+            xmin = 116.0
+            xmax = 122.0
+            text = "Like, so, as during one, have you heard about this?"
+        intervals [14]:
+            xmin = 122.0
+            xmax = 130.0
+            text = "Oh, yeah. Right. But it can be an example, but there is so much other medication"
+        intervals [15]:
+            xmin = 130.0
+            xmax = 136.0
+            text = "that the treatment worked. And they have been doing, okay, they tried animal testing"
+        intervals [16]:
+            xmin = 136.0
+            xmax = 141.0
+            text = "and it made it done work with this one and it was more relevant"
+        intervals [17]:
+            xmin = 141.0
+            xmax = 145.0
+            text = "with other things that, like, I don't know, computer needed."
+        intervals [18]:
+            xmin = 145.0
+            xmax = 153.0
+            text = "But this is, for the moment, the main, the most relevant practice"
+        intervals [19]:
+            xmin = 153.0
+            xmax = 159.0
+            text = "is my two progress in medicine study."
+        intervals [20]:
+            xmin = 159.0
+            xmax = 165.0
+            text = "I read some researchers that were saying that in fact,"
+        intervals [21]:
+            xmin = 165.0
+            xmax = 173.0
+            text = "a lot of animal testing experiences were not finished"
+        intervals [22]:
+            xmin = 173.0
+            xmax = 180.0
+            text = "and they need to know where, like, we don't have the results of them."
+        intervals [23]:
+            xmin = 180.0
+            xmax = 186.0
+            text = "A large number of animal testing experiences that have, you know,"
+        intervals [24]:
+            xmin = 186.0
+            xmax = 193.0
+            text = "benefits on our society or on medical research."
+        intervals [25]:
+            xmin = 193.0
+            xmax = 199.0
+            text = "Yes. But as we can see, this is the one with the most."
+        intervals [26]:
+            xmin = 199.0
+            xmax = 206.0
+            text = "We don't really have a lot of, like, I don't think."
+        intervals [27]:
+            xmin = 206.0
+            xmax = 213.0
+            text = "We didn't work enough with other methods to be sure to take good one."
+        intervals [28]:
+            xmin = 213.0
+            xmax = 218.0
+            text = "And this one, I don't think it's my kind of idea,"
+        intervals [29]:
+            xmin = 218.0
+            xmax = 222.0
+            text = "I think this one could be great for our article"
+        intervals [30]:
+            xmin = 222.0
+            xmax = 228.0
+            text = "and we maybe have much to say."
+        intervals [31]:
+            xmin = 228.0
+            xmax = 234.0
+            text = "To my mind, this is not quite a thing to do in our article"
+        intervals [32]:
+            xmin = 234.0
+            xmax = 242.0
+            text = "because people are just there that I love this thing is good"
+        intervals [33]:
+            xmin = 242.0
+            xmax = 246.0
+            text = "and, like, the only thing, but it's not true at all."
+        intervals [34]:
+            xmin = 246.0
+            xmax = 249.0
+            text = "There are a lot of alternative methods."
+        intervals [35]:
+            xmin = 249.0
+            xmax = 255.0
+            text = "I know that sometimes alternative methods are not enough"
+        intervals [36]:
+            xmin = 255.0
+            xmax = 263.0
+            text = "but in many cases there are enough and we don't use them enough."
+        intervals [37]:
+            xmin = 263.0
+            xmax = 267.0
+            text = "Yes, it would be great to talk about it for sure."
+        intervals [38]:
+            xmin = 267.0
+            xmax = 275.0
+            text = "We need to give out the information to everybody and to give a better understanding of the today."
+        intervals [39]:
+            xmin = 275.0
+            xmax = 284.0
+            text = "But this is not the biggest argument, you know, what I mean."
+        intervals [40]:
+            xmin = 284.0
+            xmax = 290.0
+            text = "They need those information in the article"
+        intervals [41]:
+            xmin = 290.0
+            xmax = 296.0
+            text = "but to make today I keep my mind, it's that I'm noticing"
+        intervals [42]:
+            xmin = 296.0
+            xmax = 299.0
+            text = "and they put the argument about it."
+        intervals [43]:
+            xmin = 299.0
+            xmax = 305.0
+            text = "Because, yeah, we have a lot of other methods, they work,"
+        intervals [44]:
+            xmin = 305.0
+            xmax = 310.0
+            text = "but we also have the, you know, these three are..."
+        intervals [45]:
+            xmin = 310.0
+            xmax = 315.0
+            text = "Yeah, and I think it's a good argument to animal-dating"
+        intervals [46]:
+            xmin = 315.0
+            xmax = 326.0
+            text = "because they change contents of the painful or the harmful they quote in faith to the animal"
+        intervals [47]:
+            xmin = 326.0
+            xmax = 329.0
+            text = "and they work with, but they still use the animal."
+        intervals [48]:
+            xmin = 329.0
+            xmax = 332.0
+            text = "I think so, it's maybe a good compromise between them."
+        intervals [49]:
+            xmin = 332.0
+            xmax = 337.0
+            text = "Yeah, these three are like a rule, but not everybody follows rules."
+        intervals [50]:
+            xmin = 337.0
+            xmax = 350.0
+            text = "And I think we have to think twice about the fact that we are doing like animals belong to us"
+        intervals [51]:
+            xmin = 350.0
+            xmax = 354.0
+            text = "but animals don't belong to us."
+        intervals [52]:
+            xmin = 354.0
+            xmax = 366.0
+            text = "They are just suffering in our laboratory and it's not like we are pretending"
+        intervals [53]:
+            xmin = 366.0
+            xmax = 371.0
+            text = "this is a right thing or we are not even thinking about it."
+        intervals [54]:
+            xmin = 371.0
+            xmax = 374.0
+            text = "It's not a subject that we talk about."
+        intervals [55]:
+            xmin = 374.0
+            xmax = 378.0
+            text = "We are pretending that it's okay, but I don't think so."
+        intervals [56]:
+            xmin = 378.0
+            xmax = 382.0
+            text = "This is maybe something we can add on the article"
+        intervals [57]:
+            xmin = 382.0
+            xmax = 385.0
+            text = "like you have you already and I have my interview"
+        intervals [58]:
+            xmin = 385.0
+            xmax = 392.0
+            text = "and we can work both together, but I think we need to clarify each point"
+        intervals [59]:
+            xmin = 392.0
+            xmax = 403.0
+            text = "and it's a shade of grey and not everything is white or black."
+        intervals [60]:
+            xmin = 403.0
+            xmax = 407.0
+            text = "Yeah, I can agree on something with you."
+        intervals [61]:
+            xmin = 407.0
+            xmax = 417.0
+            text = "But I think that for many years, your point of view has been showed"
+        intervals [62]:
+            xmin = 417.0
+            xmax = 422.0
+            text = "so I think it's a right thing to show my point of view."
+        intervals [63]:
+            xmin = 422.0
+            xmax = 426.0
+            text = "Yeah, but if we also try the two of them."
+        intervals [64]:
+            xmin = 426.0
+            xmax = 428.0
+            text = "Yeah, yeah, I think they tell them."
+        intervals [65]:
+            xmin = 428.0
+            xmax = 429.0
+            text = "It's quite difficult."
+        intervals [66]:
+            xmin = 429.0
+            xmax = 434.0
+            text = "If we give only your point of view, everybody will be proud."
+        intervals [67]:
+            xmin = 434.0
+            xmax = 438.0
+            text = "We have to stop animal testing because this is the bad things."
+        intervals [68]:
+            xmin = 438.0
+            xmax = 440.0
+            text = "We just lost money."
+        intervals [69]:
+            xmin = 440.0
+            xmax = 443.0
+            text = "It's not relevant and we don't conclude anything"
+        intervals [70]:
+            xmin = 443.0
+            xmax = 448.0
+            text = "because we don't have good results or just any results."
+        intervals [71]:
+            xmin = 448.0
+            xmax = 452.0
+            text = "But that's not true because we have some results"
+        intervals [72]:
+            xmin = 452.0
+            xmax = 456.0
+            text = "and we chose an animal testing."
+        intervals [73]:
+            xmin = 456.0
+            xmax = 462.0
+            text = "It's for the moment the one who's working well"
+        intervals [74]:
+            xmin = 462.0
+            xmax = 469.0
+            text = "because we can still live like living cells."
+        intervals [75]:
+            xmin = 470.0
+            xmax = 473.0
+            text = "And the interaction between them."
+        intervals [76]:
+            xmin = 473.0
+            xmax = 476.0
+            text = "I can't say that in computer or anything."
+        intervals [77]:
+            xmin = 476.0
+            xmax = 479.0
+            text = "So I heard what you are saying."
+        intervals [78]:
+            xmin = 479.0
+            xmax = 483.0
+            text = "But I think so we can show your point of view."
+        intervals [79]:
+            xmin = 483.0
+            xmax = 490.0
+            text = "But we can also say that it's in many situations"
+        intervals [80]:
+            xmin = 490.0
+            xmax = 493.0
+            text = "we can do without animal testing."
+        intervals [81]:
+            xmin = 493.0
+            xmax = 496.0
+            text = "And if we need animal testing,"
+        intervals [82]:
+            xmin = 496.0
+            xmax = 501.0
+            text = "maybe we can think to hire less animal,"
+        intervals [83]:
+            xmin = 501.0
+            xmax = 504.0
+            text = "less animals and in better conditions."
+        intervals [84]:
+            xmin = 504.0
+            xmax = 509.0
+            text = "And like in this motif, they are well-being."
+        intervals [85]:
+            xmin = 509.0
+            xmax = 512.0
+            text = "They are well-being because..."
+        intervals [86]:
+            xmin = 512.0
+            xmax = 517.0
+            text = "If we are doing less animal testing,"
+        intervals [87]:
+            xmin = 517.0
+            xmax = 520.0
+            text = "we can do this in better conditions."
+        intervals [88]:
+            xmin = 521.0
+            xmax = 531.0
+            text = "I think this article can lead to a great information"
+        intervals [89]:
+            xmin = 531.0
+            xmax = 535.0
+            text = "and everybody can have their own opinion"
+        intervals [90]:
+            xmin = 535.0
+            xmax = 539.0
+            text = "with all the information."
+        intervals [91]:
+            xmin = 539.0
+            xmax = 548.0
+            text = "I think it's a good opportunity for the research service"
+        intervals [92]:
+            xmin = 548.0
+            xmax = 554.0
+            text = "because we will write a very interesting article"
+        intervals [93]:
+            xmin = 554.0
+            xmax = 557.0
+            text = "with our both point of view."
+        intervals [94]:
+            xmin = 557.0
+            xmax = 560.0
+            text = "And I'm glad that we are working together."
+        intervals [95]:
+            xmin = 560.0
+            xmax = 562.0
+            text = "And I think it's important."
+        intervals [96]:
+            xmin = 562.0
+            xmax = 565.0
+            text = "Thank you very much."
