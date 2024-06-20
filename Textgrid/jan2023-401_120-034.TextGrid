@@ -1,0 +1,354 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 618.64                               
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "all"
+        xmin = 0
+        xmax = 618.64                                 
+        intervals: size = 85                          
+        intervals [1]:
+            xmin = 0.0
+            xmax = 21.72
+            text = "When you're ready, okay, so we should write some article about animal testing."
+        intervals [2]:
+            xmin = 21.72
+            xmax = 22.72
+            text = "Yes."
+        intervals [3]:
+            xmin = 22.72
+            xmax = 25.56
+            text = "What do you think about it?"
+        intervals [4]:
+            xmin = 25.56
+            xmax = 35.56
+            text = "I think I have a clear, clear, clear, clear pause issue about animal testing."
+        intervals [5]:
+            xmin = 35.56
+            xmax = 44.52
+            text = "I just think this is an archaic method, completely outdated, and we have to just think about"
+        intervals [6]:
+            xmin = 44.52
+            xmax = 53.8
+            text = "how we can do this experience without animal testing."
+        intervals [7]:
+            xmin = 53.8
+            xmax = 68.8
+            text = "Because that's just wasting money for nothing, because any solution could replace this animal"
+        intervals [8]:
+            xmin = 68.8
+            xmax = 69.8
+            text = "testing experience."
+        intervals [9]:
+            xmin = 69.8
+            xmax = 73.32
+            text = "Okay, so we have a problem because I disagree."
+        intervals [10]:
+            xmin = 73.32
+            xmax = 82.72
+            text = "I think we should write this article in favor of animal testing, because this method"
+        intervals [11]:
+            xmin = 82.72
+            xmax = 92.72
+            text = "allows breakthrough in science and research for scientific and to understanding the human"
+        intervals [12]:
+            xmin = 92.72
+            xmax = 95.47999999999999
+            text = "body and human disease and everything."
+        intervals [13]:
+            xmin = 95.47999999999999
+            xmax = 108.52000000000001
+            text = "So for me, animal testing is the right method to allow the humanity to have a better life"
+        intervals [14]:
+            xmin = 108.52000000000001
+            xmax = 110.72
+            text = "with understanding this function."
+        intervals [15]:
+            xmin = 110.72
+            xmax = 111.72
+            text = "Okay."
+        intervals [16]:
+            xmin = 111.72
+            xmax = 115.12
+            text = "Okay, I correct you just in one point."
+        intervals [17]:
+            xmin = 115.12
+            xmax = 118.64
+            text = "Maybe in the past, it was a very great solution."
+        intervals [18]:
+            xmin = 118.64
+            xmax = 131.16
+            text = "It was completely great to understand, as you say, the functioning of our belief, understand"
+        intervals [19]:
+            xmin = 131.16
+            xmax = 151.16
+            text = "our physical constructions, but today, we have to think ethically and we humanize our science."
+        intervals [20]:
+            xmin = 151.16
+            xmax = 159.16
+            text = "But we can do that, we humanize our science, and you think animals like in a better way"
+        intervals [21]:
+            xmin = 159.16
+            xmax = 160.16
+            text = "than before."
+        intervals [22]:
+            xmin = 160.16
+            xmax = 161.16
+            text = "It's great to me."
+        intervals [23]:
+            xmin = 161.16
+            xmax = 172.48
+            text = "But before we don't want to be anything to kill any day, for example, we can use animals"
+        intervals [24]:
+            xmin = 172.48
+            xmax = 181.48
+            text = "and testing animals for some subject, but not for other, like, for example, cosmetic testing"
+        intervals [25]:
+            xmin = 181.48
+            xmax = 182.48
+            text = "animals."
+        intervals [26]:
+            xmin = 182.48
+            xmax = 183.48
+            text = "It's a shame."
+        intervals [27]:
+            xmin = 183.48
+            xmax = 184.48
+            text = "Okay."
+        intervals [28]:
+            xmin = 184.48
+            xmax = 185.48
+            text = "An nonsense."
+        intervals [29]:
+            xmin = 185.48
+            xmax = 186.48
+            text = "Okay."
+        intervals [30]:
+            xmin = 186.48
+            xmax = 197.48
+            text = "No, because we have alternatives, but like, for example, human disease, sometimes we"
+        intervals [31]:
+            xmin = 197.48
+            xmax = 200.48
+            text = "don't have the correct alternative, like, for example."
+        intervals [32]:
+            xmin = 200.48
+            xmax = 201.48
+            text = "It's false."
+        intervals [33]:
+            xmin = 201.48
+            xmax = 202.48
+            text = "It's the same virus."
+        intervals [34]:
+            xmin = 202.48
+            xmax = 211.78
+            text = "No, as I'm saying, in the case of Alzheimer's, in the mask, we have, we can cure mice who"
+        intervals [35]:
+            xmin = 211.78
+            xmax = 221.04
+            text = "have Alzheimer's, but we cannot translate it for now, at the human, because we didn't understand"
+        intervals [36]:
+            xmin = 221.04
+            xmax = 230.4
+            text = "the molecular basis, but to take an alternative, we can use, for example, a computer alternative."
+        intervals [37]:
+            xmin = 230.4
+            xmax = 231.4
+            text = "Yes."
+        intervals [38]:
+            xmin = 231.4
+            xmax = 235.07999999999998
+            text = "But to use it, we have to understand the molecular basis."
+        intervals [39]:
+            xmin = 235.07999999999998
+            xmax = 239.8
+            text = "So if we don't have the molecular analysis, we cannot use alternative, before you have"
+        intervals [40]:
+            xmin = 239.8
+            xmax = 246.32
+            text = "to find the alternative by animal testing, what do you think?"
+        intervals [41]:
+            xmin = 246.32
+            xmax = 255.16
+            text = "What do you think about to create a process of experimentation in vitro, by example,"
+        intervals [42]:
+            xmin = 255.16
+            xmax = 266.2
+            text = "for, in the same time, in the second time, we can effectively create a program in computer"
+        intervals [43]:
+            xmin = 266.2
+            xmax = 274.44
+            text = "modellization, which are very, very, very performance, more, maybe, more, in the, in the"
+        intervals [44]:
+            xmin = 274.44
+            xmax = 286.56
+            text = "other, lot of time, maybe, more performance, that's animal testing, where, computer modellization"
+        intervals [45]:
+            xmin = 286.56
+            xmax = 293.8
+            text = "are more efficient in a lot of time, but it's not a question, so, we could, we could"
+        intervals [46]:
+            xmin = 293.8
+            xmax = 301.52
+            text = "say that, okay, it was the past, we did animal testing, and we know the functioning of"
+        intervals [47]:
+            xmin = 301.52
+            xmax = 310.08
+            text = "our body, and the body, and the cellular, that, that create disease, et cetera, okay."
+        intervals [48]:
+            xmin = 310.08
+            xmax = 321.92
+            text = "But now, it's time to, transit to a way of science, which are more human, and when, we"
+        intervals [49]:
+            xmin = 321.92
+            xmax = 325.12
+            text = "didn't talk about money, what money?"
+        intervals [50]:
+            xmin = 325.68
+            xmax = 333.68
+            text = "We are the subventions, because we are, legally, we have, legally, the obligation to do animal"
+        intervals [51]:
+            xmin = 333.68
+            xmax = 340.15999999999997
+            text = "testing, it's right in a lot of creative ways. Yes, but a lot of, there, there is more"
+        intervals [52]:
+            xmin = 340.15999999999997
+            xmax = 351.36
+            text = "suppression, as you say, to have, when we are, when we are in the program, in the RS program,"
+        intervals [53]:
+            xmin = 352.32
+            xmax = 358.96
+            text = "in the RS program, or RS program, you know, or with the, we are just seeing the trigger. So,"
+        intervals [54]:
+            xmin = 360.08
+            xmax = 369.44
+            text = "if we are, coming in, or RS program, trigger, we have more subventions, and that could be"
+        intervals [55]:
+            xmin = 370.8
+            xmax = 379.36
+            text = "transition step, between, between the, the experience with animals, and without animals. But,"
+        intervals [56]:
+            xmin = 380.08
+            xmax = 390.88
+            text = "I just want to, to say, one, one, one, one thing, one fact, 26 billions of dollars, that have been"
+        intervals [57]:
+            xmin = 390.88
+            xmax = 404.64
+            text = "invests in, experience animal testing, and just 95 persons did not succeed, we didn't translate"
+        intervals [58]:
+            xmin = 404.72
+            xmax = 413.28
+            text = "the medicant for human, that we test on animals. Yes, it's really good. We could put all this money"
+        intervals [59]:
+            xmin = 413.28
+            xmax = 422.0
+            text = "on computing, computer modelization, which, increase, which will be, which will increase more and"
+        intervals [60]:
+            xmin = 422.0
+            xmax = 429.92
+            text = "more, the performance of, computing, computer modelization. Yes, but like I said, it's not about"
+        intervals [61]:
+            xmin = 430.0
+            xmax = 441.36
+            text = "efficient, and increase the development, it's about reality, and reality, and point of the world."
+        intervals [62]:
+            xmin = 441.36
+            xmax = 447.68
+            text = "It's like, if you don't understand the buzzes, yes, you can, we know the buzzes. No, we don't know"
+        intervals [63]:
+            xmin = 447.68
+            xmax = 452.08
+            text = "the buzzes, we know the buzzes. So, how, what is the basis of other animals?"
+        intervals [64]:
+            xmin = 452.08
+            xmax = 460.88
+            text = "Oh, sorry, I'm not in scientific lessons, or grades, or so we don't have the buzzes. So, we have"
+        intervals [65]:
+            xmin = 460.88
+            xmax = 467.76
+            text = "to find it, maybe, maybe you're right, and maybe we can take the point of view of the"
+        intervals [66]:
+            xmin = 468.56
+            xmax = 475.28
+            text = "middle, like the triage. I'm okay with the triage, but with the triage, maybe, maybe, maybe"
+        intervals [67]:
+            xmin = 475.36
+            xmax = 482.56
+            text = "acceleration, acceleration of the triage. We cannot accelerate it. When the triage has been"
+        intervals [68]:
+            xmin = 482.56
+            xmax = 492.24
+            text = "created, 15th, in the 15th. Yes, but it's a plan of long time. Are you okay to say that it's"
+        intervals [69]:
+            xmin = 492.24
+            xmax = 502.72
+            text = "outdated? We have to create a new model with acceleration, but we can't skip the animal testing,"
+        intervals [70]:
+            xmin = 503.2
+            xmax = 508.0
+            text = "in the future, in the future. No, in the future, we can't, but no, we can't. How many years?"
+        intervals [71]:
+            xmin = 509.2
+            xmax = 516.72
+            text = "25 years? 25 years? No, we have to create the acceleration of triage, that could be"
+        intervals [72]:
+            xmin = 517.76
+            xmax = 528.4
+            text = "the speed triage. Okay, so, alternative. We write our article about the triage, and you do your"
+        intervals [73]:
+            xmin = 528.4
+            xmax = 535.36
+            text = "research about the speed triage after the article. No, didn't? No, we could just complete,"
+        intervals [74]:
+            xmin = 536.16
+            xmax = 542.32
+            text = "create a compromise with your review. I have to get a compromise, your review. No, no, no, no,"
+        intervals [75]:
+            xmin = 542.32
+            xmax = 548.4
+            text = "you want to skip the animal testing in the 25 years. No, no, no, no, no, no, no, no. I want to write"
+        intervals [76]:
+            xmin = 548.4
+            xmax = 557.92
+            text = "our article. Our article. Our article. Create a barrier between us, you man, that we are just"
+        intervals [77]:
+            xmin = 559.04
+            xmax = 568.4
+            text = "exploiting the rest of nature. It's just outdated. It was in the 19th, in the 20th century. Okay,"
+        intervals [78]:
+            xmin = 568.4
+            xmax = 576.08
+            text = "it was great, and we understand the function of genesis, etc. Wait, wait, wait, wait, wait. We have"
+        intervals [79]:
+            xmin = 576.08
+            xmax = 582.0
+            text = "to write an article and choose an article. Okay, so, so, you can write, it's outdated."
+        intervals [80]:
+            xmin = 582.0
+            xmax = 590.08
+            text = "I can write. No, no, no, listen to me. You write, it's outdated. I write, we still do it,"
+        intervals [81]:
+            xmin = 590.08
+            xmax = 598.24
+            text = "and we write the triage metals. Yes, we've read it. Okay, could we just"
+        intervals [82]:
+            xmin = 598.24
+            xmax = 603.36
+            text = "notify that we could accelerate the triage metals at the conclusion, at the conclusion,"
+        intervals [83]:
+            xmin = 603.36
+            xmax = 605.04
+            text = "at the conclusion, at the conclusion, at the conclusion, at the conclusion, at the conclusion, at the"
+        intervals [84]:
+            xmin = 605.04
+            xmax = 613.2
+            text = "last, the last song of the fence. Oh, you, you are, you are, you are, you are, but we are okay to say"
+        intervals [85]:
+            xmin = 613.2
+            xmax = 618.64
+            text = "that 25 years to skip the animal testing is two. Three ago. Okay."
