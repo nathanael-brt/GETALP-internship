@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-06-19T11:19:09+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-06-20T10:30:35+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///home/getalp/berthnat/GETALP/Audios/jan2023-201_141-155.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../Audios/jan2023-201_141-155.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:eb03b1d4-e404-449f-b0ba-9145f6220055</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">150</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">152</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -135,75 +135,77 @@
         <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="407000"/>
         <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="417000"/>
         <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="417000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="422000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="421944"/>
         <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="422000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="426000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="426000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="428000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="428000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="429000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="429000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="434000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="434000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="438000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="438000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="440000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="440000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="443000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="443000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="448000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="448000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="452000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="452000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="456000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="456000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="462000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="462000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="469000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="470000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="473000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="473000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="476000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="476000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="479000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="479000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="483000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="483000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="490000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="490000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="493000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="493000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="496000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="496000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="501000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="501000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="504000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="504000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="509000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="509000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="512000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="512000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="517000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="517000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="520000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="521000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="531000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="531000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="535000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="535000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="539000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="539000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="548000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="548000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="554000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="554000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="557000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="557000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="560000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="560000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="562000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="562020"/>
-        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="565020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="422685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="422741"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="426000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="426000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="428000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="428000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="429000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="429000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="434000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="434000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="438000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="438000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="440000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="440000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="443000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="443000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="448000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="448000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="452000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="452000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="456000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="456000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="462000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="462000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="469000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="470000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="473000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="473000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="476000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="476000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="479000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="479000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="483000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="483000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="490000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="490000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="493000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="493000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="496000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="496000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="501000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="501000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="504000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="504000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="512000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="512000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="517000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="517000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="520000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="521000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="531000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="531000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="535000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="535000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="539000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="539000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="548000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="548000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="554000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="554000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="557000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="557000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="560000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="560000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="562000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="562020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="565020"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="141">
         <ANNOTATION>
@@ -335,7 +337,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
                 TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
-                <ANNOTATION_VALUE>We need to give all the information to everybody and to give a better understood... understanding of the today.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We need to give all the information to everybody and to give a better understood... understanding of the subject.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -353,175 +355,181 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
                 TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-                <ANNOTATION_VALUE>but to make today I keep my mind, it's that I'm noticing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but the main subject I keep my idea, it's the animal testing</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
                 TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
-                <ANNOTATION_VALUE>and they put the argument about it.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and they could argument about it.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
                 TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
-                <ANNOTATION_VALUE>Because, yeah, we have a lot of other methods, they work,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Because, yeah, we thought... we have a lot of other method, they work,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
                 TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
-                <ANNOTATION_VALUE>but we also have the, you know, these three are...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but we also have the, you know, the three R...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
                 TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
-                <ANNOTATION_VALUE>Yeah, and I think it's a good argument to animal-dating</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and I think it's a good argument to animal testing</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
                 TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
-                <ANNOTATION_VALUE>because they change contents of the painful or the harmful they quote in faith to the animal</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>iencebecause they took conscience of the painful or the harmful they could inflict to the animal</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
                 TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE>and they work with, but they still use the animal.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and they work with, but they still use the animal testing.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
                 TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
-                <ANNOTATION_VALUE>I think so, it's maybe a good compromise between them.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I think so, it's maybe a good compromise between.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
                 TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts114">
-                <ANNOTATION_VALUE>This is maybe something we can add on the article</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So I...This is maybe something we can add on the article</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
                 TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
-                <ANNOTATION_VALUE>like you have you already and I have my interview</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>like you have your idea and I have my point of view</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
                 TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
-                <ANNOTATION_VALUE>and we can work both together, but I think we need to clarify each point</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and we can work both together, but I think we need to reclarify each point</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
                 TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
-                <ANNOTATION_VALUE>and it's a shade of grey and not everything is white or black.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and put like...  like, it's a shade of grey and not everything it's white or black.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>Yeah but if we</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
-                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts130">
-                <ANNOTATION_VALUE>Yeah, yeah, I think they tell them.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>Yeah, yeah, I think the two of them is great</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
-                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
-                <ANNOTATION_VALUE>It's quite difficult.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>because... if we</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
-                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
-                <ANNOTATION_VALUE>If we give only your point of view, everybody will be proud.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>give only your point of view, everybody will be "Oh God</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
-                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
                 <ANNOTATION_VALUE>We have to stop animal testing because this is the bad things.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
-                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
                 <ANNOTATION_VALUE>We just lost money.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
-                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
                 <ANNOTATION_VALUE>It's not relevant and we don't conclude anything</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
-                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
-                <ANNOTATION_VALUE>because we don't have good results or just any results.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>because we don't have good result or just any result.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
-                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
-                <ANNOTATION_VALUE>But that's not true because we have some results</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>But that's not true because we have some result</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
-                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
-                <ANNOTATION_VALUE>and we chose an animal testing.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>and the research on animal testing.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
-                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
-                <ANNOTATION_VALUE>It's for the moment the one who's working well</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>It's for the moment the most... the one who's working well</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
-                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
-                <ANNOTATION_VALUE>because we can still live like living cells.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>because we can study like living cells</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
-                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
-                <ANNOTATION_VALUE>And the interaction between them.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>and the interaction between them.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
-                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
-                <ANNOTATION_VALUE>I can't say that in computer or anything.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>and we can't xxx that on computer or anything so...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
-                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
-                <ANNOTATION_VALUE>I think this article can lead to a great information</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>yeah I agree and, I think it's... this article can lead to a great information</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
-                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
                 <ANNOTATION_VALUE>and everybody can have their own opinion</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
-                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
-                <ANNOTATION_VALUE>with all the information.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>with all the information I want to say.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
-                TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts192">
-                <ANNOTATION_VALUE>And I think it's important.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>Yeah, </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -631,7 +639,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
                 TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts101">
-                <ANNOTATION_VALUE>Yeah, these three are like a rule, but not everybody follows rules.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yeah, the three R are like a rule, but not everybody follow the rules.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -649,7 +657,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
                 TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
-                <ANNOTATION_VALUE>They are just suffering in our laboratory and it's not like we are pretending</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They are just suffering in our laboratory and it's not like... we are pretending</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -679,108 +687,108 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114"
                 TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-                <ANNOTATION_VALUE>But I think that for many years, your point of view has been showed</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But I don't... I think that for many years, your point of view have been showed</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115"
-                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts127">
                 <ANNOTATION_VALUE>so I think it's a right thing to show my point of view.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116"
-                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts129">
-                <ANNOTATION_VALUE>Yeah, but if we also try the two of them.</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>also like try the two of them.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a130"
-                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
-                <ANNOTATION_VALUE>So I heard what you are saying.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>I heard what you are saying.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131"
-                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
                 <ANNOTATION_VALUE>But I think so we can show your point of view.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a132"
-                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
-                <ANNOTATION_VALUE>But we can also say that it's in many situations</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>But we can also say that it's in many situation</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133"
-                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
                 <ANNOTATION_VALUE>we can do without animal testing.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a134"
-                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
                 <ANNOTATION_VALUE>And if we need animal testing,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135"
-                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
                 <ANNOTATION_VALUE>maybe we can think to hire less animal,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136"
-                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
                 <ANNOTATION_VALUE>less animals and in better conditions.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137"
-                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
-                <ANNOTATION_VALUE>And like in this motif, they are well-being.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>And like invest money fo their well-being.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138"
-                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
-                <ANNOTATION_VALUE>They are well-being because...</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>Their well-being because...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139"
-                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
                 <ANNOTATION_VALUE>If we are doing less animal testing,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140"
-                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
-                <ANNOTATION_VALUE>we can do this in better conditions.</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>we can do it in better condition maybe.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144"
-                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
-                <ANNOTATION_VALUE>I think it's a good opportunity for the research service</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>Yeah, I think that it's a good opportunity for the researchers</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145"
-                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
                 <ANNOTATION_VALUE>because we will write a very interesting article</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146"
-                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
                 <ANNOTATION_VALUE>with our both point of view.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147"
-                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts191">
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts193">
                 <ANNOTATION_VALUE>And I'm glad that we are working together.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -788,7 +796,7 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Ens">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149"
-                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
                 <ANNOTATION_VALUE>Thank you very much.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
