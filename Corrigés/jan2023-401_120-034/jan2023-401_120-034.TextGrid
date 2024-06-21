@@ -1,0 +1,914 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 620.808
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "120"
+        xmin = 0.0
+        xmax = 620.808
+        intervals: size = 121
+        intervals [1]
+            xmin = 0.0
+            xmax = 0.031
+            text = ""
+        intervals [2]
+            xmin = 0.031
+            xmax = 6.062
+            text = "120, moi je suis le 120 situation 1 role A"
+        intervals [3]
+            xmin = 6.062
+            xmax = 12.969
+            text = ""
+        intervals [4]
+            xmin = 12.969
+            xmax = 14.938
+            text = "yeah"
+        intervals [5]
+            xmin = 14.938
+            xmax = 21.72
+            text = ""
+        intervals [6]
+            xmin = 21.72
+            xmax = 22.72
+            text = "Yes."
+        intervals [7]
+            xmin = 22.72
+            xmax = 25.56
+            text = ""
+        intervals [8]
+            xmin = 25.56
+            xmax = 35.56
+            text = "I think I have a clear, clear, clear, clear position about the animal testing."
+        intervals [9]
+            xmin = 35.56
+            xmax = 44.52
+            text = "I just think this is an archaic method, completely outdated, and we have to just think about"
+        intervals [10]
+            xmin = 44.52
+            xmax = 53.8
+            text = "how we can did... doing... do these experiences without animal testing."
+        intervals [11]
+            xmin = 53.8
+            xmax = 68.8
+            text = "Because that's just wasting money for nothing, because any solution could replaced these animal"
+        intervals [12]
+            xmin = 68.8
+            xmax = 69.8
+            text = "testing experiences."
+        intervals [13]
+            xmin = 69.8
+            xmax = 110.72
+            text = ""
+        intervals [14]
+            xmin = 110.72
+            xmax = 111.72
+            text = "Okay."
+        intervals [15]
+            xmin = 111.72
+            xmax = 115.12
+            text = "Okay, may I correct you just in one point."
+        intervals [16]
+            xmin = 115.12
+            xmax = 118.64
+            text = "Maybe in the past, it was a very great solution."
+        intervals [17]
+            xmin = 118.64
+            xmax = 131.16
+            text = "It was completely great to understand, as you say, the functionment of our body, understand the..."
+        intervals [18]
+            xmin = 131.16
+            xmax = 151.16
+            text = "our physical construction, etc... but today, we have to think ethically and rehumanize... rehumanize our science."
+        intervals [19]
+            xmin = 151.16
+            xmax = 160.16
+            text = ""
+        intervals [20]
+            xmin = 160.16
+            xmax = 161.16
+            text = "Explain it to me"
+        intervals [21]
+            xmin = 161.16
+            xmax = 161.184
+            text = ""
+        intervals [22]
+            xmin = 161.184
+            xmax = 166.892
+            text = "But, we are continuating to kill any day"
+        intervals [23]
+            xmin = 166.892
+            xmax = 183.48
+            text = ""
+        intervals [24]
+            xmin = 183.48
+            xmax = 184.48
+            text = "Okay."
+        intervals [25]
+            xmin = 184.48
+            xmax = 185.48
+            text = ""
+        intervals [26]
+            xmin = 185.48
+            xmax = 186.48
+            text = "Okay, you're ""rassuring"" me"
+        intervals [27]
+            xmin = 186.48
+            xmax = 189.046
+            text = ""
+        intervals [28]
+            xmin = 189.046
+            xmax = 190.185
+            text = "great point"
+        intervals [29]
+            xmin = 190.185
+            xmax = 200.48
+            text = ""
+        intervals [30]
+            xmin = 200.48
+            xmax = 201.48
+            text = " No It's false."
+        intervals [31]
+            xmin = 201.48
+            xmax = 202.48
+            text = "It's the same thing"
+        intervals [32]
+            xmin = 202.48
+            xmax = 202.492
+            text = ""
+        intervals [33]
+            xmin = 202.492
+            xmax = 208.046
+            text = "the same thing, tell me about Alzheimer's it's a subject that I know"
+        intervals [34]
+            xmin = 208.046
+            xmax = 223.523
+            text = ""
+        intervals [35]
+            xmin = 223.523
+            xmax = 228.138
+            text = "we are... are you okay with me we are..."
+        intervals [36]
+            xmin = 228.138
+            xmax = 230.4
+            text = ""
+        intervals [37]
+            xmin = 230.4
+            xmax = 231.4
+            text = "Yes."
+        intervals [38]
+            xmin = 231.4
+            xmax = 235.062
+            text = ""
+        intervals [39]
+            xmin = 235.062
+            xmax = 239.782
+            text = "that is... that is... what you... that is..."
+        intervals [40]
+            xmin = 239.782
+            xmax = 241.861
+            text = ""
+        intervals [41]
+            xmin = 241.861
+            xmax = 255.16
+            text = "And what do you think... What do you think about to create a processus of experimentation in vitro, by example,"
+        intervals [42]
+            xmin = 255.16
+            xmax = 266.2
+            text = "for, in the same time, and in the second time, we can effectively create a program in computer"
+        intervals [43]
+            xmin = 266.2
+            xmax = 274.44
+            text = "modellization, which are very, very, very performant, more, maybe, more, in the, in the"
+        intervals [44]
+            xmin = 274.44
+            xmax = 286.56
+            text = "lot of time, more performant that animal testing, where, computering... computer modellization"
+        intervals [45]
+            xmin = 286.56
+            xmax = 293.8
+            text = "are more efficient in a lot of time that... so we could, we could"
+        intervals [46]
+            xmin = 293.8
+            xmax = 301.52
+            text = "say that, okay, it was the past, we did animal testing, and we know the functionment of"
+        intervals [47]
+            xmin = 301.52
+            xmax = 310.08
+            text = "our body, and the body, and the... and cellular, that, that create disease, et cetera, okay."
+        intervals [48]
+            xmin = 310.08
+            xmax = 321.92
+            text = "But now, it's time to, transit to a way of science which are more human, and when... we"
+        intervals [49]
+            xmin = 321.92
+            xmax = 323.662
+            text = "didn't talk about money"
+        intervals [50]
+            xmin = 323.662
+            xmax = 325.169
+            text = ""
+        intervals [51]
+            xmin = 325.169
+            xmax = 326.384
+            text = "money"
+        intervals [52]
+            xmin = 326.384
+            xmax = 334.492
+            text = ""
+        intervals [53]
+            xmin = 334.492
+            xmax = 340.175
+            text = "Yes, yes, but a lot of, there, there is more"
+        intervals [54]
+            xmin = 340.175
+            xmax = 351.36
+            text = "subvention, as you say, to have, when we are, when we are in the program, in the RS program,"
+        intervals [55]
+            xmin = 351.36
+            xmax = 352.32
+            text = ""
+        intervals [56]
+            xmin = 352.32
+            xmax = 358.96
+            text = "in the RS program, RS program, you know, with the xxx the three R. So,"
+        intervals [57]
+            xmin = 358.96
+            xmax = 360.08
+            text = ""
+        intervals [58]
+            xmin = 360.08
+            xmax = 369.44
+            text = "if we are, coming in RS program, three R, we have more subventions, and that could be"
+        intervals [59]
+            xmin = 369.44
+            xmax = 370.8
+            text = ""
+        intervals [60]
+            xmin = 370.8
+            xmax = 379.36
+            text = "a transition step, between, between the, the experience with animals, and without animal. But,"
+        intervals [61]
+            xmin = 379.36
+            xmax = 380.08
+            text = ""
+        intervals [62]
+            xmin = 380.08
+            xmax = 390.88
+            text = "I just want to, to say, one, one, one, one thing, one fact, 26 billions of dollar, that have been"
+        intervals [63]
+            xmin = 390.88
+            xmax = 404.64
+            text = "invest in, experience animal testing, and just 95 percent did not succeed, who didn't translate"
+        intervals [64]
+            xmin = 404.64
+            xmax = 404.72
+            text = ""
+        intervals [65]
+            xmin = 404.72
+            xmax = 413.28
+            text = "the medicant for human, that we test on animals. This is really close and this is... and... We could put all this money"
+        intervals [66]
+            xmin = 413.28
+            xmax = 422.0
+            text = "on computing... computer modelization, which increase... which will be... which will increase more and"
+        intervals [67]
+            xmin = 422.0
+            xmax = 427.107
+            text = "more, the performance of, computing... computer modelization and..."
+        intervals [68]
+            xmin = 427.107
+            xmax = 444.353
+            text = ""
+        intervals [69]
+            xmin = 444.353
+            xmax = 449.107
+            text = "we know the basis, yes we know the basis"
+        intervals [70]
+            xmin = 449.107
+            xmax = 452.076
+            text = ""
+        intervals [71]
+            xmin = 452.076
+            xmax = 462.953
+            text = "Oh, sorry, I'm not in scientifical lessons, or grades or... So, so I don't know. But we... Yes."
+        intervals [72]
+            xmin = 462.953
+            xmax = 471.046
+            text = ""
+        intervals [73]
+            xmin = 471.046
+            xmax = 475.264
+            text = "I'm okay with the three R's. Maybe, maybe, maybe"
+        intervals [74]
+            xmin = 475.264
+            xmax = 475.36
+            text = ""
+        intervals [75]
+            xmin = 475.36
+            xmax = 482.56
+            text = "an acceleration, an acceleration of the three R. because to... When the three R have been"
+        intervals [76]
+            xmin = 482.56
+            xmax = 482.569
+            text = ""
+        intervals [77]
+            xmin = 482.569
+            xmax = 486.03
+            text = "created, 15th, in the 15th, 1950."
+        intervals [78]
+            xmin = 486.03
+            xmax = 490.215
+            text = ""
+        intervals [79]
+            xmin = 490.215
+            xmax = 492.301
+            text = "Are you okay to say that it's outdated ?"
+        intervals [80]
+            xmin = 492.301
+            xmax = 492.353
+            text = ""
+        intervals [81]
+            xmin = 492.353
+            xmax = 503.2
+            text = "We have to create a new three R with acceleration and big engaged to..."
+        intervals [82]
+            xmin = 503.2
+            xmax = 503.246
+            text = ""
+        intervals [83]
+            xmin = 503.246
+            xmax = 505.215
+            text = "In the future ? In the future we can ?"
+        intervals [84]
+            xmin = 505.215
+            xmax = 505.954
+            text = ""
+        intervals [85]
+            xmin = 505.954
+            xmax = 509.185
+            text = "How many year ? How many year ?"
+        intervals [86]
+            xmin = 509.185
+            xmax = 510.108
+            text = ""
+        intervals [87]
+            xmin = 510.108
+            xmax = 511.677
+            text = "25 year? "
+        intervals [88]
+            xmin = 511.677
+            xmax = 512.231
+            text = ""
+        intervals [89]
+            xmin = 512.231
+            xmax = 512.769
+            text = "No"
+        intervals [90]
+            xmin = 512.769
+            xmax = 516.72
+            text = "we have to create the acceleration of three R that could be "
+        intervals [91]
+            xmin = 516.72
+            xmax = 517.754
+            text = ""
+        intervals [92]
+            xmin = 517.754
+            xmax = 522.671
+            text = "the three R, speedy, the speedy three R and to... to"
+        intervals [93]
+            xmin = 522.671
+            xmax = 531.969
+            text = ""
+        intervals [94]
+            xmin = 531.969
+            xmax = 535.36
+            text = "No, no, no we could just "
+        intervals [95]
+            xmin = 535.36
+            xmax = 536.16
+            text = ""
+        intervals [96]
+            xmin = 536.16
+            xmax = 542.32
+            text = "create a compromise with your idea. No, no, no no no no."
+        intervals [97]
+            xmin = 542.32
+            xmax = 548.4
+            text = "you want to skip the animal testing in the... in 25 years. This is outdated."
+        intervals [98]
+            xmin = 548.4
+            xmax = 557.92
+            text = "Anthropologically, anthropologically, create a barrier between us, human, we... that we are just"
+        intervals [99]
+            xmin = 557.92
+            xmax = 559.04
+            text = ""
+        intervals [100]
+            xmin = 559.04
+            xmax = 568.4
+            text = "exploiting the rest of nature. It's just outdated. It was in the 19th, in the 20th century. Okay,"
+        intervals [101]
+            xmin = 568.4
+            xmax = 576.08
+            text = "it was great, and we understand the functionment of the basis of gene, etc. But this is not..."
+        intervals [102]
+            xmin = 576.08
+            xmax = 576.615
+            text = ""
+        intervals [103]
+            xmin = 576.615
+            xmax = 577.954
+            text = "today."
+        intervals [104]
+            xmin = 577.954
+            xmax = 578.369
+            text = ""
+        intervals [105]
+            xmin = 578.369
+            xmax = 580.677
+            text = "Okay so ?"
+        intervals [106]
+            xmin = 580.677
+            xmax = 581.523
+            text = ""
+        intervals [107]
+            xmin = 581.523
+            xmax = 584.892
+            text = "With this consideration and xxx anthropological"
+        intervals [108]
+            xmin = 584.892
+            xmax = 585.031
+            text = ""
+        intervals [109]
+            xmin = 585.031
+            xmax = 586.631
+            text = "i listen to you"
+        intervals [110]
+            xmin = 586.631
+            xmax = 593.231
+            text = ""
+        intervals [111]
+            xmin = 593.231
+            xmax = 596.093
+            text = "Yes we've... Okay"
+        intervals [112]
+            xmin = 596.093
+            xmax = 596.569
+            text = ""
+        intervals [113]
+            xmin = 596.569
+            xmax = 598.286
+            text = "Could we... Could we just"
+        intervals [114]
+            xmin = 598.286
+            xmax = 601.369
+            text = "notify that we could accelerate the three R method "
+        intervals [115]
+            xmin = 601.369
+            xmax = 602.523
+            text = ""
+        intervals [116]
+            xmin = 602.523
+            xmax = 603.36
+            text = "at the conclusion"
+        intervals [117]
+            xmin = 603.36
+            xmax = 605.04
+            text = "at the most important"
+        intervals [118]
+            xmin = 605.04
+            xmax = 607.431
+            text = "last, the last sentence."
+        intervals [119]
+            xmin = 607.431
+            xmax = 613.2
+            text = "Oh, you are... you are.. you are hard, you are hard. But we are okay to say "
+        intervals [120]
+            xmin = 613.2
+            xmax = 618.64
+            text = "that 25 years to skip the animal testing is too... Okay."
+        intervals [121]
+            xmin = 618.64
+            xmax = 620.808
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "034"
+        xmin = 0.0
+        xmax = 620.808
+        intervals: size = 98
+        intervals [1]
+            xmin = 0.0
+            xmax = 6.031
+            text = ""
+        intervals [2]
+            xmin = 6.031
+            xmax = 9.354
+            text = "034 situation 1 role B"
+        intervals [3]
+            xmin = 9.354
+            xmax = 14.923
+            text = ""
+        intervals [4]
+            xmin = 14.923
+            xmax = 21.72
+            text = "Okay, so we should write some article about animal testing."
+        intervals [5]
+            xmin = 21.72
+            xmax = 22.72
+            text = ""
+        intervals [6]
+            xmin = 22.72
+            xmax = 25.56
+            text = "What do you think about it? What... The angle we should..."
+        intervals [7]
+            xmin = 25.56
+            xmax = 69.8
+            text = ""
+        intervals [8]
+            xmin = 69.8
+            xmax = 73.32
+            text = "Okay, so we have a problem because I disagree."
+        intervals [9]
+            xmin = 73.32
+            xmax = 82.72
+            text = "I think we should write this article in favor of animal testing, because this method"
+        intervals [10]
+            xmin = 82.72
+            xmax = 92.72
+            text = "allow breakthrough in science and research for scientific and to understanding the human"
+        intervals [11]
+            xmin = 92.72
+            xmax = 95.48
+            text = "body and human disease and everything."
+        intervals [12]
+            xmin = 95.48
+            xmax = 108.52
+            text = "So for me, animal testing is the right method to allow the humanity to have a better life"
+        intervals [13]
+            xmin = 108.52
+            xmax = 110.72
+            text = "with understanding this function... this functionment"
+        intervals [14]
+            xmin = 110.72
+            xmax = 151.16
+            text = ""
+        intervals [15]
+            xmin = 151.16
+            xmax = 159.16
+            text = "But we can do that, rehumanize our science, and using animals like in a better way"
+        intervals [16]
+            xmin = 159.16
+            xmax = 160.16
+            text = "that before. Like we can..."
+        intervals [17]
+            xmin = 160.16
+            xmax = 162.354
+            text = ""
+        intervals [18]
+            xmin = 162.354
+            xmax = 164.615
+            text = "We don't, we don't "
+        intervals [19]
+            xmin = 164.615
+            xmax = 165.985
+            text = ""
+        intervals [20]
+            xmin = 165.985
+            xmax = 172.462
+            text = "We don't have the obligation to kill like for example we can use animals"
+        intervals [21]
+            xmin = 172.462
+            xmax = 172.48
+            text = ""
+        intervals [22]
+            xmin = 172.48
+            xmax = 181.48
+            text = "and testing animal for some subject, but not for other, like, for example, cosmetic and testing"
+        intervals [23]
+            xmin = 181.48
+            xmax = 182.48
+            text = "animals"
+        intervals [24]
+            xmin = 182.48
+            xmax = 183.48
+            text = "It's an... a shame"
+        intervals [25]
+            xmin = 183.48
+            xmax = 184.48
+            text = ""
+        intervals [26]
+            xmin = 184.48
+            xmax = 185.48
+            text = "it's a nonsense."
+        intervals [27]
+            xmin = 185.48
+            xmax = 186.48
+            text = ""
+        intervals [28]
+            xmin = 186.48
+            xmax = 197.48
+            text = "No, because we have alternatives, but like, for example, human disease, sometimes we"
+        intervals [29]
+            xmin = 197.48
+            xmax = 200.48
+            text = "don't have the correct alternative, like, for example."
+        intervals [30]
+            xmin = 200.48
+            xmax = 200.954
+            text = ""
+        intervals [31]
+            xmin = 200.954
+            xmax = 201.985
+            text = "Alzheimer's, "
+        intervals [32]
+            xmin = 201.985
+            xmax = 202.48
+            text = ""
+        intervals [33]
+            xmin = 202.48
+            xmax = 211.78
+            text = "No, Alzheimer's, the case of Alzheimer's in the mice, we have, we can cure mice who"
+        intervals [34]
+            xmin = 211.78
+            xmax = 221.04
+            text = "have Alzheimer's, but we cannot translate it for now, at the human, because we didn't understand"
+        intervals [35]
+            xmin = 221.04
+            xmax = 230.4
+            text = "the molecular basis, but to take alternative, we can use, for example, computer alternative."
+        intervals [36]
+            xmin = 230.4
+            xmax = 231.4
+            text = ""
+        intervals [37]
+            xmin = 231.4
+            xmax = 235.08
+            text = "But to use it, we have to understands the molecular basis."
+        intervals [38]
+            xmin = 235.08
+            xmax = 239.8
+            text = "So if we don't have the molecular basis, we cannot use alternative, before you have"
+        intervals [39]
+            xmin = 239.8
+            xmax = 246.32
+            text = "to find the alternative by animal testing, respectfully"
+        intervals [40]
+            xmin = 246.32
+            xmax = 255.185
+            text = ""
+        intervals [41]
+            xmin = 255.185
+            xmax = 257.569
+            text = "it's not exactly the same conclusions"
+        intervals [42]
+            xmin = 257.569
+            xmax = 289.631
+            text = ""
+        intervals [43]
+            xmin = 289.631
+            xmax = 292.138
+            text = "but it's not a question about efficient"
+        intervals [44]
+            xmin = 292.138
+            xmax = 323.692
+            text = ""
+        intervals [45]
+            xmin = 323.692
+            xmax = 325.15
+            text = "what money ?"
+        intervals [46]
+            xmin = 325.15
+            xmax = 325.68
+            text = ""
+        intervals [47]
+            xmin = 325.68
+            xmax = 333.68
+            text = "We have the subventions, because we are, legally... we have, legally, the obligation to do animal"
+        intervals [48]
+            xmin = 333.68
+            xmax = 336.908
+            text = "testing, it's right in a lot of xxx treatment."
+        intervals [49]
+            xmin = 336.908
+            xmax = 407.646
+            text = ""
+        intervals [50]
+            xmin = 407.646
+            xmax = 411.508
+            text = "yes but like I said..."
+        intervals [51]
+            xmin = 411.508
+            xmax = 427.138
+            text = ""
+        intervals [52]
+            xmin = 427.138
+            xmax = 441.36
+            text = "Yes but like I said it's not about efficient, and increase the development, it's about reality and... reality and point of the world."
+        intervals [53]
+            xmin = 441.36
+            xmax = 447.68
+            text = "It's like, if you don't understand the basis, you cannot create... So, no, we don't know "
+        intervals [54]
+            xmin = 447.68
+            xmax = 453.938
+            text = "the basis. Ok So, how... what is the basis of Alzheimer? Molecular basis."
+        intervals [55]
+            xmin = 453.938
+            xmax = 458.63
+            text = ""
+        intervals [56]
+            xmin = 458.63
+            xmax = 467.76
+            text = "So we don't have the basis, so whe have to find it, maybe, maybe you're right, and maybe we can take the point of view of the"
+        intervals [57]
+            xmin = 467.76
+            xmax = 468.56
+            text = ""
+        intervals [58]
+            xmin = 468.56
+            xmax = 471.062
+            text = "middle, like the three R's."
+        intervals [59]
+            xmin = 471.062
+            xmax = 471.938
+            text = ""
+        intervals [60]
+            xmin = 471.938
+            xmax = 477.753
+            text = "but the three R's use... use animal. No, no, no, we cannot..."
+        intervals [61]
+            xmin = 477.753
+            xmax = 478.636
+            text = ""
+        intervals [62]
+            xmin = 478.636
+            xmax = 480.912
+            text = "we cannot accelerate it"
+        intervals [63]
+            xmin = 480.912
+            xmax = 484.984
+            text = ""
+        intervals [64]
+            xmin = 484.984
+            xmax = 492.23
+            text = " Yes, but it's a plan of long time. But... No.."
+        intervals [65]
+            xmin = 492.23
+            xmax = 493.8
+            text = ""
+        intervals [66]
+            xmin = 493.8
+            xmax = 503.231
+            text = "You have to... we have to find alternative but we cannot skip the animal testing like..."
+        intervals [67]
+            xmin = 503.231
+            xmax = 504.477
+            text = ""
+        intervals [68]
+            xmin = 504.477
+            xmax = 508.0
+            text = "No, in the future, we can, but now we cannot. "
+        intervals [69]
+            xmin = 508.0
+            xmax = 509.185
+            text = ""
+        intervals [70]
+            xmin = 509.185
+            xmax = 510.093
+            text = "25 years? "
+        intervals [71]
+            xmin = 510.093
+            xmax = 511.677
+            text = ""
+        intervals [72]
+            xmin = 511.677
+            xmax = 512.231
+            text = "yeah"
+        intervals [73]
+            xmin = 512.231
+            xmax = 512.554
+            text = ""
+        intervals [74]
+            xmin = 512.554
+            xmax = 514.785
+            text = "Like the time to"
+        intervals [75]
+            xmin = 514.785
+            xmax = 521.83
+            text = ""
+        intervals [76]
+            xmin = 521.83
+            xmax = 528.4
+            text = "okay so, alternative : we write our article about the three R and you do your"
+        intervals [77]
+            xmin = 528.4
+            xmax = 531.969
+            text = "research about the speedy three R's after the article, deal? "
+        intervals [78]
+            xmin = 531.969
+            xmax = 538.385
+            text = ""
+        intervals [79]
+            xmin = 538.385
+            xmax = 541.323
+            text = "I create a compromise you refuse it."
+        intervals [80]
+            xmin = 541.323
+            xmax = 545.6
+            text = ""
+        intervals [81]
+            xmin = 545.6
+            xmax = 550.307
+            text = "No, no no no no, I want to write our articles"
+        intervals [82]
+            xmin = 550.307
+            xmax = 569.015
+            text = ""
+        intervals [83]
+            xmin = 569.015
+            xmax = 576.062
+            text = "You can... You can... You can write... Wait, wait, wait, wait, wait, wait, we have"
+        intervals [84]
+            xmin = 576.062
+            xmax = 576.08
+            text = ""
+        intervals [85]
+            xmin = 576.08
+            xmax = 582.0
+            text = "to write an article and choose an angle. So, you can write, it's outdated."
+        intervals [86]
+            xmin = 582.0
+            xmax = 590.08
+            text = "I can write. No, no, no, listen to me. You write, it's outdated. I write, we still do it, "
+        intervals [87]
+            xmin = 590.08
+            xmax = 593.2
+            text = "and we write the three R's method. "
+        intervals [88]
+            xmin = 593.2
+            xmax = 596.062
+            text = "read ? deal ?"
+        intervals [89]
+            xmin = 596.062
+            xmax = 596.523
+            text = "Okay"
+        intervals [90]
+            xmin = 596.523
+            xmax = 601.354
+            text = ""
+        intervals [91]
+            xmin = 601.354
+            xmax = 602.508
+            text = "at the conclusion"
+        intervals [92]
+            xmin = 602.508
+            xmax = 603.154
+            text = ""
+        intervals [93]
+            xmin = 603.154
+            xmax = 605.523
+            text = "at the conclusion maybe the last"
+        intervals [94]
+            xmin = 605.523
+            xmax = 608.646
+            text = ""
+        intervals [95]
+            xmin = 608.646
+            xmax = 610.2
+            text = "in little"
+        intervals [96]
+            xmin = 610.2
+            xmax = 616.185
+            text = ""
+        intervals [97]
+            xmin = 616.185
+            xmax = 618.646
+            text = ""
+        intervals [98]
+            xmin = 618.646
+            xmax = 620.808
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "Ens"
+        xmin = 0.0
+        xmax = 620.808
+        intervals: size = 3
+        intervals [1]
+            xmin = 0.0
+            xmax = 9.323
+            text = ""
+        intervals [2]
+            xmin = 9.323
+            xmax = 12.923
+            text = "When you're ready"
+        intervals [3]
+            xmin = 12.923
+            xmax = 620.808
+            text = ""
