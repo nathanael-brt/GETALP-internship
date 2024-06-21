@@ -4,19 +4,44 @@
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1920,1048</Object>
     </pref>
+    <prefGroup key="TranscriptionTable.ColumnWidth">
+        <pref key="1">
+            <Int>1491</Int>
+        </pref>
+    </prefGroup>
     <prefList key="SegmentationViewer.TierOrder">
         <String>141</String>
         <String>155</String>
         <String>Ens</String>
     </prefList>
+    <prefList key="ExportPraatDialog.selectedTiers">
+        <String>141</String>
+        <String>155</String>
+        <String>Ens</String>
+    </prefList>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="SegmentationViewer.ZoomLevel">
+        <Float>54.0</Float>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>141</String>
     </pref>
     <pref key="ExportPraatDialog.SelectTiersMode">
         <String>Tier</String>
     </pref>
     <pref key="TranscriptionTable.LastActiveRow">
-        <Int>119</Int>
+        <Int>3</Int>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>6703</Long>
+    </pref>
+    <pref key="ExportTabDialog.SelectTiersMode">
+        <String>Tier</String>
     </pref>
     <prefList key="ExportTabDialog.TierOrder">
         <String>141</String>
@@ -27,7 +52,7 @@
         <Float>54.000008</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
-        <Int>2</Int>
+        <Int>3</Int>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="155">
@@ -40,86 +65,6 @@
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
     </prefGroup>
-    <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,32</Object>
-    </pref>
-    <pref key="TimeLineViewer.ZoomLevel">
-        <Float>54.000008</Float>
-    </pref>
-    <prefList key="TranscriptionTable.NonEditableTiers"/>
-    <prefList key="TranscriptionTable.ColumnTypes">
-        <String>default-lt</String>
-    </prefList>
-    <pref key="SelectionBeginTime">
-        <Long>562020</Long>
-    </pref>
-    <prefList key="MultiTierViewer.HiddenTiers"/>
-    <pref key="MediaControlRate">
-        <Float>1.0</Float>
-    </pref>
-    <prefGroup key="TranscriptionTable.TierMap">
-        <prefList key="155">
-            <String>155</String>
-        </prefList>
-        <prefList key="Ens">
-            <String>Ens</String>
-        </prefList>
-        <prefList key="141">
-            <String>141</String>
-        </prefList>
-    </prefGroup>
-    <pref key="TimeScaleBeginTime">
-        <Long>509981</Long>
-    </pref>
-    <pref key="MediaTime">
-        <Long>562020</Long>
-    </pref>
-    <prefGroup key="TierColors">
-        <pref key="155">
-            <Object class="java.awt.Color">90,0,90</Object>
-        </pref>
-        <pref key="Ens">
-            <Object class="java.awt.Color">0,90,90</Object>
-        </pref>
-        <pref key="141">
-            <Object class="java.awt.Color">160,90,0</Object>
-        </pref>
-    </prefGroup>
-    <prefList key="MultiTierViewer.TierOrder">
-        <String>141</String>
-        <String>155</String>
-        <String>Ens</String>
-    </prefList>
-    <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>70</Int>
-    </pref>
-    <prefList key="ExportPraatDialog.HiddenTiers"/>
-    <prefList key="TranscriptionTable.HiddenTiers"/>
-    <prefGroup key="TranscriptionTable.ColumnWidth">
-        <pref key="1">
-            <Int>1491</Int>
-        </pref>
-    </prefGroup>
-    <prefList key="ExportPraatDialog.selectedTiers">
-        <String>141</String>
-        <String>155</String>
-        <String>Ens</String>
-    </prefList>
-    <pref key="LayoutManager.SelectedTabIndex">
-        <Int>7</Int>
-    </pref>
-    <pref key="SegmentationViewer.ZoomLevel">
-        <Float>54.0</Float>
-    </pref>
-    <pref key="MultiTierViewer.ActiveTierName">
-        <String>141</String>
-    </pref>
-    <pref key="SelectionEndTime">
-        <Long>565020</Long>
-    </pref>
-    <pref key="ExportTabDialog.SelectTiersMode">
-        <String>Tier</String>
-    </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Acteur">
             <Int>75</Int>
@@ -178,14 +123,28 @@
     <pref key="MediaControlVolume">
         <Float>1.0</Float>
     </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,32</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>54.000008</Float>
+    </pref>
+    <prefList key="TranscriptionTable.NonEditableTiers"/>
+    <prefList key="TranscriptionTable.ColumnTypes">
+        <String>default-lt</String>
+    </prefList>
     <prefList key="ExportPraatDialog.TierOrder">
         <String>141</String>
         <String>155</String>
         <String>Ens</String>
     </prefList>
+    <pref key="SelectionBeginTime">
+        <Long>0</Long>
+    </pref>
     <pref key="TM.SignalViewer.ZoomLevel">
         <Float>5.0</Float>
     </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
     <prefGroup key="BAS - WebMAUS Basic">
         <pref key="LANGUAGE">
             <String>deu-DE</String>
@@ -204,9 +163,49 @@
             <String>TEXT</String>
         </pref>
     </prefGroup>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <prefGroup key="TranscriptionTable.TierMap">
+        <prefList key="155">
+            <String>155</String>
+        </prefList>
+        <prefList key="Ens">
+            <String>Ens</String>
+        </prefList>
+        <prefList key="141">
+            <String>141</String>
+        </prefList>
+    </prefGroup>
+    <pref key="TimeScaleBeginTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>18833</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="155">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="Ens">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="141">
+            <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>141</String>
+        <String>155</String>
+        <String>Ens</String>
+    </prefList>
     <pref key="TranscriptionTable.LastActiveColumn">
         <String>default-lt</String>
     </pref>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>70</Int>
+    </pref>
+    <prefList key="ExportPraatDialog.HiddenTiers"/>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Destinataire</String>
         <String>Expéditeur</String>
@@ -216,4 +215,5 @@
         <Int>1</Int>
     </pref>
     <prefList key="ExportTabDialog.HiddenTiers"/>
+    <prefList key="TranscriptionTable.HiddenTiers"/>
 </preferences>

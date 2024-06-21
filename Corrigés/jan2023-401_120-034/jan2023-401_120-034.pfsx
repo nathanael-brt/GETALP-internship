@@ -10,29 +10,29 @@
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
+    <pref key="SegmentationViewer.ZoomLevel">
+        <Float>10.0</Float>
+    </pref>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>120</String>
     </pref>
     <pref key="SelectionEndTime">
         <Long>613200</Long>
     </pref>
-    <pref key="SignalViewer.ZoomLevel">
-        <Float>100.0</Float>
+    <pref key="ExportTabDialog.SelectTiersMode">
+        <String>Tier</String>
     </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>10.0</Float>
+    </pref>
+    <prefList key="ExportTabDialog.TierOrder">
+        <String>120</String>
+        <String>034</String>
+        <String>Ens</String>
+    </prefList>
     <pref key="LayoutManager.CurrentMode">
         <Int>3</Int>
     </pref>
-    <prefGroup key="TranscriptionMode.Temp.TierColors">
-        <pref key="034">
-            <Object class="java.awt.Color">0,0,90</Object>
-        </pref>
-        <pref key="Ens">
-            <Object class="java.awt.Color">90,160,160</Object>
-        </pref>
-        <pref key="120">
-            <Object class="java.awt.Color">0,90,0</Object>
-        </pref>
-    </prefGroup>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Acteur">
             <Int>75</Int>
@@ -65,6 +65,14 @@
             <Int>75</Int>
         </pref>
     </prefGroup>
+    <prefList key="ExportTabDialog.selectedTiers">
+        <String>120</String>
+        <String>034</String>
+        <String>Ens</String>
+    </prefList>
+    <pref key="SegmentationViewer.ActiveTier">
+        <String>034</String>
+    </pref>
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
@@ -148,5 +156,6 @@
     <pref key="SegmentationManager.SelectedTabIndex">
         <Int>1</Int>
     </pref>
+    <prefList key="ExportTabDialog.HiddenTiers"/>
     <prefList key="TranscriptionTable.HiddenTiers"/>
 </preferences>
