@@ -1,0 +1,372 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 580.034
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "146"
+        xmin = 0.0
+        xmax = 580.034
+        intervals: size = 49
+        intervals [1]
+            xmin = 0.0
+            xmax = 8.574
+            text = "146 role B, I want to give..."
+        intervals [2]
+            xmin = 8.574
+            xmax = 15.383
+            text = "Situation 1 role A and 048"
+        intervals [3]
+            xmin = 15.383
+            xmax = 28.64
+            text = "So I thinks for the news... for the article we have to show that it's important to keep"
+        intervals [4]
+            xmin = 28.64
+            xmax = 38.8
+            text = "the animal testing because we don't have choice to do animals... to  do some tests in medicines in another way."
+        intervals [5]
+            xmin = 38.8
+            xmax = 91.84
+            text = ""
+        intervals [6]
+            xmin = 91.84
+            xmax = 103.84
+            text = "Ah yeah, so you want to speaks in an objective way, or you want to give some arguments in disfavour of animal testing?"
+        intervals [7]
+            xmin = 103.84
+            xmax = 115.12
+            text = ""
+        intervals [8]
+            xmin = 115.12
+            xmax = 126.675
+            text = "Okay I think I've misunderstand myself, because I think we don't have the choice to have to keep the animal testing."
+        intervals [9]
+            xmin = 126.675
+            xmax = 135.229
+            text = "We don't have other way, but you, you think we have to do not this practice. Why?"
+        intervals [10]
+            xmin = 135.229
+            xmax = 157.6
+            text = ""
+        intervals [11]
+            xmin = 157.6
+            xmax = 169.76
+            text = "Yes, but I think human life is better and more important that... than an animal life, and that's why we don't"
+        intervals [12]
+            xmin = 169.76
+            xmax = 178.08
+            text = "test on a child or on a person who have a life, who have a conscience. Animal don't have"
+        intervals [13]
+            xmin = 178.08
+            xmax = 178.72
+            text = ""
+        intervals [14]
+            xmin = 178.72
+            xmax = 186.16
+            text = "a conscience. just, they'll feel pain, yes, but they don't have a mind and a conscience and a"
+        intervals [15]
+            xmin = 186.16
+            xmax = 194.16
+            text = "sophisticate mind, so we don't have the choice. We have to test the medicine in a tissue and"
+        intervals [16]
+            xmin = 194.16
+            xmax = 194.192
+            text = ""
+        intervals [17]
+            xmin = 194.192
+            xmax = 197.5
+            text = "biological tissue on animals."
+        intervals [18]
+            xmin = 197.5
+            xmax = 245.255
+            text = ""
+        intervals [19]
+            xmin = 245.255
+            xmax = 250.581
+            text = "You think about... what about other way of testing, like new technologies"
+        intervals [20]
+            xmin = 250.581
+            xmax = 250.617
+            text = ""
+        intervals [21]
+            xmin = 250.617
+            xmax = 252.802
+            text = "or just an other way of testing? "
+        intervals [22]
+            xmin = 252.802
+            xmax = 281.36
+            text = ""
+        intervals [23]
+            xmin = 281.36
+            xmax = 294.4
+            text = "Yes, but today at the moment, when we talk, many of work show that other way of testing are"
+        intervals [24]
+            xmin = 294.4
+            xmax = 304.4
+            text = "not benefits and not very scientist. We have just the normal way of testing is animal, maybe in the"
+        intervals [25]
+            xmin = 304.4
+            xmax = 314.8
+            text = "future, if we have the money, if we have the knowledge, we can create an... just things of simulation"
+        intervals [26]
+            xmin = 314.8
+            xmax = 324.88
+            text = "of the human body, but today it's so complicated, I don't know how to create machine like that,"
+        intervals [27]
+            xmin = 324.88
+            xmax = 325.6
+            text = ""
+        intervals [28]
+            xmin = 325.6
+            xmax = 334.0
+            text = "so I don't have the solution and so for me we have to keep the animal testing because I don't"
+        intervals [29]
+            xmin = 334.0
+            xmax = 341.76
+            text = "know the way of construction we have to build this kind of technology."
+        intervals [30]
+            xmin = 341.76
+            xmax = 390.72
+            text = ""
+        intervals [31]
+            xmin = 390.72
+            xmax = 399.68
+            text = "And so do you think that we can replace entirely animals because for me,"
+        intervals [32]
+            xmin = 399.68
+            xmax = 400.56
+            text = ""
+        intervals [33]
+            xmin = 400.56
+            xmax = 410.24
+            text = "we are, even if we have some technologies like simulation, like computer, in the future,"
+        intervals [34]
+            xmin = 410.24
+            xmax = 419.12
+            text = "we have to keep animals because it's the most, the most closer of human if we don't want to test on"
+        intervals [35]
+            xmin = 419.12
+            xmax = 429.12
+            text = "human. Maybe you can reduces this number of animals, but not completely stop this kind of project."
+        intervals [36]
+            xmin = 429.12
+            xmax = 478.56
+            text = ""
+        intervals [37]
+            xmin = 478.56
+            xmax = 487.36
+            text = "Yes, but I disagree with that because that suppose the fact that we have to create some biological"
+        intervals [38]
+            xmin = 487.36
+            xmax = 494.72
+            text = "tissues like human tissue and that suppose the fact we have to create new humans with"
+        intervals [39]
+            xmin = 494.72
+            xmax = 495.36
+            text = ""
+        intervals [40]
+            xmin = 495.36
+            xmax = 503.68
+            text = "machines like artificially. So I think it's unethical. For me, we have to keep the"
+        intervals [41]
+            xmin = 503.68
+            xmax = 510.48
+            text = "animal testing because yes, it's not... it's unethical, but the other way is also unethical. So"
+        intervals [42]
+            xmin = 510.48
+            xmax = 511.44
+            text = ""
+        intervals [43]
+            xmin = 511.44
+            xmax = 521.92
+            text = "it's just we have to reduce at the maximum the risk of suffering that it's very complicated situation."
+        intervals [44]
+            xmin = 521.92
+            xmax = 564.83
+            text = ""
+        intervals [45]
+            xmin = 564.83
+            xmax = 568.661
+            text = "Yeah, I think we have to... I agree with you for this part"
+        intervals [46]
+            xmin = 568.661
+            xmax = 576.64
+            text = "I think we have to... to show the two way of thinking and make some theory for the future."
+        intervals [47]
+            xmin = 576.64
+            xmax = 577.52
+            text = ""
+        intervals [48]
+            xmin = 577.52
+            xmax = 579.84
+            text = "So thanks you."
+        intervals [49]
+            xmin = 579.84
+            xmax = 580.034
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "048"
+        xmin = 0.0
+        xmax = 580.034
+        intervals: size = 39
+        intervals [1]
+            xmin = 0.0
+            xmax = 40.0
+            text = ""
+        intervals [2]
+            xmin = 40.0
+            xmax = 54.72
+            text = "I agree with you on the fact that we have no other solution to offer... for stop animal testing,"
+        intervals [3]
+            xmin = 54.72
+            xmax = 68.56
+            text = "but I don't think it's a good idea to speak for the animal testing, but most against animal testing,"
+        intervals [4]
+            xmin = 68.56
+            xmax = 86.16
+            text = "because it's... if people read our article, I think it's important to shows... to the... that this technique"
+        intervals [5]
+            xmin = 86.16
+            xmax = 91.84
+            text = "hurt animals and can kill them."
+        intervals [6]
+            xmin = 91.84
+            xmax = 103.84
+            text = ""
+        intervals [7]
+            xmin = 103.84
+            xmax = 115.12
+            text = "I think it's not possible to speak about... a favour of animal testing."
+        intervals [8]
+            xmin = 115.12
+            xmax = 135.52
+            text = ""
+        intervals [9]
+            xmin = 135.52
+            xmax = 148.96
+            text = "Because animals are also conscientious, like you and me, and in reality, I think you don't want to test some drugs,"
+        intervals [10]
+            xmin = 148.96
+            xmax = 157.52
+            text = "some things which could hurt you and kill you."
+        intervals [11]
+            xmin = 157.52
+            xmax = 197.468
+            text = ""
+        intervals [12]
+            xmin = 197.468
+            xmax = 207.2
+            text = "Yes, but okay, if you want, they're... animals are not conscientious, but it's"
+        intervals [13]
+            xmin = 207.2
+            xmax = 215.92
+            text = "a part of our world, of our biodiversity, of our environment, and it's very important to keep"
+        intervals [14]
+            xmin = 215.92
+            xmax = 235.92
+            text = "their biodiversity in good way. So I think there are other solution to test medical... to make test... medical tests,"
+        intervals [15]
+            xmin = 235.92
+            xmax = 245.234
+            text = "scientific test, so it's not only the solution. "
+        intervals [16]
+            xmin = 245.234
+            xmax = 252.745
+            text = ""
+        intervals [17]
+            xmin = 252.745
+            xmax = 257.28
+            text = "New technology and other way, but new technology... we are in the"
+        intervals [18]
+            xmin = 257.28
+            xmax = 272.08
+            text = "xxx society, which are in increase and in developing, and all day we have new technology"
+        intervals [19]
+            xmin = 272.08
+            xmax = 281.36
+            text = "and new things to increase the world, so we can find a solution to stop animal testing."
+        intervals [20]
+            xmin = 281.36
+            xmax = 344.8
+            text = ""
+        intervals [21]
+            xmin = 344.8
+            xmax = 354.96
+            text = "I'm... I agree because the technology is not... in not... with the technology it's not possible "
+        intervals [22]
+            xmin = 354.96
+            xmax = 355.04
+            text = ""
+        intervals [23]
+            xmin = 355.04
+            xmax = 364.96
+            text = "today to stop animal testing, but in our article, I think it's important to say that"
+        intervals [24]
+            xmin = 364.96
+            xmax = 366.96
+            text = ""
+        intervals [25]
+            xmin = 366.96
+            xmax = 376.0
+            text = "we have... they have a lot of research on technology to stop animal testing and we don't agree,"
+        intervals [26]
+            xmin = 376.0
+            xmax = 376.96
+            text = ""
+        intervals [27]
+            xmin = 376.96
+            xmax = 389.84
+            text = "we disagree sorry, we disagree with the fact of animal testing, but today we don't do with another solution."
+        intervals [28]
+            xmin = 389.84
+            xmax = 429.76
+            text = ""
+        intervals [29]
+            xmin = 429.76
+            xmax = 443.52
+            text = "In my mind, in the future, with the evolution of technology, it will completely"
+        intervals [30]
+            xmin = 443.52
+            xmax = 454.32
+            text = "possible to... it will be completely possible to stop animal testing, not just reduce, but stop."
+        intervals [31]
+            xmin = 454.32
+            xmax = 465.76
+            text = "Because we have... We invent... today we invent lot of things and I think if we take a little of a our time"
+        intervals [32]
+            xmin = 465.76
+            xmax = 476.8
+            text = "to think about this problem, I think we can find a solution for stop radically animal testing."
+        intervals [33]
+            xmin = 476.8
+            xmax = 523.28
+            text = ""
+        intervals [34]
+            xmin = 523.28
+            xmax = 538.88
+            text = "Okay, so for this article, I think with all of we say that this article should be objective,"
+        intervals [35]
+            xmin = 538.88
+            xmax = 539.04
+            text = ""
+        intervals [36]
+            xmin = 539.04
+            xmax = 550.48
+            text = "talk about animal testing, the argument in favor of animal testing and against animal testing,"
+        intervals [37]
+            xmin = 550.48
+            xmax = 560.0
+            text = "I think it's a good way and I think it's very important to talk about the new technology,"
+        intervals [38]
+            xmin = 560.0
+            xmax = 564.809
+            text = "the new method to stop animal testing."
+        intervals [39]
+            xmin = 564.809
+            xmax = 580.034
+            text = ""
