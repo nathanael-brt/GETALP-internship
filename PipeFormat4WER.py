@@ -29,3 +29,4 @@ for lign in timeInfo:
     end = float(Tab_lign[4])    #get the end time
 
     it = 0 #iterator to keep track of the position in the TextGrid
+  
