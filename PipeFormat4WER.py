@@ -44,14 +44,14 @@ for line in timeInfo:
                 xmax = float(lineGrid[19:])
 
             elif lineGrid.startswith("            text = "):     #text
-                if xmin >= start and xmax <= end and int(speaker_nb) == int(speaker_nb_grid):   #test that we are strictly inside the right segment, for the right speaker
+                if ((end >= xmin >= start) or (start <= xmax <= end)) and int(speaker_nb) == int(speaker_nb_grid):   #test that we are strictly inside the right segment, for the right speaker
                     text = lineGrid[19:]        #get the corrected text of the segment
                     text = text.strip('\n').strip('"')           #get rid of the \n and the "
                     
                     if text != "":  #write the text only if it is not empty (not a pause)
                         corRes.write(speaker_nb)    #write the speaker number
                         corRes.write("		" + text + "\n")
-                elif xmax > end and int(speaker_nb) == int(speaker_nb_grid):
+                elif xmin > end and int(speaker_nb) == int(speaker_nb_grid):
                     break           #we can stop the loop if we are out of the base segment
        
         TextGrid.close()    #close the file
