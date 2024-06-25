@@ -6,6 +6,7 @@ read
 cd ../plspp
 rm audio/* benepar/* shape/* syll/* text/* tg/* tgpos/* whisperx/*
 #launch the pipeline
+./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
 bash plspp.sh 
 
 #create all the directories 
