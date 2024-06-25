@@ -1,0 +1,1 @@
+ for example if a student plays on his computer the user's student next to him can be detected by him 
