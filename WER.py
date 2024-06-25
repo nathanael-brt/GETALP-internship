@@ -1,12 +1,19 @@
 #compute the word error rate 
+# parmaeters : name of the file + mode (0 if from whisper, 1 if from plspp)
 import os
 import re 
 import sys
 
-#ouverture des fichiers
-Whis = open("Whisper_WER/Whisper-split/" + sys.argv[1] + "-split.txt", "r")
-Corr = open("Corrigés/" + sys.argv[1] + "/" + sys.argv[1] + ".txt", "r")
-Res = open("Whisper_WER/WER/" +sys.argv[1] + ".res", "w")
+if sys.argv[2] == 0 :
+    #ouverture des fichiers provenant de whisper
+    Whis = open("Whisper_WER/Whisper-split/" + sys.argv[1] + "-split.txt", "r")
+    Corr = open("Corrigés/" + sys.argv[1] + "/" + sys.argv[1] + ".txt", "r")
+    Res = open("Whisper_WER/WER/" +sys.argv[1] + ".res", "w")
+elif sys.argv[2] == 1 :
+    #ouverture des fichiers provenant de plspp
+    Whis = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + + "_pipeRes.txt", "r")
+    Corr = open("PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_corRes.txt", "r")
+    Res = open("PLSPP_WER/WER/" +sys.argv[1] + "_PLSPP.res", "w")
 
 #lecture des fichiers et stockage du texte dans des listes (une liste par acteur)
 #On utilise une liste de liste par fichier, chaque élément de la liste correspond au texte d'un acteur (liste de mots)
