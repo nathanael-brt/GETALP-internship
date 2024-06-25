@@ -1,9 +1,10 @@
 #translation of the files given by plspp and the correction into the format needed for the WER calculation
+#takes the name of the  audio file as an argument
 import os
 import sys
 
 #result files
-pipeRes = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + + "_pipeRes.txt", "w")    #result file for the pipeline's file
+pipeRes = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "w")    #result file for the pipeline's file
 corRes = open("PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_corRes.txt", "w")            #result file for the correction
 timeInfo = open("PLSPP_WER/TimeInfo/timeInfo.csv", "r")                             #file containing the time informations of each segment
 

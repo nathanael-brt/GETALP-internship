@@ -4,14 +4,14 @@ import os
 import re 
 import sys
 
-if sys.argv[2] == 0 :
+if sys.argv[2] == "0":
     #ouverture des fichiers provenant de whisper
     Whis = open("Whisper_WER/Whisper-split/" + sys.argv[1] + "-split.txt", "r")
     Corr = open("Corrigés/" + sys.argv[1] + "/" + sys.argv[1] + ".txt", "r")
     Res = open("Whisper_WER/WER/" +sys.argv[1] + ".res", "w")
-elif sys.argv[2] == 1 :
+elif sys.argv[2] == "1" :
     #ouverture des fichiers provenant de plspp
-    Whis = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + + "_pipeRes.txt", "r")
+    Whis = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "r")
     Corr = open("PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_corRes.txt", "r")
     Res = open("PLSPP_WER/WER/" +sys.argv[1] + "_PLSPP.res", "w")
 
