@@ -12,11 +12,11 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 * Launch the ```Audio2txtgrid.sh``` script. Use the **base** model. More information [here](#audio2txtgrid).
 * Import the ```.TextGrid``` file and the audio on [Elan](https://archive.mpi.nl/tla/elan).
 * Split the speakers in different tiers.
-* Export using the option *"texte délimité par des tabulations"* into the directory *"Whisper-split"*. This will be the non-corrected version of the transcription.
+* Export using the option *"texte délimité par des tabulations"* into the directory *"Whisper_WER/Whisper-split"*. This will be the non-corrected version of the transcription.
 * Correct the transcription
 * Export using the option *"texte délimité par des tabulations"* into the directory *"Corrigés/<name_of_the_audio>"*. If it doesn't exist, create it.
 * Export using the option *"TextGrid Praat"* into the same directory.
-* Create the result file (```.res```) in the directory *"WER"*.
+* Create the result file (```.res```) in the directory *"Whisper_WER/WER"*.
 * Execute the python programm ```WER.py```. More information [here](#WER).
 
 
@@ -39,10 +39,10 @@ It Take 2 files as an input (read on keyboard) :<br>
 Computes the **Word Error Count** between the reference from *whisper* and the manually corrected version.
 Gives one *WER* by speaker. 
 
-It takes 3 files as an input (read on keyboard) :
-* The reference file from whisper
-* The file containing the corrected text
-* The result file (```.res```)  
+It takes 2 inputs (to give when executing the file) :
+* The base name of the file you are working on (the name of the audio file without the ```.wav``` extension) 
+* Either 0 or 1 depending on which WER you want to compute :
+    * 0 to compute the WER from whisper, read automatically the reference and hypothesis files as long as they have the right name : ```
 
 **/!\\** the speakers need to be separated manually, both for the reference from whisper and the corrected version :  
     This has to be done on **ELAN** and exported with the option *"texte délimité par des tabulations"* and all parameters unchecked.  
