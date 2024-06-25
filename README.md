@@ -49,7 +49,7 @@ It takes 2 inputs (to give when executing the file) :
         - ```PLSPP_WER/PLSPP_WER_format/<file_name>_pipeRes.txt```
         - ```PLSPP_WER/Corr_WER_format/<file_name>_corRes.txt```
 
-In both cases the programm creates a ```.res``` result file in the corresponding directory (*"Whisper_WER/WER"* for 0 and *"PLSPP_WER/WER"* for 0)
+In both cases the program creates a ```.res``` result file in the corresponding directory (*"Whisper_WER/WER"* for 0 and *"PLSPP_WER/WER"* for 0)
 
 **/!\\** the speakers need to be separated manually, both for the reference from whisper and the corrected version :  
     This has to be done on **ELAN** and exported with the option *"texte délimité par des tabulations"* and all parameters unchecked.  
@@ -83,6 +83,11 @@ Uses the [codecarbon](https://github.com/mlco2/codecarbon) and whisper packages 
 Takes a whisper model and an audio file as inputs.   
 
 Returns a ```.csv``` with plenty of informations on not only the carbon emissions but also the power consumption, the cpu, gpu, etc...  
+
+--------------------------------------------------------------------------------------------
+### PipeFormat4WER
+
+This program is useful to the computation of the WER using the segments given by PLSPP. 
 
 ## Scripts
 
