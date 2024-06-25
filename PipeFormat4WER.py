@@ -5,7 +5,7 @@ import sys
 #result files
 pipeRes = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + + "_pipeRes.txt", "w")    #result file for the pipeline's file
 corRes = open("PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_corRes.txt", "w")            #result file for the correction
-timeInfo = open("PLSPP_WER/TimeInfo/" + sys.argv[1]+"_timeInfo.csv", "r")                             #file containing the time informations of each segment
+timeInfo = open("PLSPP_WER/TimeInfo/timeInfo.csv", "r")                             #file containing the time informations of each segment
 
 #concatenation of all the text files from plspp into the wanted format
 
