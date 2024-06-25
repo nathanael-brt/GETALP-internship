@@ -1,11 +1,12 @@
 #compute the word error rate 
 import os
 import re 
+import sys
 
 #ouverture des fichiers
-Whis = open(input("Whisper split file:\n"), "r")
-Corr = open(input("Corrected file:\n"), "r")
-Res = open(input("Result file :\n"), "w")
+Whis = open("Whisper_WER/Whisper-split/" + sys.argv[1] + "-split.txt", "r")
+Corr = open("Corrigés/" + sys.argv[1] + "/" + sys.argv[1] + ".txt", "r")
+Res = open("Whisper_WER/WER/" +sys.argv[1] + ".res", "w")
 
 #lecture des fichiers et stockage du texte dans des listes (une liste par acteur)
 #On utilise une liste de liste par fichier, chaque élément de la liste correspond au texte d'un acteur (liste de mots)

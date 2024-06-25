@@ -8,6 +8,7 @@ echo Model :
 read model
 #create the corresponding directory
 file_name=$(basename $file_path .wav)   #get the file name from the path
+cd Whisper_WER
 cd Whisper
 mkdir $file_name
 cd $file_name

@@ -1,15 +1,16 @@
 #translation of the files given by plspp and the correction into the format needed for the WER calculation
 import os
+import sys
 
 #result files
-pipeRes = open(input("First result file (from the pipeline's results): "), "w")    #result file for the pipeline's file
-corRes = open(input("Second result file (from the correction): "), "w")            #result file for the correction
-timeInfo = open(input("Time information file: "), "r")                             #file containing the time informations of each segment
+pipeRes = open(sys.argv[1] + "_pipeRes.txt", "w")    #result file for the pipeline's file
+corRes = open(sys.argv[1] + "_corRes.txt", "w")            #result file for the correction
+timeInfo = open(sys.argv[1]+"_timeInfo.csv", "r")                             #file containing the time informations of each segment
 
 #concatenation of all the text files from plspp into the wanted format
 
 # Iterate over files in PLSPP_text directory
-for name in os.listdir("PLSPP_text"):
+for name in os.listdir("PLSPP_text/" + sys.argv[1]+ "/"):
     pipeTxt = open("PLSPP_text/" + name, "r")
     speaker_nb = name[28:30]  #get the speaker number from the file name
     pipeRes.write(speaker_nb) #write the speaker number in the result file
