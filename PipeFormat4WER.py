@@ -1,7 +1,9 @@
 #translation of the files given by plspp and the correction into the format needed for the WER calculation
-#takes the name of the  audio file as an argument and a number (0 = time sorted alphabetically, 1 = time sorted inversely alphabetically), change the order of the speakers
+#takes the name of the  audio file as an argument and POSSIBLY a number reversing the determined order of the speakers by the function (parachute), 
+# if 0 nothing is done if 1 reverse the order
 import os
 import sys
+import functions
 
 #result files
 pipeRes = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "w")    #result file for the pipeline's file
@@ -22,15 +24,24 @@ for name in os.listdir("PLSPP_WER/PLSPP_text/" + sys.argv[1]+ "/"):
 #translation of the corrected transcription into the wanted format by taking only the used segments (<8s)
 #We take only the segments of the correrction which are strictly inside the segment from PLSPP
 
+normal_order =  functions.is_speaker_order_normal("PLSPP_WER/PLSPP_tg/" + sys.argv[1] +".TextGrid")  #get the order of the speakers
 #help to keep track of the real orer of the speakers
-if sys.argv[2] == "0":
+if normal_order: 
     #first case : normal order of the speakers
-    real_speaker_nb = -1
-    it = 1
-elif sys.argv[2] == "1":
+    if sys.argv[2] == "0":
+        real_speaker_nb = -1
+        it = 1
+    else :
+        real_speaker_nb = 2
+        it = -1
+else:
     #second case : reverse order of the speakers
-    real_speaker_nb = 2
-    it = -1
+    if sys.argv[2] == "0":
+        real_speaker_nb = 2
+        it = -1
+    else:
+        real_speaker_nb = -1
+        it = 1
 
 speaker_nb = ""
 

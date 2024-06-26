@@ -4,15 +4,21 @@ echo "---START (press any button)---"
 read
 #supress all the files in the necessary directories
 cd ../plspp
-#rm audio/* benepar/* shape/* syll/* text/* tg/* tgpos/* whisperx/*
-#launch the pipeline
-#./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
-#bash plspp.sh 
+echo "Do you want to launch the pipeline (y/n) ?"
+read answer
+
+if [ $answer = "y" ]
+then
+    rm audio/* benepar/* shape/* syll/* text/* tg/* tgpos/* whisperx/*
+    #launch the pipeline
+    ./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
+    bash plspp.sh 
+fi
 
 #create all the directories 
-for file in data/*
+for file in ../GETALP-internship/PLSPP_WER/PLSPP_tg/*
 do
-    file_name=$(basename $file .wav)   #get the file name 
+    file_name=$(basename $file .TextGrid)   #get the file name 
     mkdir ../GETALP-internship/PLSPP_WER/PLSPP_text/$file_name
 done
 
@@ -43,13 +49,13 @@ do
     file_name=$(basename $dir)
     echo "working on $file_name..."
     #launch the WER computation
-    python PipeFormat4WER.py $file_name  0       #put in the right format + segmentation
+    python PipeFormat4WER.py $file_name 0        #put in the right format + segmentation
     python WER.py $file_name 1                  #compute the WER
     
     #verify that the WER is not too high 
     wer=$(awk '/WER/ {print $3; exit}' "PLSPP_WER/WER/${file_name}_PLSPP.res")      #extract the WER
     wer_float=$(echo "$wer" | bc)   #convert the WER in float
-    if (( $(echo "$wer_float >= 0.6" | bc -l) )) 
+    if (( $(echo "$wer_float >= 0.9" | bc -l) )) 
     then    #the WER is too high
         python PipeFormat4WER.py $file_name  1   #we re-launch the programm but with the speakers in the other order
         python WER.py $file_name 1 

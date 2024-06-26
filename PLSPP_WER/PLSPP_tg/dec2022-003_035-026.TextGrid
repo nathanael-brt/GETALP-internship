@@ -1,0 +1,510 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 614.8643990929705
+tiers? <exists> 
+size = 3
+item []:
+    item [0]:
+            class = "IntervalTier"
+            name = "SPEAKER_01"
+            xmin = 0
+            xmax = 614.8643990929705
+            intervals: size = 53
+        intervals [1]:
+                xmin = 0
+                xmax = 0.4978125
+                text = ""
+        intervals [2]:
+                xmin = 0.4978125
+                xmax = 2.6409374999999997
+                text = "SPEAKER_01"
+        intervals [3]:
+                xmin = 2.6409374999999997
+                xmax = 5.4084375
+                text = ""
+        intervals [4]:
+                xmin = 5.4084375
+                xmax = 6.2184375
+                text = "SPEAKER_01"
+        intervals [5]:
+                xmin = 6.2184375
+                xmax = 40.947187500000005
+                text = ""
+        intervals [6]:
+                xmin = 40.947187500000005
+                xmax = 82.8984375
+                text = "SPEAKER_01"
+        intervals [7]:
+                xmin = 82.8984375
+                xmax = 93.9515625
+                text = ""
+        intervals [8]:
+                xmin = 93.9515625
+                xmax = 95.7234375
+                text = "SPEAKER_01"
+        intervals [9]:
+                xmin = 95.7234375
+                xmax = 97.0903125
+                text = ""
+        intervals [10]:
+                xmin = 97.0903125
+                xmax = 123.04406250000001
+                text = "SPEAKER_01"
+        intervals [11]:
+                xmin = 123.04406250000001
+                xmax = 124.3603125
+                text = ""
+        intervals [12]:
+                xmin = 124.3603125
+                xmax = 126.9928125
+                text = "SPEAKER_01"
+        intervals [13]:
+                xmin = 126.9928125
+                xmax = 128.44406250000003
+                text = ""
+        intervals [14]:
+                xmin = 128.44406250000003
+                xmax = 133.75968749999998
+                text = "SPEAKER_01"
+        intervals [15]:
+                xmin = 133.75968749999998
+                xmax = 150.6853125
+                text = ""
+        intervals [16]:
+                xmin = 150.6853125
+                xmax = 190.49343750000003
+                text = "SPEAKER_01"
+        intervals [17]:
+                xmin = 190.49343750000003
+                xmax = 191.65781250000003
+                text = ""
+        intervals [18]:
+                xmin = 191.65781250000003
+                xmax = 194.57718749999998
+                text = "SPEAKER_01"
+        intervals [19]:
+                xmin = 194.57718749999998
+                xmax = 196.33218750000003
+                text = ""
+        intervals [20]:
+                xmin = 196.33218750000003
+                xmax = 198.30656249999998
+                text = "SPEAKER_01"
+        intervals [21]:
+                xmin = 198.30656249999998
+                xmax = 200.09531250000003
+                text = ""
+        intervals [22]:
+                xmin = 200.09531250000003
+                xmax = 204.24656249999998
+                text = "SPEAKER_01"
+        intervals [23]:
+                xmin = 204.24656249999998
+                xmax = 215.45156250000002
+                text = ""
+        intervals [24]:
+                xmin = 215.45156250000002
+                xmax = 261.6384375
+                text = "SPEAKER_01"
+        intervals [25]:
+                xmin = 261.6384375
+                xmax = 263.20781250000005
+                text = ""
+        intervals [26]:
+                xmin = 263.20781250000005
+                xmax = 276.94406250000003
+                text = "SPEAKER_01"
+        intervals [27]:
+                xmin = 276.94406250000003
+                xmax = 282.68156250000004
+                text = ""
+        intervals [28]:
+                xmin = 282.68156250000004
+                xmax = 307.50468750000005
+                text = "SPEAKER_01"
+        intervals [29]:
+                xmin = 307.50468750000005
+                xmax = 321.00468750000005
+                text = ""
+        intervals [30]:
+                xmin = 321.00468750000005
+                xmax = 349.1859375
+                text = "SPEAKER_01"
+        intervals [31]:
+                xmin = 349.1859375
+                xmax = 366.49968750000005
+                text = ""
+        intervals [32]:
+                xmin = 366.49968750000005
+                xmax = 388.6228125
+                text = "SPEAKER_01"
+        intervals [33]:
+                xmin = 388.6228125
+                xmax = 392.9934375
+                text = ""
+        intervals [34]:
+                xmin = 392.9934375
+                xmax = 393.07781250000005
+                text = "SPEAKER_01"
+        intervals [35]:
+                xmin = 393.07781250000005
+                xmax = 398.49468750000005
+                text = ""
+        intervals [36]:
+                xmin = 398.49468750000005
+                xmax = 427.4353125
+                text = "SPEAKER_01"
+        intervals [37]:
+                xmin = 427.4353125
+                xmax = 429.3084375
+                text = ""
+        intervals [38]:
+                xmin = 429.3084375
+                xmax = 435.23156250000005
+                text = "SPEAKER_01"
+        intervals [39]:
+                xmin = 435.23156250000005
+                xmax = 444.22593750000004
+                text = ""
+        intervals [40]:
+                xmin = 444.22593750000004
+                xmax = 464.0034375
+                text = "SPEAKER_01"
+        intervals [41]:
+                xmin = 464.0034375
+                xmax = 465.6909375
+                text = ""
+        intervals [42]:
+                xmin = 465.6909375
+                xmax = 465.70781250000005
+                text = "SPEAKER_01"
+        intervals [43]:
+                xmin = 465.70781250000005
+                xmax = 473.52093750000006
+                text = ""
+        intervals [44]:
+                xmin = 473.52093750000006
+                xmax = 515.0334375
+                text = "SPEAKER_01"
+        intervals [45]:
+                xmin = 515.0334375
+                xmax = 525.0065625000001
+                text = ""
+        intervals [46]:
+                xmin = 525.0065625000001
+                xmax = 527.0146875
+                text = "SPEAKER_01"
+        intervals [47]:
+                xmin = 527.0146875
+                xmax = 530.4403125
+                text = ""
+        intervals [48]:
+                xmin = 530.4403125
+                xmax = 578.4328125000001
+                text = "SPEAKER_01"
+        intervals [49]:
+                xmin = 578.4328125000001
+                xmax = 590.1778125000001
+                text = ""
+        intervals [50]:
+                xmin = 590.1778125000001
+                xmax = 604.6734375000001
+                text = "SPEAKER_01"
+        intervals [51]:
+                xmin = 604.6734375000001
+                xmax = 609.4490625000001
+                text = ""
+        intervals [52]:
+                xmin = 609.4490625000001
+                xmax = 613.1784375000001
+                text = "SPEAKER_01"
+        intervals [53]:
+                xmin = 613.1784375000001
+                xmax = 614.8643990929705
+                text = ""
+    item [1]:
+            class = "IntervalTier"
+            name = "SPEAKER_00"
+            xmin = 0
+            xmax = 614.8643990929705
+            intervals: size = 17
+        intervals [1]:
+                xmin = 0
+                xmax = 3.2146875
+                text = ""
+        intervals [2]:
+                xmin = 3.2146875
+                xmax = 7.450312500000001
+                text = "SPEAKER_00"
+        intervals [3]:
+                xmin = 7.450312500000001
+                xmax = 10.622812500000002
+                text = ""
+        intervals [4]:
+                xmin = 10.622812500000002
+                xmax = 12.360937500000002
+                text = "SPEAKER_00"
+        intervals [5]:
+                xmin = 12.360937500000002
+                xmax = 15.347812500000003
+                text = ""
+        intervals [6]:
+                xmin = 15.347812500000003
+                xmax = 16.0059375
+                text = "SPEAKER_00"
+        intervals [7]:
+                xmin = 16.0059375
+                xmax = 24.8990625
+                text = ""
+        intervals [8]:
+                xmin = 24.8990625
+                xmax = 25.2028125
+                text = "SPEAKER_00"
+        intervals [9]:
+                xmin = 25.2028125
+                xmax = 367.44468750000004
+                text = ""
+        intervals [10]:
+                xmin = 367.44468750000004
+                xmax = 367.66406250000006
+                text = "SPEAKER_00"
+        intervals [11]:
+                xmin = 367.66406250000006
+                xmax = 418.4409375
+                text = ""
+        intervals [12]:
+                xmin = 418.4409375
+                xmax = 420.6853125
+                text = "SPEAKER_00"
+        intervals [13]:
+                xmin = 420.6853125
+                xmax = 477.4359375
+                text = ""
+        intervals [14]:
+                xmin = 477.4359375
+                xmax = 478.4146875
+                text = "SPEAKER_00"
+        intervals [15]:
+                xmin = 478.4146875
+                xmax = 585.5709375
+                text = ""
+        intervals [16]:
+                xmin = 585.5709375
+                xmax = 585.6721875000001
+                text = "SPEAKER_00"
+        intervals [17]:
+                xmin = 585.6721875000001
+                xmax = 614.8643990929705
+                text = ""
+    item [2]:
+            class = "IntervalTier"
+            name = "SPEAKER_02"
+            xmin = 0
+            xmax = 614.8643990929705
+            intervals: size = 51
+        intervals [1]:
+                xmin = 0
+                xmax = 5.492812499999999
+                text = ""
+        intervals [2]:
+                xmin = 5.492812499999999
+                xmax = 6.5896875
+                text = "SPEAKER_02"
+        intervals [3]:
+                xmin = 6.5896875
+                xmax = 8.412187500000002
+                text = ""
+        intervals [4]:
+                xmin = 8.412187500000002
+                xmax = 10.555312500000003
+                text = "SPEAKER_02"
+        intervals [5]:
+                xmin = 10.555312500000003
+                xmax = 16.0059375
+                text = ""
+        intervals [6]:
+                xmin = 16.0059375
+                xmax = 40.947187500000005
+                text = "SPEAKER_02"
+        intervals [7]:
+                xmin = 40.947187500000005
+                xmax = 82.8984375
+                text = ""
+        intervals [8]:
+                xmin = 82.8984375
+                xmax = 93.9515625
+                text = "SPEAKER_02"
+        intervals [9]:
+                xmin = 93.9515625
+                xmax = 133.75968749999998
+                text = ""
+        intervals [10]:
+                xmin = 133.75968749999998
+                xmax = 146.8546875
+                text = "SPEAKER_02"
+        intervals [11]:
+                xmin = 146.8546875
+                xmax = 148.23843750000003
+                text = ""
+        intervals [12]:
+                xmin = 148.23843750000003
+                xmax = 150.6853125
+                text = "SPEAKER_02"
+        intervals [13]:
+                xmin = 150.6853125
+                xmax = 203.7571875
+                text = ""
+        intervals [14]:
+                xmin = 203.7571875
+                xmax = 215.45156250000002
+                text = "SPEAKER_02"
+        intervals [15]:
+                xmin = 215.45156250000002
+                xmax = 218.89406250000002
+                text = ""
+        intervals [16]:
+                xmin = 218.89406250000002
+                xmax = 219.1640625
+                text = "SPEAKER_02"
+        intervals [17]:
+                xmin = 219.1640625
+                xmax = 276.94406250000003
+                text = ""
+        intervals [18]:
+                xmin = 276.94406250000003
+                xmax = 284.85843750000004
+                text = "SPEAKER_02"
+        intervals [19]:
+                xmin = 284.85843750000004
+                xmax = 302.9484375
+                text = ""
+        intervals [20]:
+                xmin = 302.9484375
+                xmax = 303.99468750000005
+                text = "SPEAKER_02"
+        intervals [21]:
+                xmin = 303.99468750000005
+                xmax = 307.50468750000005
+                text = ""
+        intervals [22]:
+                xmin = 307.50468750000005
+                xmax = 311.55468750000006
+                text = "SPEAKER_02"
+        intervals [23]:
+                xmin = 311.55468750000006
+                xmax = 312.98906250000005
+                text = ""
+        intervals [24]:
+                xmin = 312.98906250000005
+                xmax = 321.00468750000005
+                text = "SPEAKER_02"
+        intervals [25]:
+                xmin = 321.00468750000005
+                xmax = 330.10031250000003
+                text = ""
+        intervals [26]:
+                xmin = 330.10031250000003
+                xmax = 330.4040625
+                text = "SPEAKER_02"
+        intervals [27]:
+                xmin = 330.4040625
+                xmax = 348.0553125
+                text = ""
+        intervals [28]:
+                xmin = 348.0553125
+                xmax = 348.94968750000004
+                text = "SPEAKER_02"
+        intervals [29]:
+                xmin = 348.94968750000004
+                xmax = 350.73843750000003
+                text = ""
+        intervals [30]:
+                xmin = 350.73843750000003
+                xmax = 367.44468750000004
+                text = "SPEAKER_02"
+        intervals [31]:
+                xmin = 367.44468750000004
+                xmax = 388.6228125
+                text = ""
+        intervals [32]:
+                xmin = 388.6228125
+                xmax = 399.0684375
+                text = "SPEAKER_02"
+        intervals [33]:
+                xmin = 399.0684375
+                xmax = 421.05656250000004
+                text = ""
+        intervals [34]:
+                xmin = 421.05656250000004
+                xmax = 421.20843750000006
+                text = "SPEAKER_02"
+        intervals [35]:
+                xmin = 421.20843750000006
+                xmax = 439.6021875
+                text = ""
+        intervals [36]:
+                xmin = 439.6021875
+                xmax = 444.44531250000006
+                text = "SPEAKER_02"
+        intervals [37]:
+                xmin = 444.44531250000006
+                xmax = 465.70781250000005
+                text = ""
+        intervals [38]:
+                xmin = 465.70781250000005
+                xmax = 467.6990625
+                text = "SPEAKER_02"
+        intervals [39]:
+                xmin = 467.6990625
+                xmax = 469.4203125
+                text = ""
+        intervals [40]:
+                xmin = 469.4203125
+                xmax = 471.58031250000005
+                text = "SPEAKER_02"
+        intervals [41]:
+                xmin = 471.58031250000005
+                xmax = 472.7953125
+                text = ""
+        intervals [42]:
+                xmin = 472.7953125
+                xmax = 473.52093750000006
+                text = "SPEAKER_02"
+        intervals [43]:
+                xmin = 473.52093750000006
+                xmax = 521.5809375
+                text = ""
+        intervals [44]:
+                xmin = 521.5809375
+                xmax = 522.1040625
+                text = "SPEAKER_02"
+        intervals [45]:
+                xmin = 522.1040625
+                xmax = 523.6903125
+                text = ""
+        intervals [46]:
+                xmin = 523.6903125
+                xmax = 525.0065625000001
+                text = "SPEAKER_02"
+        intervals [47]:
+                xmin = 525.0065625000001
+                xmax = 578.4328125000001
+                text = ""
+        intervals [48]:
+                xmin = 578.4328125000001
+                xmax = 588.8446875000001
+                text = "SPEAKER_02"
+        intervals [49]:
+                xmin = 588.8446875000001
+                xmax = 604.6734375000001
+                text = ""
+        intervals [50]:
+                xmin = 604.6734375000001
+                xmax = 609.9384375000001
+                text = "SPEAKER_02"
+        intervals [51]:
+                xmin = 609.9384375000001
+                xmax = 614.8643990929705
+                text = ""
