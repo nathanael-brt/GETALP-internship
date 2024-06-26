@@ -49,7 +49,7 @@ It takes 2 inputs (to give when executing the file) :
         - ```PLSPP_WER/PLSPP_WER_format/<file_name>_pipeRes.txt```
         - ```PLSPP_WER/Corr_WER_format/<file_name>_corRes.txt```
 
-In both cases the program creates a ```.res``` result file in the corresponding directory (*"Whisper_WER/WER"* for 0 and *"PLSPP_WER/WER"* for 0)
+In both cases the program creates a ```.res``` result file in the corresponding directory (*"Whisper_WER/WER"* for 0 and *"PLSPP_WER/WER"* for 1)
 
 **/!\\** the speakers need to be separated manually, both for the reference from whisper and the corrected version :  
     This has to be done on **ELAN** and exported with the option *"texte délimité par des tabulations"* and all parameters unchecked.  
