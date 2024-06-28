@@ -103,7 +103,10 @@ Python file containing several fucntions to be used and included in other progra
 --------------------------------------------------------------------------------------------
 ### PipeFormat4WER
 
-This program is useful to the computation of the WER using the segments given by PLSPP. It put the transcription from PLSPP and the correction into the right format to compute the WER. 
+This program is useful to the computation of the WER using the segments given by PLSPP. It put the transcription from PLSPP and the correction into the right format to give to the WER compuation program.
+It it takes 2 inputs (to give directly when executing it):
+* the name of the base audio file that has been transcripted (without the ```.wav``` of the extension.
+* An integer, 0 or 1: if 0 is given then nothing changes in the program, but if 1 is given then the order of the speakers given by the function ```is_speaker_order_normal()```  is reversed. 
 
 ## Scripts
 
@@ -115,7 +118,7 @@ It takes 2 inputs:
 * The model of Whisper to use.  
 
 When executing the ```whisper2txtgrid.py``` program, 2 files are needed as inputs, these files have been created earlier in the script:   
-* The ```.srt```has been created in the *"srt"* folder.   
+* The ```.srt``` has been created in the *"srt"* folder.   
 * The ```.TextGrid``` has been created in the *"Textgrid"* folder.
 These files have the same name as the audio file. 
 
