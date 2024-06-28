@@ -9,8 +9,8 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 
 ## Usage
 
-* Launch the ```Audio2txtgrid.sh``` script. Use the **base** model (More information [here](#audio2txtgrid)):
-```
+* Launch the `Audio2txtgrid.sh` script. Use the **base** model (More information [here](#audio2txtgrid)):
+```bash
 ./Audio2txtgrid.sh
 ```
 * Import the ```.TextGrid``` file and the audio on [Elan](https://archive.mpi.nl/tla/elan).
@@ -20,7 +20,7 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 * Export using the option *"texte délimité par des tabulations"* into the directory *"Corrigés/<name_of_the_audio>"*. If it doesn't exist, create it.
 * Export using the option *"TextGrid Praat"* into the same directory.
 * Execute the python program ```WER.py``` (More information [here](#WER)): 
-```
+```bash
 python WER.py <name_of_the_audio_file_without_ext> 0
 ```
    
@@ -40,7 +40,7 @@ pip install codecarbon
 conda install -c conda-forge codecarbon
 ```
 * Launch the ```WhisperCarbone.py``` program. More information [here](#WhisperCarbone).
-```
+```bash
 python WhisperCarbone.py
 ```
 
