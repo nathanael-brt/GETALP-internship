@@ -88,9 +88,9 @@ Returns a ```.csv``` with plenty of informations on not only the carbon emission
 ### functions
 
 Python file containing several fucntions to be used and included in other programs : 
-* ```teacher_nb()```
+* ```teacher_nb()```  
   Function computing the tier number of the teacher in the TextGrid file from pyannote in PLSPP. It finds the teacher by searching the speakers who speaks during the least number of segments. Returns -1 if there is no teacher (only 2 speakers).
-* ```is_speaker_order_normal()```
+* ```is_speaker_order_normal()```  
   Function returning a boolean stating if the speaker order is in reverse or not (if the speaker with the least ,umber, other than the teacher, is speaking first or not)/
 
 --------------------------------------------------------------------------------------------
