@@ -103,10 +103,19 @@ Python file containing several fucntions to be used and included in other progra
 --------------------------------------------------------------------------------------------
 ### PipeFormat4WER
 
-This program is useful to the computation of the WER using the segments given by PLSPP. It put the transcription from PLSPP and the correction into the right format to give to the WER compuation program.
+This program is useful to the computation of the WER using the segments given by PLSPP. It puts the transcription from PLSPP and the correction into the right format to give to the WER compuation program (the format described [here](#WER).
 It it takes 2 inputs (to give directly when executing it):
-* the name of the base audio file that has been transcripted (without the ```.wav``` of the extension.
-* An integer, 0 or 1: if 0 is given then nothing changes in the program, but if 1 is given then the order of the speakers given by the function ```is_speaker_order_normal()```  is reversed. 
+* The name of the base audio file that has been transcripted (without the ```.wav``` of the extension.
+* An integer, 0 or 1: if 0 is given then nothing changes in the program, but if 1 is given then the order of the speakers returned by the function ```is_speaker_order_normal()```  is reversed.
+The program creates automatically 2 results files :
+* ```LSPP_WER/PLSPP_WER_format/<name_of_the_file>_pipeRes.txt``` for the transcription from PLSPP.
+* ```PLSPP_WER/Corr_WER_format/<name_of_the_file>_corRes.txt``` for the correction.
+
+To convert the transcription from PLSPP into the right format it uses the ```.txt``` output files of the pipeline (the ones that contain only the text of each segment) that sould have been placed into the *"PLSPP_WER/PLSPP_text/<name_of_the_file>/"* directory.
+
+To convert the correction into the right format it uses the file ```PLSPP_WER/TimeInfo/timeInfo_sorted.csv``` that give info on the timing of each segment and the TextGrid file containing the correction. 
+
+To assure ourselves that we write both files with the speakers in the same order (necessary for the WER computation) we use the function ```is_speaker_order_normal()``` to find who is the first to speak according to PLSPP transcription, then write the correction file accordingly. 
 
 ## Scripts
 
