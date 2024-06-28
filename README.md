@@ -23,6 +23,11 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 
 The goal here is to compare the models base and medium of Whisper and to compute the carbon emissions of a transcription on each of these models. 
 
+## Usage
+
+* Install the [codecarbon](https://github.com/mlco2/codecarbon) package for python.
+* Launch the ```WhisperCarbone.py``` program. More information [here](#WhisperCarbone).
+
 # User Manual
 
 ## Python programs
