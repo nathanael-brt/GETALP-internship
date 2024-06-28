@@ -105,9 +105,11 @@ Python file containing several fucntions to be used and included in other progra
 
 This program is useful for the computation of the WER using the segments given by **PLSPP**.   
 It puts the transcription from PLSPP and the correction into the **right format** to give to the WER compuation program (the format described [here](#WER).  
+
 It it takes 2 inputs (to give as arguments when executing it):
 * The name of the base audio file that has been transcripted (without the ```.wav``` of the extension).
-* An integer, ```0``` or ```1```: if ```0``` is given then nothing changes in the program, but if ```1``` is given then the order of the speakers returned by the function ```is_speaker_order_normal()```  is reversed.
+* An integer, ```0``` or ```1```: if ```0``` is given then nothing changes in the program, but if ```1``` is given then the order of the speakers returned by the function ```is_speaker_order_normal()```  is reversed.  
+
 The program creates automatically 2 results files :
 * ```LSPP_WER/PLSPP_WER_format/<name_of_the_file>_pipeRes.txt``` for the transcription from PLSPP.
 * ```PLSPP_WER/Corr_WER_format/<name_of_the_file>_corRes.txt``` for the correction.
