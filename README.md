@@ -31,8 +31,18 @@ The goal here is to compare the models base and medium of Whisper and to compute
 
 ## Usage
 
-* Install the [codecarbon](https://github.com/mlco2/codecarbon) package for python.
+* Install the [codecarbon](https://github.com/mlco2/codecarbon) package for python :
+```
+#using pip
+pip install codecarbon
+
+#using conda
+conda install -c conda-forge codecarbon
+```
 * Launch the ```WhisperCarbone.py``` program. More information [here](#WhisperCarbone).
+```
+python WhisperCarbone.py
+```
 
 # User Manual
 
