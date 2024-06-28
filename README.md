@@ -19,7 +19,9 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 * Create the result file (```.res```) in the directory *"Whisper_WER/WER"*.
 * Execute the python programm ```WER.py```. More information [here](#WER).
 
+# Comparison of models and carbon emissions
 
+The goal here is to compare the models base and medium of Whisper and to compute the carbon emissions of a transcription on each of these models. 
 
 # User Manual
 
