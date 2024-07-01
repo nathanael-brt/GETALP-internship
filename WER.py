@@ -82,6 +82,10 @@ for txt_whis in List_Whis:
     for j in range(len(txt_whis) + 1):
         d[0][j] = j
 
+    #valeurs pour garder le nombre de substitutions, insertions et deletions
+    nbr_substitution = 0
+    nbr_deletion = 0
+    nbr_insertion = 0
     #on calcule les valeurs de la matrice 
     for i in range(1, len(txt_corr) + 1):
         for j in range(1, len(txt_whis) + 1):
@@ -94,8 +98,19 @@ for txt_whis in List_Whis:
                 substitution = d[i - 1][j - 1] + 1
                 insertion = d[i][j - 1] + 1
                 deletion = d[i - 1][j] + 1
-                d[i][j] = min(substitution, insertion, deletion)
-            
+                min_operation = min(substitution, insertion, deletion)
+                d[i][j] = min_operation
+
+                    # Mettre à jour les compteurs en fonction de l'opération minimale
+                if min_operation == substitution:
+                    nbr_substitution += 1
+                elif min_operation == insertion:
+                    nbr_insertion += 1
+                elif min_operation == deletion:
+                    nbr_deletion += 1
+
+
+    print ("Substitutions :" + str(nbr_substitution) + " \nInsertions :" + str(nbr_insertion) + " \nDeletions :" + str(nbr_deletion))
     # calcul du wer en prenant le coin en bas à droite de la matrice
     wer = d[len(txt_corr)][len(txt_whis)] / len(txt_corr)
     print("WER actor " + str(i_corr + 1) + ": " + str(wer) +"\n")

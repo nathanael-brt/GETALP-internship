@@ -1,0 +1,3003 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 426.318367
+tiers? <exists> 
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "ORT-MAU"
+        xmin = 0
+        xmax = 426.318367
+        intervals: size = 747
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.430000
+            text = ""
+        intervals [2]:
+            xmin = 0.430000
+            xmax = 1.330000
+            text = "zero-four-one"
+        intervals [3]:
+            xmin = 1.330000
+            xmax = 1.750000
+            text = "and"
+        intervals [4]:
+            xmin = 1.750000
+            xmax = 2.200000
+            text = "role"
+        intervals [5]:
+            xmin = 2.200000
+            xmax = 2.870000
+            text = ""
+        intervals [6]:
+            xmin = 2.870000
+            xmax = 2.910000
+            text = "A"
+        intervals [7]:
+            xmin = 2.910000
+            xmax = 5.350000
+            text = "zero-seven"
+        intervals [8]:
+            xmin = 5.350000
+            xmax = 7.130000
+            text = ""
+        intervals [9]:
+            xmin = 7.130000
+            xmax = 7.710000
+            text = "role"
+        intervals [10]:
+            xmin = 7.710000
+            xmax = 7.780000
+            text = "B"
+        intervals [11]:
+            xmin = 7.780000
+            xmax = 7.880000
+            text = ""
+        intervals [12]:
+            xmin = 7.880000
+            xmax = 8.950000
+            text = "So"
+        intervals [13]:
+            xmin = 8.950000
+            xmax = 9.830000
+            text = ""
+        intervals [14]:
+            xmin = 9.830000
+            xmax = 10.280000
+            text = "in"
+        intervals [15]:
+            xmin = 10.280000
+            xmax = 10.580000
+            text = "my"
+        intervals [16]:
+            xmin = 10.580000
+            xmax = 11.964989
+            text = "opinion"
+        intervals [17]:
+            xmin = 11.964989
+            xmax = 12.260000
+            text = "it's"
+        intervals [18]:
+            xmin = 12.260000
+            xmax = 13.250000
+            text = "necessary"
+        intervals [19]:
+            xmin = 13.250000
+            xmax = 13.510000
+            text = "to"
+        intervals [20]:
+            xmin = 13.510000
+            xmax = 14.380000
+            text = "develop"
+        intervals [21]:
+            xmin = 14.380000
+            xmax = 14.950000
+            text = "the"
+        intervals [22]:
+            xmin = 14.950000
+            xmax = 17.500000
+            text = "technology"
+        intervals [23]:
+            xmin = 17.500000
+            xmax = 17.890000
+            text = "in"
+        intervals [24]:
+            xmin = 17.890000
+            xmax = 17.950000
+            text = ""
+        intervals [25]:
+            xmin = 17.950000
+            xmax = 18.170000
+            text = "high"
+        intervals [26]:
+            xmin = 18.170000
+            xmax = 18.600000
+            text = "school"
+        intervals [27]:
+            xmin = 18.600000
+            xmax = 19.050000
+            text = ""
+        intervals [28]:
+            xmin = 19.050000
+            xmax = 19.790000
+            text = "and"
+        intervals [29]:
+            xmin = 19.790000
+            xmax = 21.250000
+            text = "in"
+        intervals [30]:
+            xmin = 21.250000
+            xmax = 21.440000
+            text = ""
+        intervals [31]:
+            xmin = 21.440000
+            xmax = 22.470000
+            text = "every"
+        intervals [32]:
+            xmin = 22.470000
+            xmax = 22.610000
+            text = ""
+        intervals [33]:
+            xmin = 22.610000
+            xmax = 22.700000
+            text = "high"
+        intervals [34]:
+            xmin = 22.700000
+            xmax = 22.930000
+            text = ""
+        intervals [35]:
+            xmin = 22.930000
+            xmax = 23.190000
+            text = "school"
+        intervals [36]:
+            xmin = 23.190000
+            xmax = 23.510000
+            text = "because"
+        intervals [37]:
+            xmin = 23.510000
+            xmax = 23.690000
+            text = "that"
+        intervals [38]:
+            xmin = 23.690000
+            xmax = 23.780000
+            text = ""
+        intervals [39]:
+            xmin = 23.780000
+            xmax = 24.090000
+            text = "allow"
+        intervals [40]:
+            xmin = 24.090000
+            xmax = 24.220000
+            text = "to"
+        intervals [41]:
+            xmin = 24.220000
+            xmax = 25.160000
+            text = "improve"
+        intervals [42]:
+            xmin = 25.160000
+            xmax = 25.530000
+            text = ""
+        intervals [43]:
+            xmin = 25.530000
+            xmax = 25.950000
+            text = "the"
+        intervals [44]:
+            xmin = 25.950000
+            xmax = 26.410000
+            text = "knowledge"
+        intervals [45]:
+            xmin = 26.410000
+            xmax = 26.820000
+            text = "of"
+        intervals [46]:
+            xmin = 26.820000
+            xmax = 27.130000
+            text = "the"
+        intervals [47]:
+            xmin = 27.130000
+            xmax = 27.400000
+            text = ""
+        intervals [48]:
+            xmin = 27.400000
+            xmax = 28.280000
+            text = "students"
+        intervals [49]:
+            xmin = 28.280000
+            xmax = 29.140000
+            text = "and"
+        intervals [50]:
+            xmin = 29.140000
+            xmax = 29.280000
+            text = "it's"
+        intervals [51]:
+            xmin = 29.280000
+            xmax = 29.320000
+            text = "a"
+        intervals [52]:
+            xmin = 29.320000
+            xmax = 30.190000
+            text = "good"
+        intervals [53]:
+            xmin = 30.190000
+            xmax = 30.330000
+            text = ""
+        intervals [54]:
+            xmin = 30.330000
+            xmax = 30.640000
+            text = "point"
+        intervals [55]:
+            xmin = 30.640000
+            xmax = 30.840000
+            text = "for"
+        intervals [56]:
+            xmin = 30.840000
+            xmax = 31.260000
+            text = "their"
+        intervals [57]:
+            xmin = 31.260000
+            xmax = 31.370000
+            text = ""
+        intervals [58]:
+            xmin = 31.370000
+            xmax = 32.100000
+            text = "future"
+        intervals [59]:
+            xmin = 32.100000
+            xmax = 32.470000
+            text = ""
+        intervals [60]:
+            xmin = 32.470000
+            xmax = 32.860000
+            text = "job"
+        intervals [61]:
+            xmin = 32.860000
+            xmax = 34.400000
+            text = "and"
+        intervals [62]:
+            xmin = 34.400000
+            xmax = 34.660000
+            text = "studies"
+        intervals [63]:
+            xmin = 34.660000
+            xmax = 37.360000
+            text = "in"
+        intervals [64]:
+            xmin = 37.360000
+            xmax = 37.650000
+            text = ""
+        intervals [65]:
+            xmin = 37.650000
+            xmax = 39.830000
+            text = "university"
+        intervals [66]:
+            xmin = 39.830000
+            xmax = 39.870000
+            text = "or"
+        intervals [67]:
+            xmin = 39.870000
+            xmax = 40.390000
+            text = "something"
+        intervals [68]:
+            xmin = 40.390000
+            xmax = 40.840000
+            text = "like"
+        intervals [69]:
+            xmin = 40.840000
+            xmax = 41.380000
+            text = ""
+        intervals [70]:
+            xmin = 41.380000
+            xmax = 41.650000
+            text = "that"
+        intervals [71]:
+            xmin = 41.650000
+            xmax = 42.160000
+            text = "O-K"
+        intervals [72]:
+            xmin = 42.160000
+            xmax = 42.240000
+            text = "but"
+        intervals [73]:
+            xmin = 42.240000
+            xmax = 42.360000
+            text = "I"
+        intervals [74]:
+            xmin = 42.360000
+            xmax = 43.040000
+            text = ""
+        intervals [75]:
+            xmin = 43.040000
+            xmax = 45.120000
+            text = "understand"
+        intervals [76]:
+            xmin = 45.120000
+            xmax = 45.590000
+            text = "what"
+        intervals [77]:
+            xmin = 45.590000
+            xmax = 45.950000
+            text = "you"
+        intervals [78]:
+            xmin = 45.950000
+            xmax = 46.420000
+            text = "say"
+        intervals [79]:
+            xmin = 46.420000
+            xmax = 46.770000
+            text = "but"
+        intervals [80]:
+            xmin = 46.770000
+            xmax = 47.350000
+            text = ""
+        intervals [81]:
+            xmin = 47.350000
+            xmax = 47.430000
+            text = "I"
+        intervals [82]:
+            xmin = 47.430000
+            xmax = 48.080000
+            text = "think"
+        intervals [83]:
+            xmin = 48.080000
+            xmax = 48.550000
+            text = "that"
+        intervals [84]:
+            xmin = 48.550000
+            xmax = 49.360000
+            text = ""
+        intervals [85]:
+            xmin = 49.360000
+            xmax = 49.490000
+            text = "it's"
+        intervals [86]:
+            xmin = 49.490000
+            xmax = 49.550000
+            text = ""
+        intervals [87]:
+            xmin = 49.550000
+            xmax = 49.660000
+            text = "not"
+        intervals [88]:
+            xmin = 49.660000
+            xmax = 50.310000
+            text = "possible"
+        intervals [89]:
+            xmin = 50.310000
+            xmax = 50.680000
+            text = "in"
+        intervals [90]:
+            xmin = 50.680000
+            xmax = 50.730000
+            text = ""
+        intervals [91]:
+            xmin = 50.730000
+            xmax = 50.930000
+            text = "all"
+        intervals [92]:
+            xmin = 50.930000
+            xmax = 51.410000
+            text = "school"
+        intervals [93]:
+            xmin = 51.410000
+            xmax = 51.900000
+            text = ""
+        intervals [94]:
+            xmin = 51.900000
+            xmax = 52.180000
+            text = "because"
+        intervals [95]:
+            xmin = 52.180000
+            xmax = 52.410000
+            text = "there"
+        intervals [96]:
+            xmin = 52.410000
+            xmax = 52.730000
+            text = "is"
+        intervals [97]:
+            xmin = 52.730000
+            xmax = 53.200000
+            text = "there"
+        intervals [98]:
+            xmin = 53.200000
+            xmax = 53.580000
+            text = ""
+        intervals [99]:
+            xmin = 53.580000
+            xmax = 53.950000
+            text = "are"
+        intervals [100]:
+            xmin = 53.950000
+            xmax = 54.200000
+            text = "some"
+        intervals [101]:
+            xmin = 54.200000
+            xmax = 54.770000
+            text = "schools"
+        intervals [102]:
+            xmin = 54.770000
+            xmax = 55.120000
+            text = ""
+        intervals [103]:
+            xmin = 55.120000
+            xmax = 55.570000
+            text = "who"
+        intervals [104]:
+            xmin = 55.570000
+            xmax = 56.150000
+            text = "don't"
+        intervals [105]:
+            xmin = 56.150000
+            xmax = 56.460000
+            text = "have"
+        intervals [106]:
+            xmin = 56.460000
+            xmax = 56.770000
+            text = "the"
+        intervals [107]:
+            xmin = 56.770000
+            xmax = 57.750000
+            text = "money"
+        intervals [108]:
+            xmin = 57.750000
+            xmax = 58.280000
+            text = ""
+        intervals [109]:
+            xmin = 58.280000
+            xmax = 58.820000
+            text = "to"
+        intervals [110]:
+            xmin = 58.820000
+            xmax = 58.940000
+            text = "add"
+        intervals [111]:
+            xmin = 58.940000
+            xmax = 59.060000
+            text = ""
+        intervals [112]:
+            xmin = 59.060000
+            xmax = 60.180000
+            text = "new"
+        intervals [113]:
+            xmin = 60.180000
+            xmax = 66.890000
+            text = "technologies"
+        intervals [114]:
+            xmin = 66.890000
+            xmax = 67.150000
+            text = ""
+        intervals [115]:
+            xmin = 67.150000
+            xmax = 67.750000
+            text = "in"
+        intervals [116]:
+            xmin = 67.750000
+            xmax = 67.880000
+            text = "their"
+        intervals [117]:
+            xmin = 67.880000
+            xmax = 68.370000
+            text = "schools"
+        intervals [118]:
+            xmin = 68.370000
+            xmax = 68.970000
+            text = ""
+        intervals [119]:
+            xmin = 68.970000
+            xmax = 69.260000
+            text = "Yeah"
+        intervals [120]:
+            xmin = 69.260000
+            xmax = 69.340000
+            text = ""
+        intervals [121]:
+            xmin = 69.340000
+            xmax = 69.790000
+            text = "but"
+        intervals [122]:
+            xmin = 69.790000
+            xmax = 70.480000
+            text = "I"
+        intervals [123]:
+            xmin = 70.480000
+            xmax = 71.470000
+            text = "think"
+        intervals [124]:
+            xmin = 71.470000
+            xmax = 71.860000
+            text = "it's"
+        intervals [125]:
+            xmin = 71.860000
+            xmax = 74.210000
+            text = "important"
+        intervals [126]:
+            xmin = 74.210000
+            xmax = 74.270000
+            text = "to"
+        intervals [127]:
+            xmin = 74.270000
+            xmax = 74.380000
+            text = "to"
+        intervals [128]:
+            xmin = 74.380000
+            xmax = 74.560000
+            text = "x-x-x"
+        intervals [129]:
+            xmin = 74.560000
+            xmax = 74.920000
+            text = "this"
+        intervals [130]:
+            xmin = 74.920000
+            xmax = 75.270000
+            text = "gap"
+        intervals [131]:
+            xmin = 75.270000
+            xmax = 75.740000
+            text = "between"
+        intervals [132]:
+            xmin = 75.740000
+            xmax = 76.160000
+            text = "the"
+        intervals [133]:
+            xmin = 76.160000
+            xmax = 77.570000
+            text = "different"
+        intervals [134]:
+            xmin = 77.570000
+            xmax = 77.640000
+            text = "high"
+        intervals [135]:
+            xmin = 77.640000
+            xmax = 78.220000
+            text = "school"
+        intervals [136]:
+            xmin = 78.220000
+            xmax = 78.790000
+            text = "because"
+        intervals [137]:
+            xmin = 78.790000
+            xmax = 79.320000
+            text = "I'm"
+        intervals [138]:
+            xmin = 79.320000
+            xmax = 79.620000
+            text = "agree"
+        intervals [139]:
+            xmin = 79.620000
+            xmax = 79.780000
+            text = "with"
+        intervals [140]:
+            xmin = 79.780000
+            xmax = 80.080000
+            text = "you"
+        intervals [141]:
+            xmin = 80.080000
+            xmax = 80.560000
+            text = "Everybody"
+        intervals [142]:
+            xmin = 80.560000
+            xmax = 81.380000
+            text = "can"
+        intervals [143]:
+            xmin = 81.380000
+            xmax = 82.210000
+            text = "have"
+        intervals [144]:
+            xmin = 82.210000
+            xmax = 82.430000
+            text = "access"
+        intervals [145]:
+            xmin = 82.430000
+            xmax = 82.490000
+            text = "to"
+        intervals [146]:
+            xmin = 82.490000
+            xmax = 82.550000
+            text = "the"
+        intervals [147]:
+            xmin = 82.550000
+            xmax = 84.250000
+            text = "technology"
+        intervals [148]:
+            xmin = 84.250000
+            xmax = 84.530000
+            text = ""
+        intervals [149]:
+            xmin = 84.530000
+            xmax = 85.930000
+            text = "student"
+        intervals [150]:
+            xmin = 85.930000
+            xmax = 87.030000
+            text = "from"
+        intervals [151]:
+            xmin = 87.030000
+            xmax = 87.140000
+            text = ""
+        intervals [152]:
+            xmin = 87.140000
+            xmax = 87.670000
+            text = "poor"
+        intervals [153]:
+            xmin = 87.670000
+            xmax = 87.750000
+            text = "high"
+        intervals [154]:
+            xmin = 87.750000
+            xmax = 87.930000
+            text = ""
+        intervals [155]:
+            xmin = 87.930000
+            xmax = 88.510000
+            text = "school"
+        intervals [156]:
+            xmin = 88.510000
+            xmax = 88.550000
+            text = "or"
+        intervals [157]:
+            xmin = 88.550000
+            xmax = 89.500000
+            text = "very"
+        intervals [158]:
+            xmin = 89.500000
+            xmax = 89.710000
+            text = ""
+        intervals [159]:
+            xmin = 89.710000
+            xmax = 90.470000
+            text = "good"
+        intervals [160]:
+            xmin = 90.470000
+            xmax = 90.620000
+            text = "high"
+        intervals [161]:
+            xmin = 90.620000
+            xmax = 92.010000
+            text = "school"
+        intervals [162]:
+            xmin = 92.010000
+            xmax = 92.770000
+            text = "There"
+        intervals [163]:
+            xmin = 92.770000
+            xmax = 92.910000
+            text = "is"
+        intervals [164]:
+            xmin = 92.910000
+            xmax = 93.460000
+            text = "no"
+        intervals [165]:
+            xmin = 93.460000
+            xmax = 94.480000
+            text = "different"
+        intervals [166]:
+            xmin = 94.480000
+            xmax = 94.834989
+            text = "for"
+        intervals [167]:
+            xmin = 94.834989
+            xmax = 95.180000
+            text = "me"
+        intervals [168]:
+            xmin = 95.180000
+            xmax = 95.280000
+            text = ""
+        intervals [169]:
+            xmin = 95.280000
+            xmax = 96.140000
+            text = "Everybody"
+        intervals [170]:
+            xmin = 96.140000
+            xmax = 96.450000
+            text = "have"
+        intervals [171]:
+            xmin = 96.450000
+            xmax = 96.740000
+            text = ""
+        intervals [172]:
+            xmin = 96.740000
+            xmax = 97.410000
+            text = "the"
+        intervals [173]:
+            xmin = 97.410000
+            xmax = 97.880000
+            text = "right"
+        intervals [174]:
+            xmin = 97.880000
+            xmax = 98.120000
+            text = "to"
+        intervals [175]:
+            xmin = 98.120000
+            xmax = 98.410000
+            text = "access"
+        intervals [176]:
+            xmin = 98.410000
+            xmax = 98.890000
+            text = "of"
+        intervals [177]:
+            xmin = 98.890000
+            xmax = 99.070000
+            text = "all"
+        intervals [178]:
+            xmin = 99.070000
+            xmax = 99.380000
+            text = "the"
+        intervals [179]:
+            xmin = 99.380000
+            xmax = 100.520000
+            text = "technology"
+        intervals [180]:
+            xmin = 100.520000
+            xmax = 100.680000
+            text = ""
+        intervals [181]:
+            xmin = 100.680000
+            xmax = 101.530000
+            text = "and"
+        intervals [182]:
+            xmin = 101.530000
+            xmax = 102.110000
+            text = "it's"
+        intervals [183]:
+            xmin = 102.110000
+            xmax = 102.380000
+            text = ""
+        intervals [184]:
+            xmin = 102.380000
+            xmax = 105.790000
+            text = "necessary"
+        intervals [185]:
+            xmin = 105.790000
+            xmax = 105.870000
+            text = "for"
+        intervals [186]:
+            xmin = 105.870000
+            xmax = 105.950000
+            text = "me"
+        intervals [187]:
+            xmin = 105.950000
+            xmax = 106.070000
+            text = "It"
+        intervals [188]:
+            xmin = 106.070000
+            xmax = 107.440000
+            text = "can"
+        intervals [189]:
+            xmin = 107.440000
+            xmax = 108.300000
+            text = ""
+        intervals [190]:
+            xmin = 108.300000
+            xmax = 108.470000
+            text = "be"
+        intervals [191]:
+            xmin = 108.470000
+            xmax = 108.530000
+            text = ""
+        intervals [192]:
+            xmin = 108.530000
+            xmax = 109.380000
+            text = "necessary"
+        intervals [193]:
+            xmin = 109.380000
+            xmax = 109.500000
+            text = "but"
+        intervals [194]:
+            xmin = 109.500000
+            xmax = 109.580000
+            text = "if"
+        intervals [195]:
+            xmin = 109.580000
+            xmax = 112.040000
+            text = "students"
+        intervals [196]:
+            xmin = 112.040000
+            xmax = 113.540000
+            text = "didn't"
+        intervals [197]:
+            xmin = 113.540000
+            xmax = 113.970000
+            text = "have"
+        intervals [198]:
+            xmin = 113.970000
+            xmax = 114.300000
+            text = ""
+        intervals [199]:
+            xmin = 114.300000
+            xmax = 114.400000
+            text = "a"
+        intervals [200]:
+            xmin = 114.400000
+            xmax = 114.800000
+            text = ""
+        intervals [201]:
+            xmin = 114.800000
+            xmax = 115.310000
+            text = "computer"
+        intervals [202]:
+            xmin = 115.310000
+            xmax = 116.060000
+            text = "their"
+        intervals [203]:
+            xmin = 116.060000
+            xmax = 116.550000
+            text = "own"
+        intervals [204]:
+            xmin = 116.550000
+            xmax = 116.680000
+            text = ""
+        intervals [205]:
+            xmin = 116.680000
+            xmax = 117.750000
+            text = "computer"
+        intervals [206]:
+            xmin = 117.750000
+            xmax = 117.890000
+            text = ""
+        intervals [207]:
+            xmin = 117.890000
+            xmax = 117.960000
+            text = "how"
+        intervals [208]:
+            xmin = 117.960000
+            xmax = 118.020000
+            text = ""
+        intervals [209]:
+            xmin = 118.020000
+            xmax = 119.120000
+            text = "can"
+        intervals [210]:
+            xmin = 119.120000
+            xmax = 119.620000
+            text = "they"
+        intervals [211]:
+            xmin = 119.620000
+            xmax = 119.970000
+            text = "do"
+        intervals [212]:
+            xmin = 119.970000
+            xmax = 120.180000
+            text = "their"
+        intervals [213]:
+            xmin = 120.180000
+            xmax = 121.870000
+            text = "homework"
+        intervals [214]:
+            xmin = 121.870000
+            xmax = 122.110000
+            text = ""
+        intervals [215]:
+            xmin = 122.110000
+            xmax = 122.734989
+            text = "for"
+        intervals [216]:
+            xmin = 122.734989
+            xmax = 124.534989
+            text = "example"
+        intervals [217]:
+            xmin = 124.534989
+            xmax = 125.030000
+            text = "Yes"
+        intervals [218]:
+            xmin = 125.030000
+            xmax = 125.180000
+            text = ""
+        intervals [219]:
+            xmin = 125.180000
+            xmax = 125.270000
+            text = "but"
+        intervals [220]:
+            xmin = 125.270000
+            xmax = 125.910000
+            text = "for"
+        intervals [221]:
+            xmin = 125.910000
+            xmax = 126.440000
+            text = ""
+        intervals [222]:
+            xmin = 126.440000
+            xmax = 127.290000
+            text = "that"
+        intervals [223]:
+            xmin = 127.290000
+            xmax = 127.330000
+            text = "I"
+        intervals [224]:
+            xmin = 127.330000
+            xmax = 129.030000
+            text = "think"
+        intervals [225]:
+            xmin = 129.030000
+            xmax = 129.120000
+            text = ""
+        intervals [226]:
+            xmin = 129.120000
+            xmax = 129.870000
+            text = "the"
+        intervals [227]:
+            xmin = 129.870000
+            xmax = 130.060000
+            text = ""
+        intervals [228]:
+            xmin = 130.060000
+            xmax = 130.360000
+            text = "state"
+        intervals [229]:
+            xmin = 130.360000
+            xmax = 131.040000
+            text = "can"
+        intervals [230]:
+            xmin = 131.040000
+            xmax = 131.340000
+            text = ""
+        intervals [231]:
+            xmin = 131.340000
+            xmax = 131.680000
+            text = "make"
+        intervals [232]:
+            xmin = 131.680000
+            xmax = 131.740000
+            text = "a"
+        intervals [233]:
+            xmin = 131.740000
+            xmax = 133.340000
+            text = "decision"
+        intervals [234]:
+            xmin = 133.340000
+            xmax = 133.400000
+            text = "to"
+        intervals [235]:
+            xmin = 133.400000
+            xmax = 133.630000
+            text = "put"
+        intervals [236]:
+            xmin = 133.630000
+            xmax = 133.840000
+            text = "the"
+        intervals [237]:
+            xmin = 133.840000
+            xmax = 134.230000
+            text = "budget"
+        intervals [238]:
+            xmin = 134.230000
+            xmax = 137.250000
+            text = "and"
+        intervals [239]:
+            xmin = 137.250000
+            xmax = 137.520000
+            text = ""
+        intervals [240]:
+            xmin = 137.520000
+            xmax = 137.910000
+            text = "allowed"
+        intervals [241]:
+            xmin = 137.910000
+            xmax = 138.000000
+            text = "all"
+        intervals [242]:
+            xmin = 138.000000
+            xmax = 138.100000
+            text = "the"
+        intervals [243]:
+            xmin = 138.100000
+            xmax = 138.190000
+            text = "high"
+        intervals [244]:
+            xmin = 138.190000
+            xmax = 139.740000
+            text = "school"
+        intervals [245]:
+            xmin = 139.740000
+            xmax = 139.930000
+            text = ""
+        intervals [246]:
+            xmin = 139.930000
+            xmax = 140.720000
+            text = "to"
+        intervals [247]:
+            xmin = 140.720000
+            xmax = 140.940000
+            text = "have"
+        intervals [248]:
+            xmin = 140.940000
+            xmax = 141.040000
+            text = ""
+        intervals [249]:
+            xmin = 141.040000
+            xmax = 141.440000
+            text = "good"
+        intervals [250]:
+            xmin = 141.440000
+            xmax = 141.670000
+            text = ""
+        intervals [251]:
+            xmin = 141.670000
+            xmax = 142.690000
+            text = "tool"
+        intervals [252]:
+            xmin = 142.690000
+            xmax = 145.420000
+            text = "technologies"
+        intervals [253]:
+            xmin = 145.420000
+            xmax = 145.720000
+            text = ""
+        intervals [254]:
+            xmin = 145.720000
+            xmax = 145.960000
+            text = "like"
+        intervals [255]:
+            xmin = 145.960000
+            xmax = 147.150000
+            text = "computer"
+        intervals [256]:
+            xmin = 147.150000
+            xmax = 147.810000
+            text = ""
+        intervals [257]:
+            xmin = 147.810000
+            xmax = 148.440000
+            text = "good"
+        intervals [258]:
+            xmin = 148.440000
+            xmax = 149.680000
+            text = "system"
+        intervals [259]:
+            xmin = 149.680000
+            xmax = 150.320000
+            text = "informatics"
+        intervals [260]:
+            xmin = 150.320000
+            xmax = 151.440000
+            text = "system"
+        intervals [261]:
+            xmin = 151.440000
+            xmax = 151.530000
+            text = ""
+        intervals [262]:
+            xmin = 151.530000
+            xmax = 151.950000
+            text = "et-cetera"
+        intervals [263]:
+            xmin = 151.950000
+            xmax = 152.880000
+            text = ""
+        intervals [264]:
+            xmin = 152.880000
+            xmax = 153.210000
+            text = "O-K"
+        intervals [265]:
+            xmin = 153.210000
+            xmax = 153.400000
+            text = ""
+        intervals [266]:
+            xmin = 153.400000
+            xmax = 153.690000
+            text = "it's"
+        intervals [267]:
+            xmin = 153.690000
+            xmax = 154.010000
+            text = "a"
+        intervals [268]:
+            xmin = 154.010000
+            xmax = 154.330000
+            text = "good"
+        intervals [269]:
+            xmin = 154.330000
+            xmax = 154.740000
+            text = ""
+        intervals [270]:
+            xmin = 154.740000
+            xmax = 155.490000
+            text = "idea"
+        intervals [271]:
+            xmin = 155.490000
+            xmax = 155.550000
+            text = "but"
+        intervals [272]:
+            xmin = 155.550000
+            xmax = 156.070000
+            text = "this"
+        intervals [273]:
+            xmin = 156.070000
+            xmax = 156.480000
+            text = "is"
+        intervals [274]:
+            xmin = 156.480000
+            xmax = 156.780000
+            text = "not"
+        intervals [275]:
+            xmin = 156.780000
+            xmax = 157.100000
+            text = "the"
+        intervals [276]:
+            xmin = 157.100000
+            xmax = 157.500000
+            text = "only"
+        intervals [277]:
+            xmin = 157.500000
+            xmax = 158.170000
+            text = "problem"
+        intervals [278]:
+            xmin = 158.170000
+            xmax = 158.760000
+            text = ""
+        intervals [279]:
+            xmin = 158.760000
+            xmax = 159.280000
+            text = "There"
+        intervals [280]:
+            xmin = 159.280000
+            xmax = 159.800000
+            text = ""
+        intervals [281]:
+            xmin = 159.800000
+            xmax = 160.150000
+            text = "is"
+        intervals [282]:
+            xmin = 160.150000
+            xmax = 161.550000
+            text = "also"
+        intervals [283]:
+            xmin = 161.550000
+            xmax = 162.900000
+            text = ""
+        intervals [284]:
+            xmin = 162.900000
+            xmax = 163.300000
+            text = "about"
+        intervals [285]:
+            xmin = 163.300000
+            xmax = 163.920000
+            text = "teachers"
+        intervals [286]:
+            xmin = 163.920000
+            xmax = 164.360000
+            text = ""
+        intervals [287]:
+            xmin = 164.360000
+            xmax = 164.790000
+            text = "because"
+        intervals [288]:
+            xmin = 164.790000
+            xmax = 165.010000
+            text = "some"
+        intervals [289]:
+            xmin = 165.010000
+            xmax = 165.140000
+            text = "of"
+        intervals [290]:
+            xmin = 165.140000
+            xmax = 165.470000
+            text = "them"
+        intervals [291]:
+            xmin = 165.470000
+            xmax = 165.520000
+            text = "are"
+        intervals [292]:
+            xmin = 165.520000
+            xmax = 166.410000
+            text = "not"
+        intervals [293]:
+            xmin = 166.410000
+            xmax = 166.840000
+            text = "able"
+        intervals [294]:
+            xmin = 166.840000
+            xmax = 167.290000
+            text = "to"
+        intervals [295]:
+            xmin = 167.290000
+            xmax = 167.550000
+            text = ""
+        intervals [296]:
+            xmin = 167.550000
+            xmax = 168.090000
+            text = "use"
+        intervals [297]:
+            xmin = 168.090000
+            xmax = 171.690000
+            text = "new"
+        intervals [298]:
+            xmin = 171.690000
+            xmax = 172.490000
+            text = "technologies"
+        intervals [299]:
+            xmin = 172.490000
+            xmax = 173.130000
+            text = ""
+        intervals [300]:
+            xmin = 173.130000
+            xmax = 173.550000
+            text = "Maybe"
+        intervals [301]:
+            xmin = 173.550000
+            xmax = 174.050000
+            text = "they"
+        intervals [302]:
+            xmin = 174.050000
+            xmax = 174.830000
+            text = ""
+        intervals [303]:
+            xmin = 174.830000
+            xmax = 175.470000
+            text = "are"
+        intervals [304]:
+            xmin = 175.470000
+            xmax = 176.700000
+            text = ""
+        intervals [305]:
+            xmin = 176.700000
+            xmax = 177.120000
+            text = "too"
+        intervals [306]:
+            xmin = 177.120000
+            xmax = 178.040000
+            text = "old"
+        intervals [307]:
+            xmin = 178.040000
+            xmax = 178.420000
+            text = "or"
+        intervals [308]:
+            xmin = 178.420000
+            xmax = 179.080000
+            text = ""
+        intervals [309]:
+            xmin = 179.080000
+            xmax = 179.400000
+            text = "they"
+        intervals [310]:
+            xmin = 179.400000
+            xmax = 179.910000
+            text = "didn't"
+        intervals [311]:
+            xmin = 179.910000
+            xmax = 180.760000
+            text = "understand"
+        intervals [312]:
+            xmin = 180.760000
+            xmax = 181.120000
+            text = "very"
+        intervals [313]:
+            xmin = 181.120000
+            xmax = 181.440000
+            text = "well"
+        intervals [314]:
+            xmin = 181.440000
+            xmax = 182.350000
+            text = ""
+        intervals [315]:
+            xmin = 182.350000
+            xmax = 183.140000
+            text = "Maybe"
+        intervals [316]:
+            xmin = 183.140000
+            xmax = 183.290000
+            text = "we"
+        intervals [317]:
+            xmin = 183.290000
+            xmax = 184.630000
+            text = "can"
+        intervals [318]:
+            xmin = 184.630000
+            xmax = 184.870000
+            text = ""
+        intervals [319]:
+            xmin = 184.870000
+            xmax = 185.730000
+            text = "help"
+        intervals [320]:
+            xmin = 185.730000
+            xmax = 186.014989
+            text = "this"
+        intervals [321]:
+            xmin = 186.014989
+            xmax = 188.170000
+            text = "old"
+        intervals [322]:
+            xmin = 188.170000
+            xmax = 188.650000
+            text = ""
+        intervals [323]:
+            xmin = 188.650000
+            xmax = 189.450000
+            text = "teacher"
+        intervals [324]:
+            xmin = 189.450000
+            xmax = 189.980000
+            text = ""
+        intervals [325]:
+            xmin = 189.980000
+            xmax = 190.560000
+            text = "with"
+        intervals [326]:
+            xmin = 190.560000
+            xmax = 191.070000
+            text = "give"
+        intervals [327]:
+            xmin = 191.070000
+            xmax = 191.540000
+            text = "them"
+        intervals [328]:
+            xmin = 191.540000
+            xmax = 193.560000
+            text = "formation"
+        intervals [329]:
+            xmin = 193.560000
+            xmax = 195.420000
+            text = "and"
+        intervals [330]:
+            xmin = 195.420000
+            xmax = 196.770000
+            text = ""
+        intervals [331]:
+            xmin = 196.770000
+            xmax = 197.620000
+            text = "some"
+        intervals [332]:
+            xmin = 197.620000
+            xmax = 198.230000
+            text = "teachers"
+        intervals [333]:
+            xmin = 198.230000
+            xmax = 198.380000
+            text = ""
+        intervals [334]:
+            xmin = 198.380000
+            xmax = 199.590000
+            text = "specialized"
+        intervals [335]:
+            xmin = 199.590000
+            xmax = 199.920000
+            text = "in"
+        intervals [336]:
+            xmin = 199.920000
+            xmax = 201.540000
+            text = "informatic"
+        intervals [337]:
+            xmin = 201.540000
+            xmax = 202.320000
+            text = "and"
+        intervals [338]:
+            xmin = 202.320000
+            xmax = 203.330000
+            text = "new"
+        intervals [339]:
+            xmin = 203.330000
+            xmax = 205.000000
+            text = "technology"
+        intervals [340]:
+            xmin = 205.000000
+            xmax = 205.290000
+            text = "can"
+        intervals [341]:
+            xmin = 205.290000
+            xmax = 205.900000
+            text = "help"
+        intervals [342]:
+            xmin = 205.900000
+            xmax = 206.080000
+            text = "them"
+        intervals [343]:
+            xmin = 206.080000
+            xmax = 206.220000
+            text = "to"
+        intervals [344]:
+            xmin = 206.220000
+            xmax = 206.360000
+            text = "be"
+        intervals [345]:
+            xmin = 206.360000
+            xmax = 206.800000
+            text = "formed"
+        intervals [346]:
+            xmin = 206.800000
+            xmax = 208.130000
+            text = "from"
+        intervals [347]:
+            xmin = 208.130000
+            xmax = 208.520000
+            text = ""
+        intervals [348]:
+            xmin = 208.520000
+            xmax = 208.800000
+            text = "that"
+        intervals [349]:
+            xmin = 208.800000
+            xmax = 209.880000
+            text = "new"
+        intervals [350]:
+            xmin = 209.880000
+            xmax = 210.120000
+            text = "form"
+        intervals [351]:
+            xmin = 210.120000
+            xmax = 210.190000
+            text = "of"
+        intervals [352]:
+            xmin = 210.190000
+            xmax = 210.810000
+            text = "scholarship"
+        intervals [353]:
+            xmin = 210.810000
+            xmax = 211.090000
+            text = "Yes"
+        intervals [354]:
+            xmin = 211.090000
+            xmax = 211.150000
+            text = "but"
+        intervals [355]:
+            xmin = 211.150000
+            xmax = 211.320000
+            text = "new"
+        intervals [356]:
+            xmin = 211.320000
+            xmax = 213.260000
+            text = "technology"
+        intervals [357]:
+            xmin = 213.260000
+            xmax = 213.440000
+            text = "is"
+        intervals [358]:
+            xmin = 213.440000
+            xmax = 213.500000
+            text = "not"
+        intervals [359]:
+            xmin = 213.500000
+            xmax = 214.020000
+            text = "easy"
+        intervals [360]:
+            xmin = 214.020000
+            xmax = 214.550000
+            text = "and"
+        intervals [361]:
+            xmin = 214.550000
+            xmax = 214.650000
+            text = "they"
+        intervals [362]:
+            xmin = 214.650000
+            xmax = 214.940000
+            text = "need"
+        intervals [363]:
+            xmin = 214.940000
+            xmax = 215.560000
+            text = "really"
+        intervals [364]:
+            xmin = 215.560000
+            xmax = 215.840000
+            text = "lot"
+        intervals [365]:
+            xmin = 215.840000
+            xmax = 216.050000
+            text = "of"
+        intervals [366]:
+            xmin = 216.050000
+            xmax = 217.140000
+            text = "time"
+        intervals [367]:
+            xmin = 217.140000
+            xmax = 218.100000
+            text = ""
+        intervals [368]:
+            xmin = 218.100000
+            xmax = 218.310000
+            text = "to"
+        intervals [369]:
+            xmin = 218.310000
+            xmax = 218.680000
+            text = "really"
+        intervals [370]:
+            xmin = 218.680000
+            xmax = 219.180000
+            text = "understand"
+        intervals [371]:
+            xmin = 219.180000
+            xmax = 219.460000
+            text = "how"
+        intervals [372]:
+            xmin = 219.460000
+            xmax = 219.670000
+            text = "it"
+        intervals [373]:
+            xmin = 219.670000
+            xmax = 219.730000
+            text = ""
+        intervals [374]:
+            xmin = 219.730000
+            xmax = 220.320000
+            text = "works"
+        intervals [375]:
+            xmin = 220.320000
+            xmax = 220.550000
+            text = ""
+        intervals [376]:
+            xmin = 220.550000
+            xmax = 222.730000
+            text = "and"
+        intervals [377]:
+            xmin = 222.730000
+            xmax = 222.900000
+            text = ""
+        intervals [378]:
+            xmin = 222.900000
+            xmax = 223.100000
+            text = "it's"
+        intervals [379]:
+            xmin = 223.100000
+            xmax = 223.190000
+            text = "not"
+        intervals [380]:
+            xmin = 223.190000
+            xmax = 224.050000
+            text = "really"
+        intervals [381]:
+            xmin = 224.050000
+            xmax = 224.330000
+            text = ""
+        intervals [382]:
+            xmin = 224.330000
+            xmax = 224.420000
+            text = "we"
+        intervals [383]:
+            xmin = 224.420000
+            xmax = 224.600000
+            text = "don't"
+        intervals [384]:
+            xmin = 224.600000
+            xmax = 225.200000
+            text = "have"
+        intervals [385]:
+            xmin = 225.200000
+            xmax = 225.540000
+            text = ""
+        intervals [386]:
+            xmin = 225.540000
+            xmax = 225.680000
+            text = "lot"
+        intervals [387]:
+            xmin = 225.680000
+            xmax = 225.780000
+            text = "of"
+        intervals [388]:
+            xmin = 225.780000
+            xmax = 226.860000
+            text = "time"
+        intervals [389]:
+            xmin = 226.860000
+            xmax = 227.130000
+            text = ""
+        intervals [390]:
+            xmin = 227.130000
+            xmax = 227.250000
+            text = "to"
+        intervals [391]:
+            xmin = 227.250000
+            xmax = 227.360000
+            text = ""
+        intervals [392]:
+            xmin = 227.360000
+            xmax = 227.580000
+            text = "teach"
+        intervals [393]:
+            xmin = 227.580000
+            xmax = 227.850000
+            text = "them"
+        intervals [394]:
+            xmin = 227.850000
+            xmax = 228.210000
+            text = "how"
+        intervals [395]:
+            xmin = 228.210000
+            xmax = 228.420000
+            text = ""
+        intervals [396]:
+            xmin = 228.420000
+            xmax = 228.550000
+            text = "to"
+        intervals [397]:
+            xmin = 228.550000
+            xmax = 228.870000
+            text = "use"
+        intervals [398]:
+            xmin = 228.870000
+            xmax = 229.120000
+            text = "it"
+        intervals [399]:
+            xmin = 229.120000
+            xmax = 229.390000
+            text = ""
+        intervals [400]:
+            xmin = 229.390000
+            xmax = 229.760000
+            text = "Yeah"
+        intervals [401]:
+            xmin = 229.760000
+            xmax = 230.180000
+            text = "maybe"
+        intervals [402]:
+            xmin = 230.180000
+            xmax = 230.460000
+            text = "it's"
+        intervals [403]:
+            xmin = 230.460000
+            xmax = 231.780000
+            text = "difficult"
+        intervals [404]:
+            xmin = 231.780000
+            xmax = 232.430000
+            text = ""
+        intervals [405]:
+            xmin = 232.430000
+            xmax = 232.590000
+            text = "to"
+        intervals [406]:
+            xmin = 232.590000
+            xmax = 233.060000
+            text = "spend"
+        intervals [407]:
+            xmin = 233.060000
+            xmax = 233.130000
+            text = "a"
+        intervals [408]:
+            xmin = 233.130000
+            xmax = 233.390000
+            text = "lot"
+        intervals [409]:
+            xmin = 233.390000
+            xmax = 233.670000
+            text = "of"
+        intervals [410]:
+            xmin = 233.670000
+            xmax = 233.990000
+            text = "time"
+        intervals [411]:
+            xmin = 233.990000
+            xmax = 234.100000
+            text = ""
+        intervals [412]:
+            xmin = 234.100000
+            xmax = 234.240000
+            text = "to"
+        intervals [413]:
+            xmin = 234.240000
+            xmax = 234.610000
+            text = "be"
+        intervals [414]:
+            xmin = 234.610000
+            xmax = 234.700000
+            text = ""
+        intervals [415]:
+            xmin = 234.700000
+            xmax = 235.100000
+            text = "formed"
+        intervals [416]:
+            xmin = 235.100000
+            xmax = 235.330000
+            text = "of"
+        intervals [417]:
+            xmin = 235.330000
+            xmax = 235.610000
+            text = "this"
+        intervals [418]:
+            xmin = 235.610000
+            xmax = 235.660000
+            text = ""
+        intervals [419]:
+            xmin = 235.660000
+            xmax = 236.050000
+            text = "new"
+        intervals [420]:
+            xmin = 236.050000
+            xmax = 238.040000
+            text = "technology"
+        intervals [421]:
+            xmin = 238.040000
+            xmax = 238.810000
+            text = "so"
+        intervals [422]:
+            xmin = 238.810000
+            xmax = 238.870000
+            text = "but"
+        intervals [423]:
+            xmin = 238.870000
+            xmax = 239.660000
+            text = ""
+        intervals [424]:
+            xmin = 239.660000
+            xmax = 239.860000
+            text = "it's"
+        intervals [425]:
+            xmin = 239.860000
+            xmax = 239.980000
+            text = ""
+        intervals [426]:
+            xmin = 239.980000
+            xmax = 241.570000
+            text = "dramatic"
+        intervals [427]:
+            xmin = 241.570000
+            xmax = 241.920000
+            text = "because"
+        intervals [428]:
+            xmin = 241.920000
+            xmax = 241.960000
+            text = "I"
+        intervals [429]:
+            xmin = 241.960000
+            xmax = 243.140000
+            text = "think"
+        intervals [430]:
+            xmin = 243.140000
+            xmax = 243.720000
+            text = "it's"
+        intervals [431]:
+            xmin = 243.720000
+            xmax = 244.350000
+            text = "good"
+        intervals [432]:
+            xmin = 244.350000
+            xmax = 244.630000
+            text = "for"
+        intervals [433]:
+            xmin = 244.630000
+            xmax = 245.110000
+            text = "students"
+        intervals [434]:
+            xmin = 245.110000
+            xmax = 245.510000
+            text = "because"
+        intervals [435]:
+            xmin = 245.510000
+            xmax = 245.840000
+            text = "they"
+        intervals [436]:
+            xmin = 245.840000
+            xmax = 246.200000
+            text = ""
+        intervals [437]:
+            xmin = 246.200000
+            xmax = 246.960000
+            text = "can"
+        intervals [438]:
+            xmin = 246.960000
+            xmax = 247.330000
+            text = "help"
+        intervals [439]:
+            xmin = 247.330000
+            xmax = 247.740000
+            text = "them"
+        intervals [440]:
+            xmin = 247.740000
+            xmax = 248.360000
+            text = "to"
+        intervals [441]:
+            xmin = 248.360000
+            xmax = 248.650000
+            text = ""
+        intervals [442]:
+            xmin = 248.650000
+            xmax = 249.840000
+            text = "develop"
+        intervals [443]:
+            xmin = 249.840000
+            xmax = 250.260000
+            text = ""
+        intervals [444]:
+            xmin = 250.260000
+            xmax = 250.380000
+            text = "their"
+        intervals [445]:
+            xmin = 250.380000
+            xmax = 251.140000
+            text = "abilities"
+        intervals [446]:
+            xmin = 251.140000
+            xmax = 251.490000
+            text = "to"
+        intervals [447]:
+            xmin = 251.490000
+            xmax = 251.890000
+            text = ""
+        intervals [448]:
+            xmin = 251.890000
+            xmax = 252.630000
+            text = "resolve"
+        intervals [449]:
+            xmin = 252.630000
+            xmax = 254.350000
+            text = "problems"
+        intervals [450]:
+            xmin = 254.350000
+            xmax = 257.470000
+            text = "and"
+        intervals [451]:
+            xmin = 257.470000
+            xmax = 257.530000
+            text = "to"
+        intervals [452]:
+            xmin = 257.530000
+            xmax = 258.630000
+            text = "improve"
+        intervals [453]:
+            xmin = 258.630000
+            xmax = 259.350000
+            text = ""
+        intervals [454]:
+            xmin = 259.350000
+            xmax = 260.130000
+            text = "their"
+        intervals [455]:
+            xmin = 260.130000
+            xmax = 262.200000
+            text = "knowledge"
+        intervals [456]:
+            xmin = 262.200000
+            xmax = 263.530000
+            text = "about"
+        intervals [457]:
+            xmin = 263.530000
+            xmax = 263.870000
+            text = ""
+        intervals [458]:
+            xmin = 263.870000
+            xmax = 264.630000
+            text = "this"
+        intervals [459]:
+            xmin = 264.630000
+            xmax = 265.100000
+            text = "type"
+        intervals [460]:
+            xmin = 265.100000
+            xmax = 265.370000
+            text = ""
+        intervals [461]:
+            xmin = 265.370000
+            xmax = 266.200000
+            text = "of"
+        intervals [462]:
+            xmin = 266.200000
+            xmax = 268.800000
+            text = "technology"
+        intervals [463]:
+            xmin = 268.800000
+            xmax = 268.900000
+            text = ""
+        intervals [464]:
+            xmin = 268.900000
+            xmax = 269.630000
+            text = "Yes"
+        intervals [465]:
+            xmin = 269.630000
+            xmax = 269.960000
+            text = "but"
+        intervals [466]:
+            xmin = 269.960000
+            xmax = 270.150000
+            text = "studies"
+        intervals [467]:
+            xmin = 270.150000
+            xmax = 270.600000
+            text = "shows"
+        intervals [468]:
+            xmin = 270.600000
+            xmax = 270.830000
+            text = "too"
+        intervals [469]:
+            xmin = 270.830000
+            xmax = 271.060000
+            text = "that"
+        intervals [470]:
+            xmin = 271.060000
+            xmax = 273.860000
+            text = "students"
+        intervals [471]:
+            xmin = 273.860000
+            xmax = 273.980000
+            text = "who"
+        intervals [472]:
+            xmin = 273.980000
+            xmax = 274.250000
+            text = "use"
+        intervals [473]:
+            xmin = 274.250000
+            xmax = 275.270000
+            text = "new"
+        intervals [474]:
+            xmin = 275.270000
+            xmax = 276.150000
+            text = "technology"
+        intervals [475]:
+            xmin = 276.150000
+            xmax = 276.350000
+            text = "in"
+        intervals [476]:
+            xmin = 276.350000
+            xmax = 277.200000
+            text = "school"
+        intervals [477]:
+            xmin = 277.200000
+            xmax = 278.384989
+            text = "develops"
+        intervals [478]:
+            xmin = 278.384989
+            xmax = 280.060000
+            text = "anxiety"
+        intervals [479]:
+            xmin = 280.060000
+            xmax = 280.810000
+            text = "So"
+        intervals [480]:
+            xmin = 280.810000
+            xmax = 280.950000
+            text = ""
+        intervals [481]:
+            xmin = 280.950000
+            xmax = 281.560000
+            text = "it's"
+        intervals [482]:
+            xmin = 281.560000
+            xmax = 284.760000
+            text = "not"
+        intervals [483]:
+            xmin = 284.760000
+            xmax = 284.810000
+            text = ""
+        intervals [484]:
+            xmin = 284.810000
+            xmax = 285.150000
+            text = "a"
+        intervals [485]:
+            xmin = 285.150000
+            xmax = 285.600000
+            text = ""
+        intervals [486]:
+            xmin = 285.600000
+            xmax = 285.780000
+            text = "It's"
+        intervals [487]:
+            xmin = 285.780000
+            xmax = 285.970000
+            text = "need"
+        intervals [488]:
+            xmin = 285.970000
+            xmax = 286.070000
+            text = "to"
+        intervals [489]:
+            xmin = 286.070000
+            xmax = 286.340000
+            text = "be"
+        intervals [490]:
+            xmin = 286.340000
+            xmax = 286.770000
+            text = "x-x-x"
+        intervals [491]:
+            xmin = 286.770000
+            xmax = 287.200000
+            text = "maybe"
+        intervals [492]:
+            xmin = 287.200000
+            xmax = 287.670000
+            text = "because"
+        intervals [493]:
+            xmin = 287.670000
+            xmax = 288.120000
+            text = "there"
+        intervals [494]:
+            xmin = 288.120000
+            xmax = 288.590000
+            text = ""
+        intervals [495]:
+            xmin = 288.590000
+            xmax = 288.860000
+            text = "is"
+        intervals [496]:
+            xmin = 288.860000
+            xmax = 289.260000
+            text = "good"
+        intervals [497]:
+            xmin = 289.260000
+            xmax = 289.690000
+            text = "points"
+        intervals [498]:
+            xmin = 289.690000
+            xmax = 289.930000
+            text = "and"
+        intervals [499]:
+            xmin = 289.930000
+            xmax = 290.210000
+            text = "bad"
+        intervals [500]:
+            xmin = 290.210000
+            xmax = 290.500000
+            text = "points"
+        intervals [501]:
+            xmin = 290.500000
+            xmax = 290.750000
+            text = ""
+        intervals [502]:
+            xmin = 290.750000
+            xmax = 291.250000
+            text = "So"
+        intervals [503]:
+            xmin = 291.250000
+            xmax = 291.820000
+            text = ""
+        intervals [504]:
+            xmin = 291.820000
+            xmax = 292.000000
+            text = "you"
+        intervals [505]:
+            xmin = 292.000000
+            xmax = 292.820000
+            text = "can"
+        intervals [506]:
+            xmin = 292.820000
+            xmax = 292.980000
+            text = "we"
+        intervals [507]:
+            xmin = 292.980000
+            xmax = 293.240000
+            text = "can"
+        intervals [508]:
+            xmin = 293.240000
+            xmax = 294.020000
+            text = "just"
+        intervals [509]:
+            xmin = 294.020000
+            xmax = 294.320000
+            text = ""
+        intervals [510]:
+            xmin = 294.320000
+            xmax = 294.410000
+            text = "we"
+        intervals [511]:
+            xmin = 294.410000
+            xmax = 295.910000
+            text = "cannot"
+        intervals [512]:
+            xmin = 295.910000
+            xmax = 296.830000
+            text = "just"
+        intervals [513]:
+            xmin = 296.830000
+            xmax = 297.260000
+            text = "drop"
+        intervals [514]:
+            xmin = 297.260000
+            xmax = 298.170000
+            text = ""
+        intervals [515]:
+            xmin = 298.170000
+            xmax = 298.380000
+            text = "this"
+        intervals [516]:
+            xmin = 298.380000
+            xmax = 298.730000
+            text = "form"
+        intervals [517]:
+            xmin = 298.730000
+            xmax = 298.870000
+            text = ""
+        intervals [518]:
+            xmin = 298.870000
+            xmax = 299.280000
+            text = "of"
+        intervals [519]:
+            xmin = 299.280000
+            xmax = 300.100000
+            text = "new"
+        intervals [520]:
+            xmin = 300.100000
+            xmax = 300.800000
+            text = ""
+        intervals [521]:
+            xmin = 300.800000
+            xmax = 301.080000
+            text = "this"
+        intervals [522]:
+            xmin = 301.080000
+            xmax = 301.250000
+            text = "new"
+        intervals [523]:
+            xmin = 301.250000
+            xmax = 302.160000
+            text = "system"
+        intervals [524]:
+            xmin = 302.160000
+            xmax = 302.380000
+            text = "Just"
+        intervals [525]:
+            xmin = 302.380000
+            xmax = 302.580000
+            text = "like"
+        intervals [526]:
+            xmin = 302.580000
+            xmax = 302.880000
+            text = "that"
+        intervals [527]:
+            xmin = 302.880000
+            xmax = 303.290000
+            text = "we"
+        intervals [528]:
+            xmin = 303.290000
+            xmax = 303.450000
+            text = ""
+        intervals [529]:
+            xmin = 303.450000
+            xmax = 304.680000
+            text = "need"
+        intervals [530]:
+            xmin = 304.680000
+            xmax = 304.870000
+            text = "to"
+        intervals [531]:
+            xmin = 304.870000
+            xmax = 307.650000
+            text = "improve"
+        intervals [532]:
+            xmin = 307.650000
+            xmax = 307.714989
+            text = "to"
+        intervals [533]:
+            xmin = 307.714989
+            xmax = 308.130000
+            text = "inform"
+        intervals [534]:
+            xmin = 308.130000
+            xmax = 308.770000
+            text = "everybody"
+        intervals [535]:
+            xmin = 308.770000
+            xmax = 311.750000
+            text = "students"
+        intervals [536]:
+            xmin = 311.750000
+            xmax = 312.290000
+            text = "teachers"
+        intervals [537]:
+            xmin = 312.290000
+            xmax = 312.470000
+            text = ""
+        intervals [538]:
+            xmin = 312.470000
+            xmax = 312.960000
+            text = "everybody"
+        intervals [539]:
+            xmin = 312.960000
+            xmax = 313.030000
+            text = "To"
+        intervals [540]:
+            xmin = 313.030000
+            xmax = 313.250000
+            text = "my"
+        intervals [541]:
+            xmin = 313.250000
+            xmax = 315.080000
+            text = "opinion"
+        intervals [542]:
+            xmin = 315.080000
+            xmax = 315.400000
+            text = "we"
+        intervals [543]:
+            xmin = 315.400000
+            xmax = 315.770000
+            text = "need"
+        intervals [544]:
+            xmin = 315.770000
+            xmax = 316.090000
+            text = "to"
+        intervals [545]:
+            xmin = 316.090000
+            xmax = 316.850000
+            text = "reduce"
+        intervals [546]:
+            xmin = 316.850000
+            xmax = 317.580000
+            text = ""
+        intervals [547]:
+            xmin = 317.580000
+            xmax = 317.780000
+            text = "the"
+        intervals [548]:
+            xmin = 317.780000
+            xmax = 317.900000
+            text = "time"
+        intervals [549]:
+            xmin = 317.900000
+            xmax = 317.980000
+            text = "the"
+        intervals [550]:
+            xmin = 317.980000
+            xmax = 319.430000
+            text = "students"
+        intervals [551]:
+            xmin = 319.430000
+            xmax = 321.630000
+            text = "spend"
+        intervals [552]:
+            xmin = 321.630000
+            xmax = 321.830000
+            text = "on"
+        intervals [553]:
+            xmin = 321.830000
+            xmax = 322.030000
+            text = ""
+        intervals [554]:
+            xmin = 322.030000
+            xmax = 324.440000
+            text = "computers"
+        intervals [555]:
+            xmin = 324.440000
+            xmax = 326.280000
+            text = "television"
+        intervals [556]:
+            xmin = 326.280000
+            xmax = 326.400000
+            text = ""
+        intervals [557]:
+            xmin = 326.400000
+            xmax = 328.410000
+            text = "on"
+        intervals [558]:
+            xmin = 328.410000
+            xmax = 329.130000
+            text = "just"
+        intervals [559]:
+            xmin = 329.130000
+            xmax = 329.910000
+            text = ""
+        intervals [560]:
+            xmin = 329.910000
+            xmax = 330.170000
+            text = "sorry"
+        intervals [561]:
+            xmin = 330.170000
+            xmax = 330.640000
+            text = ""
+        intervals [562]:
+            xmin = 330.640000
+            xmax = 331.430000
+            text = "to"
+        intervals [563]:
+            xmin = 331.430000
+            xmax = 332.570000
+            text = ""
+        intervals [564]:
+            xmin = 332.570000
+            xmax = 333.010000
+            text = "reduce"
+        intervals [565]:
+            xmin = 333.010000
+            xmax = 333.230000
+            text = "this"
+        intervals [566]:
+            xmin = 333.230000
+            xmax = 333.680000
+            text = "time"
+        intervals [567]:
+            xmin = 333.680000
+            xmax = 333.960000
+            text = ""
+        intervals [568]:
+            xmin = 333.960000
+            xmax = 334.240000
+            text = "because"
+        intervals [569]:
+            xmin = 334.240000
+            xmax = 334.350000
+            text = "they"
+        intervals [570]:
+            xmin = 334.350000
+            xmax = 334.840000
+            text = "spend"
+        intervals [571]:
+            xmin = 334.840000
+            xmax = 335.140000
+            text = "too"
+        intervals [572]:
+            xmin = 335.140000
+            xmax = 335.360000
+            text = "much"
+        intervals [573]:
+            xmin = 335.360000
+            xmax = 335.660000
+            text = "time"
+        intervals [574]:
+            xmin = 335.660000
+            xmax = 335.940000
+            text = "on"
+        intervals [575]:
+            xmin = 335.940000
+            xmax = 336.150000
+            text = "this"
+        intervals [576]:
+            xmin = 336.150000
+            xmax = 336.450000
+            text = ""
+        intervals [577]:
+            xmin = 336.450000
+            xmax = 336.590000
+            text = "at"
+        intervals [578]:
+            xmin = 336.590000
+            xmax = 337.040000
+            text = "home"
+        intervals [579]:
+            xmin = 337.040000
+            xmax = 337.400000
+            text = ""
+        intervals [580]:
+            xmin = 337.400000
+            xmax = 337.840000
+            text = "and"
+        intervals [581]:
+            xmin = 337.840000
+            xmax = 337.960000
+            text = "if"
+        intervals [582]:
+            xmin = 337.960000
+            xmax = 338.140000
+            text = ""
+        intervals [583]:
+            xmin = 338.140000
+            xmax = 338.860000
+            text = "they"
+        intervals [584]:
+            xmin = 338.860000
+            xmax = 339.020000
+            text = ""
+        intervals [585]:
+            xmin = 339.020000
+            xmax = 339.464989
+            text = "are"
+        intervals [586]:
+            xmin = 339.464989
+            xmax = 340.820000
+            text = "on"
+        intervals [587]:
+            xmin = 340.820000
+            xmax = 342.130000
+            text = "computer"
+        intervals [588]:
+            xmin = 342.130000
+            xmax = 342.350000
+            text = "at"
+        intervals [589]:
+            xmin = 342.350000
+            xmax = 342.740000
+            text = "school"
+        intervals [590]:
+            xmin = 342.740000
+            xmax = 343.190000
+            text = "too"
+        intervals [591]:
+            xmin = 343.190000
+            xmax = 343.680000
+            text = ""
+        intervals [592]:
+            xmin = 343.680000
+            xmax = 344.020000
+            text = "there"
+        intervals [593]:
+            xmin = 344.020000
+            xmax = 344.650000
+            text = ""
+        intervals [594]:
+            xmin = 344.650000
+            xmax = 345.380000
+            text = "will"
+        intervals [595]:
+            xmin = 345.380000
+            xmax = 345.440000
+            text = "be"
+        intervals [596]:
+            xmin = 345.440000
+            xmax = 345.870000
+            text = ""
+        intervals [597]:
+            xmin = 345.870000
+            xmax = 345.990000
+            text = "too"
+        intervals [598]:
+            xmin = 345.990000
+            xmax = 346.390000
+            text = "much"
+        intervals [599]:
+            xmin = 346.390000
+            xmax = 346.730000
+            text = "time"
+        intervals [600]:
+            xmin = 346.730000
+            xmax = 346.910000
+            text = "for"
+        intervals [601]:
+            xmin = 346.910000
+            xmax = 347.210000
+            text = "them"
+        intervals [602]:
+            xmin = 347.210000
+            xmax = 348.900000
+            text = "and"
+        intervals [603]:
+            xmin = 348.900000
+            xmax = 349.220000
+            text = ""
+        intervals [604]:
+            xmin = 349.220000
+            xmax = 349.620000
+            text = "I"
+        intervals [605]:
+            xmin = 349.620000
+            xmax = 352.280000
+            text = "think"
+        intervals [606]:
+            xmin = 352.280000
+            xmax = 353.004989
+            text = "it's"
+        intervals [607]:
+            xmin = 353.004989
+            xmax = 353.409977
+            text = "a"
+        intervals [608]:
+            xmin = 353.409977
+            xmax = 354.030000
+            text = "problem"
+        intervals [609]:
+            xmin = 354.030000
+            xmax = 354.420000
+            text = "They"
+        intervals [610]:
+            xmin = 354.420000
+            xmax = 354.710000
+            text = "need"
+        intervals [611]:
+            xmin = 354.710000
+            xmax = 354.800000
+            text = ""
+        intervals [612]:
+            xmin = 354.800000
+            xmax = 355.180000
+            text = "to"
+        intervals [613]:
+            xmin = 355.180000
+            xmax = 357.150000
+            text = "return"
+        intervals [614]:
+            xmin = 357.150000
+            xmax = 357.220000
+            text = "at"
+        intervals [615]:
+            xmin = 357.220000
+            xmax = 357.810000
+            text = "paper"
+        intervals [616]:
+            xmin = 357.810000
+            xmax = 359.560000
+            text = "and"
+        intervals [617]:
+            xmin = 359.560000
+            xmax = 360.280000
+            text = "pen"
+        intervals [618]:
+            xmin = 360.280000
+            xmax = 360.340000
+            text = "to"
+        intervals [619]:
+            xmin = 360.340000
+            xmax = 360.960000
+            text = "write"
+        intervals [620]:
+            xmin = 360.960000
+            xmax = 361.040000
+            text = "to"
+        intervals [621]:
+            xmin = 361.040000
+            xmax = 361.140000
+            text = "read"
+        intervals [622]:
+            xmin = 361.140000
+            xmax = 361.210000
+            text = "too"
+        intervals [623]:
+            xmin = 361.210000
+            xmax = 361.270000
+            text = "For"
+        intervals [624]:
+            xmin = 361.270000
+            xmax = 361.630000
+            text = "develop"
+        intervals [625]:
+            xmin = 361.630000
+            xmax = 362.040000
+            text = "this"
+        intervals [626]:
+            xmin = 362.040000
+            xmax = 362.840000
+            text = "new"
+        intervals [627]:
+            xmin = 362.840000
+            xmax = 363.260000
+            text = "system"
+        intervals [628]:
+            xmin = 363.260000
+            xmax = 363.420000
+            text = "we"
+        intervals [629]:
+            xmin = 363.420000
+            xmax = 365.070000
+            text = "can"
+        intervals [630]:
+            xmin = 365.070000
+            xmax = 365.420000
+            text = "begin"
+        intervals [631]:
+            xmin = 365.420000
+            xmax = 365.970000
+            text = "with"
+        intervals [632]:
+            xmin = 365.970000
+            xmax = 366.460000
+            text = "one"
+        intervals [633]:
+            xmin = 366.460000
+            xmax = 366.700000
+            text = "for"
+        intervals [634]:
+            xmin = 366.700000
+            xmax = 367.170000
+            text = "example"
+        intervals [635]:
+            xmin = 367.170000
+            xmax = 367.340000
+            text = "one"
+        intervals [636]:
+            xmin = 367.340000
+            xmax = 367.720000
+            text = "hour"
+        intervals [637]:
+            xmin = 367.720000
+            xmax = 367.990000
+            text = "per"
+        intervals [638]:
+            xmin = 367.990000
+            xmax = 368.320000
+            text = "days"
+        intervals [639]:
+            xmin = 368.320000
+            xmax = 368.550000
+            text = ""
+        intervals [640]:
+            xmin = 368.550000
+            xmax = 368.730000
+            text = "with"
+        intervals [641]:
+            xmin = 368.730000
+            xmax = 370.420000
+            text = "computer"
+        intervals [642]:
+            xmin = 370.420000
+            xmax = 371.390000
+            text = "and"
+        intervals [643]:
+            xmin = 371.390000
+            xmax = 371.650000
+            text = "new"
+        intervals [644]:
+            xmin = 371.650000
+            xmax = 372.360000
+            text = "technology"
+        intervals [645]:
+            xmin = 372.360000
+            xmax = 372.560000
+            text = ""
+        intervals [646]:
+            xmin = 372.560000
+            xmax = 373.330000
+            text = "but"
+        intervals [647]:
+            xmin = 373.330000
+            xmax = 373.480000
+            text = ""
+        intervals [648]:
+            xmin = 373.480000
+            xmax = 373.680000
+            text = "keep"
+        intervals [649]:
+            xmin = 373.680000
+            xmax = 374.080000
+            text = "going"
+        intervals [650]:
+            xmin = 374.080000
+            xmax = 374.270000
+            text = "with"
+        intervals [651]:
+            xmin = 374.270000
+            xmax = 374.570000
+            text = "the"
+        intervals [652]:
+            xmin = 374.570000
+            xmax = 375.050000
+            text = ""
+        intervals [653]:
+            xmin = 375.050000
+            xmax = 375.530000
+            text = "old"
+        intervals [654]:
+            xmin = 375.530000
+            xmax = 376.160000
+            text = "method"
+        intervals [655]:
+            xmin = 376.160000
+            xmax = 376.230000
+            text = ""
+        intervals [656]:
+            xmin = 376.230000
+            xmax = 376.660000
+            text = "with"
+        intervals [657]:
+            xmin = 376.660000
+            xmax = 377.600000
+            text = "paper"
+        intervals [658]:
+            xmin = 377.600000
+            xmax = 378.070000
+            text = "pen"
+        intervals [659]:
+            xmin = 378.070000
+            xmax = 378.810000
+            text = "because"
+        intervals [660]:
+            xmin = 378.810000
+            xmax = 379.140000
+            text = ""
+        intervals [661]:
+            xmin = 379.140000
+            xmax = 380.300000
+            text = "technology"
+        intervals [662]:
+            xmin = 380.300000
+            xmax = 380.590000
+            text = ""
+        intervals [663]:
+            xmin = 380.590000
+            xmax = 380.820000
+            text = "have"
+        intervals [664]:
+            xmin = 380.820000
+            xmax = 381.710000
+            text = "also"
+        intervals [665]:
+            xmin = 381.710000
+            xmax = 381.820000
+            text = ""
+        intervals [666]:
+            xmin = 381.820000
+            xmax = 381.850000
+            text = "her"
+        intervals [667]:
+            xmin = 381.850000
+            xmax = 382.280000
+            text = ""
+        intervals [668]:
+            xmin = 382.280000
+            xmax = 383.150000
+            text = "limit"
+        intervals [669]:
+            xmin = 383.150000
+            xmax = 383.830000
+            text = "because"
+        intervals [670]:
+            xmin = 383.830000
+            xmax = 383.980000
+            text = ""
+        intervals [671]:
+            xmin = 383.980000
+            xmax = 385.680000
+            text = "in"
+        intervals [672]:
+            xmin = 385.680000
+            xmax = 386.010000
+            text = ""
+        intervals [673]:
+            xmin = 386.010000
+            xmax = 386.720000
+            text = "my"
+        intervals [674]:
+            xmin = 386.720000
+            xmax = 387.110000
+            text = "opinion"
+        intervals [675]:
+            xmin = 387.110000
+            xmax = 387.280000
+            text = "it's"
+        intervals [676]:
+            xmin = 387.280000
+            xmax = 387.340000
+            text = ""
+        intervals [677]:
+            xmin = 387.340000
+            xmax = 387.714989
+            text = "more"
+        intervals [678]:
+            xmin = 387.714989
+            xmax = 388.020000
+            text = "easy"
+        intervals [679]:
+            xmin = 388.020000
+            xmax = 388.390000
+            text = "to"
+        intervals [680]:
+            xmin = 388.390000
+            xmax = 388.790000
+            text = ""
+        intervals [681]:
+            xmin = 388.790000
+            xmax = 390.134989
+            text = "learn"
+        intervals [682]:
+            xmin = 390.134989
+            xmax = 390.229977
+            text = "a"
+        intervals [683]:
+            xmin = 390.229977
+            xmax = 391.000000
+            text = "lesson"
+        intervals [684]:
+            xmin = 391.000000
+            xmax = 391.280000
+            text = "with"
+        intervals [685]:
+            xmin = 391.280000
+            xmax = 391.840000
+            text = "paper"
+        intervals [686]:
+            xmin = 391.840000
+            xmax = 392.130000
+            text = ""
+        intervals [687]:
+            xmin = 392.130000
+            xmax = 393.170000
+            text = "or"
+        intervals [688]:
+            xmin = 393.170000
+            xmax = 393.300000
+            text = ""
+        intervals [689]:
+            xmin = 393.300000
+            xmax = 393.890000
+            text = "without"
+        intervals [690]:
+            xmin = 393.890000
+            xmax = 395.700000
+            text = ""
+        intervals [691]:
+            xmin = 395.700000
+            xmax = 396.040000
+            text = "a"
+        intervals [692]:
+            xmin = 396.040000
+            xmax = 398.550000
+            text = "screen"
+        intervals [693]:
+            xmin = 398.550000
+            xmax = 398.610000
+            text = ""
+        intervals [694]:
+            xmin = 398.610000
+            xmax = 398.750000
+            text = "I"
+        intervals [695]:
+            xmin = 398.750000
+            xmax = 399.190000
+            text = "think"
+        intervals [696]:
+            xmin = 399.190000
+            xmax = 399.600000
+            text = "we"
+        intervals [697]:
+            xmin = 399.600000
+            xmax = 400.040000
+            text = "can"
+        intervals [698]:
+            xmin = 400.040000
+            xmax = 400.340000
+            text = "close"
+        intervals [699]:
+            xmin = 400.340000
+            xmax = 400.770000
+            text = "the"
+        intervals [700]:
+            xmin = 400.770000
+            xmax = 401.130000
+            text = ""
+        intervals [701]:
+            xmin = 401.130000
+            xmax = 401.250000
+            text = "deal"
+        intervals [702]:
+            xmin = 401.250000
+            xmax = 401.450000
+            text = ""
+        intervals [703]:
+            xmin = 401.450000
+            xmax = 402.480000
+            text = "just"
+        intervals [704]:
+            xmin = 402.480000
+            xmax = 404.080000
+            text = ""
+        intervals [705]:
+            xmin = 404.080000
+            xmax = 404.400000
+            text = "to"
+        intervals [706]:
+            xmin = 404.400000
+            xmax = 404.720000
+            text = "add"
+        intervals [707]:
+            xmin = 404.720000
+            xmax = 405.120000
+            text = ""
+        intervals [708]:
+            xmin = 405.120000
+            xmax = 405.250000
+            text = "a"
+        intervals [709]:
+            xmin = 405.250000
+            xmax = 405.760000
+            text = "little"
+        intervals [710]:
+            xmin = 405.760000
+            xmax = 405.940000
+            text = ""
+        intervals [711]:
+            xmin = 405.940000
+            xmax = 406.420000
+            text = "of"
+        intervals [712]:
+            xmin = 406.420000
+            xmax = 406.660000
+            text = "new"
+        intervals [713]:
+            xmin = 406.660000
+            xmax = 407.360000
+            text = "technology"
+        intervals [714]:
+            xmin = 407.360000
+            xmax = 407.880000
+            text = ""
+        intervals [715]:
+            xmin = 407.880000
+            xmax = 408.820000
+            text = "on"
+        intervals [716]:
+            xmin = 408.820000
+            xmax = 409.400000
+            text = "class"
+        intervals [717]:
+            xmin = 409.400000
+            xmax = 409.910000
+            text = ""
+        intervals [718]:
+            xmin = 409.910000
+            xmax = 410.190000
+            text = "maybe"
+        intervals [719]:
+            xmin = 410.190000
+            xmax = 410.570000
+            text = "one"
+        intervals [720]:
+            xmin = 410.570000
+            xmax = 410.950000
+            text = "or"
+        intervals [721]:
+            xmin = 410.950000
+            xmax = 411.430000
+            text = ""
+        intervals [722]:
+            xmin = 411.430000
+            xmax = 412.110000
+            text = "two"
+        intervals [723]:
+            xmin = 412.110000
+            xmax = 412.690000
+            text = ""
+        intervals [724]:
+            xmin = 412.690000
+            xmax = 412.760000
+            text = "hour"
+        intervals [725]:
+            xmin = 412.760000
+            xmax = 413.470000
+            text = ""
+        intervals [726]:
+            xmin = 413.470000
+            xmax = 414.460000
+            text = "per"
+        intervals [727]:
+            xmin = 414.460000
+            xmax = 415.440000
+            text = ""
+        intervals [728]:
+            xmin = 415.440000
+            xmax = 415.680000
+            text = "day"
+        intervals [729]:
+            xmin = 415.680000
+            xmax = 415.950000
+            text = "but"
+        intervals [730]:
+            xmin = 415.950000
+            xmax = 417.100000
+            text = ""
+        intervals [731]:
+            xmin = 417.100000
+            xmax = 417.290000
+            text = "we"
+        intervals [732]:
+            xmin = 417.290000
+            xmax = 418.390000
+            text = "can"
+        intervals [733]:
+            xmin = 418.390000
+            xmax = 418.680000
+            text = "keep"
+        intervals [734]:
+            xmin = 418.680000
+            xmax = 418.770000
+            text = ""
+        intervals [735]:
+            xmin = 418.770000
+            xmax = 419.600000
+            text = "also"
+        intervals [736]:
+            xmin = 419.600000
+            xmax = 420.250000
+            text = ""
+        intervals [737]:
+            xmin = 420.250000
+            xmax = 422.034989
+            text = "traditional"
+        intervals [738]:
+            xmin = 422.034989
+            xmax = 422.290000
+            text = "way"
+        intervals [739]:
+            xmin = 422.290000
+            xmax = 422.480000
+            text = ""
+        intervals [740]:
+            xmin = 422.480000
+            xmax = 422.680000
+            text = "to"
+        intervals [741]:
+            xmin = 422.680000
+            xmax = 422.860000
+            text = "teach"
+        intervals [742]:
+            xmin = 422.860000
+            xmax = 423.170000
+            text = ""
+        intervals [743]:
+            xmin = 423.170000
+            xmax = 423.350000
+            text = "Yeah"
+        intervals [744]:
+            xmin = 423.350000
+            xmax = 423.480000
+            text = ""
+        intervals [745]:
+            xmin = 423.480000
+            xmax = 423.620000
+            text = "I'm"
+        intervals [746]:
+            xmin = 423.620000
+            xmax = 423.890000
+            text = "agree"
+        intervals [747]:
+            xmin = 423.890000
+            xmax = 426.318367
+            text = ""
+
