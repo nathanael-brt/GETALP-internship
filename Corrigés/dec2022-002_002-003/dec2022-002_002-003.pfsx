@@ -2,12 +2,13 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1920,1048</Object>
+        <Object class="java.awt.Dimension">1920,1168</Object>
     </pref>
     <prefList key="SegmentationViewer.TierOrder">
         <String>002</String>
         <String>003</String>
     </prefList>
+    <prefList key="ExportTradTranscript.HiddenTiers"/>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
@@ -92,18 +93,10 @@
         <pref key="003">
             <Object class="java.awt.Color">0,0,160</Object>
         </pref>
-        <pref key="SPEAKER_00">
-            <Object class="java.awt.Color">90,160,160</Object>
-        </pref>
-        <pref key="SPEAKER_01">
-            <Object class="java.awt.Color">160,90,90</Object>
-        </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
         <String>002</String>
         <String>003</String>
-        <String>SPEAKER_01</String>
-        <String>SPEAKER_00</String>
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
@@ -115,6 +108,10 @@
             <Int>1486</Int>
         </pref>
     </prefGroup>
+    <prefList key="ExportTradTranscript.TierOrder">
+        <String>002</String>
+        <String>003</String>
+    </prefList>
     <prefList key="ExportPraatDialog.selectedTiers">
         <String>002</String>
         <String>003</String>
@@ -125,6 +122,10 @@
     <pref key="SegmentationViewer.ZoomLevel">
         <Float>84.0</Float>
     </pref>
+    <prefList key="ExportTradTranscript.selectedTiers">
+        <String>002</String>
+        <String>003</String>
+    </prefList>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>default</String>
     </pref>
@@ -216,6 +217,9 @@
             <String>TEXT</String>
         </pref>
     </prefGroup>
+    <pref key="ExportTradTranscript.SelectTiersMode">
+        <String>Tier</String>
+    </pref>
     <pref key="TranscriptionTable.LastActiveColumn">
         <String>default-lt</String>
     </pref>
