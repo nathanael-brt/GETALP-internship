@@ -61,10 +61,12 @@ for line in timeInfo:
             
             if speaker_nb != prec_speaker_nb:  #if the speaker number has changed
                 real_speaker_nb +=  it
+                
 
             start = float(Tab_line[3])  #get the start time
             end = float(Tab_line[4])    #get the end time
 
+            corRes.write("0" + str(real_speaker_nb) + "		" )   #write the speaker number
             #loop into the TextGrid file to get the right segment
             for lineGrid in TextGrid:
                 if lineGrid.startswith("    item["): #speaker number
@@ -77,14 +79,17 @@ for line in timeInfo:
                     xmax = float(lineGrid[19:])
 
                 elif lineGrid.startswith("            text = "):     #text
-                    if ((end >= xmin >= start) or (start <= xmax <= end)) and real_speaker_nb == int(speaker_nb_grid):   #test that we are strictly inside the right segment, for the right speaker
+                    if ((end >= xmin >= start) or (start <= xmax <= end) or ((xmin <= start) and (xmax >= end))) and real_speaker_nb == int(speaker_nb_grid):   #test that we are strictly inside the right segment, for the right speaker
                         text = lineGrid[19:]        #get the corrected text of the segment
                         text = text.strip('\n').strip('"')           #get rid of the \n and the "
                         
-                        if text != "":  #write the text only if it is not empty (not a pause)
-                            corRes.write("0" + str(real_speaker_nb))   #write the speaker number
-                            corRes.write("		" + text + "\n")
+                        if text != "":  #write the text only if it is not empty (not a pause
+                            corRes.write(text + " ")
+                        if xmax > end :
+                            corRes.write("\n")  #if we are out of the segment, we go to the next line
+                            break           #we can stop the loop if we are out of the base segment
                     elif xmin > end and real_speaker_nb == int(speaker_nb_grid):
+                        corRes.write("\n")  #if we are out of the segment, we go to the next line
                         break           #we can stop the loop if we are out of the base segment
         
             TextGrid.close()    #close the file

@@ -12,7 +12,7 @@ if sys.argv[2] == "0":
 elif sys.argv[2] == "1" :
     #ouverture des fichiers provenant de plspp
     Whis = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "r")
-    Corr = open("PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_corRes.txt", "r")
+    Corr = open("PLSPP_WER/Corr_WER_format_segmented/" + sys.argv[1] + "_corRes_segmented.txt", "r")
     Res = open("PLSPP_WER/WER/" +sys.argv[1] + "_PLSPP.res", "w")
 
 #lecture des fichiers et stockage du texte dans des listes (une liste par acteur)
@@ -82,10 +82,6 @@ for txt_whis in List_Whis:
     for j in range(len(txt_whis) + 1):
         d[0][j] = j
 
-    #valeurs pour garder le nombre de substitutions, insertions et deletions
-    nbr_substitution = 0
-    nbr_deletion = 0
-    nbr_insertion = 0
     #on calcule les valeurs de la matrice 
     for i in range(1, len(txt_corr) + 1):
         for j in range(1, len(txt_whis) + 1):
@@ -101,16 +97,6 @@ for txt_whis in List_Whis:
                 min_operation = min(substitution, insertion, deletion)
                 d[i][j] = min_operation
 
-                    # Mettre à jour les compteurs en fonction de l'opération minimale
-                if min_operation == substitution:
-                    nbr_substitution += 1
-                elif min_operation == insertion:
-                    nbr_insertion += 1
-                elif min_operation == deletion:
-                    nbr_deletion += 1
-
-
-    print ("Substitutions :" + str(nbr_substitution) + " \nInsertions :" + str(nbr_insertion) + " \nDeletions :" + str(nbr_deletion))
     # calcul du wer en prenant le coin en bas à droite de la matrice
     wer = d[len(txt_corr)][len(txt_whis)] / len(txt_corr)
     print("WER actor " + str(i_corr + 1) + ": " + str(wer) +"\n")

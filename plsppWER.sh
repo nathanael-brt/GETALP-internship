@@ -33,10 +33,11 @@ done
 cd ../GETALP-internship
 
 echo
-echo PLEASE SUPPRESS THE TEACHER SEGMENTS FROM THE TEXT FILES DIRECTORY 
-echo you can find them by looking a the recording with a speaker2 and supressing the person speaking the least
+echo Suppression of the teacher transcription files 
 echo "(press to continue)" 
 read
+rm /home/getalp/berthnat/GETALP/GETALP-internship/PLSPP_WER/PLSPP_text/dec2022-003_017-029/dec2022-003_017-029_SPEAKER_00_0.txt
+rm /home/getalp/berthnat/GETALP/GETALP-internship/PLSPP_WER/PLSPP_text/jan2023-401_120-034/jan2023-401_120-034_SPEAKER_02_0.txt
 
 #sort into alphabetical order the timeInfo.csv file
 touch PLSPP_WER/TimeInfo/timeInfo_sorted.csv
@@ -50,6 +51,7 @@ do
     echo "working on $file_name..."
     #launch the WER computation
     python PipeFormat4WER.py $file_name 0        #put in the right format + segmentation
+    python TrueSegmentation.py $file_name          #get the true segmentation
     python WER.py $file_name 1                  #compute the WER
     
     #verify that the WER is not too high 
@@ -58,6 +60,7 @@ do
     if (( $(echo "$wer_float >= 0.9" | bc -l) )) 
     then    #the WER is too high
         python PipeFormat4WER.py $file_name  1   #we re-launch the programm but with the speakers in the other order
+        python TrueSegmentation.py $file_name
         python WER.py $file_name 1 
     fi
 
