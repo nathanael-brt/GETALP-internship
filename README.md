@@ -179,7 +179,11 @@ File;Speaker;Segment;Start;End;Duration
 ...
 <name_of_the_filen>.wav;SPEAKER_m;<name_of_the_filen>_SPEAKER_m_k;<start_timing>;<end_timing>;<duration>
 ```
+This file needs to be stored into the directory *"PLSPP_WER/TimeInfo"*.  
 
+When executing the script it is possible to decide if it launches or not PSLPP, it then transfer all the necessary files into the right directories, sort the `timeInfo.csv` file into the `timeInfo_sorted.csv` file, then calls `PipeFormat4WER.py`, `TrueSegmentation.py` and `WER.py` on each file to compute the WER.  
+
+If the script detects that the WER is too big (≥0.9) it considers that there is an error, changes the order of the speaker and recomputes the WER. 
 
 
 
