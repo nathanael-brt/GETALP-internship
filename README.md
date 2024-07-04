@@ -137,6 +137,16 @@ To convert the correction into the right format it uses the file `PLSPP_WER/Time
 To assure ourselves that we write both files with the speakers in the same order (necessary for the WER computation) we use the function `is_speaker_order_normal()` to find who is the first to speak according to PLSPP transcription, then write the correction file accordingly.   
 
 ### TrueSegmentation
+The segmentation of PLSPP and the one from the reference are sometime different from each other. This can affect the WER as some words are deleted or added whre they souldn't be when comparationg.   
+
+This program tries to detect those out of places words (always at the end or at the beginning of the reference segment) and to suppress them accordingly to the PLSPP segments so the WER is the least affected by segmentation errors.  
+
+It takes as an input the name of the audio file we are working on (without the extension).  
+
+It resegments the text in the file `PLSPP_WER/PLSPP_WER_format/<name_of_the_file>_pipeRes.txt` using the file `PLSPP_WER/Corr_WER_format/<name_of_the_file>_corRes.txt`.  
+It puts the result into the file `PLSPP_WER/Corr_WER_format_segmented/<name_of_the_file>_corRes_segmented.txt` (creates it if it doesn't exist).  
+
+The method is detailed in the internship's report.
 
 
 ## Scripts
