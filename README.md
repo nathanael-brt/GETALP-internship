@@ -136,6 +136,9 @@ To convert the correction into the right format it uses the file `PLSPP_WER/Time
 
 To assure ourselves that we write both files with the speakers in the same order (necessary for the WER computation) we use the function `is_speaker_order_normal()` to find who is the first to speak according to PLSPP transcription, then write the correction file accordingly.   
 
+### TrueSegmentation
+
+
 ## Scripts
 
 ### Audio2txtgrid
