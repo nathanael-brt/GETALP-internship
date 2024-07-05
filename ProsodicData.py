@@ -22,7 +22,6 @@ nb_words_tot = 0                           #total number of words on all files
 for line in table_file :
     Tab_line = line.split(';')  #split each element of the line into a list
     file_name = Tab_line[0]  #get the file name
-    nb_words_loc += 1      #increment the number of words for the file
     nb_words_tot += 1      #increment the total number of words
 
     if (file_name != prec_file_name):  #if the file name is different from the previous one, create a new file
@@ -63,7 +62,7 @@ for line in table_file :
         nb_correct_pattern_loc = [0,0,0,0,0,0,0,0,0] #number of correct stress patterns, oO, Oo, Ooo, oOo, ooO, Oooo, oOoo, ooOo and oooO
         nb_words_loc = 0                        #number of words 
 
-    
+    nb_words_loc += 1      #increment the number of words for the file
     prec_file_name = file_name  #update the previous file name
 
     if Tab_line[3] == "2":   #we have a 2-syllabus word
