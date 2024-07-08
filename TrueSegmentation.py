@@ -31,8 +31,8 @@ for lign_Trans in txt_Trans:
     lign_Res = []   #list containing the words of the segmented line
     lign_Corr = txt_Corr[i_corr]    #get the corresponding line in the correction text
 
-    speaker = lign_Corr.pop(0)  #get the speaker of the line
-    lign_Trans.pop(0) 
+    speaker = lign_Trans.pop(0)  #get the speaker of the line
+    lign_Corr.pop(0) 
 
     size_lc = len(lign_Corr)    #size of the correction line
 
