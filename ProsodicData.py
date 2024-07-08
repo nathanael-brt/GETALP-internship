@@ -5,9 +5,9 @@ import sys
 
 #open the stress table 
 if sys.argv[1] == "0":
-    table_file = open("PLSPP_Prosodic/Tables/PLSPPstressTable.csv", "r")
+    table_file = open("PLSPP_Prosodic/Tables/PLSPPMFAstressTable.csv", "r")
 else :
-    table_file = open("PLSPP_Prosodic/Tables/stressTable.csv", "r")
+    table_file = open("PLSPP_Prosodic/Tables/RefstressTable.csv", "r")
 
 next(table_file) #skip the first line of the table
 
@@ -60,7 +60,7 @@ for line in table_file :
             data.close() #close the file
         #create a new file
         if sys.argv[1] == "0":
-            data = open("PLSPP_Prosodic/PLSPP_data/" + file_name + ".csv", "w")
+            data = open("PLSPP_Prosodic/PLSPP_MFA_data/" + file_name + ".csv", "w")
         else :
             data = open("PLSPP_Prosodic/Ref_data/" + file_name + ".csv", "w")
         #initialize the data
@@ -181,7 +181,10 @@ if nb_syl_loc[2] != 0:
 data.close() #close the file
 
 #we write the total data file : 
-data = open("PLSPP_Prosodic/Ref_data/total_data.csv", "w")
+if sys.argv[1] == "0":
+    data = open("PLSPP_Prosodic/PLSPP_MFA_data/total_data.csv", "w")
+else :
+    data = open("PLSPP_Prosodic/Ref_data/total_data.csv", "w")
 data.write("number of words;" + str(nb_words_tot) + "\n")
 data.write("prop correct 2-syll;" + str(float(nb_correct_syl_tot[0])/float(nb_syl_tot[0])) + "\n")
 data.write("prop correct Oo;" + str(float(nb_correct_pattern_tot[0])/float(nb_pattern_tot[0])) + "\n")

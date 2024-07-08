@@ -1,12 +1,12 @@
 #script computing the prosodic data but from the gold corpus
 
-#cd ../plspp/
+cd ../plspp/
 #segment the audio files
-#./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
-#cd ../GETALP-internship/
+./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
+cd ../GETALP-internship/
 
 #segment the text 
-#python MFA_segmented_files.py 
+python MFA_segmented_files.py 
 
 cd ../plspp
 rm benepar/* shape/* syll/* tg/* tgpos/* whisperx/*

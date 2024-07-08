@@ -1,0 +1,13 @@
+number of words;114
+prop correct 2-syll;0.5
+prop correct Oo;0.8333333333333334
+prop corect oO;0.2727272727272727
+prop correct 3-syll;0.37037037037037035
+prop correct Ooo;0.14285714285714285
+prop correct oOo;0.7272727272727273
+prop correct ooO;0.1111111111111111
+prop correct 4-syll;0.3076923076923077
+prop correct Oooo;0.0
+prop correct oOoo;1.0
+prop correct ooOo;0.3333333333333333
+prop correct oooO;0.0
