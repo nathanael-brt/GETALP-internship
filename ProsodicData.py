@@ -207,3 +207,4 @@ data.write("prop correct ooOo;" + str(float(nb_correct_pattern_tot[7])/float(nb_
 if nb_pattern_tot[8] != 0:
     data.write("prop correct oooO;" + str(float(nb_correct_pattern_tot[8])/float(nb_pattern_tot[8])) + "\n")
 data.close() #close the file
+
