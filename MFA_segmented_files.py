@@ -17,7 +17,7 @@ for name in os.listdir("PLSPP_WER/Corr_WER_format_segmented/"):
         prec_speaker = Tab_line[0]
 
         #open the file where we will write the segment text
-        Seg = open("../plspp/audio/" + name.split("_corRes")[0] + "_SPEAKER_" + Tab_line[0] +"_" + str(it) + ".txt", "w")
+        Seg = open("PLSPP_Prosodic/Corpus_segmented/" + name.split("_corRes")[0] + "_SPEAKER_" + Tab_line[0] +"_" + str(it) + ".txt", "w")
 
         #write the text in the file
         Seg.write(Tab_line[1])

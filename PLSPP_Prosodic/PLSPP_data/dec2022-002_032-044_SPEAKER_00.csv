@@ -1,9 +1,9 @@
 number of words;56
 prop correct 2-syll;0.23076923076923078
-prop correct Oo;0.7
-prop corect oO;0.06896551724137931
+prop correct Oo;0.20588235294117646
+prop corect oO;0.4
 prop correct 3-syll;0.25
-prop correct oOo;0.75
-prop correct ooO;0.0
+prop correct Ooo;0.0
+prop correct oOo;0.375
 prop correct 4-syll;0.0
-prop correct oooO;0.0
+prop correct oOoo;0.0
