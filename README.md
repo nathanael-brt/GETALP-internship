@@ -31,8 +31,6 @@ The goal here is to compare the models base and medium of Whisper and to compute
 
 ## Usage
 
-* install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper) in this directory: *"GETALP-internship/../plspp"*
-
 * Install the [codecarbon](https://github.com/mlco2/codecarbon) package for python :
 ```bash
 #using pip
@@ -52,7 +50,7 @@ The goal here is to evaluate the quality of the transcription given by PLSPP.
 
 ## Usage
 
-
+* install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper) in this directory: *"GETALP-internship/../plspp"*
 
 
 # User Manual
