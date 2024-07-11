@@ -1,12 +1,46 @@
-number of words;3235
-prop correct 2-syll;0.43106893106893107
-prop correct Oo;0.39702903443619175
-prop corect oO;0.5851063829787234
-prop correct 3-syll;0.3015267175572519
-prop correct Ooo;0.3176895306859206
-prop correct oOo;0.26627218934911245
-prop correct ooO;0.4
+number of words;3037
+
+number of 2-syll words;1855
+number of correct 2-syll words;863
+prop correct 2-syll;0.4652291105121294
+
+number of Oo pattern words;1406
+number of correct Oo pattern words;588
+prop correct Oo;0.4182076813655761
+
+number of oO pattern words;449
+number of correct oO pattern words;275
+prop corect oO;0.6124721603563474
+
+number of 3-syll words;783
+number of correct 3-syll words;237
+prop correct 3-syll;0.30268199233716475
+
+number of Ooo pattern words;266
+number of correct Ooo pattern words;88
+prop correct Ooo;0.3308270676691729
+
+number of oOo pattern words;484
+number of correct oOo pattern words;135
+prop correct oOo;0.27892561983471076
+
+number of ooO pattern words;33
+number of correct ooO pattern words;14
+prop correct ooO;0.42424242424242425
+
+number of 4-syll words;399
+number of correct 4-syll words;75
 prop correct 4-syll;0.18796992481203006
-prop correct Oooo;0.28205128205128205
-prop correct oOoo;0.1396103896103896
-prop correct ooOo;0.3
+
+number of Oooo pattern words;38
+number of correct Oooo pattern words;11
+prop correct Oooo;0.2894736842105263
+
+number of oOoo pattern words;297
+number of correct oOoo pattern words;43
+prop correct oOoo;0.1447811447811448
+
+number of ooOo pattern words;64
+number of correct ooOo pattern words;21
+prop correct ooOo;0.328125
+

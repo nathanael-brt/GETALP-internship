@@ -1,6 +1,6 @@
-number of words;41
-prop correct 2-syll;0.2608695652173913
-prop correct Oo;0.19047619047619047
+number of words;37
+prop correct 2-syll;0.3157894736842105
+prop correct Oo;0.23529411764705882
 prop corect oO;1.0
 prop correct 3-syll;0.13333333333333333
 prop correct Ooo;0.2

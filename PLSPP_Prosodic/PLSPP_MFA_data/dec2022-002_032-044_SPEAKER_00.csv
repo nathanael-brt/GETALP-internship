@@ -1,10 +1,10 @@
-number of words;112
-prop correct 2-syll;0.4666666666666667
-prop correct Oo;0.43103448275862066
+number of words;103
+prop correct 2-syll;0.49295774647887325
+prop correct Oo;0.44642857142857145
 prop corect oO;0.6666666666666666
 prop correct 3-syll;0.08333333333333333
 prop correct Ooo;0.0
-prop correct oOo;0.11764705882352941
+prop correct oOo;0.125
 prop correct ooO;0.0
 prop correct 4-syll;0.25
 prop correct oOoo;0.3333333333333333
