@@ -44,6 +44,15 @@ conda install -c conda-forge codecarbon
 python WhisperCarbone.py
 ```
 
+# Transcription from PSLPP and computation of the WER 
+
+The goal here is to evaluate the quality of the transcription given by PLSPP.  
+
+## Usage
+
+* install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper) in this directory: *"GETALP-internship/../plspp"*
+
+
 # User Manual
 
 ## Python programs
