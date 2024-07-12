@@ -177,7 +177,7 @@ It takes no input and automatically reads all the files that are stored into the
 It creates all the files into the directory *"PLSPP_Prosodic/Corpus_segmented/"*.
 
 ### ProsodicData 
-This program is useful to recolt and organize all the prosodic data contained into the "*stress_table*" output from PLSPP. More precisely the proportion of words pronunced correctly.  
+This program is useful to recolt and organize all the prosodic data contained into the "*stress_table*" output from PLSPP. More precisely the proportion of words pronounced correctly.  
 
 It generates one data file per speaker as well as a final file containing the total data for all the table.  
 
@@ -196,7 +196,77 @@ It take one integer as an argument.
 * Else :  
   This is to recolt the data when PLSPP_MFA has been used with the text from the reference instead of using WhisperX.  
   The program reads the data from the file `PLSPP_Prosodic/Tables/RefstressTable.csv`.  
-  The program writes the speaker files into the *"PLSPP_Prosodic/Tables/RefstressTable.csv"* directory and generates this total file :  `PLSPP_Prosodic/Total_data/Ref_total_data.csv`.
+  The program writes the speaker files into the *"PLSPP_Prosodic/Ref_data/"* directory and generates this total file :  `PLSPP_Prosodic/Total_data/Ref_total_data.csv`.  
+
+The speaker files are of this format (if there is no data for one line it is not written) :  
+```
+number of words;<>
+prop correct 2-syll;<>
+prop correct Oo;<>
+prop corect oO;<>
+prop correct 3-syll;<>
+prop correct Ooo;<>
+prop correct oOo;<>
+prop correct ooO;<>
+prop correct 4-syll;<>
+prop correct Oooo;<>
+prop correct oOoo;<>
+prop correct ooOo;<>
+prop correct oooO;<>
+```
+
+The total data file is of this format :  
+```
+number of words;<>
+
+number of 2-syll words;<>
+number of correct 2-syll words;<>
+prop correct 2-syll;<>
+
+number of Oo pattern words;<>
+number of correct Oo pattern words;<>
+prop correct Oo;<>
+
+number of oO pattern words;<>
+number of correct oO pattern words;<>
+prop corect oO;<>
+
+number of 3-syll words;<>
+number of correct 3-syll words;<>
+prop correct 3-syll;<>
+
+number of Ooo pattern words;<>
+number of correct Ooo pattern words;<>
+prop correct Ooo;<>
+
+number of oOo pattern words;<>
+number of correct oOo pattern words;<>
+prop correct oOo;<>
+
+number of ooO pattern words;<>
+number of correct ooO pattern words;<>
+prop correct ooO;<>
+
+number of 4-syll words;<>
+number of correct 4-syll words;<>
+prop correct 4-syll;<>
+
+number of Oooo pattern words;<>
+number of correct Oooo pattern words;<>
+prop correct Oooo;<>
+
+number of oOoo pattern words;<>
+number of correct oOoo pattern words;<>
+prop correct oOoo;<>
+
+number of ooOo pattern words;<>
+number of correct ooOo pattern words;<>
+prop correct ooOo;<>
+
+number of oooO pattern words;<>
+number of correct oooO pattern words;<>
+prop correct oooO;<>
+```
   
 ## Scripts
 
