@@ -60,8 +60,31 @@ mkdir ../plspp
 ./plsppWER.sh
 ```
 
+# Impact of the transcription on prosodic measures
 
+The goal here is to evaluate the impact of the quality of the transcription on the prosodic measures output of PLSPP.  
 
+## Usage
+For PLSPP and PLSPP_MFA just launch the pipeline, move the `stressTable.csv` into the *"PLSPP_Prosodic/Tables/"* directory, rename it correctly and launch `ProsodicData.py` with either `0` or `1` as parameter.  
+
+For PLSPP_MFA with the text from the gold corpus instead of using WhisperX for the transcription:  
+* Make sure PLSPP is installed into the *"GETALP-internship/../plspp/"* directory as well as [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text.   
+* Launch the `ProsodicDataFromCorpus.sh` script (more information [here](#ProsodicDataFromCorpus):  
+```
+./ProsodicDataFromCorpus.sh
+```
+* transfer the `stressTable.csv` file into the *"PLSPP_Prosodic/Tables/"* directory and rename it correctly.  
+```bash
+#from the GETALP-internship/ directory
+mv ../plspp/stressTable.csv PLSPP_Prosodic/Tables/
+cd PLSPP_Prosodic/Tables/
+mv stressTable.csv RefstressTable.csv
+```
+* Launch the `ProsodicData.py` program with `2` as parameter (more information [here](#ProsodicData) :
+```bash
+python ProsodicData.py
+```
+  
 
 # User Manual
 
@@ -294,7 +317,7 @@ The script also create a folder in the *"Whisper"* folder, who's name is the sam
 
 This script permits to compute the WER of the transcription from PLSPP.  
 
-**/!\\** To work correctly this script needs plspp to be installed in this directory: *"GETALP-internship/../plspp"*  
+**/!\\** To work correctly this script needs plspp to be installed in this directory: *"GETALP-internship/../plspp"* as well the `intervalles2wavAndtimetable.praat` script to be into the *"plspp/scripts"* directory.    
 
 It also needs the `timeInfo.csv` giving info on the timing of each PLSPP segment in this format:
 ```csv
@@ -313,7 +336,8 @@ If the script detects that the WER is too big (≥0.9) it considers that there i
 ### ProsodicDataFromCorpus
 This script permits to launch PLSPP_MFA but using the text from the gold corpus instead of WhisperX to make the transcription.  
 
-To work, it needs PLSPP to be installed into the *"GETALP-internship/../plspp/"* directory. It also needs [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text.  
+To work, it needs PLSPP to be installed into the *"GETALP-internship/../plspp/"* directory. It also needs [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text. 
+It also need the `intervalles2wavAndtimetable.praat` script to be into the *"plspp/scripts"* directory.  
 
 It first creates and transfer the file necessary to PLSPP_MFA using [MFA_segmented_files.py](#MFA_segmented_files) and then launch the pipeline without the transcription part. 
 
