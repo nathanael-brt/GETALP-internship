@@ -137,7 +137,8 @@ Python file containing several fucntions to be used and included in other progra
 ### PipeFormat4WER
 
 This program is useful for the computation of the WER using the segments given by **PLSPP**.   
-It puts the transcription from PLSPP and the correction into the **right format** to give to the WER compuation program (the format described [here](#WER). It selects only the segments from the reference that, at least, is partly merged (timing-wise) with a segment from PLSPP.  
+It puts the transcription from PLSPP and the correction into the **right format** to give to the WER compuation program (the format described [here](#WER).   
+It selects only the segments from the reference that, at least, are partly merged (timing-wise) with a segment from PLSPP.  
 
 It it takes 2 inputs (to give as arguments when executing it):
 * The name of the base audio file that has been transcripted (without the ```.wav``` of the extension).
