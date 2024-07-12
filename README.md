@@ -56,7 +56,7 @@ mkdir ../plspp
 ```
 * install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper) in this directory.
 * launch the script. More information [here](#plsppWER)
-```
+```bash
 ./plsppWER.sh
 ```
 
