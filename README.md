@@ -170,7 +170,7 @@ It puts the result into the file `PLSPP_WER/Corr_WER_format_segmented/<name_of_t
 The method is detailed in the internship's report.
 
 ### MFA_segmented_files
-This program transform all the segments of corrected text (that have been correctly segmented according to the segments form PSLPP using [TrueSegmentation.py ](#TrueSegmentation)) into single files (1 file by segment).  
+This program transforms all the segments of corrected text (that have been correctly segmented according to the segments form PSLPP using [TrueSegmentation.py ](#TrueSegmentation)) into single files (1 file by segment).  
 
 It takes no input and automatically reads all the files that are stored into the directory *"PLSPP_WER/Corr_WER_format_segmented/"*.   
 
