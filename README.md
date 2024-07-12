@@ -82,7 +82,7 @@ mv stressTable.csv RefstressTable.csv
 ```
 * Launch the `ProsodicData.py` program with `2` as parameter (more information [here](#ProsodicData) :
 ```bash
-python ProsodicData.py
+python ProsodicData.py 2
 ```
   
 
