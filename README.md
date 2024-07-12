@@ -183,17 +183,17 @@ It generates one data file per speaker as well as a final file containing the to
 
 It take one integer as an argument.   
 
-* If `0` is given :
+* If `0` is given :  
   This is to recolt the data when PLSPP alone has been used.  
   The program reads the data from the file `PLSPP_Prosodic/Tables/PLSPPstressTable.csv`.  
   The program writes the speaker files into the *"PLSPP_Prosodic/PLSPP_data/"* directory and generates this total file :  `PLSPP_Prosodic/Total_data/PLSPP_total_data.csv`.  
   
-* If `1` is given :
+* If `1` is given :  
   This is to recolt the data when PLSPP_MFA alone has been used.  
   The program reads the data from the file `PLSPP_Prosodic/Tables/PLSPPMFAstressTable.csv`.  
   The program writes the speaker files into the *"PLSPP_Prosodic/PLSPP_MFA_data/"* directory and generates this total file :  `PLSPP_Prosodic/Total_data/PLSPP_MFA_total_data.csv`.
 
-* Else :
+* Else :  
   This is to recolt the data when PLSPP_MFA has been used with the text from the reference instead of using WhisperX.  
   The program reads the data from the file `PLSPP_Prosodic/Tables/RefstressTable.csv`.  
   The program writes the speaker files into the *"PLSPP_Prosodic/Tables/RefstressTable.csv"* directory and generates this total file :  `PLSPP_Prosodic/Total_data/Ref_total_data.csv`.
