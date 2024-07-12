@@ -50,7 +50,15 @@ The goal here is to evaluate the quality of the transcription given by PLSPP.
 
 ## Usage
 
-* install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper) in this directory: *"GETALP-internship/../plspp"*
+* create the directory to install PLSPP in it
+```bash
+mkdir ../plspp
+```
+* install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper) in this directory.
+* launch the script. More information [here](#plsppWER)
+```
+./plsppWER.sh
+```
 
 
 # User Manual
