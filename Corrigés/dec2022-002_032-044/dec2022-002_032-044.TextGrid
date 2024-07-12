@@ -79,7 +79,7 @@ item []:
         intervals [17]
             xmin = 289.0
             xmax = 297.0
-            text = "So I think that's a problem but it can be... we can do with that."
+            text = "So I think that's a problem but it can be we can do with that."
         intervals [18]
             xmin = 297.0
             xmax = 318.0
@@ -103,7 +103,7 @@ item []:
         intervals [23]
             xmin = 345.0
             xmax = 358.0
-            text = "And all the... that's important that all of the students can have access to computers and the internet."
+            text = "And all the that's important that all of the students can have access to computers and the internet."
         intervals [24]
             xmin = 358.0
             xmax = 445.0
@@ -209,7 +209,7 @@ item []:
         intervals [14]
             xmin = 155.0
             xmax = 163.0
-            text = " But I understand your... But I think we will have a problem of cost because it's very expensive"
+            text = " But I understand your But I think we will have a problem of cost because it's very expensive"
         intervals [15]
             xmin = 163.0
             xmax = 175.0
@@ -245,7 +245,7 @@ item []:
         intervals [23]
             xmin = 240.0
             xmax = 250.0
-            text = "Or you can... we can invest for help them, with 4G key or other way, I don't know."
+            text = "Or you can we can invest for help them, with 4G key or other way, I don't know."
         intervals [24]
             xmin = 250.0
             xmax = 254.0

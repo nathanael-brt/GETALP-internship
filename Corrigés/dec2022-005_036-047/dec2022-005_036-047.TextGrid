@@ -135,7 +135,7 @@ item []:
         intervals [31]
             xmin = 101.2
             xmax = 105.28
-            text = "and you have to buy like a way... like a wide range of books"
+            text = "and you have to buy like a way like a wide range of books"
         intervals [32]
             xmin = 105.28
             xmax = 108.64
@@ -621,7 +621,7 @@ item []:
         intervals [46]
             xmin = 269.52
             xmax = 272.64
-            text = "and you can write it in... by your hand"
+            text = "and you can write it in by your hand"
         intervals [47]
             xmin = 272.64
             xmax = 275.84
@@ -649,7 +649,7 @@ item []:
         intervals [53]
             xmin = 318.48
             xmax = 327.04
-            text = "I agree but look, in... for example in... we are not in Africa but in Africa"
+            text = "I agree but look, in for example in we are not in Africa but in Africa"
         intervals [54]
             xmin = 327.04
             xmax = 329.84
@@ -673,7 +673,7 @@ item []:
         intervals [59]
             xmin = 352.72
             xmax = 353.68
-            text = "And you think..."
+            text = "And you think"
         intervals [60]
             xmin = 353.68
             xmax = 412.0
@@ -693,7 +693,7 @@ item []:
         intervals [64]
             xmin = 427.92
             xmax = 438.8
-            text = "that are learning some... all of those teacher are not able to use computer"
+            text = "that are learning some all of those teacher are not able to use computer"
         intervals [65]
             xmin = 438.8
             xmax = 442.24
@@ -713,7 +713,7 @@ item []:
         intervals [69]
             xmin = 455.76
             xmax = 458.56
-            text = "so we... I agree with you with all what you said"
+            text = "so we I agree with you with all what you said"
         intervals [70]
             xmin = 458.56
             xmax = 461.84

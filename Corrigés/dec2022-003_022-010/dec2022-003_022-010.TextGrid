@@ -91,7 +91,7 @@ item []:
         intervals [20]
             xmin = 202.0
             xmax = 210.0
-            text = "Lot of schools are... do not have many income and technology is very expensive."
+            text = "Lot of schools are do not have many income and technology is very expensive."
         intervals [21]
             xmin = 210.0
             xmax = 215.0
@@ -107,11 +107,11 @@ item []:
         intervals [24]
             xmin = 274.0
             xmax = 280.0
-            text = "I'm ready to act... to use interactive whiteboards in classroom."
+            text = "I'm ready to act to use interactive whiteboards in classroom."
         intervals [25]
             xmin = 280.0
             xmax = 285.0
-            text = "It is very... it's interesting whiteboard or not?"
+            text = "It is very it's interesting whiteboard or not?"
         intervals [26]
             xmin = 285.0
             xmax = 297.0
@@ -153,11 +153,11 @@ item []:
         intervals [5]
             xmin = 41.0
             xmax = 48.0
-            text = "So it can be... it can help teacher to organize her lesson."
+            text = "So it can be it can help teacher to organize her lesson."
         intervals [6]
             xmin = 48.0
             xmax = 60.0
-            text = "And also for students, it can be... make the lesson more interesting and more interactive."
+            text = "And also for students, it can be make the lesson more interesting and more interactive."
         intervals [7]
             xmin = 60.0
             xmax = 63.0
@@ -193,7 +193,7 @@ item []:
         intervals [15]
             xmin = 171.0
             xmax = 182.0
-            text = "For example, the night when the students go to sleep if... they have to"
+            text = "For example, the night when the students go to sleep if they have to"
         intervals [16]
             xmin = 182.0
             xmax = 187.65
@@ -213,7 +213,7 @@ item []:
         intervals [20]
             xmin = 216.0
             xmax = 233.0
-            text = "I think the students that can pay for her... for their computer can buy her... their own computer."
+            text = "I think the students that can pay for her for their computer can buy her their own computer."
         intervals [21]
             xmin = 233.0
             xmax = 234.0
@@ -237,7 +237,7 @@ item []:
         intervals [26]
             xmin = 289.0
             xmax = 297.0
-            text = "Because it can... the students can participate with this?"
+            text = "Because it can the students can participate with this?"
         intervals [27]
             xmin = 297.0
             xmax = 312.076

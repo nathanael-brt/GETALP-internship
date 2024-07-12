@@ -51,7 +51,7 @@ item []:
         intervals [10]
             xmin = 256.4
             xmax = 274.4
-            text = "Yes, a little bit is a possibility. And the students take... pass exam, pass assessments and the assessments were written."
+            text = "Yes, a little bit is a possibility. And the students take pass exam, pass assessments and the assessments were written."
         intervals [11]
             xmin = 274.4
             xmax = 281.07
@@ -87,7 +87,7 @@ item []:
         intervals [19]
             xmin = 411.4
             xmax = 419.4
-            text = "Yes, it's very benefic, benefits are good in this point, and..."
+            text = "Yes, it's very benefic, benefits are good in this point, and"
         intervals [20]
             xmin = 419.4
             xmax = 451.4
@@ -95,7 +95,7 @@ item []:
         intervals [21]
             xmin = 451.4
             xmax = 470.4
-            text = "Yes, and each student must be... can be access to a computer and also learn with a pen and a paper."
+            text = "Yes, and each student must be can be access to a computer and also learn with a pen and a paper."
         intervals [22]
             xmin = 470.4
             xmax = 496.4
@@ -189,7 +189,7 @@ item []:
         intervals [16]
             xmin = 302.4
             xmax = 312.4
-            text = "But as you say, tests are on the paper with a pen. So just a little bit for their curiosity and discover..."
+            text = "But as you say, tests are on the paper with a pen. So just a little bit for their curiosity and discover"
         intervals [17]
             xmin = 312.4
             xmax = 320.4
@@ -197,7 +197,7 @@ item []:
         intervals [18]
             xmin = 320.4
             xmax = 349.4
-            text = "Yes, and do you think it's better solution if teacher decided to do three hours of... sorry, of their courses on the computer of maybe just an hour per day or three hours per month because they need."
+            text = "Yes, and do you think it's better solution if teacher decided to do three hours of sorry, of their courses on the computer of maybe just an hour per day or three hours per month because they need."
         intervals [19]
             xmin = 349.4
             xmax = 357.4
@@ -209,7 +209,7 @@ item []:
         intervals [21]
             xmin = 385.4
             xmax = 411.4
-            text = "Yes, I think change the way of the learning, not just on the board with exercise paper and books that can attract studies... students sorry, they can be more excited to learning and more interested on their courses."
+            text = "Yes, I think change the way of the learning, not just on the board with exercise paper and books that can attract studies students sorry, they can be more excited to learning and more interested on their courses."
         intervals [22]
             xmin = 411.4
             xmax = 419.4
@@ -237,7 +237,7 @@ item []:
         intervals [28]
             xmin = 518.4
             xmax = 538.4
-            text = "Ok so if I can conclude, maybe we can say that we are going to do... maid lot of... many technology in class, three hours per day, but with rotations that's going to avoided the inequalities between students."
+            text = "Ok so if I can conclude, maybe we can say that we are going to do maid lot of many technology in class, three hours per day, but with rotations that's going to avoided the inequalities between students."
         intervals [29]
             xmin = 538.4
             xmax = 542.4

@@ -107,11 +107,11 @@ item []:
         intervals [24]
             xmin = 120.0
             xmax = 122.0
-            text = "kids it's an..."
+            text = "kids it's an"
         intervals [25]
             xmin = 122.0
             xmax = 124.0
-            text = "it's a better way to..."
+            text = "it's a better way to"
         intervals [26]
             xmin = 124.0
             xmax = 126.0
@@ -159,11 +159,11 @@ item []:
         intervals [37]
             xmin = 146.0
             xmax = 148.0
-            text = "diversify the..."
+            text = "diversify the"
         intervals [38]
             xmin = 148.0
             xmax = 150.0
-            text = "how the..."
+            text = "how the"
         intervals [39]
             xmin = 150.0
             xmax = 152.0
@@ -191,7 +191,7 @@ item []:
         intervals [45]
             xmin = 188.0
             xmax = 190.0
-            text = "the..."
+            text = "the"
         intervals [46]
             xmin = 190.0
             xmax = 192.0
@@ -311,7 +311,7 @@ item []:
         intervals [75]
             xmin = 296.0
             xmax = 298.0
-            text = "to help the..."
+            text = "to help the"
         intervals [76]
             xmin = 298.0
             xmax = 300.0
@@ -331,7 +331,7 @@ item []:
         intervals [80]
             xmin = 306.0
             xmax = 308.0
-            text = "opportunity to..."
+            text = "opportunity to"
         intervals [81]
             xmin = 308.0
             xmax = 310.0
@@ -351,7 +351,7 @@ item []:
         intervals [85]
             xmin = 352.0
             xmax = 354.0
-            text = "about this with... talk"
+            text = "about this with talk"
         intervals [86]
             xmin = 354.0
             xmax = 356.0
@@ -415,7 +415,7 @@ item []:
         intervals [101]
             xmin = 420.0
             xmax = 422.0
-            text = "the government will..."
+            text = "the government will"
         intervals [102]
             xmin = 422.0
             xmax = 424.0
@@ -427,11 +427,11 @@ item []:
         intervals [104]
             xmin = 426.0
             xmax = 428.0
-            text = "an evidence becauset here is too many..."
+            text = "an evidence becauset here is too many"
         intervals [105]
             xmin = 428.0
             xmax = 430.0
-            text = "too many..."
+            text = "too many"
         intervals [106]
             xmin = 430.0
             xmax = 432.0
@@ -455,11 +455,11 @@ item []:
         intervals [111]
             xmin = 444.0
             xmax = 455.36
-            text = "school need this for work, and work in a good way, because we saw that the child and the teacher are more..."
+            text = "school need this for work, and work in a good way, because we saw that the child and the teacher are more"
         intervals [112]
             xmin = 455.36
             xmax = 466.36
-            text = "are more... are happiest in the school when there is more technology."
+            text = "are more are happiest in the school when there is more technology."
         intervals [113]
             xmin = 466.36
             xmax = 494.36
@@ -577,7 +577,7 @@ item []:
         intervals [20]
             xmin = 80.0
             xmax = 82.0
-            text = "when there..."
+            text = "when there"
         intervals [21]
             xmin = 82.0
             xmax = 84.0
@@ -677,7 +677,7 @@ item []:
         intervals [45]
             xmin = 176.0
             xmax = 178.0
-            text = "to increase this..."
+            text = "to increase this"
         intervals [46]
             xmin = 178.0
             xmax = 180.0
@@ -809,7 +809,7 @@ item []:
         intervals [78]
             xmin = 318.0
             xmax = 320.0
-            text = "and of course..."
+            text = "and of course"
         intervals [79]
             xmin = 320.0
             xmax = 322.0
@@ -877,7 +877,7 @@ item []:
         intervals [95]
             xmin = 384.0
             xmax = 386.0
-            text = "invest on it, but to invest we have to..."
+            text = "invest on it, but to invest we have to"
         intervals [96]
             xmin = 386.0
             xmax = 388.0

@@ -183,7 +183,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
                 TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
-                <ANNOTATION_VALUE>Lot of schools are... do not have many income and technology is very expensive.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Lot of schools are do not have many income and technology is very expensive.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -201,13 +201,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
                 TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
-                <ANNOTATION_VALUE>I'm ready to act... to use interactive whiteboards in classroom.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I'm ready to act to use interactive whiteboards in classroom.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
                 TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
-                <ANNOTATION_VALUE>It is very... it's interesting whiteboard or not?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It is very it's interesting whiteboard or not?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -239,13 +239,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
                 TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>So it can be... it can help teacher to organize her lesson.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So it can be it can help teacher to organize her lesson.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
                 TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>And also for students, it can be... make the lesson more interesting and more interactive.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And also for students, it can be make the lesson more interesting and more interactive.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -287,7 +287,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
                 TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE>For example, the night when the students go to sleep if... they have to</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>For example, the night when the students go to sleep if they have to</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -305,7 +305,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
                 TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
-                <ANNOTATION_VALUE>I think the students that can pay for her... for their computer can buy her... their own computer.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I think the students that can pay for her for their computer can buy her their own computer.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -329,7 +329,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
                 TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts81">
-                <ANNOTATION_VALUE>Because it can... the students can participate with this?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Because it can the students can participate with this?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>

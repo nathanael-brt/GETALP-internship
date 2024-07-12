@@ -67,7 +67,7 @@ item []:
         intervals [14]
             xmin = 70.0
             xmax = 78.0
-            text = "Maybe a more technological way to make them learn is... is more easier."
+            text = "Maybe a more technological way to make them learn is is more easier."
         intervals [15]
             xmin = 78.0
             xmax = 83.0
@@ -83,7 +83,7 @@ item []:
         intervals [18]
             xmin = 97.0
             xmax = 108.0
-            text = "Yeah but, Technology is also everywhere now and so students may... should be aware of the danger."
+            text = "Yeah but, Technology is also everywhere now and so students may should be aware of the danger."
         intervals [19]
             xmin = 108.0
             xmax = 116.0
@@ -91,7 +91,7 @@ item []:
         intervals [20]
             xmin = 116.0
             xmax = 134.0
-            text = "and risk to use technologies such as bullying online or being... or people with bad intentions."
+            text = "and risk to use technologies such as bullying online or being or people with bad intentions."
         intervals [21]
             xmin = 134.0
             xmax = 152.0
@@ -111,7 +111,7 @@ item []:
         intervals [25]
             xmin = 181.0
             xmax = 193.0
-            text = "So maybe especially for those children who are... who lack technology at home, maybe technology at school could help them improve their skills"
+            text = "So maybe especially for those children who are who lack technology at home, maybe technology at school could help them improve their skills"
         intervals [26]
             xmin = 193.0
             xmax = 204.0
@@ -227,7 +227,7 @@ item []:
         intervals [54]
             xmin = 478.51
             xmax = 485.0
-            text = "Oh yeah, yeah, but if he is an assistant of technology, maybe he can... it's his job."
+            text = "Oh yeah, yeah, but if he is an assistant of technology, maybe he can it's his job."
         intervals [55]
             xmin = 485.0
             xmax = 496.0
@@ -255,7 +255,7 @@ item []:
         intervals [61]
             xmin = 562.0
             xmax = 578.0
-            text = "So, maybe if the young people learned how to do it younger, maybe they can manage to... not only to use it by themselves, but to learn other people how to do it or help them, I don't know."
+            text = "So, maybe if the young people learned how to do it younger, maybe they can manage to not only to use it by themselves, but to learn other people how to do it or help them, I don't know."
         intervals [62]
             xmin = 578.0
             xmax = 590.0
@@ -349,7 +349,7 @@ item []:
         intervals [14]
             xmin = 143.0
             xmax = 147.0
-            text = "and others students do not have so..."
+            text = "and others students do not have so"
         intervals [15]
             xmin = 147.0
             xmax = 152.0
@@ -361,7 +361,7 @@ item []:
         intervals [17]
             xmin = 204.0
             xmax = 216.0
-            text = "Okay, I think the intention is good, but for example, I remember when I was a kid, we had computer in school and we played games during the class, so..."
+            text = "Okay, I think the intention is good, but for example, I remember when I was a kid, we had computer in school and we played games during the class, so"
         intervals [18]
             xmin = 216.0
             xmax = 277.0
@@ -385,11 +385,11 @@ item []:
         intervals [23]
             xmin = 308.08
             xmax = 313.0
-            text = "I think maybe for some students it's..."
+            text = "I think maybe for some students it's"
         intervals [24]
             xmin = 313.0
             xmax = 321.0
-            text = "I don't know if it's not complicated to be, for example, to learn on computer and after for the test to be on paper and you see the..."
+            text = "I don't know if it's not complicated to be, for example, to learn on computer and after for the test to be on paper and you see the"
         intervals [25]
             xmin = 321.0
             xmax = 351.0
@@ -397,11 +397,11 @@ item []:
         intervals [26]
             xmin = 351.0
             xmax = 363.0
-            text = "And I see therapists think that the use of computers, although they see that students are more..."
+            text = "And I see therapists think that the use of computers, although they see that students are more"
         intervals [27]
             xmin = 363.0
             xmax = 366.0
-            text = "There is more anxiety, for example, so..."
+            text = "There is more anxiety, for example, so"
         intervals [28]
             xmin = 366.0
             xmax = 389.0
@@ -409,7 +409,7 @@ item []:
         intervals [29]
             xmin = 389.0
             xmax = 398.0
-            text = "Maybe just use the computers for example few minutes per day and after four hours, but not all the day, all the..."
+            text = "Maybe just use the computers for example few minutes per day and after four hours, but not all the day, all the"
         intervals [30]
             xmin = 398.0
             xmax = 439.0
@@ -425,7 +425,7 @@ item []:
         intervals [33]
             xmin = 465.0
             xmax = 470.88
-            text = "But it should have to really be careful for the..."
+            text = "But it should have to really be careful for the"
         intervals [34]
             xmin = 470.88
             xmax = 523.0
@@ -475,7 +475,7 @@ item []:
         intervals [2]
             xmin = 3.01
             xmax = 6.01
-            text = "No, 035 and your..."
+            text = "No, 035 and your"
         intervals [3]
             xmin = 6.01
             xmax = 6.7

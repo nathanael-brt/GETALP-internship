@@ -43,7 +43,7 @@ item []:
         intervals [8]
             xmin = 73.0
             xmax = 82.0
-            text = "Okay, I understand you point of view but for me I think that it can... it could improve their"
+            text = "Okay, I understand you point of view but for me I think that it can it could improve their"
         intervals [9]
             xmin = 82.0
             xmax = 89.0
@@ -71,7 +71,7 @@ item []:
         intervals [15]
             xmin = 156.0
             xmax = 165.0
-            text = "Do you think that technologies can interest students more than if they are just with a pen and..."
+            text = "Do you think that technologies can interest students more than if they are just with a pen and"
         intervals [16]
             xmin = 165.0
             xmax = 182.0
@@ -79,11 +79,11 @@ item []:
         intervals [17]
             xmin = 182.0
             xmax = 193.0
-            text = "Yeah, I couldn't agree more with you in this point and I think we can... we could have a compromise"
+            text = "Yeah, I couldn't agree more with you in this point and I think we can we could have a compromise"
         intervals [18]
             xmin = 193.0
             xmax = 204.0
-            text = "with this. For me I think that a little time of screen in school couldn't be... couldn't have"
+            text = "with this. For me I think that a little time of screen in school couldn't be couldn't have"
         intervals [19]
             xmin = 204.0
             xmax = 211.0
@@ -143,7 +143,7 @@ item []:
         intervals [33]
             xmin = 398.0
             xmax = 406.0
-            text = "And the students who already is... who already had a phone, a computer and all this."
+            text = "And the students who already is who already had a phone, a computer and all this."
         intervals [34]
             xmin = 406.0
             xmax = 481.0
@@ -159,7 +159,7 @@ item []:
         intervals [37]
             xmin = 495.0
             xmax = 497.0
-            text = "It's not too much to..."
+            text = "It's not too much to"
         intervals [38]
             xmin = 497.0
             xmax = 524.0
@@ -209,7 +209,7 @@ item []:
         intervals [8]
             xmin = 144.0
             xmax = 156.0
-            text = "enjoying the learn and they can be more, I don't know, but..."
+            text = "enjoying the learn and they can be more, I don't know, but"
         intervals [9]
             xmin = 156.0
             xmax = 165.0
@@ -261,11 +261,11 @@ item []:
         intervals [21]
             xmin = 326.0
             xmax = 336.0
-            text = "And the school didn't... so..."
+            text = "And the school didn't so"
         intervals [22]
             xmin = 336.0
             xmax = 346.0
-            text = "I... And the school have a goal and this goal is to learn."
+            text = "I And the school have a goal and this goal is to learn."
         intervals [23]
             xmin = 346.0
             xmax = 358.0
@@ -277,7 +277,7 @@ item []:
         intervals [25]
             xmin = 364.0
             xmax = 369.0
-            text = "It's not the school of technology, it's school of..."
+            text = "It's not the school of technology, it's school of"
         intervals [26]
             xmin = 369.0
             xmax = 374.0
@@ -289,7 +289,7 @@ item []:
         intervals [28]
             xmin = 406.0
             xmax = 416.0
-            text = "I think it's create disparities between a school who have technology in... who have technology."
+            text = "I think it's create disparities between a school who have technology in who have technology."
         intervals [29]
             xmin = 416.0
             xmax = 434.0

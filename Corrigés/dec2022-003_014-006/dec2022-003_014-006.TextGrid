@@ -79,7 +79,7 @@ item []:
         intervals [17]
             xmin = 200.0
             xmax = 208.0
-            text = "And I think it could be so expensive for schools who are not... who don't have a lot of money from the system."
+            text = "And I think it could be so expensive for schools who are not who don't have a lot of money from the system."
         intervals [18]
             xmin = 208.0
             xmax = 253.0
@@ -91,11 +91,11 @@ item []:
         intervals [20]
             xmin = 261.0
             xmax = 275.0
-            text = "Because in my opinion, yes, the society evolves and we need to teach our students how to do the... how to use the things which are on their possessions now."
+            text = "Because in my opinion, yes, the society evolves and we need to teach our students how to do the how to use the things which are on their possessions now."
         intervals [21]
             xmin = 275.0
             xmax = 291.0
-            text = "But it might be also important to preserve their health because we know that computers could have... and the using of internet, could have a lot of wrong consequences on the health."
+            text = "But it might be also important to preserve their health because we know that computers could have and the using of internet, could have a lot of wrong consequences on the health."
         intervals [22]
             xmin = 291.0
             xmax = 308.0
@@ -115,7 +115,7 @@ item []:
         intervals [26]
             xmin = 414.0
             xmax = 429.0
-            text = "Because I completely understand and completely agree with you on the fact that it's important to teach the students how to... to teach them some things that could be really helpful for them in their future."
+            text = "Because I completely understand and completely agree with you on the fact that it's important to teach the students how to to teach them some things that could be really helpful for them in their future."
         intervals [27]
             xmin = 429.0
             xmax = 446.0
@@ -249,7 +249,7 @@ item []:
         intervals [19]
             xmin = 208.0
             xmax = 223.0
-            text = "Of course, and of course it's a really long-term investment because it's a lot of money and it's a lot of people that are gonna be involved if we need to make like... to hire more teachers and stuff."
+            text = "Of course, and of course it's a really long-term investment because it's a lot of money and it's a lot of people that are gonna be involved if we need to make like to hire more teachers and stuff."
         intervals [20]
             xmin = 223.0
             xmax = 237.0
@@ -313,7 +313,7 @@ item []:
         intervals [35]
             xmin = 478.0
             xmax = 493.0
-            text = "So they can have also the standard... standard way of learning and also because all the exams that they have to pass the official exams are still in the same format as before with a paper and a pen."
+            text = "So they can have also the standard standard way of learning and also because all the exams that they have to pass the official exams are still in the same format as before with a paper and a pen."
         intervals [36]
             xmin = 493.0
             xmax = 503.0

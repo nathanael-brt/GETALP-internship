@@ -91,7 +91,7 @@ item []:
         intervals [20]
             xmin = 199.0
             xmax = 206.0
-            text = "We don't really have a lot of, like, how to say..."
+            text = "We don't really have a lot of, like, how to say"
         intervals [21]
             xmin = 206.0
             xmax = 213.0
@@ -119,7 +119,7 @@ item []:
         intervals [27]
             xmin = 267.0
             xmax = 275.0
-            text = "We need to give all the information to everybody and to give a better understood... understanding of the subject."
+            text = "We need to give all the information to everybody and to give a better understood understanding of the subject."
         intervals [28]
             xmin = 275.0
             xmax = 284.0
@@ -139,11 +139,11 @@ item []:
         intervals [32]
             xmin = 299.0
             xmax = 305.0
-            text = "Because, yeah, we thought... we have a lot of other method, they work,"
+            text = "Because, yeah, we thought we have a lot of other method, they work,"
         intervals [33]
             xmin = 305.0
             xmax = 310.0
-            text = "but we also have the, you know, the three R..."
+            text = "but we also have the, you know, the three R"
         intervals [34]
             xmin = 310.0
             xmax = 315.0
@@ -167,7 +167,7 @@ item []:
         intervals [39]
             xmin = 378.0
             xmax = 382.0
-            text = "So I...This is maybe something we can add on the article"
+            text = "So IThis is maybe something we can add on the article"
         intervals [40]
             xmin = 382.0
             xmax = 385.0
@@ -179,7 +179,7 @@ item []:
         intervals [42]
             xmin = 392.0
             xmax = 403.0
-            text = "and put like...  like, it's a shade of grey and not everything it's white or black."
+            text = "and put like  like, it's a shade of grey and not everything it's white or black."
         intervals [43]
             xmin = 403.0
             xmax = 421.944
@@ -199,7 +199,7 @@ item []:
         intervals [47]
             xmin = 428.0
             xmax = 429.0
-            text = "because... if we"
+            text = "because if we"
         intervals [48]
             xmin = 429.0
             xmax = 434.0
@@ -231,7 +231,7 @@ item []:
         intervals [55]
             xmin = 456.0
             xmax = 462.0
-            text = "It's for the moment the most... the one who's working well"
+            text = "It's for the moment the most the one who's working well"
         intervals [56]
             xmin = 462.0
             xmax = 469.0
@@ -247,7 +247,7 @@ item []:
         intervals [59]
             xmin = 473.0
             xmax = 476.0
-            text = "and we can't xxx that on computer or anything so..."
+            text = "and we can't xxx that on computer or anything so"
         intervals [60]
             xmin = 476.0
             xmax = 521.0
@@ -255,7 +255,7 @@ item []:
         intervals [61]
             xmin = 521.0
             xmax = 531.0
-            text = "yeah I agree and, I think it's... this article can lead to a great information"
+            text = "yeah I agree and, I think it's this article can lead to a great information"
         intervals [62]
             xmin = 531.0
             xmax = 535.0
@@ -389,7 +389,7 @@ item []:
         intervals [27]
             xmin = 354.0
             xmax = 366.0
-            text = "They are just suffering in our laboratory and it's not like... we are pretending"
+            text = "They are just suffering in our laboratory and it's not like we are pretending"
         intervals [28]
             xmin = 366.0
             xmax = 371.0
@@ -413,7 +413,7 @@ item []:
         intervals [33]
             xmin = 407.0
             xmax = 417.0
-            text = "But I don't... I think that for many years, your point of view have been showed"
+            text = "But I don't I think that for many years, your point of view have been showed"
         intervals [34]
             xmin = 417.0
             xmax = 422.0
@@ -465,7 +465,7 @@ item []:
         intervals [46]
             xmin = 509.0
             xmax = 512.0
-            text = "Their well-being because..."
+            text = "Their well-being because"
         intervals [47]
             xmin = 512.0
             xmax = 517.0

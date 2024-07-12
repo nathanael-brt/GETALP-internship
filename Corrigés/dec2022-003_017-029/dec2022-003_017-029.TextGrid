@@ -79,7 +79,7 @@ item []:
         intervals [17]
             xmin = 125.4
             xmax = 135.4
-            text = "I think it have... this topic of technology in classes has pros and cons,"
+            text = "I think it have this topic of technology in classes has pros and cons,"
         intervals [18]
             xmin = 135.4
             xmax = 140.4
@@ -115,7 +115,7 @@ item []:
         intervals [26]
             xmin = 221.4
             xmax = 231.4
-            text = "And how about the..."
+            text = "And how about the"
         intervals [27]
             xmin = 231.4
             xmax = 233.4
@@ -127,7 +127,7 @@ item []:
         intervals [29]
             xmin = 260.4
             xmax = 267.4
-            text = "I don't know, but it's allow to do a certain..."
+            text = "I don't know, but it's allow to do a certain"
         intervals [30]
             xmin = 267.4
             xmax = 270.4
@@ -155,7 +155,7 @@ item []:
         intervals [36]
             xmin = 293.15
             xmax = 297.4
-            text = "and for... sorry, and for"
+            text = "and for sorry, and for"
         intervals [37]
             xmin = 297.4
             xmax = 303.4
@@ -175,7 +175,7 @@ item []:
         intervals [41]
             xmin = 348.4
             xmax = 359.38
-            text = "But the thing is that they can now be coached and they can intern..."
+            text = "But the thing is that they can now be coached and they can intern"
         intervals [42]
             xmin = 359.38
             xmax = 360.4
@@ -191,7 +191,7 @@ item []:
         intervals [45]
             xmin = 371.4
             xmax = 373.22
-            text = "So we can found a..."
+            text = "So we can found a"
         intervals [46]
             xmin = 373.22
             xmax = 375.13
@@ -329,7 +329,7 @@ item []:
         intervals [19]
             xmin = 172.4
             xmax = 180.4
-            text = "that you will think, okay, let's not be concentrate now and be concentrate on the screen because it's fun and it's..."
+            text = "that you will think, okay, let's not be concentrate now and be concentrate on the screen because it's fun and it's"
         intervals [20]
             xmin = 180.4
             xmax = 233.4
@@ -361,15 +361,15 @@ item []:
         intervals [27]
             xmin = 303.4
             xmax = 312.4
-            text = "But what about the people who are not very..."
+            text = "But what about the people who are not very"
         intervals [28]
             xmin = 312.4
             xmax = 322.4
-            text = "who are... Who don't really use... the teacher,  the old teacher, who don't really use the screen or everything."
+            text = "who are Who don't really use the teacher,  the old teacher, who don't really use the screen or everything."
         intervals [29]
             xmin = 322.4
             xmax = 329.4
-            text = "And when you ask them to teach with the things that they didn't know how to use it's..."
+            text = "And when you ask them to teach with the things that they didn't know how to use it's"
         intervals [30]
             xmin = 329.4
             xmax = 359.4
@@ -377,7 +377,7 @@ item []:
         intervals [31]
             xmin = 359.4
             xmax = 360.4
-            text = "Learn to..."
+            text = "Learn to"
         intervals [32]
             xmin = 360.4
             xmax = 373.22
@@ -397,7 +397,7 @@ item []:
         intervals [36]
             xmin = 387.4
             xmax = 399.4
-            text = "I'm not... It's not a no for me to be used at school but it should be moderate because of everything that is the consequence of the using of the screen."
+            text = "I'm not It's not a no for me to be used at school but it should be moderate because of everything that is the consequence of the using of the screen."
         intervals [37]
             xmin = 399.4
             xmax = 408.4
@@ -409,7 +409,7 @@ item []:
         intervals [39]
             xmin = 409.4
             xmax = 410.4
-            text = "And not... no more."
+            text = "And not no more."
         intervals [40]
             xmin = 410.4
             xmax = 411.4
@@ -417,7 +417,7 @@ item []:
         intervals [41]
             xmin = 411.4
             xmax = 413.4
-            text = "It should be a..."
+            text = "It should be a"
         intervals [42]
             xmin = 413.4
             xmax = 417.4

@@ -51,7 +51,7 @@ item []:
         intervals [10]
             xmin = 98.319
             xmax = 118.04
-            text = "I think that the school can make the..."
+            text = "I think that the school can make the"
         intervals [11]
             xmin = 118.04
             xmax = 136.04
@@ -67,7 +67,7 @@ item []:
         intervals [14]
             xmin = 166.04
             xmax = 188.04
-            text = "I think that the education needs to be with games or on board that the children can interact with so..."
+            text = "I think that the education needs to be with games or on board that the children can interact with so"
         intervals [15]
             xmin = 188.04
             xmax = 200.04
@@ -79,7 +79,7 @@ item []:
         intervals [17]
             xmin = 212.04
             xmax = 228.04
-            text = "Yes,  we can... the school can give to the students a computer or a tablet to do his homework at his home."
+            text = "Yes,  we can the school can give to the students a computer or a tablet to do his homework at his home."
         intervals [18]
             xmin = 228.04
             xmax = 240.04
@@ -95,7 +95,7 @@ item []:
         intervals [21]
             xmin = 264.04
             xmax = 272.04
-            text = "So now I want to ask you why there is a problem with the technology at the education... in the education ?"
+            text = "So now I want to ask you why there is a problem with the technology at the education in the education ?"
         intervals [22]
             xmin = 272.04
             xmax = 288.04
@@ -103,7 +103,7 @@ item []:
         intervals [23]
             xmin = 288.04
             xmax = 306.04
-            text = "I think that's... for this problem we can have some money and just put the education technology in the years, like in 10 years."
+            text = "I think that's for this problem we can have some money and just put the education technology in the years, like in 10 years."
         intervals [24]
             xmin = 306.04
             xmax = 320.04
@@ -119,7 +119,7 @@ item []:
         intervals [27]
             xmin = 390.04
             xmax = 402.04
-            text = "And so we also need to make some test in paper and pencil... based on paper and pencil for... "
+            text = "And so we also need to make some test in paper and pencil based on paper and pencil for "
         intervals [28]
             xmin = 402.04
             xmax = 403.371
@@ -127,7 +127,7 @@ item []:
         intervals [29]
             xmin = 403.371
             xmax = 410.04
-            text = "yes, I think that's a good compromise for the..."
+            text = "yes, I think that's a good compromise for the"
         intervals [30]
             xmin = 410.04
             xmax = 411.761
@@ -151,7 +151,7 @@ item []:
         intervals [35]
             xmin = 460.04
             xmax = 472.04
-            text = "I think that we can make on computer like QCM, or... or just something like this"
+            text = "I think that we can make on computer like QCM, or or just something like this"
         intervals [36]
             xmin = 472.04
             xmax = 484.04
@@ -229,7 +229,7 @@ item []:
         intervals [7]
             xmin = 82.04
             xmax = 98.309
-            text = "Okay but do... you don't know they play games at home and play more games can be a little bit contradictory with addiction"
+            text = "Okay but do you don't know they play games at home and play more games can be a little bit contradictory with addiction"
         intervals [8]
             xmin = 98.309
             xmax = 142.04
@@ -265,7 +265,7 @@ item []:
         intervals [16]
             xmin = 272.04
             xmax = 288.04
-            text = "I find it's a good idea, a good concept, but there is some issue with that, like the cost of the... all the device and the cost of training teacher to that new technology."
+            text = "I find it's a good idea, a good concept, but there is some issue with that, like the cost of the all the device and the cost of training teacher to that new technology."
         intervals [17]
             xmin = 288.04
             xmax = 320.04
@@ -333,7 +333,7 @@ item []:
         intervals [33]
             xmin = 484.04
             xmax = 498.04
-            text = "Yes, but for the exam on the... about the technology."
+            text = "Yes, but for the exam on the about the technology."
         intervals [34]
             xmin = 498.04
             xmax = 504.04
@@ -345,7 +345,7 @@ item []:
         intervals [36]
             xmin = 528.04
             xmax = 536.04
-            text = "Yes but the... I think the hardware test must be in paper."
+            text = "Yes but the I think the hardware test must be in paper."
         intervals [37]
             xmin = 536.04
             xmax = 538.708
@@ -395,7 +395,7 @@ item []:
         intervals [2]
             xmin = 3.354
             xmax = 5.372
-            text = "93, okay and your role is..."
+            text = "93, okay and your role is"
         intervals [3]
             xmin = 5.372
             xmax = 6.602

@@ -39,7 +39,7 @@ item []:
         intervals [7]
             xmin = 65.12
             xmax = 79.28
-            text = "traditional way exercise like papers and books and..."
+            text = "traditional way exercise like papers and books and"
         intervals [8]
             xmin = 79.28
             xmax = 169.818
@@ -71,7 +71,7 @@ item []:
         intervals [15]
             xmin = 250.08
             xmax = 263.92
-            text = "the danger of the technology and maybe debate of the benefits and the ..."
+            text = "the danger of the technology and maybe debate of the benefits and the "
         intervals [16]
             xmin = 263.92
             xmax = 294.56
@@ -115,7 +115,7 @@ item []:
         intervals [26]
             xmin = 416.32
             xmax = 423.6
-            text = "too much one hour is... is not enough okay but two hours you have the time to make many things and I think it's enough"
+            text = "too much one hour is is not enough okay but two hours you have the time to make many things and I think it's enough"
         intervals [27]
             xmin = 423.6
             xmax = 438.16
@@ -273,7 +273,7 @@ item []:
         intervals [31]
             xmin = 425.6
             xmax = 438.16
-            text = "okay and in what... in what class do you think we should use it for example plastic art mathematics English "
+            text = "okay and in what in what class do you think we should use it for example plastic art mathematics English "
         intervals [32]
             xmin = 438.16
             xmax = 486.0

@@ -51,7 +51,7 @@ item []:
         intervals [10]
             xmin = 36.36
             xmax = 39.68
-            text = "that even probably doesn't... don't exist yet."
+            text = "that even probably doesn't don't exist yet."
         intervals [11]
             xmin = 39.68
             xmax = 43.44
@@ -59,7 +59,7 @@ item []:
         intervals [12]
             xmin = 43.44
             xmax = 46.28
-            text = "with technology, with computers, with..."
+            text = "with technology, with computers, with"
         intervals [13]
             xmin = 46.28
             xmax = 49.72
@@ -211,7 +211,7 @@ item []:
         intervals [50]
             xmin = 267.56
             xmax = 271.56
-            text = "Yeah, I think this is how... this is why the teachers are important"
+            text = "Yeah, I think this is how this is why the teachers are important"
         intervals [51]
             xmin = 271.56
             xmax = 273.56
@@ -227,7 +227,7 @@ item []:
         intervals [54]
             xmin = 281.56
             xmax = 290.56
-            text = "to have these... I don't know, these computers and this technology."
+            text = "to have these I don't know, these computers and this technology."
         intervals [55]
             xmin = 290.56
             xmax = 294.56
@@ -255,7 +255,7 @@ item []:
         intervals [61]
             xmin = 337.56
             xmax = 343.56
-            text = "Yeah, this is how... this why sorry, we have to put a lot of financial resources"
+            text = "Yeah, this is how this why sorry, we have to put a lot of financial resources"
         intervals [62]
             xmin = 343.56
             xmax = 346.56
@@ -279,7 +279,7 @@ item []:
         intervals [67]
             xmin = 357.56
             xmax = 360.56
-            text = "We have to form... to train the teacher well"
+            text = "We have to form to train the teacher well"
         intervals [68]
             xmin = 360.56
             xmax = 363.56
@@ -303,7 +303,7 @@ item []:
         intervals [73]
             xmin = 393.56
             xmax = 398.56
-            text = "and everything to have... to be allowed to afford it"
+            text = "and everything to have to be allowed to afford it"
         intervals [74]
             xmin = 398.56
             xmax = 401.56
@@ -511,7 +511,7 @@ item []:
         intervals [125]
             xmin = 641.56
             xmax = 644.56
-            text = "If it's done just not..."
+            text = "If it's done just not"
         intervals [126]
             xmin = 644.56
             xmax = 647.56
@@ -551,11 +551,11 @@ item []:
         intervals [135]
             xmin = 718.56
             xmax = 722.56
-            text = "We don't have to be like..."
+            text = "We don't have to be like"
         intervals [136]
             xmin = 722.56
             xmax = 725.56
-            text = "prisoned and..."
+            text = "prisoned and"
         intervals [137]
             xmin = 725.56
             xmax = 727.56
@@ -737,7 +737,7 @@ item []:
         intervals [34]
             xmin = 247.56
             xmax = 251.56
-            text = "Yeah but I don't think that... for little parts,"
+            text = "Yeah but I don't think that for little parts,"
         intervals [35]
             xmin = 251.56
             xmax = 254.56
@@ -845,7 +845,7 @@ item []:
         intervals [61]
             xmin = 426.56
             xmax = 431.56
-            text = "the state cannot finance for any..."
+            text = "the state cannot finance for any"
         intervals [62]
             xmin = 431.56
             xmax = 437.56
@@ -917,7 +917,7 @@ item []:
         intervals [79]
             xmin = 496.56
             xmax = 499.56
-            text = "maybe we will introduce it in the..."
+            text = "maybe we will introduce it in the"
         intervals [80]
             xmin = 499.56
             xmax = 501.56
@@ -949,7 +949,7 @@ item []:
         intervals [87]
             xmin = 544.56
             xmax = 546.56
-            text = "in the... for the new generations,"
+            text = "in the for the new generations,"
         intervals [88]
             xmin = 546.56
             xmax = 554.56
@@ -977,7 +977,7 @@ item []:
         intervals [94]
             xmin = 570.56
             xmax = 572.56
-            text = "that we have..."
+            text = "that we have"
         intervals [95]
             xmin = 572.56
             xmax = 602.56
@@ -1025,7 +1025,7 @@ item []:
         intervals [106]
             xmin = 665.56
             xmax = 669.56
-            text = "because you lose the..."
+            text = "because you lose the"
         intervals [107]
             xmin = 669.56
             xmax = 672.56
@@ -1033,11 +1033,11 @@ item []:
         intervals [108]
             xmin = 672.56
             xmax = 674.56
-            text = "you don't have the..."
+            text = "you don't have the"
         intervals [109]
             xmin = 674.56
             xmax = 677.56
-            text = "you will lose all your..."
+            text = "you will lose all your"
         intervals [110]
             xmin = 677.56
             xmax = 681.56
@@ -1049,7 +1049,7 @@ item []:
         intervals [112]
             xmin = 684.56
             xmax = 686.56
-            text = "In the..."
+            text = "In the"
         intervals [113]
             xmin = 686.56
             xmax = 690.56
@@ -1065,7 +1065,7 @@ item []:
         intervals [116]
             xmin = 696.56
             xmax = 700.56
-            text = "So I think you have to..."
+            text = "So I think you have to"
         intervals [117]
             xmin = 700.56
             xmax = 703.56

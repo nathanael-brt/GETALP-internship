@@ -23,7 +23,7 @@ item []:
         intervals [3]
             xmin = 8.0
             xmax = 17.0
-            text = "Hello, so we need to make some suggestions to your... to the.."
+            text = "Hello, so we need to make some suggestions to your to the.."
         intervals [4]
             xmin = 17.0
             xmax = 26.0
@@ -75,7 +75,7 @@ item []:
         intervals [16]
             xmin = 200.0
             xmax = 226.0
-            text = "Yes, there are some cost to train the teacher or the students, but if we make... if we train the teacher, if we make a big investment of new technology, if the students add interest of our teaching, and yes, there are some disparities,"
+            text = "Yes, there are some cost to train the teacher or the students, but if we make if we train the teacher, if we make a big investment of new technology, if the students add interest of our teaching, and yes, there are some disparities,"
         intervals [17]
             xmin = 226.0
             xmax = 236.0
@@ -83,7 +83,7 @@ item []:
         intervals [18]
             xmin = 236.0
             xmax = 265.0
-            text = "and we can... so increase our skills and now we are in the 21st century and the computer is the.. a skills who need to be know because we use all-day computers like for typing, for presenting and presentation etc."
+            text = "and we can so increase our skills and now we are in the 21st century and the computer is the.. a skills who need to be know because we use all-day computers like for typing, for presenting and presentation etc."
         intervals [19]
             xmin = 265.0
             xmax = 303.0
@@ -99,7 +99,7 @@ item []:
         intervals [22]
             xmin = 333.0
             xmax = 351.0
-            text = "For example, we can make an assessment with computer. If we may... give some computer on students at their assessments and could be great for us."
+            text = "For example, we can make an assessment with computer. If we may give some computer on students at their assessments and could be great for us."
         intervals [23]
             xmin = 351.0
             xmax = 364.0
@@ -111,7 +111,7 @@ item []:
         intervals [25]
             xmin = 373.0
             xmax = 383.0
-            text = "We can make some transition step by step on... with incorporating technology little by little on our teaching."
+            text = "We can make some transition step by step on with incorporating technology little by little on our teaching."
         intervals [26]
             xmin = 383.0
             xmax = 385.0
@@ -161,7 +161,7 @@ item []:
         intervals [7]
             xmin = 96.0
             xmax = 108.0
-            text = "Yes, but there are some, I agree with you, but there are some costs that need... that are too expensive to be made."
+            text = "Yes, but there are some, I agree with you, but there are some costs that need that are too expensive to be made."
         intervals [8]
             xmin = 108.0
             xmax = 122.0
@@ -177,7 +177,7 @@ item []:
         intervals [11]
             xmin = 178.0
             xmax = 200.0
-            text = "And people who are... who have... who doesn't have the money for it, are not used to use computers so they will be not at the same level as people who already know how to use a computer so they will have to be trained even more."
+            text = "And people who are who have who doesn't have the money for it, are not used to use computers so they will be not at the same level as people who already know how to use a computer so they will have to be trained even more."
         intervals [12]
             xmin = 200.0
             xmax = 265.0
@@ -197,7 +197,7 @@ item []:
         intervals [16]
             xmin = 385.0
             xmax = 406.0
-            text = "Yeah, like probably only use computers only a few hours a day or during certains lessons or we could also just use computers at school and not at home to prevent..."
+            text = "Yeah, like probably only use computers only a few hours a day or during certains lessons or we could also just use computers at school and not at home to prevent"
         intervals [17]
             xmin = 406.0
             xmax = 432.448

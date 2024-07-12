@@ -27,15 +27,15 @@ item []:
         intervals [4]
             xmin = 14.0
             xmax = 23.0
-            text = "the... we are gonna suggest to our supervisor if we have to put technologies on"
+            text = "the we are gonna suggest to our supervisor if we have to put technologies on"
         intervals [5]
             xmin = 23.0
             xmax = 35.0
-            text = "the classroom of... if we don't have to implement this in the classroom. So first, I think that"
+            text = "the classroom of if we don't have to implement this in the classroom. So first, I think that"
         intervals [6]
             xmin = 35.0
             xmax = 43.0
-            text = "this is a good thing to implement this type of technology like computers in this class... in the classroom"
+            text = "this is a good thing to implement this type of technology like computers in this class in the classroom"
         intervals [7]
             xmin = 43.0
             xmax = 52.0
@@ -47,7 +47,7 @@ item []:
         intervals [9]
             xmin = 62.0
             xmax = 71.0
-            text = "for students who don't like to talk because they are a little scared, etc..."
+            text = "for students who don't like to talk because they are a little scared, etc"
         intervals [10]
             xmin = 71.0
             xmax = 108.0
@@ -87,7 +87,7 @@ item []:
         intervals [19]
             xmin = 240.0
             xmax = 252.0
-            text = "Maybe you want to say that this is a little lost of time and I think that this is a lot of... a lost of time in the present."
+            text = "Maybe you want to say that this is a little lost of time and I think that this is a lot of a lost of time in the present."
         intervals [20]
             xmin = 252.0
             xmax = 264.0
@@ -217,7 +217,7 @@ item []:
         intervals [12]
             xmin = 167.0
             xmax = 170.0
-            text = "And it can create a..."
+            text = "And it can create a"
         intervals [13]
             xmin = 170.0
             xmax = 175.0
@@ -249,7 +249,7 @@ item []:
         intervals [20]
             xmin = 281.0
             xmax = 294.0
-            text = "But the major problem is that the students have a sixth or eighth screen... look screen by day."
+            text = "But the major problem is that the students have a sixth or eighth screen look screen by day."
         intervals [21]
             xmin = 294.0
             xmax = 305.0
@@ -273,7 +273,7 @@ item []:
         intervals [26]
             xmin = 365.0
             xmax = 375.0
-            text = "and It can... gonna be a tool integrate at traditional method to learn."
+            text = "and It can gonna be a tool integrate at traditional method to learn."
         intervals [27]
             xmin = 375.0
             xmax = 380.0
@@ -285,7 +285,7 @@ item []:
         intervals [29]
             xmin = 422.0
             xmax = 448.0
-            text = "Obviously, it's a good thing for a job in the future but if... if we want to use this technology at school, we need to regulate them and begin to use this technology."
+            text = "Obviously, it's a good thing for a job in the future but if if we want to use this technology at school, we need to regulate them and begin to use this technology."
         intervals [30]
             xmin = 448.0
             xmax = 456.0

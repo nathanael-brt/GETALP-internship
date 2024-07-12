@@ -135,11 +135,11 @@ item []:
         intervals [31]
             xmin = 351.72
             xmax = 356.92
-            text = "keep them... to keep the maintenance up, everything."
+            text = "keep them to keep the maintenance up, everything."
         intervals [32]
             xmin = 356.92
             xmax = 364.28
-            text = "I don't think every school, every... that the state has the money for that in every school, and"
+            text = "I don't think every school, every that the state has the money for that in every school, and"
         intervals [33]
             xmin = 364.28
             xmax = 365.28
@@ -179,7 +179,7 @@ item []:
         intervals [42]
             xmin = 449.12
             xmax = 453.48
-            text = "you... students may be lost, because they are not that used to it."
+            text = "you students may be lost, because they are not that used to it."
         intervals [43]
             xmin = 453.48
             xmax = 480.28
@@ -221,7 +221,7 @@ item []:
         intervals [4]
             xmin = 38.24
             xmax = 50.12
-            text = "Yeah, but I think that is the role of the states, the states need to... How can I say it ? Need pay for all of it because"
+            text = "Yeah, but I think that is the role of the states, the states need to How can I say it ? Need pay for all of it because"
         intervals [5]
             xmin = 50.12
             xmax = 62.16
@@ -325,7 +325,7 @@ item []:
         intervals [30]
             xmin = 294.24
             xmax = 304.16
-            text = "That's why I think that the state must pay for it, because I think the... for example, the"
+            text = "That's why I think that the state must pay for it, because I think the for example, the"
         intervals [31]
             xmin = 304.16
             xmax = 309.92
@@ -369,7 +369,7 @@ item []:
         intervals [41]
             xmin = 389.56
             xmax = 398.2
-            text = "tools that they can use to help them, not... it's not the major party of the works, so it will not"
+            text = "tools that they can use to help them, not it's not the major party of the works, so it will not"
         intervals [42]
             xmin = 398.2
             xmax = 406.8
@@ -377,7 +377,7 @@ item []:
         intervals [43]
             xmin = 406.8
             xmax = 414.12
-            text = "The teacher will work with their... like you said, traditional methods, but they can use the technology"
+            text = "The teacher will work with their like you said, traditional methods, but they can use the technology"
         intervals [44]
             xmin = 414.12
             xmax = 421.84
@@ -401,7 +401,7 @@ item []:
         intervals [49]
             xmin = 457.6
             xmax = 463.6
-            text = "For example, if you... if in class they used to work mathematics without a computer, they should"
+            text = "For example, if you if in class they used to work mathematics without a computer, they should"
         intervals [50]
             xmin = 463.6
             xmax = 472.16

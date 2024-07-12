@@ -39,7 +39,7 @@ item []:
         intervals [7]
             xmin = 69.0
             xmax = 79.0
-            text = "Yeah, but I think it's important to... to xxx this gap between the different high school because"
+            text = "Yeah, but I think it's important to to xxx this gap between the different high school because"
         intervals [8]
             xmin = 79.0
             xmax = 93.0
@@ -87,7 +87,7 @@ item []:
         intervals [19]
             xmin = 237.0
             xmax = 245.0
-            text = "so... but it's dramatic because I think it's good for students"
+            text = "so but it's dramatic because I think it's good for students"
         intervals [20]
             xmin = 245.0
             xmax = 253.0
@@ -107,11 +107,11 @@ item []:
         intervals [24]
             xmin = 291.0
             xmax = 302.0
-            text = "So you can... we can just... we cannot just drop this form of new... this new system."
+            text = "So you can we can just we cannot just drop this form of new this new system."
         intervals [25]
             xmin = 302.0
             xmax = 314.0
-            text = "Just like that, we need to improve... to inform everybody, students, teachers, everybody."
+            text = "Just like that, we need to improve to inform everybody, students, teachers, everybody."
         intervals [26]
             xmin = 314.0
             xmax = 360.0
@@ -161,11 +161,11 @@ item []:
         intervals [4]
             xmin = 43.0
             xmax = 52.0
-            text = "OK, but... I understand what you say, but I think that it's not possible in all school because"
+            text = "OK, but I understand what you say, but I think that it's not possible in all school because"
         intervals [5]
             xmin = 52.0
             xmax = 69.0
-            text = "there is... there are some schools who don't have the money to add new technologies in their schools."
+            text = "there is there are some schools who don't have the money to add new technologies in their schools."
         intervals [6]
             xmin = 69.0
             xmax = 104.0
@@ -217,7 +217,7 @@ item []:
         intervals [18]
             xmin = 282.0
             xmax = 285.0
-            text = "So it's not a..."
+            text = "So it's not a"
         intervals [19]
             xmin = 285.0
             xmax = 314.0
@@ -229,11 +229,11 @@ item []:
         intervals [21]
             xmin = 325.0
             xmax = 337.0
-            text = "on... just... sorry, to reduce this time because they spend too much time on this at home"
+            text = "on just sorry, to reduce this time because they spend too much time on this at home"
         intervals [22]
             xmin = 337.0
             xmax = 348.0
-            text = "and if they are on computer at school too, there will be too much time for them and..."
+            text = "and if they are on computer at school too, there will be too much time for them and"
         intervals [23]
             xmin = 348.0
             xmax = 359.0
