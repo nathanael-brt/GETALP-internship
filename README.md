@@ -137,7 +137,7 @@ Python file containing several fucntions to be used and included in other progra
 ### PipeFormat4WER
 
 This program is useful for the computation of the WER using the segments given by **PLSPP**.   
-It puts the transcription from PLSPP and the correction into the **right format** to give to the WER compuation program (the format described [here](#WER).  
+It puts the transcription from PLSPP and the correction into the **right format** to give to the WER compuation program (the format described [here](#WER). It selects only the segments from the reference that, at least, is partly merged (timing-wise) with a segment from PLSPP.  
 
 It it takes 2 inputs (to give as arguments when executing it):
 * The name of the base audio file that has been transcripted (without the ```.wav``` of the extension).
@@ -151,7 +151,9 @@ To convert the transcription from PLSPP into the right format it uses the `.txt`
 
 To convert the correction into the right format it uses the file `PLSPP_WER/TimeInfo/timeInfo_sorted.csv` that give info on the timing of each segment and the TextGrid file containing the correction.   
 
-To assure ourselves that we write both files with the speakers in the same order (necessary for the WER computation) we use the function `is_speaker_order_normal()` to find who is the first to speak according to PLSPP transcription, then write the correction file accordingly.   
+To assure ourselves that we write both files with the speakers in the same order (necessary for the WER computation) we use the function `is_speaker_order_normal()` to find who is the first to speak according to PLSPP transcription, then write the correction file accordingly. 
+
+The program concatenates all the segment from the reference corresponding to the same segment from PLSPP into a single line to make it a single segment. 
 
 ### TrueSegmentation
 The segmentation of PLSPP and the one from the reference are sometime different from each other. This can affect the WER as some words are deleted or added where they souldn't be when comparating.   
@@ -165,6 +167,13 @@ It resegments the text in the file `PLSPP_WER/PLSPP_WER_format/<name_of_the_file
 It puts the result into the file `PLSPP_WER/Corr_WER_format_segmented/<name_of_the_file>_corRes_segmented.txt` (creates it if it doesn't exist).  
 
 The method is detailed in the internship's report.
+
+### MFA_segmented_files
+This program transform all the segments of corrected text (that have been correctly segmented according to the segments form PSLPP using [TrueSegmentation.py ](#TrueSegmentation)) into single files (1 file by segment).  
+
+It takes no input and automatically reads all the files that are stored into the directory *"PLSPP_WER/Corr_WER_format_segmented/"*.   
+
+It creates all the files into the directory *"PLSPP_Prosodic/Corpus_segmented/"*.
 
 
 ## Scripts
