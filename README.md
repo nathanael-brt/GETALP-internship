@@ -303,6 +303,12 @@ When executing the script it is possible to decide if it launches or not PSLPP, 
 
 If the script detects that the WER is too big (≥0.9) it considers that there is an error, changes the order of the speaker and recomputes the WER. 
 
+### ProsodicDataFromCorpus
+This script permits to launch PLSPP_MFA but using the text from the gold corpus instead of WhisperX to make the transcription.  
+
+To work, it needs PLSPP to be installed into the *"GETALP-internship/../plspp/"* directory. It also needs [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text.  
+
+It first creates and transfer the file necessary to PLSPP_MFA using [MFA_segmented_files.py](#MFA_segmented_files) and then launch the pipeline without the transcription part. 
 
 
 
