@@ -69,7 +69,7 @@ For PLSPP and PLSPP_MFA just launch the pipeline, move the `stressTable.csv` int
 
 For PLSPP_MFA with the text from the gold corpus instead of using WhisperX for the transcription:  
 * Make sure PLSPP is installed into the *"GETALP-internship/../plspp/"* directory as well as [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text.   
-* Launch the `ProsodicDataFromCorpus.sh` script (more information [here](#ProsodicDataFromCorpus):  
+* Launch the `ProsodicDataFromCorpus.sh` script (more information [here](#ProsodicDataFromCorpus)):  
 ```
 ./ProsodicDataFromCorpus.sh
 ```
@@ -80,7 +80,7 @@ mv ../plspp/stressTable.csv PLSPP_Prosodic/Tables/
 cd PLSPP_Prosodic/Tables/
 mv stressTable.csv RefstressTable.csv
 ```
-* Launch the `ProsodicData.py` program with `2` as parameter (more information [here](#ProsodicData) :
+* Launch the `ProsodicData.py` program with `2` as parameter (more information [here](#ProsodicData)) :
 ```bash
 python ProsodicData.py 2
 ```
