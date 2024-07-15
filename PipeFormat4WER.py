@@ -1,6 +1,12 @@
 #translation of the files given by plspp and the correction into the format needed for the WER calculation
+#---
 #takes the name of the  audio file as an argument and POSSIBLY a number reversing the determined order of the speakers by the function (parachute), 
 # if 0 nothing is done if 1 reverse the order
+#---
+#The program creates automatically 2 results files :
+#   PLSPP_WER/PLSPP_WER_format/<name_of_the_file>_pipeRes.txt for the transcription from PLSPP.
+#   PLSPP_WER/Corr_WER_format/<name_of_the_file>_corRes.txt for the correction.
+#----------------------------------------------------------------------------------------------------------------------
 import os
 import sys
 import functions

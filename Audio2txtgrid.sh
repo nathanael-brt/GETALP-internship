@@ -1,4 +1,9 @@
-#exectute whisper on an audio file and convert the result in Textgrid
+#simultaneously launch Whisper on a given audio file, create the necessary files/directories and translate the newly generated .srt file into a .TextGrid file
+#---
+#takes 2 inputs (read on keyboard during the script's execution):   
+#   The audio file to be transcripted.  
+#   The model of Whisper to use.  
+#----------------------------------------------------------------------------------------------------------------------
 echo "--STARTING--"
 read
 #read the parameters

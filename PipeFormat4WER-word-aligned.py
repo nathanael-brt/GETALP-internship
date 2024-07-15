@@ -1,6 +1,14 @@
-#translation of the files given by plspp and the correction into the format needed for the WER calculation
+#translation of the files given by plspp and the correction into the format needed for the WER calculation, specific case using the word aligned version of the correction from Webmaus
+#---
 #takes the name of the  audio file as an argument and POSSIBLY a number reversing the determined order of the speakers by the function (parachute), 
 # if 0 nothing is done if 1 reverse the order
+#---
+#The program creates automatically 3 results files :
+#   PLSPP_WER/PLSPP_WER_format/<name_of_the_file>_pipeRes.txt for the transcription from PLSPP.
+#   PLSPP_WER/Corr_WER_format/<name_of_the_file>_corRes.txt for the correction.
+#   PLSPP_WER/Aligned_seg_output/<name_of_the_file>_readable.txt for the readable version of the correction (not one word per line)
+#----------------------------------------------------------------------------------------------------------------------
+
 import os
 import sys
 import functions
@@ -8,7 +16,7 @@ import functions
 #result files
 pipeRes = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_aligned_pipeRes.txt", "w")    #result file for the pipeline's file
 corRes = open("PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_aligned_corRes.txt", "w")            #result file for the correction
-read = open("PLSPP_WER/Aligned_seg_output/" + sys.argv[1] + "_readable.txt", "w") #file containing the text of the audio file
+read = open("PLSPP_WER/Aligned_seg_output/" + sys.argv[1] + "_readable.txt", "w")          #file containing the text of the audio file
 timeInfo = open("PLSPP_WER/TimeInfo/timeInfo_sorted.csv", "r")                             #file containing the time informations of each segment
 
 

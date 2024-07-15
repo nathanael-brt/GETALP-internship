@@ -1,18 +1,23 @@
-#calcule la consommation en carbone de whisper
+#Computes the carbon emissions produced by whisper in function on a chosen whisper model.
+#Need the cordecarbon package to be installed to work
+#---
+#Returns a .csv with plenty of informations on not only the carbon emissions but also the power consumption, the cpu, gpu, etc...
+#----------------------------------------------------------------------------------------------------------------------
+
 import whisper
 from codecarbon import EmissionsTracker
 
-#on charge le modele
+#we charge the model
 model = whisper.load_model(input("Model:\n"))
 
-#tracking de la consommation
-file = input("Audio file:")
+#tracking of the consumption
+file = input("Audio file:")     #ask the audio file to transcribe
 
 tracker = EmissionsTracker()
 tracker.start()
-#lancement de whisper (changer le nom du fichier si besoin)
+#starts whisper 
 result = model.transcribe(file, language='en')
-#fin du tracking
+#end of tracking
 tracker.stop()
 
 print(result["text"])

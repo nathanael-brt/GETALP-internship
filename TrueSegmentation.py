@@ -1,4 +1,10 @@
 #Segment correctly the correction text using the PLSPP output
+#---
+#takes as an input the name of the audio file we are working on (without the extension)
+#resegments the text in the file PLSPP_WER/PLSPP_WER_format/<name_of_the_file>_pipeRes.txt using the file PLSPP_WER/Corr_WER_format/<name_of_the_file>_corRes.txt
+#---
+#puts the result into the file PLSPP_WER/Corr_WER_format_segmented/<name_of_the_file>_corRes_segmented.txt (creates it if it doesn't exist)
+#----------------------------------------------------------------------------------------------------------------------
 import os
 import re 
 import sys

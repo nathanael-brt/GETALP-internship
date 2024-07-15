@@ -1,5 +1,9 @@
-#compute the word error rate 
-# parmaeters : name of the file + mode (0 if from whisper, 1 if from plspp)
+#computes the word error rate of the transcription from whisper or plspp
+#---
+#parameters : name of the file + mode (0 if from whisper, 1 if from plspp)
+#---
+#the program creates a .res result file in the corresponding directory ("Whisper_WER/WER" for 0 and "PLSPP_WER/WER" for 1)
+#----------------------------------------------------------------------------------------------------------------------
 import os
 import re 
 import sys

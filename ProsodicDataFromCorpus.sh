@@ -1,5 +1,6 @@
-#script computing the prosodic data but from the gold corpus
-
+#permits to launch PLSPP_MFA but replaces the WhisperX step output by the text from the gold corpus to have a manual transcription instead of an automatic one.
+#It first creates and transfer the file necessary to PLSPP_MFA using MFA_segmented_files.py and then launch the pipeline without the transcription part.
+#----------------------------------------------------------------------------------------------------------------------
 cd ../plspp/
 #segment the audio files
 ./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
@@ -12,7 +13,8 @@ cp PLSPP_Prosodic/Corpus_segmented/* ../plspp/audio/
 cd ../plspp
 rm benepar/* shape/* syll/* tg/* tgpos/* whisperx/*
 
-#plspp 
+#plspp pipeline without the transcription part
+
 #### SYLLABLE NUCLEI DETECTION
 echo Syllable nuclei detection...
 mkdir syll
@@ -51,13 +53,13 @@ python scripts/syllcheck_mfa.py tgpos/ audio/ shape/ CMU/cmudict-0.7b
 # arguments: textgrid_folder, audio_folder, output_folder, path_to_CMU_dictionary
 
 #### PAUSE ANALYSIS
-# echo Pause pattern analysis...
-# mkdir benepar
+ echo Pause pattern analysis...
+ mkdir benepar
 # # Make constituency analysis from text files with Berkeley Neural Parser
-# python scripts/text2benepar.py text/ benepar/ 'benepar_en3' 'en_core_web_md'
+ python scripts/text2benepar.py text/ benepar/ 'benepar_en3' 'en_core_web_md'
 # # arguments: input_folder, output_folder, benepar_model_name, spacy_model_name
 # # Run pause analysis
-# python scripts/pausecheck.py shape/ benepar/
+ python scripts/pausecheck.py shape/ benepar/
 
 
 echo Done!

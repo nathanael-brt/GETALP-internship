@@ -1,5 +1,7 @@
 #Execute plspp on all the textgrid files from pyannotes (for all the recording furnished)
-#Compute the WER for each one of them
+#Compute the WER for each one of the speakers
+#To work correctly this script needs plspp to be installed in this directory: "GETALP-internship/../plspp" as well the intervalles2wavAndtimetable.praat script to be into the "plspp/scripts" directory
+#----------------------------------------------------------------------------------------------------------------------
 echo "---START (press any button)---"
 read
 #supress all the files in the necessary directories
@@ -7,12 +9,15 @@ cd ../plspp
 echo "Do you want to launch the pipeline (y/n) ?"
 read answer
 
-if [ $answer = "y" ]
+if [ $answer = "y" ]  #we launch the pipeline
 then
+    #remove all previous files
     rm audio/* benepar/* shape/* syll/* text/* tg/* tgpos/* whisperx/*
     #launch the pipeline
     ./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
     bash plspp.sh 
+    #move the timeInfo.csv file into the right directory
+    mv segmentFromPyannote_timeInfo.csv ../GETALP-internship/PLSPP_WER/TimeInfo/timeInfo.csv
 fi
 
 #create all the directories 
@@ -36,6 +41,7 @@ echo
 echo Suppression of the teacher transcription files 
 echo "(press to continue)" 
 read
+#suppression of the teacher transcription files
 rm /home/getalp/berthnat/GETALP/GETALP-internship/PLSPP_WER/PLSPP_text/dec2022-003_017-029/dec2022-003_017-029_SPEAKER_00_0.txt
 rm /home/getalp/berthnat/GETALP/GETALP-internship/PLSPP_WER/PLSPP_text/jan2023-401_120-034/jan2023-401_120-034_SPEAKER_02_0.txt
 
@@ -43,7 +49,7 @@ rm /home/getalp/berthnat/GETALP/GETALP-internship/PLSPP_WER/PLSPP_text/jan2023-4
 touch PLSPP_WER/TimeInfo/timeInfo_sorted.csv
 sort PLSPP_WER/TimeInfo/timeInfo.csv > PLSPP_WER/TimeInfo/timeInfo_sorted.csv
 
-
+#loop on all files of PLSPP_WER/PLSPP_text/ directory
 for dir in PLSPP_WER/PLSPP_text/*
 do 
     #get the name of the file

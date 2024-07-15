@@ -1,4 +1,9 @@
 #transform all the segments of corrected text into single files 
+#---
+#takes no input and automatically reads all the files that are stored into the directory "PLSPP_WER/Corr_WER_format_segmented/"
+#---
+#creates all the files into the directory "PLSPP_Prosodic/Corpus_segmented/"
+#----------------------------------------------------------------------------------------------------------------------
 import os 
 
 prec_speaker= ""
