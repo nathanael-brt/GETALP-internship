@@ -1,7 +1,7 @@
 #file containing all functions that are suceptible to be integrated and reused 
 
 #returns the tier number of the teacher in the textgrid file from pyannote 
-#if there is no teahcer returns -1
+#if there is no teacher returns -1
 def teacher_nb(name_of_file):
     
     txtGrid_file = open(name_of_file, "r") #open the textgrid file

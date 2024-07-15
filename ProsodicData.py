@@ -79,7 +79,7 @@ for line in table_file :
         nb_words_loc = 0                        #number of words 
 
     prec_file_name = file_name  #update the previous file name
-    patt_index = 9 # if it stays like this, the word is not counted
+    patt_index = 9 # index to know which pattern counter to increase, if it stays on 9, the word is not counted
     
     if Tab_line[3] == "2":   #we have a 2-syllabus word
         #find which accentuation pattern we are on 
