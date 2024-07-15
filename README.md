@@ -336,7 +336,7 @@ If the script detects that the WER is too big (≥0.9) it considers that there i
 
 --------------------------------------------------------------------------------------------
 ### ProsodicDataFromCorpus
-This script permits to launch PLSPP_MFA but using the text from the gold corpus instead of WhisperX to make the transcription.  
+This script permits to launch PLSPP_MFA but by replacing the WhisperX step by the text from the gold corpus to have a manual transcription.  
 
 To work, it needs PLSPP to be installed into the *"GETALP-internship/../plspp/"* directory. It also needs [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text. 
 It also need the `intervalles2wavAndtimetable.praat` script to be into the *"plspp/scripts"* directory.  
