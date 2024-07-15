@@ -303,7 +303,7 @@ prop correct oooO;<>
 ### Audio2txtgrid
 
 This script simultaneously launch Whisper on a given audio file, create the necessary files/directories and translate the newly generated `.srt` file into a `.TextGrid` file (by executing the [whisper2txtgrid](#whisper2txtgrid) python program).  
-It takes 2 inputs:   
+It takes 2 inputs (read on keyboard during the script's execution):   
 * The audio file to be transcripted.  
 * The model of Whisper to use.  
 
