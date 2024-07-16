@@ -29,7 +29,7 @@ python WER.py <name_of_the_audio_file_without_ext> 0
 
 # Comparison of models and carbon emissions
 
-The goal here is to compare the models base and medium of Whisper and to compute the carbon emissions of a transcription on each of these models. 
+The goal here is to compare the *base* and *medium* models of Whisper and to compute the carbon emissions of a transcription on each of these models. 
 
 ## Usage
 
