@@ -8,7 +8,7 @@ The goal here is to evaluate the quality of the transcription given by PLSPP.
 ```bash
 mkdir ../plspp
 ```
-* install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and [OpenAI's Whisper](https://github.com/openai/whisper) in this directory.
+* install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) in this directory.
 * launch the script (more information [here](#plsppWER)) :
 ```bash
 ./plsppWER.sh
