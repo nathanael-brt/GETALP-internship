@@ -1,6 +1,6 @@
 # GETALP-internship
-This repository has been created in the context of an internship in the team GETALP in the computer science laboratory of Grenoble (LIG):  
-**Evaluation of the automatic analysis of French accent in English**  
+This repository has been created in the context of an internship in the team GETALP of the computer science laboratory of Grenoble (LIG). The subject of this internship was:  
+**Evaluation of the automatic analysis of French accent in English**.  
 
 Based on this tool : [plspp](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper).  
 The important data is kept and organized [here](https://docs.google.com/spreadsheets/d/1V8g1R39eb_w_HWZOjSdOJWTzMdefQilUtBhCA2uvhWg/edit?usp=sharing).
@@ -29,7 +29,7 @@ python WER.py <name_of_the_audio_file_without_ext> 0
 
 # Comparison of models and carbon emissions
 
-The goal here is to compare the models base and medium of Whisper and to compute the carbon emissions of a transcription on each of these models. 
+The goal here is to compare the *base* and *medium* models of Whisper and to compute the carbon emissions of a transcription on each of these models. 
 
 ## Usage
 
