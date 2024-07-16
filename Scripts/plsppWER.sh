@@ -5,7 +5,7 @@
 echo "---START (press any button)---"
 read
 #supress all the files in the necessary directories
-cd ../plspp
+cd ../../plspp
 echo "Do you want to launch the pipeline (y/n) ?"
 read answer
 
@@ -56,18 +56,22 @@ do
     file_name=$(basename $dir)
     echo "working on $file_name..."
     #launch the WER computation
+    cd Python_Programs
     python PipeFormat4WER.py $file_name 0        #put in the right format + segmentation
     python TrueSegmentation.py $file_name          #get the true segmentation
     python WER.py $file_name 1                  #compute the WER
-    
+    cd ..
+
     #verify that the WER is not too high 
     wer=$(awk '/WER/ {print $3; exit}' "PLSPP_WER/WER/${file_name}_PLSPP.res")      #extract the WER
     wer_float=$(echo "$wer" | bc)   #convert the WER in float
     if (( $(echo "$wer_float >= 0.9" | bc -l) )) 
     then    #the WER is too high
+        cd Python_Programs
         python PipeFormat4WER.py $file_name  1   #we re-launch the programm but with the speakers in the other order
         python TrueSegmentation.py $file_name
         python WER.py $file_name 1 
+        cd ..
     fi
 
 done

@@ -13,7 +13,7 @@ echo Model :
 read model
 #create the corresponding directory
 file_name=$(basename $file_path .wav)   #get the file name from the path
-cd Whisper_WER
+cd ../Whisper_WER
 cd Whisper
 mkdir $file_name
 cd $file_name
@@ -25,5 +25,7 @@ cd ../../
 touch Textgrid/$file_name.TextGrid  #create the .TextGrid file
 chmod a+w Textgrid/$file_name.TextGrid
 #execute the python program
+cd Python_Programs
 python whisper2txtgrid.py
+cd ..
 echo "--GOODBYE--"

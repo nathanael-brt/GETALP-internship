@@ -10,11 +10,11 @@ import sys
 
 #open the stress table 
 if sys.argv[1] == "0":
-    table_file = open("PLSPP_Prosodic/Tables/PLSPPstressTable.csv", "r")
+    table_file = open("../PLSPP_Prosodic/Tables/PLSPPstressTable.csv", "r")
 elif sys.argv[1] == "1":
-    table_file = open("PLSPP_Prosodic/Tables/PLSPPMFAstressTable.csv", "r")
+    table_file = open("../PLSPP_Prosodic/Tables/PLSPPMFAstressTable.csv", "r")
 else :
-    table_file = open("PLSPP_Prosodic/Tables/RefstressTable.csv", "r")
+    table_file = open("../PLSPP_Prosodic/Tables/RefstressTable.csv", "r")
 
 next(table_file) #skip the first line of the table
 
@@ -66,11 +66,11 @@ for line in table_file :
             data.close() #close the file
         #create a new file
         if sys.argv[1] == "0":
-            data = open("PLSPP_Prosodic/PLSPP_data/" + file_name + ".csv", "w")
+            data = open("../PLSPP_Prosodic/PLSPP_data/" + file_name + ".csv", "w")
         elif sys.argv[1] == "1":
-            data = open("PLSPP_Prosodic/PLSPP_MFA_data/" + file_name + ".csv", "w")
+            data = open("../PLSPP_Prosodic/PLSPP_MFA_data/" + file_name + ".csv", "w")
         else :
-            data = open("PLSPP_Prosodic/Ref_data/" + file_name + ".csv", "w")
+            data = open("../PLSPP_Prosodic/Ref_data/" + file_name + ".csv", "w")
         #initialize the data
         nb_syl_loc = [0,0,0,0]                  #number of syllabus 2, 3, 4 and other (other is for the words with more than 4 syllabus, not enough to be relevant) 
         nb_correct_syl_loc = [0,0,0,0]          #number of correct syllabus 2, 3, 4 and other
@@ -196,11 +196,11 @@ data.close() #close the file
 
 #we write the total data file : 
 if sys.argv[1] == "0":
-    data = open("PLSPP_Prosodic/Total_data/PLSPP_total_data.csv", "w")
+    data = open("../PLSPP_Prosodic/Total_data/PLSPP_total_data.csv", "w")
 elif sys.argv[1] == "1":
-    data = open("PLSPP_Prosodic/Total_data/PLSPP_MFA_total_data.csv", "w")
+    data = open("../PLSPP_Prosodic/Total_data/PLSPP_MFA_total_data.csv", "w")
 else :
-    data = open("PLSPP_Prosodic/Total_data/Ref_total_data.csv", "w")
+    data = open("../PLSPP_Prosodic/Total_data/Ref_total_data.csv", "w")
 
 
 data.write("number of words;" + str(nb_words_tot) + "\n\n")

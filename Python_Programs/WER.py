@@ -10,14 +10,14 @@ import sys
 
 if sys.argv[2] == "0":
     #opening files from whisper
-    Whis = open("Whisper_WER/Whisper-split/" + sys.argv[1] + "-split.txt", "r")
-    Corr = open("Corrigés/" + sys.argv[1] + "/" + sys.argv[1] + ".txt", "r")
-    Res = open("Whisper_WER/WER/" +sys.argv[1] + ".res", "w")
+    Whis = open("../Whisper_WER/Whisper-split/" + sys.argv[1] + "-split.txt", "r")
+    Corr = open("../Corrigés/" + sys.argv[1] + "/" + sys.argv[1] + ".txt", "r")
+    Res = open("../Whisper_WER/WER/" +sys.argv[1] + ".res", "w")
 elif sys.argv[2] == "1":
     #opening files from plspp
-    Whis = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "r")
-    Corr = open("PLSPP_WER/Corr_WER_format_segmented/" + sys.argv[1] + "_corRes_segmented.txt", "r")
-    Res = open("PLSPP_WER/WER/" +sys.argv[1] + "_PLSPP.res", "w")
+    Whis = open("../PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "r")
+    Corr = open("../PLSPP_WER/Corr_WER_format_segmented/" + sys.argv[1] + "_corRes_segmented.txt", "r")
+    Res = open("../PLSPP_WER/WER/" +sys.argv[1] + "_PLSPP.res", "w")
 
 #reading the files and storing the text in lists (one list per actor)
 #We use a list of lists for each file, each element of the list corresponds to the text of an actor (list of words)

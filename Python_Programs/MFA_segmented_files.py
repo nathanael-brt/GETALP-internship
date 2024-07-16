@@ -8,10 +8,10 @@ import os
 
 prec_speaker= ""
 #loop on all the files in the directory
-for name in os.listdir("PLSPP_WER/Corr_WER_format_segmented/"):
+for name in os.listdir("../PLSPP_WER/Corr_WER_format_segmented/"):
     it = 0 #iterator to write on file names
     #open the file
-    Corr_seg = open("PLSPP_WER/Corr_WER_format_segmented/" + name, "r")
+    Corr_seg = open("../PLSPP_WER/Corr_WER_format_segmented/" + name, "r")
     #read the content of the file
     for line in Corr_seg:
         Tab_line = line.split("		")  #split the text from the speaker number
@@ -22,7 +22,7 @@ for name in os.listdir("PLSPP_WER/Corr_WER_format_segmented/"):
         prec_speaker = Tab_line[0]
 
         #open the file where we will write the segment text
-        Seg = open("PLSPP_Prosodic/Corpus_segmented/" + name.split("_corRes")[0] + "_SPEAKER_" + Tab_line[0] +"_" + str(it) + ".txt", "w")
+        Seg = open("../PLSPP_Prosodic/Corpus_segmented/" + name.split("_corRes")[0] + "_SPEAKER_" + Tab_line[0] +"_" + str(it) + ".txt", "w")
 
         #write the text in the file
         Seg.write(Tab_line[1])

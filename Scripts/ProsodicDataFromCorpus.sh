@@ -1,13 +1,16 @@
 #permits to launch PLSPP_MFA but replaces the WhisperX step output by the text from the gold corpus to have a manual transcription instead of an automatic one.
 #It first creates and transfer the file necessary to PLSPP_MFA using MFA_segmented_files.py and then launch the pipeline without the transcription part.
 #----------------------------------------------------------------------------------------------------------------------
-cd ../plspp/
+cd ../../plspp/
 #segment the audio files
-./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
+#./praat_barren scripts/intervalles2wavAndtimetable.praat ../data/ ../pyannote/ .TextGrid ../audio/ 3 0.01 8
 cd ../GETALP-internship/
 
 #segment the text 
+cd Python_Programs
 python MFA_segmented_files.py 
+cd ..
+
 cp PLSPP_Prosodic/Corpus_segmented/* ../plspp/audio/
 
 cd ../plspp

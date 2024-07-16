@@ -10,9 +10,9 @@ import re
 import sys
 
 #open the files
-Trans = open("PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "r")
-Corr = open("PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_corRes.txt", "r")
-Res = open("PLSPP_WER/Corr_WER_format_segmented/" + sys.argv[1] + "_corRes_segmented.txt", "w")
+Trans = open("../PLSPP_WER/PLSPP_WER_format/" + sys.argv[1] + "_pipeRes.txt", "r")
+Corr = open("../PLSPP_WER/Corr_WER_format/" + sys.argv[1] + "_corRes.txt", "r")
+Res = open("../PLSPP_WER/Corr_WER_format_segmented/" + sys.argv[1] + "_corRes_segmented.txt", "w")
 
 #read the files 
 txt_Trans = []  #list containing the lists of the lines
