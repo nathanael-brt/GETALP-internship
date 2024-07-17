@@ -5,11 +5,10 @@ The goal here is to evaluate the impact of the quality of the transcription on t
 * PLSPP_MFA (PLSPP v2): the `pslpp_mfa.sh` script, version 2 of PLSPP using the MFA aligner to add a forced alignment step at the phoneme level. Syllabic prosodic features are extracted at the vowel level, rather than at the syllable nucleus level. In this version, word-level alignment is also performed by MFA. Still uses WhisperX for yhe transcription.
 * PLSPP_MFA but we replace the transcription with the corrected text of the gold corpus.   
 We also want to compare these versions using the data the we obtained:
-
-| \|**Text source** ------------- **Version PLSPP**\| | **WhisperX**       | **Gold Corpus** |
-|-----------------------------------------------------|--------------------|-----------------|
-| **PLSPP (v1)**                                      |    x     \|        |                 |
-| **PSLPP_MFA (v2)**                                  |    \|    x-------- |  ------x        |
+| \|**Text source**<br> -------------<br> **Version PLSPP**\|<br> | **WhisperX**           | **Gold Corpus** |
+|-----------------------------------------------------------------|------------------------|-----------------|
+| **PLSPP (v1)**                                                  |    x<br>     \|        |                 |
+| **PSLPP_MFA (v2)**                                              |    \|<br>    x-------- | <br>  ------x   |
 
 ## Usage
 For PLSPP and PLSPP_MFA just launch the pipeline, move the `stressTable.csv` into the *"PLSPP_Prosodic/Tables/"* directory, rename it correctly (respectively `PLSPPstressTable.csv` and `PLSPPMFAstressTable.csv`), and launch `ProsodicData.py` with either `0` or `1` as the parameter.  
