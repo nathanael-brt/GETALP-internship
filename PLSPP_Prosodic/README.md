@@ -1,6 +1,9 @@
 # Impact of the transcription on prosodic measures
 
-The goal here is to evaluate the impact of the quality of the transcription on the prosodic measures output of PLSPP.  
+The goal here is to evaluate the impact of the quality of the transcription on the prosodic measures output of 3 different versions of PLSPP :   
+* PLSPP v1 : the `pslpp.sh` script.  
+* PLSPP_MFA (PLSPP v2) : the `pslpp_mfa.sh` script, version 2 of PLSPP using the MFA aligner to add a forced alignment step at phoneme level. Syllabic prosodic features are extracted at vowel level, rather than at syllable nucleus level. In this version, word level alignment is also performed by MFA.
+* PLSPP_MFA but we replace the transcription by the corrected text of the gold corpus.   
 
 ## Usage
 For PLSPP and PLSPP_MFA just launch the pipeline, move the `stressTable.csv` into the *"PLSPP_Prosodic/Tables/"* directory, rename it correctly and launch `ProsodicData.py` with either `0` or `1` as parameter.  
