@@ -3,7 +3,7 @@
 
 ### Audio2txtgrid
 
-This script simultaneously launch Whisper on a given audio file, create the necessary files/directories and translate the newly generated `.srt` file into a `.TextGrid` file (by executing the [whisper2txtgrid](#whisper2txtgrid) python program).  
+This script simultaneously launch Whisper on a given audio file, create the necessary files/directories and translate the newly generated `.srt` file into a `.TextGrid` file (by executing the [whisper2txtgrid](../Python_Programs/README.md#whisper2txtgrid) python program).  
 It takes 2 inputs (read on keyboard during the script's execution):   
 * The audio file to be transcripted.  
 * The model of Whisper to use.  
@@ -31,7 +31,7 @@ File;Speaker;Segment;Start;End;Duration
 ```
 If you launch the pipeline this file is generated automatically else it needs to be stored into the directory *"PLSPP_WER/TimeInfo"*.  
 
-When executing the script it is possible to decide if it launches or not PSLPP, it then transfer all the necessary files into the right directories, sort the `timeInfo.csv` file into the `timeInfo_sorted.csv` file, then calls [PipeFormat4WER.py](#PipeFormat4WER), [TrueSegmentation.py](#TrueSegmentation) and [WER.py](#WER) on each file to compute the WER.  
+When executing the script it is possible to decide if it launches or not PSLPP, it then transfer all the necessary files into the right directories, sort the `timeInfo.csv` file into the `timeInfo_sorted.csv` file, then calls [PipeFormat4WER.py](../Python_Programs/README.md#PipeFormat4WER), [TrueSegmentation.py](../Python_Programs/README.md#TrueSegmentation) and [WER.py](../Python_Programs/README.md#WER) on each file to compute the WER.  
 
 If the script detects that the WER is too big (≥0.9) it considers that there is an error, changes the order of the speaker and recomputes the WER. 
 
@@ -42,4 +42,4 @@ This script permits to launch PLSPP_MFA but replaces the WhisperX step output by
 To work, it needs PLSPP to be installed into the *"GETALP-internship/../plspp/"* directory. It also needs [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text. 
 It also need the `intervalles2wavAndtimetable.praat` script to be into the *"plspp/scripts"* directory.  
 
-It first creates and transfer the file necessary to PLSPP_MFA using [MFA_segmented_files.py](#MFA_segmented_files) and then launch the pipeline without the transcription part. 
+It first creates and transfer the file necessary to PLSPP_MFA using [MFA_segmented_files.py](../Python_Programs/README.md#MFA_segmented_files) and then launch the pipeline without the transcription part. 
