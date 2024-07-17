@@ -9,7 +9,7 @@ We also want to compare these versions using the data the we obtained:
 | \|**Text source**<br> -------------<br> **Version PLSPP**\|<br> | **WhisperX**           | **Gold Corpus** |
 |-----------------------------------------------------------------|------------------------|-----------------|
 | **PLSPP (v1)**                                                  |    x<br>     \|        |                 |
-| **PSLPP_MFA (v2)**                                              |    \|<br>    x-------- | <br>  ------x   |
+| **PSLPP_MFA (v2)**                                              |    \|<br>    x------------ | <br>  ------x   |
 
 ## Usage
 For PLSPP and PLSPP_MFA just launch the pipeline, move the `stressTable.csv` into the *"PLSPP_Prosodic/Tables/"* directory, rename it correctly (respectively `PLSPPstressTable.csv` and `PLSPPMFAstressTable.csv`), and launch `ProsodicData.py` with either `0` or `1` as the parameter.  
