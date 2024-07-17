@@ -1,13 +1,19 @@
 # GETALP-internship
-This repository has been created in the context of an internship in the team GETALP of the computer science laboratory of Grenoble (LIG). The subject of this internship was:  
+This repository has been created in the context of an internship in the team *GETALP* of the computer science laboratory of Grenoble (*LIG)**=. The subject of this internship was:  
 **Evaluation of the automatic analysis of French accent in English**.  
 
-Based on this tool : [plspp](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper).  
-The important data is kept and organized [here](https://docs.google.com/spreadsheets/d/1V8g1R39eb_w_HWZOjSdOJWTzMdefQilUtBhCA2uvhWg/edit?usp=sharing).
+The aim was to implement **speech transcription** and **analysis** tools, check and correct the systems' outputs, and finally evaluate the automatic analysis tools on these manually validated annotations.  
 
-The aim of this internship was to implement the speech transcription and analysis tools, check and correct the systems' outputs, and finally evaluate the automatic analysis tools on these manually validated annotations. 
+----------------------------------------------------------------------------------------------------
 
-It has been divided into 4 mains steps :  
+* Based on this tool : [plspp](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) and on [OpenAI's Whisper](https://github.com/openai/whisper).  
+* The important data is kept and organized [here](https://docs.google.com/spreadsheets/d/1V8g1R39eb_w_HWZOjSdOJWTzMdefQilUtBhCA2uvhWg/edit?usp=sharing).
+* The Shell scripts are kept [here](Scripts/)
+* The Python programs are kept [here](Python_Programs/)  
+
+----------------------------------------------------------------------------------------------------
+
+**It has been divided into 4 mains steps** :  
 
 ## Transcription from Whisper and Computation of the WER
 
