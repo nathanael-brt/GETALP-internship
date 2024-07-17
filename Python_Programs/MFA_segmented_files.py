@@ -1,4 +1,5 @@
-#transform all the segments of corrected text into single files 
+#transform all the segments of corrected text into single files
+# Concretely, for every file it reads, it divides this file into smaller files with one file per line (as each line represents a segment). It also names each new file correctly depending on the speaker, the line number, and the recording. 
 #---
 #takes no input and automatically reads all the files that are stored into the directory "PLSPP_WER/Corr_WER_format_segmented/"
 #---
