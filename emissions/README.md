@@ -17,15 +17,4 @@ conda install -c conda-forge codecarbon
 python WhisperCarbone.py
 ```
 
-# User Manual
 
-## Python programs
-
-### WhisperCarbone
-
-Computes the carbon emissions produced by whisper in function on a chosen whisper model.  
-Uses the [codecarbon](https://github.com/mlco2/codecarbon) and whisper packages for python.  
-
-Takes a whisper model and an audio file as inputs.   
-
-Returns a `.csv` with plenty of informations on not only the carbon emissions but also the power consumption, the cpu, gpu, etc...  
