@@ -9,7 +9,7 @@ The goal here is to evaluate the quality of the transcription given by PLSPP.
 mkdir ../plspp
 ```
 * install [PLSPP](https://gricad-gitlab.univ-grenoble-alpes.fr/lidilem/plspp) in this directory.
-* launch the script (more information [here](#plsppWER)) :
+* launch the script `plsppWER.sh` (more information [here](../Scripts/README.md#plsppWER)) :
 ```bash
 ./plsppWER.sh
 ```
