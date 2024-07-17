@@ -109,6 +109,8 @@ The method is detailed in the internship's report.
 
 This program transforms all segments of corrected text (correctly segmented according to segments from PLSPP using [TrueSegmentation.py](#TrueSegmentation)) into individual files (one file per segment).  
 
+Concretely, for every file it reads, it divides this file into smaller files with one file per line (as each line represents a segment). It also names each new file correctly depending on the speaker, the line number, and the recording.  
+
 It requires no input and automatically reads all files stored in the directory *"PLSPP_WER/Corr_WER_format_segmented/"*.   
 
 It creates these files in the directory *"PLSPP_Prosodic/Corpus_segmented/"*.
@@ -116,7 +118,7 @@ It creates these files in the directory *"PLSPP_Prosodic/Corpus_segmented/"*.
 --------------------------------------------------------------------------------------------
 ### ProsodicData 
 
-This program gathers and organizes all prosodic data contained in the "*stress_table*" output from PLSPP, specifically the proportion of words pronounced correctly.  
+This program gathers and organizes all prosodic data contained in the `stressTable.csv` output from PLSPP, specifically the proportion of words pronounced correctly.  
 
 It generates one data file per speaker as well as a final file containing total data for all tables.  
 
