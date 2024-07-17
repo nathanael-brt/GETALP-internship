@@ -1,6 +1,7 @@
 # Python programs
+## User manual
 
-## whisper2txtgrid
+### whisper2txtgrid
 
 When using Whisper on an audio file, we get several files as an output.  
 This program converts the `.srt` output into a `.TextGrid` file : In this format we can import our transcription into **Elan** or **Praat**.  
@@ -9,7 +10,7 @@ It takes 2 files as an input (read on keyboard) :<br>
 * A `.TextGrid` file (Where the output will be written).  
 
 --------------------------------------------------------------------------------------------
-## WER
+### WER
 
 Computes the **Word Error Count** between the reference from *whisper* and the manually corrected version.
 Gives one *WER* by speaker. 
@@ -50,7 +51,7 @@ It uses this formula:  $`\text{WER} = \frac{\text{Substitutions} + \text{Inserti
 The Algorithm uses the **Levenshtein distance method**.
 
 --------------------------------------------------------------------------------------------
-## WhisperCarbone
+### WhisperCarbone
 
 Computes the carbon emissions produced by whisper in function on a chosen whisper model.  
 Uses the [codecarbon](https://github.com/mlco2/codecarbon) and whisper packages for python.  
@@ -60,7 +61,7 @@ Takes a whisper model and an audio file as inputs.
 Returns a `.csv` with plenty of informations on not only the carbon emissions but also the power consumption, the cpu, gpu, etc...  
 
 --------------------------------------------------------------------------------------------
-## functions
+### functions
 
 Python file containing several fucntions to be used and included in other programs : 
 * `teacher_nb()`  
@@ -69,7 +70,7 @@ Python file containing several fucntions to be used and included in other progra
   Function returning a boolean stating if the speaker order is in reverse or not (if the speaker with the least number, other than the teacher, is speaking first or not).
 
 --------------------------------------------------------------------------------------------
-## PipeFormat4WER
+### PipeFormat4WER
 
 This program is useful for the computation of the WER using the segments given by **PLSPP**.   
 It puts the transcription from PLSPP and the correction into the **right format** to give to the WER compuation program (the format described [here](#WER)).   
@@ -92,7 +93,7 @@ To assure ourselves that we write both files with the speakers in the same order
 The program concatenates all the segment from the reference corresponding to the same segment from PLSPP into a single line to make it a single segment. 
 
 --------------------------------------------------------------------------------------------
-## TrueSegmentation
+### TrueSegmentation
 The segmentation of PLSPP and the one from the reference are sometime different from each other. This can affect the WER as some words are deleted or added where they souldn't be when comparating.   
 
 This program tries to detect those out of places words (always at the end or at the beginning of the reference segment) and to suppress them accordingly to the PLSPP segments so the WER is the least affected by segmentation errors.  
@@ -106,7 +107,7 @@ It puts the result into the file `PLSPP_WER/Corr_WER_format_segmented/<name_of_t
 The method is detailed in the internship's report.  
 
 --------------------------------------------------------------------------------------------
-## MFA_segmented_files
+### MFA_segmented_files
 This program transforms all the segments of corrected text (that have been correctly segmented according to the segments form PSLPP using [TrueSegmentation.py ](#TrueSegmentation)) into single files (1 file by segment).  
 
 It takes no input and automatically reads all the files that are stored into the directory *"PLSPP_WER/Corr_WER_format_segmented/"*.   
@@ -114,7 +115,7 @@ It takes no input and automatically reads all the files that are stored into the
 It creates all the files into the directory *"PLSPP_Prosodic/Corpus_segmented/"*.
 
 --------------------------------------------------------------------------------------------
-## ProsodicData 
+### ProsodicData 
 This program is useful to recolt and organize all the prosodic data contained into the "*stress_table*" output from PLSPP. More precisely the proportion of words pronounced correctly.  
 
 It generates one data file per speaker as well as a final file containing the total data for all the table.  
