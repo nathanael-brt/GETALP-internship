@@ -4,7 +4,7 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 
 ## Usage
 
-* Launch the `Audio2txtgrid.sh` script. Use the **base** model (More information [here](#audio2txtgrid)):
+* Launch the `Audio2txtgrid.sh` script. Use the **base** model (More information [here](../Scripts/README.md#audio2txtgrid)):
 ```bash
 ./Audio2txtgrid.sh
 ```
@@ -14,7 +14,7 @@ The goal here is to transcript audio files using Whisper, to correct this transc
 * Correct the transcription
 * Export using the option *"texte délimité par des tabulations"* into the directory *"Corrigés/<name_of_the_audio>"*. If it doesn't exist, create it.
 * Export using the option *"TextGrid Praat"* into the same directory.
-* Execute the python program `WER.py` (More information [here](#WER)): 
+* Execute the python program `WER.py` (More information [here](../Python_Programs/README.md#WER)): 
 ```bash
 python WER.py <name_of_the_audio_file_without_ext> 0
 ```
