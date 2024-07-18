@@ -95,7 +95,7 @@ The program concatenates all segments from the reference corresponding to the sa
 
 The segmentation of PLSPP and the segmentation from the reference are sometimes different. This can affect the WER, as words may be deleted or added incorrectly when compared.   
 
-This program attempts to detect misplaced words (always at the end or beginning of the reference segment) and removes them according to the PLSPP segments to minimize the impact of segmentation errors on WER.  
+This program attempts to detect misplaced words in the reference segments (always at the end or beginning of these segment) and removes them according to the PLSPP segments to minimize the impact of segmentation errors on WER.  
 
 It takes as input the name of the audio file we are working on (without the extension).  
 
