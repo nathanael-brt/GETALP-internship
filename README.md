@@ -39,6 +39,6 @@ One of PLSPP's primary features is measuring prosody and lexical stress (i.e., a
 
 ## Comparison of Models and Carbon Emissions
 
-Whisper is a tool trained on various models, some more resource-intensive than others. In theory, heavier models are expected to yield better results. This section aims to test this hypothesis while also calculating the CO2 emissions associated with each model, thereby evaluating the practicality of using heavier models in PLSPP.
+Whisper is a tool trained on various models, some more resource-intensive than others. In theory, heavier models are expected to yield better results. This section aims to test this hypothesis while also computing the CO2 emissions associated with each model, thereby evaluating the practicality of using heavier models in PLSPP.
 
 [See more](emissions/)
