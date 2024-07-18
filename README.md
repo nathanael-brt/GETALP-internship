@@ -27,7 +27,7 @@ Since the PLSPP pipeline relies on OpenAI's Whisper transcription tool, the init
 
 Following individual testing of the PLSPP base, the goal was to evaluate the entire pipeline and observe the impact of transcription quality on subsequent measurements.
 
-PLSPP transcribes audio recordings by segmenting them into smaller segments based on speaker identity. Transcription is conducted using WhisperX, but only for segments longer than 8 seconds. This segmentation approach may introduce contextual losses that could potentially impact speech transcription. Therefore, it is crucial to assess whether transcription quality is affected by these contextual losses by calculating the Word Error Rate (WER) of the text produced by PLSPP.
+PLSPP transcribes audio recordings by segmenting them (by speaker) into smaller segments. Transcription is conducted using WhisperX, but only for segments longer than 8 seconds. This segmentation approach may introduce contextual losses that could potentially impact speech transcription. Therefore, it is crucial to assess whether transcription quality is affected by these contextual losses by calculating the Word Error Rate (WER) of the text produced by PLSPP.
 
 [See more](PLSPP_WER/)
 
