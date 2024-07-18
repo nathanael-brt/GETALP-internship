@@ -2,7 +2,7 @@
 
 The goal here is to evaluate the impact of the quality of the transcription on the prosodic measures output of 3 different versions of PLSPP:   
 * PLSPP v1: the `pslpp.sh` script. Uses [WhisperX](https://github.com/m-bain/whisperX) for the transcription. 
-* PLSPP_MFA (PLSPP v2): the `pslpp_mfa.sh` script, version 2 of PLSPP using the MFA aligner to add a forced alignment step at the phoneme level. Syllabic prosodic features are extracted at the vowel level, rather than at the syllable nucleus level. In this version, word-level alignment is also performed by MFA. Still uses WhisperX for yhe transcription.
+* PLSPP_MFA (PLSPP v2): the `pslpp_mfa.sh` script, version 2 of PLSPP using the MFA aligner to add a forced alignment step at the phoneme level. Syllabic prosodic features are extracted at the vowel level, rather than at the syllable nucleus level. In this version, word-level alignment is also performed by MFA. Still uses WhisperX for the transcription.
 * PLSPP_MFA but we replace the transcription with the corrected text of the gold corpus.   
 
 We also want to compare these versions using the data the we obtained: 
