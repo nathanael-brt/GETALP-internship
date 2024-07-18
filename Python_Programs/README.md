@@ -46,6 +46,7 @@ speakern_name      text text text text text
 
 The WER is computed without taking into account punctuation and capital letters.  
 It uses this formula:  $`\text{WER} = \frac{\text{Substitutions} + \text{Insertions} + \text{Deletions}}{\text{total\_number\_of\_words}}`$  
+
 The algorithm uses the **Levenshtein distance method**.
 
 --------------------------------------------------------------------------------------------
