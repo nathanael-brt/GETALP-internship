@@ -43,7 +43,6 @@ If the script detects that the WER is too high (≥0.9), it considers there is a
 
 This script allows launching PLSPP_MFA but replaces the WhisperX step output with the text from the gold corpus to have a manual transcription instead of an automatic one.
 
-To work, it needs PLSPP to be installed in the *"../plspp/"* directory. It also needs [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text. 
-It also needs the `intervalles2wavAndtimetable.praat` script to be in the *"plspp/scripts"* directory.
+To work, it needs PLSPP to be installed in the *"../plspp/"* directory. It also needs [MFA](https://montreal-forced-aligner.readthedocs.io/) to align the text as well as the `intervalles2wavAndtimetable.praat` script to be in the *"plspp/scripts"* directory.
 
 It first creates and transfers the files necessary to PLSPP_MFA using [MFA_segmented_files.py](../Python_Programs/README.md#MFA_segmented_files) and then launches the pipeline without the transcription part.
