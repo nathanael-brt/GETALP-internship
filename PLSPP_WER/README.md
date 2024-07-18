@@ -1,6 +1,7 @@
 # Transcription from PLSPP and Computation of the WER
 
 The goal here is to evaluate the quality of the transcription given by PLSPP by computing its WER and comparing it with the WER of the transcription from Whisper.   
+
 PLSPP transcribes audio recordings by segmenting them (by speaker) into smaller segments. Transcription is conducted using [whisperX](https://github.com/m-bain/whisperX), but only for segments longer than 8 seconds. This segmentation approach may introduce contextual losses that could potentially impact speech transcription. Therefore, it is crucial to assess whether transcription quality is affected by these contextual losses by calculating the Word Error Rate (WER) of the text produced by PLSPP.
 
 ## Usage
