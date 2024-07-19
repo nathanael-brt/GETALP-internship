@@ -35,4 +35,13 @@ For PLSPP_MFA with the text from the gold corpus instead of using WhisperX for t
     python ProsodicData.py 2
     ```
 
+## Data Informations 
+Here is a description of what each folder contains:  
+* **Corpus_segmented** : Files representing all segments of the gold corpus to be used with MFA. One ile represents one line of the files in [PLSPP_WER/Corr_WER_format_segmented/](../PLSPP_WER/Corr_WER_format_segmented). Outputs of [MFA_segmented_files.py](../Python_Programs/README.md#MFA_segmented_files).  
+* **PLSPP_MFA_data** : Outputs of [ProsodicData.py](../Python_Programs/README.md#ProsodicData) using the data from PLSPP_MFA.  
+* **PLSPP_data** : Outputs of [ProsodicData.py](../Python_Programs/README.md#ProsodicData) using the data form PLSPP.  
+* **Ref_data** : Outputs of [ProsodicData.py](../Python_Programs/README.md#ProsodicData) using the data form PLSPP_MFA but with the transcription replaced by the text of the gold corpus.  
+* **Summaries** : Summaries of the data from the 3 precedent folder in form of global `.csv` tables.  
+* **Tables** : sressTable outputs from PLSPP.
+* **Total_data** : Outputs of [ProsodicData.py](../Python_Programs/README.md#ProsodicData). Total data tables. 
 
