@@ -21,4 +21,6 @@ It is important to precise that when we correct the transcription we mostly corr
     python WER.py <name_of_the_audio_file_without_ext> 0
     ```
 
+## Data Informations
 
+Whisper has been mostly used with the model *base*, except for 4 files (used for the [emissions computation](../emissions/)) which have been created with the model *medium* and are specified with the extension -medium in the name. 
