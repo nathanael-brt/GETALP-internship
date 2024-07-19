@@ -1,6 +1,8 @@
 # Transcription from Whisper and Computation of the WER
 
-The goal here is to transcribe audio files using Whisper, correct this transcription for any errors to build a *gold corpus* (a corpus that has been meticulously transcribed by hand and guaranteed to be accurate), and compute the Word Error Rate for each speaker. 
+The goal here is to transcribe audio files using Whisper, correct this transcription for any errors to build a *gold corpus* (a corpus that has been meticulously transcribed by hand and guaranteed to be accurate), and compute the Word Error Rate for each speaker.  
+
+It is important to precise that when we correct the transcription we mostly correct the text. The alignment has been rarely modified and we generally kept the one given by Whisper (even if it was not optimal).  
 
 ## Usage
 
